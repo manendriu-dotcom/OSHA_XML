@@ -1,0 +1,14 @@
+§ 1910.107 Spray finishing using flammable and combustible materials.
+(3) Adjacent system interlocked. Except as specifically provided in paragraph (j)(4) of this section, drying, curing, or fusion units utilizing a heating system having open flames or which may produce sparks shall not be installed in a spraying area, but may be installed adjacent thereto when equipped with an interlocked ventilating system arranged to:
+(i) Thoroughly ventilate the drying space before the heating system can be started;
+(ii) Maintain a safe atmosphere at any source of ignition;
+(iii) Automatically shut down the heating system in the event of failure of the ventilating system.
+(4) Alternate use permitted. Automobile refinishing spray booths or enclosures, otherwise installed and maintained in full conformity with this section, may alternately be used for drying with portable electrical infrared drying apparatus when conforming with the following:
+(i) Interior (especially floors) of spray enclosures shall be kept free of overspray deposits.
+(ii) During spray operations, the drying apparatus and electrical connections and wiring thereto shall not be located within spray enclosure nor in any other location where spray residues may be deposited thereon.
+(iii) The spraying apparatus, the drying apparatus, and the ventilating system of the spray enclosure shall be equipped with suitable interlocks so arranged that:
+( a ) The spraying apparatus cannot be operated while the drying apparatus is inside the spray enclosure.
+( b ) The spray enclosure will be purged of spray vapors for a period of not less than 3 minutes before the drying apparatus can be energized.
+( c ) The ventilating system will maintain a safe atmosphere within the enclosure during the drying process and the drying apparatus will automatically shut off in the event of failure of the ventilating system.
+(iv) All electrical wiring and equipment of the drying apparatus shall conform with the applicable sections of subpart S of this part. Only equipment of a type approved for Class I, Division 2 hazardous locations shall be located within 18 inches of floor level. All metallic parts of the drying apparatus shall be properly electrically bonded and grounded.
+(v) The drying apparatus shall contain a prominently located, permanently attached warning sign indicating that ventilation should be maintained during the drying period and that spraying should not be conducted in the vicinity that spray will deposit on apparatus.

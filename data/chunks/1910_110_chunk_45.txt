@@ -1,0 +1,11 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+(ii) Containers having a maximum water capacity of 2 1/2 pounds (nominal 1 pound LP-Gas capacity) are permitted to be used inside of buildings as part of approved self-contained hand torch assemblies or similar appliances.
+(iii) Containers having a maximum water capacity of 12 pounds (nominal 5 pounds LP-Gas capacity) are permitted to be used temporarily inside of buildings for public exhibition or demonstration purposes, including use for classroom demonstrations.
+(iv) [Reserved]
+(v) Containers are permitted to be used in buildings or structures under construction or undergoing major renovation when such buildings or structures are not occupied by the public, as follows:
+( a ) The maximum water capacity of individual containers shall be 245 pounds (nominal 100 pounds LP-Gas capacity).
+( b ) For temporary heating such as curing concrete, drying plaster and similar applications, heaters (other than integral heater-container units) shall be located at least 6 feet from any LP-Gas container. This shall not prohibit the use of heaters specifically designed for attachment to the container or to a supporting standard, provided they are designed and installed so as to prevent direct or radiant heat application from the heater onto the container. Blower and radiant type heaters shall not be directed toward any LP-Gas container within 20 feet.
+( c ) If two or more heater-container units, of either the integral or nonintegral type, are located in an unpartitioned area on the same floor, the container or containers of each unit shall be separated from the container or containers of any other unit by at least 20 feet.
+( d ) When heaters are connected to containers for use in an unpartitioned area on the same floor, the total water capacity of containers manifolded together for connection to a heater or heaters shall not be greater than 735 pounds (nominal 300 pounds LP-Gas capacity). Such manifolds shall be separated by at least 20 feet.
+( e ) On floors on which heaters are not connected for use, containers are permitted to be manifolded together for connection to a heater or heaters on another floor, Provided:
+( 1 ) The total water capacity of containers connected to any one manifold is not greater than 2,450 pounds (nominal 1,000 pounds LP-Gas capacity) and;

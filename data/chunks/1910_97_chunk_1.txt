@@ -1,0 +1,6 @@
+§ 1910.97 Nonionizing radiation.
+(ii) ANSI Z53.1-1967 or ANSI Z535.1-2006(R2011), incorporated by reference in § 1910.6, is for use for color specification. All lettering and the border shall be of aluminum color.
+(iii) The inclusion and choice of warning information or precautionary instructions is at the discretion of the user. If such information is included it shall appear in the lower triangle of the warning symbol.
+EC27OC91.024 Figure G-11—Radio-Frequency Radiation Hazard Warning Symbol
+(4) Scope. This section applies to all radiations originating from radio stations, radar equipment, and other possible sources of electromagnetic radiation such as used for communication, radio navigation, and industrial and scientific purposes. This section does not apply to the deliberate exposure of patients by, or under the direction of, practitioners of the healing arts.
+(b) [Reserved]

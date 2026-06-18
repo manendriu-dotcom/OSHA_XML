@@ -1,0 +1,18 @@
+§ 1910.181 Derricks.
+(4) Derricks not in regular use. (i) A derrick which has been idle for a period of 1 month or more, but less than 6 months, shall be given an inspection conforming with requirements of paragraph (d)(2) of this section and paragraph (g)(3) of this section before placing in service.
+(ii) A derrick which has been idle for a period of over 6 months shall be given a complete inspection conforming with requirements of paragraphs (d) (2) and (3) of this section and paragraph (g)(3) of this section before placing in service.
+(iii) Standby derricks shall be inspected at least semiannually in accordance with requirements of paragraph (d)(2) of this section and paragraph (g)(3) of this section.
+(e) Testing —(1) Operational tests. Prior to initial use all new and altered derricks shall be tested to insure compliance with this section including the following functions:
+(i) Load hoisting and lowering.
+(ii) Boom up and down.
+(iii) Swing.
+(iv) Operation of clutches and brakes of hoist.
+(2) Anchorages. All anchorages shall be approved by the appointed person. Rock and hairpin anchorages may require special testing.
+(f) Maintenance —(1) Preventive maintenance. A preventive maintenance program based on the derrick manufacturer's recommendations shall be established.
+(2) Maintenance procedure. (i) Before adjustments and repairs are started on a derrick the following precautions shall be taken:
+( a ) The derrick to be repaired shall be arranged so it will cause the least interference with other equipment and operations in the area.
+( b ) All hoist drum dogs shall be engaged.
+( c ) The main or emergency switch shall be locked in the open position, if an electric hoist is used.
+( d ) Warning or out of order signs shall be placed on the derrick and hoist.
+( e ) The repairs of booms of derricks shall either be made when the booms are lowered and adequately supported or safely tied off.
+( f ) A good communication system shall be set up between the hoist operator and the appointed individual in charge of derrick operations before any work on the equipment is started.

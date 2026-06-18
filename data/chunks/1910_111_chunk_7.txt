@@ -1,0 +1,9 @@
+§ 1910.111 Storage and handling of anhydrous ammonia.
+(vi) Excess flow and back pressure check valves where required by the standards in this section shall be located inside of the container or at a point outside as close as practicable to where the line enters the container. In the latter case installation shall be made in such manner that any undue strain beyond the excess flow or back pressure check valve will not cause breakage between the container and the valve.
+(vii) Excess flow valves shall be designed with a bypass, not to exceed a No. 60 drill-size opening to allow equalization of pressures.
+(viii) All excess flow valves shall be plainly and permanently marked with the name or trademark of the manufacturer, the catalog number, and the rated capacity.
+(7) Piping, tubing, and fittings. (i) All piping, tubing, and fittings shall be made of material suitable for anhydrous ammonia service.
+(ii) All piping, tubing, and fittings shall be designed for a pressure not less than the maximum pressure to which they may be subjected in service.
+(iii) All refrigerated piping shall conform to the Refrigeration Piping Code, American National Standards Institute, B31.5-1966 with addenda B31.1a-1968, which is incorporated by reference as specified in § 1910.6, as it applies to ammonia.
+(iv) Piping used on non-refrigerated systems shall be at least American Society for Testing and Materials (ASTM) A-53-69 Grade B Electric Resistance Welded and Electric Flash Welded Pipe, which is incorporated by reference as specified in § 1910.6, or equal. Such pipe shall be at least schedule 40 when joints are welded, or welded and flanged. Such pipe shall be at least schedule 80 when joints are threaded. Threaded connections shall not be back-welded. Brass, copper, or galvanized steel pipe shall not be used.
+(v) Tubing made of brass, copper, or other material subject to attack by ammonia shall not be used.

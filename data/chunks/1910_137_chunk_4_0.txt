@@ -1,0 +1,17 @@
+§ 1910.137 Electrical protective equipment.
+(c) In-service care and use of electrical protective equipment —(1) General. Electrical protective equipment shall be maintained in a safe, reliable condition.
+(2) Specific requirements. The following specific requirements apply to rubber insulating blankets, rubber insulating covers, rubber insulating line hose, rubber insulating gloves, and rubber insulating sleeves:
+(i) Maximum use voltages shall conform to those listed in Table I-4.
+(ii) Insulating equipment shall be inspected for damage before each day's use and immediately following any incident that can reasonably be suspected of causing damage. Insulating gloves shall be given an air test, along with the inspection.
+Note: Note to paragraph ( c )(2)( ii ): ASTM F1236-96 (2012), Standard Guide for Visual Inspection of Electrical Protective Rubber Products, presents methods and techniques for the visual inspection of electrical protective equipment made of rubber. This guide also contains descriptions and photographs of irregularities that can be found in this equipment.
+(iii) Insulating equipment with any of the following defects may not be used:
+(A) A hole, tear, puncture, or cut;
+(B) Ozone cutting or ozone checking (that is, a series of interlacing cracks produced by ozone on rubber under mechanical stress);
+(C) An embedded foreign object;
+(D) Any of the following texture changes: swelling, softening, hardening, or becoming sticky or inelastic.
+(E) Any other defect that damages the insulating properties.
+(iv) Insulating equipment found to have other defects that might affect its insulating properties shall be removed from service and returned for testing under paragraphs (c)(2)(viii) and (c)(2)(ix) of this section.
+(v) Insulating equipment shall be cleaned as needed to remove foreign substances.
+(vi) Insulating equipment shall be stored in such a location and in such a manner as to protect it from light, temperature extremes, excessive humidity, ozone, and other damaging substances and conditions.
+(vii) Protector gloves shall be worn over insulating gloves, except as follows:
+(A) Protector gloves need not be used with Class 0 gloves, under limited-use conditions, when small equipment and parts manipulation necessitate unusually high finger dexterity.

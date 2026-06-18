@@ -1,0 +1,16 @@
+§ 1910.179 Overhead and gantry cranes.
+(vi) Each independent hoisting unit of a crane handling hot metal and having power control braking means shall be equipped with at least two holding brakes.
+(3) Control braking means. (i) A power control braking means such as regenerative, dynamic or countertorque braking, or a mechanically controlled braking means shall be capable of maintaining safe lowering speeds of rated loads.
+(ii) The control braking means shall have ample thermal capacity for the frequency of operation required by service.
+(4) Brakes for trolleys and bridges. (i) Foot-operated brakes shall not require an applied force of more than 70 pounds to develop manufacturer's rated brake torque.
+(ii) Brakes may be applied by mechanical, electrical, pneumatic, hydraulic, or gravity means.
+(iii) Where necessary brakes shall be provided with adjustment means to compensate for wear.
+(iv) The wearing surface of all brakedrums or discs shall be smooth.
+(v) All foot-brake pedals shall be constructed so that the operator's foot will not easily slip off the pedal.
+(vi) Foot-operated brakes shall be equipped with automatic means for positive release when pressure is released from the pedal.
+(vii) Brakes for stopping the motion of the trolley or bridge shall be of sufficient size to stop the trolley or bridge within a distance in feet equal to 10 percent of full load speed in feet per minute when traveling at full speed with full load.
+(viii) If holding brakes are provided on the bridge or trolleys, they shall not prohibit the use of a drift point in the control circuit.
+(ix) Brakes on trolleys and bridges shall have ample thermal capacity for the frequency of operation required by the service to prevent impairment of functions from overheating.
+(5) Application of trolley brakes. (i) On cab-operated cranes with cab on trolley, a trolley brake shall be required as specified under paragraph (f)(4) of this section.
+(ii) A drag brake may be applied to hold the trolley in a desired position on the bridge and to eliminate creep with the power off.
+(6) Application of bridge brakes. (i) On cab-operated cranes with cab on bridge, a bridge brake is required as specified under paragraph (f)(4) of this section.

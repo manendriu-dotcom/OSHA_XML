@@ -1,0 +1,12 @@
+§ 1910.219 Mechanical power-transmission apparatus.
+( a ) If located over passageways or work places and traveling 1,800 feet or more per minute.
+( b ) If center to center distance between pulleys is ten (10) feet or more.
+( c ) If belt is eight (8) inches or more in width.
+(iii) Where the upper and lower runs of horizontal belts are so located that passage of persons between them would be possible, the passage shall be either:
+( a ) Completely barred by a guardrail or other barrier in accordance with paragraphs (m) and (o) of this section; or
+( b ) Where passage is regarded as necessary, there shall be a platform over the lower run guarded on either side by a railing completely filled in with wire mesh or other filler, or by a solid barrier. The upper run shall be so guarded as to prevent contact therewith either by the worker or by objects carried by him. In powerplants only the lower run of the belt need be guarded.
+(iv) Overhead chain and link belt drives are governed by the same rules as overhead horizontal belts and shall be guarded in the same manner as belts.
+(3) Vertical and inclined belts. (i) Vertical and inclined belts shall be enclosed by a guard conforming to standards in paragraphs (m) and (o) of this section.
+(ii) All guards for inclined belts shall be arranged in such a manner that a minimum clearance of seven (7) feet is maintained between belt and floor at any point outside of guard.
+(4) Vertical belts. Vertical belts running over a lower pulley more than seven (7) feet above floor or platform shall be guarded at the bottom in the same manner as horizontal overhead belts, if conditions are as stated in paragraphs (e)(2)(ii) ( a ) and ( c ) of this section.
+(5) Cone-pulley belts. (i) The cone belt and pulley shall be equipped with a belt shifter so constructed as to adequately guard the nip point of the belt and pulley. If the frame of the belt shifter does not adequately guard the nip point of the belt and pulley, the nip point shall be further protected by means of a vertical guard placed in front of the pulley and extending at least to the top of the largest step of the cone.

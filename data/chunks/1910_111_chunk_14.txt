@@ -1,0 +1,14 @@
+§ 1910.111 Storage and handling of anhydrous ammonia.
+(iv) The track of a tank car siding shall be substantially level.
+(v) Brakes shall be set and wheels blocked on all cars being unloaded.
+(14) Liquid-level gaging device. (i) Each container except those filled by weight shall be equipped with an approved liquid-level gaging device. A thermometer well shall be provided in all containers not utilizing a fixed liquid-level gaging device.
+(ii) All gaging devices shall be arranged so that the maximum liquid level to which the container is filled is readily determined.
+(iii) Gaging devices that require bleeding of the product to the atmosphere such as the rotary tube, fixed tube, and slip tube devices shall be designed so that the maximum opening of the bleed valve is not larger than No. 54 drill size unless provided with an excess flow valve. (This requirement does not apply to farm vehicles used for the application of ammonia as covered in paragraph (h) of this section.)
+(iv) Gaging devices shall have a design pressure equal to or greater than the design pressure of the container on which they are installed.
+(v) Fixed tube liquid-level gages shall be designed and installed to indicate that level at which the container is filled to 85 percent of its water capacity in gallons.
+(vi) Gage glasses of the columnar type shall be restricted to stationary storage installations. They shall be equipped with shutoff valves having metallic handwheels, with excess-flow valves, and with extra heavy glass adequately protected with a metal housing applied by the gage manufacturer. They shall be shielded against the direct rays of the sun.
+(15) [Reserved]
+(16) Electrical equipment and wiring. (i) Electrical equipment and wiring for use in ammonia installations shall be general purpose or weather resistant as appropriate.
+(ii) Electrical systems shall be installed and maintained in accordance with subpart S of this part.
+(c) Systems utilizing stationary, nonrefrigerated storage containers. This paragraph applies to stationary, nonrefrigerated storage installations utilizing containers other than those covered in paragraph (e) of this section. Paragraph (b) of this section applies to this paragraph unless otherwise noted.
+(1) Design pressure and construction of containers. The minimum design pressure for nonrefrigerated containers shall be 250 p.s.i.g.

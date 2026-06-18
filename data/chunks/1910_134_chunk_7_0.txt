@@ -1,0 +1,10 @@
+§ 1910.134 Respiratory protection.
+(ii) The employer shall select a NIOSH-certified respirator. The respirator shall be used in compliance with the conditions of its certification.
+(iii) The employer shall identify and evaluate the respiratory hazard(s) in the workplace; this evaluation shall include a reasonable estimate of employee exposures to respiratory hazard(s) and an identification of the contaminant's chemical state and physical form. Where the employer cannot identify or reasonably estimate the employee exposure, the employer shall consider the atmosphere to be IDLH.
+(iv) The employer shall select respirators from a sufficient number of respirator models and sizes so that the respirator is acceptable to, and correctly fits, the user.
+(2) Respirators for IDLH atmospheres. (i) The employer shall provide the following respirators for employee use in IDLH atmospheres:
+(A) A full facepiece pressure demand SCBA certified by NIOSH for a minimum service life of thirty minutes, or
+(B) A combination full facepiece pressure demand supplied-air respirator (SAR) with auxiliary self-contained air supply.
+(ii) Respirators provided only for escape from IDLH atmospheres shall be NIOSH-certified for escape from the atmosphere in which they will be used.
+(iii) All oxygen-deficient atmospheres shall be considered IDLH. Exception: If the employer demonstrates that, under all foreseeable conditions, the oxygen concentration can be maintained within the ranges specified in Table II of this section (i.e., for the altitudes set out in the table), then any atmosphere-supplying respirator may be used.
+(3) Respirators for atmospheres that are not IDLH. (i) The employer shall provide a respirator that is adequate to protect the health of the employee and ensure compliance with all other OSHA statutory and regulatory requirements, under routine and reasonably foreseeable emergency situations.

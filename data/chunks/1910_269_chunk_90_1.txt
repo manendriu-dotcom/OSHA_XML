@@ -1,0 +1,2 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+in which the employer uses fault currents, load currents, magnetizing currents, and line-dropping currents to test equipment, either at the equipment's rated voltage or at lower voltages. High-voltage tests. Tests in which the employer uses voltages of approximately 1,000 volts as a practical minimum and in which the voltage source has sufficient energy to cause injury. High wind. A wind of such velocity that one or more of the following hazards would be present:

@@ -1,0 +1,2 @@
+§ 1910.147 The control of hazardous energy (lockout/tagout).
+enforce compliance including, but not limited to, the following: (A) A specific statement of the intended use of the procedure; (B) Specific procedural steps for shutting down, isolating, blocking and securing machines or equipment to control hazardous energy; (C) Specific procedural steps for the placement, removal and transfer of lockout devices or tagout devices and the responsibility for them; and

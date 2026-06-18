@@ -1,0 +1,11 @@
+§ 1910.266 Logging operations.
+(j) Appendices. Appendices A and B of this section are mandatory. The information contained in appendix C of this section is informational and is not intended to create any additional obligations not otherwise imposed or to detract from existing regulations.
+Note: Note: In the Federal Register of August 9, 1995, OSHA extended the stay of the following paragraphs of § 1910.266 until September 8, 1995. The remaining requirements of § 1910.266, which became effective on February 9, 1995, are unaffected by the extension of the partial stay: 1. (d)(1)(v)—insofar as it requires foot protection to be chain-saw resistant. 2. (d)(1)(vii)—insofar as it required face protection. 3. (d)(2)(iii). 4. (f)(2)(iv). 5. (f)(2)(xi). 6. (f)(3)(ii). 7. (f)(3)(vii). 8. (f)(3)(viii). 9. (f)(7)(ii)—insofar as it requires parking brakes to be able to stop a moving machine. 10. (g)(1) and (g)(2) insofar as they require inspection and maintenance of employee-owned vehicles. 11. (h)(2)(vii)—insofar as it precludes backcuts at the level of the horizontal cut of the undercut when the Humboldt cutting method is used.
+
+SAE standard ISO standard Subject
+---------------------------------
+SAE J1040 ISO 3471-1 Performance Criteria for Rollover Protective Structures (ROPS) for Construction, Earthmoving, Forestry and Mining Machines.
+SAE J397 ISO 3164 Deflection Limiting Volume—ROPS/FOPS Laboratory Evaluation.
+SAE J231 ISO 3449 Minimum Performance Criteria for Falling Object Protective Structures (FOPS).
+SAE J386 ISO 6683 Operator Restraint Systems for Off-Road Work Machines.
+SAE J185 ISO 2897 Access Systems for Off-Road Machines.

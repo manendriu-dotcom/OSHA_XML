@@ -1,0 +1,15 @@
+§ 1910.179 Overhead and gantry cranes.
+(2) Ropes. (i) In using hoisting ropes, the crane manufacturer's recommendation shall be followed. The rated load divided by the number of parts of rope shall not exceed 20 percent of the nominal breaking strength of the rope.
+(ii) Socketing shall be done in the manner specified by the manufacturer of the assembly.
+(iii) Rope shall be secured to the drum as follows:
+( a ) No less than two wraps of rope shall remain on the drum when the hook is in its extreme low position.
+( b ) Rope end shall be anchored by a clamp securely attached to the drum, or by a socket arrangement approved by the crane or rope manufacturer.
+(iv) Eye splices. [Reserved]
+(v) Rope clips attached with U-bolts shall have the U-bolts on the dead or short end of the rope. Spacing and number of all types of clips shall be in accordance with the clip manufacturer's recommendation. Clips shall be drop-forged steel in all sizes manufactured commercially. When a newly installed rope has been in operation for an hour, all nuts on the clip bolts shall be retightened.
+(vi) Swaged or compressed fittings shall be applied as recommended by the rope or crane manufacturer.
+(vii) Wherever exposed to temperatures, at which fiber cores would be damaged, rope having an independent wirerope or wire-strand core, or other temperature-damage resistant core shall be used.
+(viii) Replacement rope shall be the same size, grade, and construction as the original rope furnished by the crane manufacturer, unless otherwise recommended by a wire rope manufacturer due to actual working condition requirements.
+(3) Equalizers. If a load is supported by more than one part of rope, the tension in the parts shall be equalized.
+(4) Hooks. Hooks shall meet the manufacturer's recommendations and shall not be overloaded.
+(i) Warning device. Except for floor-operated cranes a gong or other effective warning signal shall be provided for each crane equipped with a power traveling mechanism.
+(j) Inspection —(1) Inspection classification —(i) Initial inspection. Prior to initial use all new and altered cranes shall be inspected to insure compliance with the provisions of this section.

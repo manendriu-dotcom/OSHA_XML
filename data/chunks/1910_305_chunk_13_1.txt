@@ -1,0 +1,2 @@
+§ 1910.305 Wiring methods, components, and equipment for general use.
+short-circuits or ground faults. These provisions do not require overload protection that will stop a motor where a shutdown is likely to introduce additional or increased hazards, as in the case of fire pumps, or where continued operation of a motor is necessary for a safe shutdown of equipment or process and motor overload sensing devices are connected to a supervised alarm.

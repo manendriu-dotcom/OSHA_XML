@@ -1,0 +1,2 @@
+§ 1910.306 Specific purpose equipment and installations.
+circuit supplies only one piece of equipment. (2) Remote control. (i) If remote controls are used for applying power, a selector switch shall be provided and interlocked to provide power from only one control point at a time. (ii) Switches operated by foot pressure shall be provided with a shield over the contact button to avoid accidental closing of the switch.

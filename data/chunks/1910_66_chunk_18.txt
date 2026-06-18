@@ -1,0 +1,11 @@
+§ 1910.66 Powered platforms for building maintenance.
+( 3 ) The midrail shall be able to withstand at least a 75-pound (333 n) force in any downward or outward direction; and
+( 4 ) The areas between the guardrail and toeboard on the ends and outboard side, and the area between the midrail and toeboard on the inboard side, shall be closed with a material that is capable of withstanding a load of 100 pounds (45.4 KG.) applied horizontally over any area of one square foot (.09 m 2 ). The material shall have all openings small enough to reject passage of life lines and potential falling objects which may be hazardous to persons below.
+( 5 ) Toeboards shall be capable of withstanding, without failure, a force of at least 50 pounds (222 n) applied in any downward or horizontal direction at any point along the toeboard.
+( 6 ) Toeboards shall be three and one-half inches (9 cm) minimum in length from their top edge to the level of the platform floor.
+( 7 ) Toeboards shall be securely fastened in place at the outermost edge of the platform and have no more than one-half inch (1.3 cm) clearance above the platform floor.
+( 8 ) Toeboards shall be solid or with an opening not over one inch (2.5 cm) in the greatest dimension.
+(ii) Two and four-point suspended working platforms. (A) The working platform shall be not less than 24 inches (610 mm) wide and shall be provided with a minimum of a 12 inch (305 mm) wide passage at or past any obstruction on the platform.
+(B) The flooring shall be of a slip-resistant type and shall contain no opening that would allow the passage of life lines, cables and other potential falling objects. If a larger opening is provided, it shall be protected by placing a material under the opening which shall prevent the passage of life lines, cables and potential falling objects.
+(C) The working platfrom shall be provided with a means of suspension that will restrict the platform's inboard to outboard roll about its longitudinal axis to a maximum of 15 degrees from a horizontal plane when moving the live load from the inboard to the outboard side of the platform.
+(D) Any cable suspended from above the platform shall be provided with a means for storage to prevent accumulation of the cable on the floor of the platform.

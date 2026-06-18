@@ -1,0 +1,5 @@
+§ 1910.303 General.
+(A) The lighting outlets shall be arranged so that persons changing lamps or making repairs on the lighting system will not be endangered by live parts or other equipment.
+(B) The points of control shall be located so that persons are prevented from contacting any live part or moving part of the equipment while turning on the lights.
+(v) Unguarded live parts above working space shall be maintained at elevations not less than specified in Table S-3.
+(vi) Pipes or ducts that are foreign to the electrical installation and that require periodic maintenance or whose malfunction would endanger the operation of the electrical system may not be located in the vicinity of service equipment, metal-enclosed power switchgear, or industrial control assemblies. Protection shall be provided where necessary to avoid damage from condensation leaks and breaks in such foreign systems.

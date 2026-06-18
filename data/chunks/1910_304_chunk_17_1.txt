@@ -1,0 +1,2 @@
+§ 1910.304 Wiring design and protection.
+materials; and ( 3 ) Enclosures are guarded against employee contact. (ii) Metal enclosures for service equipment shall be grounded. (iii) Frames of electric ranges, wall-mounted ovens, counter-mounted cooking units, clothes dryers, and metal outlet or junction boxes that are part of the circuit for these appliances shall be grounded.

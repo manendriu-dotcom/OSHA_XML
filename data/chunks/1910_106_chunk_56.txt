@@ -1,0 +1,11 @@
+§ 1910.106 Flammable liquids.
+( b ) Aboveground tanks, located in an adjoining bulk plant, may be connected by piping to service station underground tanks if, in addition to valves at aboveground tanks, a valve is also installed within control of service station personnel.
+( c ) Apparatus dispensing Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C), into the fuel tanks of motor vehicles of the public shall not be located at a bulk plant unless separated by a fence or similar barrier from the area in which bulk operations are conducted.
+( d ) [Reserved]
+( e ) The provisions of paragraph (g)(1)(i)( a ) of this section shall not prohibit the dispensing of flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C) in the open from a tank vehicle to a motor vehicle. Such dispensing shall be permitted provided:
+( 1 ) The tank vehicle complies with the requirements covered in the Standard on Tank Vehicles for Flammable Liquids, NFPA 385-1966.
+( 2 ) The dispensing is done on premises not open to the public.
+( 3 ) [Reserved]
+( 4 ) The dispensing hose does not exceed 50 feet in length.
+( 5 ) The dispensing nozzle is a listed automatic-closing type without a latchopen device.
+( f ) Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C), shall not be stored or handled within a building having a basement or pit into which flammable vapors may travel, unless such area is provided with ventilation designed to prevent the accumulation of flammable vapors therein.

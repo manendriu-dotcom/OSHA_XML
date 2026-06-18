@@ -1,0 +1,15 @@
+§ 1910.140 Personal fall protection systems.
+(i) Automatic-locking type (permitted) with a self-closing and self-locking gate that remains closed and locked until intentionally unlocked and opened for connection or disconnection; and
+(ii) Non-locking type (prohibited) with a self-closing gate that remains closed, but not locked, until intentionally opened for connection or disconnection.
+Travel restraint (tether) line means a rope or wire rope used to transfer forces from a body support to an anchorage or anchorage connector in a travel restraint system.
+Travel restraint system means a combination of an anchorage, anchorage connector, lanyard (or other means of connection), and body support that an employer uses to eliminate the possibility of an employee going over the edge of a walking-working surface.
+Window cleaner's belt means a positioning belt that consists of a waist belt, an integral terminal runner or strap, and belt terminals.
+Window cleaner's belt anchor (window anchor) means specifically designed fall-preventing attachment points permanently affixed to a window frame or to a building part immediately adjacent to the window frame, for direct attachment of the terminal portion of a window cleaner's belt.
+Window cleaner's positioning system means a system which consists of a window cleaner's belt secured to window anchors.
+Work-positioning system (see Positioning system in this paragraph (b)).
+(c) General requirements. The employer must ensure that personal fall protection systems meet the following requirements. Additional requirements for personal fall arrest systems and positioning systems are contained in paragraphs (d) and (e) of this section, respectively.
+(1) Connectors must be drop forged, pressed or formed steel, or made of equivalent materials.
+(2) Connectors must have a corrosion-resistant finish, and all surfaces and edges must be smooth to prevent damage to interfacing parts of the system.
+(3) When vertical lifelines are used, each employee must be attached to a separate lifeline.
+(4) Lanyards and vertical lifelines must have a minimum breaking strength of 5,000 pounds (22.2 kN).
+(5) Self-retracting lifelines and lanyards that automatically limit free fall distance to 2 feet (0.61 m) or less must have components capable of sustaining a minimum tensile load of 3,000 pounds (13.3 kN) applied to the device with the lifeline or lanyard in the fully extended position.

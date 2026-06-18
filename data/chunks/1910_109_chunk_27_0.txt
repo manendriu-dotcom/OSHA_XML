@@ -1,0 +1,14 @@
+§ 1910.109 Explosives and blasting agents.
+(h) Water gel (Slurry) explosives and blasting agents —(1) General provisions. Unless otherwise set forth in this paragraph, water gels shall be transported, stored and used in the same manner as explosives or blasting agents in accordance with the classification of the product.
+(2) Types and classifications. (i) Water gels containing a substance in itself classified as an explosive shall be classified as an explosive and manufactured, transported, stored, and used as specified for "explosives" in this section, except as noted in subdivision (iv) of this subparagraph.
+(ii) Water gels containing no substance in itself classified as an explosive and which are cap-sensitive as defined in paragraph (a) of this section under Blasting Agent shall be classified as an explosive and manufactured, transported, stored and used as specified for "explosives" in this section.
+(iii) Water gels containing no substance in itself classified as an explosive and which are not cap-sensitive as defined in paragraph (a) of this section under Blasting Agent shall be classified as blasting agents and manufactured, transported, stored, and used as specified for "blasting agents" in this section.
+(iv) When tests on specific formulations of water gels result in Department of Transportation classification as a Class B explosive, bullet-resistant magazines are not required, see paragraph (c)(2)(ii) of this section.
+(3) Fixed location mixing.
+(i) [Reserved]
+(ii) Buildings used for the mixing of water gels shall conform to the requirements of this subdivision.
+( a ) Buildings shall be of noncombustible construction or sheet metal on wood studs.
+( b ) Floors in a mixing plant shall be of concrete or of other nonabsorbent materials.
+( c ) Where fuel oil is used all fuel oil storage facilities shall be separated from the mixing plant and located in such a manner that in case of tank rupture, the oil will drain away from the mixing plant building.
+( d ) The building shall be well ventilated.
+( e ) Heating units that do not depend on combustion processes, when properly designed and located, may be used in the building. All direct sources of heat shall be provided exclusively from units located outside of the mixing building.

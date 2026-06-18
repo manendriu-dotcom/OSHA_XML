@@ -1,0 +1,7 @@
+§ 1910.136 Foot protection.
+(a) General requirements. The employer shall ensure that each affected employee uses protective footwear when working in areas where there is a danger of foot injuries due to falling or rolling objects, or objects piercing the sole, or when the use of protective footwear will protect the affected employee from an electrical hazard, such as a static-discharge or electric-shock hazard, that remains after the employer takes other necessary protective measures.
+(b) Criteria for protective footwear. (1) Protective footwear must comply with any of the following consensus standards:
+(i) ASTM F-2412-2005, "Standard Test Methods for Foot Protection," and ASTM F-2413-2005, "Standard Specification for Performance Requirements for Protective Footwear," which are incorporated by reference in § 1910.6;
+(ii) ANSI Z41-1999, "American National Standard for Personal Protection—Protective Footwear," which is incorporated by reference in § 1910.6; or
+(iii) ANSI Z41-1991, "American National Standard for Personal Protection—Protective Footwear," which is incorporated by reference in § 1910.6.
+(2) Protective footwear that the employer demonstrates is at least as effective as protective footwear that is constructed in accordance with one of the above consensus standards will be deemed to be in compliance with the requirements of this section.

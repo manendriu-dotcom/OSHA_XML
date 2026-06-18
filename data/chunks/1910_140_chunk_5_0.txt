@@ -1,0 +1,14 @@
+§ 1910.140 Personal fall protection systems.
+(ii) Is part of a complete personal fall arrest system that maintains a safety factor of at least two.
+(12) Anchorages used to attach to personal fall protection equipment must be independent of any anchorage used to suspend employees or platforms on which employees work. Anchorages used to attach to personal fall protection equipment on mobile work platforms on powered industrial trucks must be attached to an overhead member of the platform, at a point located above and near the center of the platform.
+(13) Anchorages, except window cleaners' belt anchors covered by paragraph (e) of this section, must be:
+(i) Capable of supporting at least 5,000 pounds (22.2 kN) for each employee attached; or
+(ii) Designed, installed, and used, under the supervision of qualified person, as part of a complete personal fall protection system that maintains a safety factor of at least two.
+(14) Travel restraint lines must be capable of sustaining a tensile load of at least 5,000 pounds (22.2 kN).
+(15) Lifelines must not be made of natural fiber rope. Polypropylene rope must contain an ultraviolet (UV) light inhibitor.
+(16) Personal fall protection systems and their components must be used exclusively for employee fall protection and not for any other purpose, such as hoisting equipment or materials.
+(17) A personal fall protection system or its components subjected to impact loading must be removed from service immediately and not used again until a competent person inspects the system or components and determines that it is not damaged and safe for use for employee personal fall protection.
+(18) Personal fall protection systems must be inspected before initial use during each workshift for mildew, wear, damage, and other deterioration, and defective components must be removed from service.
+(19) Ropes, belts, lanyards, and harnesses used for personal fall protection must be compatible with all connectors used.
+(20) Ropes, belts, lanyards, lifelines, and harnesses used for personal fall protection must be protected from being cut, abraded, melted, or otherwise damaged.
+(21) The employer must provide for prompt rescue of each employee in the event of a fall.

@@ -1,0 +1,18 @@
+§ 1910.181 Derricks.
+(vi) Severe kinking, crushing, cutting, or unstranding.
+(2) Limited travel ropes. Heavy wear and/or broken wires may occur in sections in contact with equalizer sheaves or other sheaves where rope travel is limited, or with saddles. Particular care shall be taken to inspect ropes at these locations.
+(3) Idle ropes. All rope which has been idle for a period of a month or more due to shutdown or storage of a derrick on which it is installed shall be given a thorough inspection before it is used. This inspection shall be for all types of deterioration. A certification record shall be prepared and kept readily available which includes the date of inspection, the signature of the person who performed the inspection, and an identifier for the ropes which were inspected.
+(4) Nonrotating ropes. Particular care shall be taken in the inspection of nonrotating rope.
+(h) Operations of derricks. Derrick operations shall be directed only by the individual specifically designated for that purpose.
+(i) Handling the load —(1) Size of load. (i) No derrick shall be loaded beyond the rated load.
+(ii) When loads approach the maximum rating of the derrick, it shall be ascertained that the weight of the load has been determined within plus or minus 10 percent before it is lifted.
+(2) Attaching the load. (i) The hoist rope shall not be wrapped around the load.
+(ii) The load shall be attached to the hook by means of slings or other suitable devices.
+(3) Moving the load. (i) The load shall be well secured and properly balanced in the sling or lifting device before it is lifted more than a few inches.
+(ii) Before starting to hoist, the following conditions shall be noted:
+( a ) Hoist rope shall not be kinked.
+( b ) Multiple part lines shall not be twisted around each other.
+( c ) The hook shall be brought over the load in such a manner as to prevent swinging.
+(iii) During hoisting, care shall be taken that:
+( a ) There is no sudden acceleration or deceleration of the moving load.
+( b ) Load does not contact any obstructions.

@@ -1,0 +1,11 @@
+§ 1910.304 Wiring design and protection.
+§ 1910.304 Wiring design and protection.
+(a) Use and identification of grounded and grounding conductors —(1) Identification of conductors. (i) A conductor used as a grounded conductor shall be identifiable and distinguishable from all other conductors.
+(ii) A conductor used as an equipment grounding conductor shall be identifiable and distinguishable from all other conductors.
+(2) Polarity of connections. No grounded conductor may be attached to any terminal or lead so as to reverse designated polarity.
+(3) Use of grounding terminals and devices. A grounding terminal or grounding-type device on a receptacle, cord connector, or attachment plug may not be used for purposes other than grounding.
+(b) Branch circuits —(1) Identification of multiwire branch circuits. Where more than one nominal voltage system exists in a building containing multiwire branch circuits, each ungrounded conductor of a multiwire branch circuit, where accessible, shall be identified by phase and system. The means of identification shall be permanently posted at each branch-circuit panelboard.
+(2) Receptacles and cord connectors. (i) Receptacles installed on 15- and 20-ampere branch circuits shall be of the grounding type except as permitted for replacement receptacles in paragraph (b)(2)(iv) of this section. Grounding-type receptacles shall be installed only on circuits of the voltage class and current for which they are rated, except as provided in Table S-4 and Table S-5.
+(ii) Receptacles and cord connectors having grounding contacts shall have those contacts effectively grounded except for receptacles mounted on portable and vehicle-mounted generators in accordance with paragraph (g)(3) of this section and replacement receptacles installed in accordance with paragraph (b)(2)(iv) of this section.
+(iii) The grounding contacts of receptacles and cord connectors shall be grounded by connection to the equipment grounding conductor of the circuit supplying the receptacle or cord connector. The branch circuit wiring method shall include or provide an equipment grounding conductor to which the grounding contacts of the receptacle or cord connector shall be connected.
+(iv) Replacement of receptacles shall comply with the following requirements:

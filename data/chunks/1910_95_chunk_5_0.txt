@@ -1,0 +1,14 @@
+§ 1910.95 Occupational noise exposure.
+(4) Audiometric examinations shall be administered in a room meeting the requirements listed in appendix D: Audiometric Test Rooms.
+(5) Audiometer calibration. (i) The functional operation of the audiometer shall be checked before each day's use by testing a person with known, stable hearing thresholds, and by listening to the audiometer's output to make sure that the output is free from distorted or unwanted sounds. Deviations of 10 decibels or greater require an acoustic calibration.
+(ii) Audiometer calibration shall be checked acoustically at least annually in accordance with appendix E: Acoustic Calibration of Audiometers. Test frequencies below 500 Hz and above 6000 Hz may be omitted from this check. Deviations of 15 decibels or greater require an exhaustive calibration.
+(iii) An exhaustive calibration shall be performed at least every two years in accordance with sections 4.1.2; 4.1.3.; 4.1.4.3; 4.2; 4.4.1; 4.4.2; 4.4.3; and 4.5 of the American National Standard Specification for Audiometers, S3.6-1969. Test frequencies below 500 Hz and above 6000 Hz may be omitted from this calibration.
+(i) Hearing protectors. (1) Employers shall make hearing protectors available to all employees exposed to an 8-hour time-weighted average of 85 decibels or greater at no cost to the employees. Hearing protectors shall be replaced as necessary.
+(2) Employers shall ensure that hearing protectors are worn:
+(i) By an employee who is required by paragraph (b)(1) of this section to wear personal protective equipment; and
+(ii) By any employee who is exposed to an 8-hour time-weighted average of 85 decibels or greater, and who:
+(A) Has not yet had a baseline audiogram established pursuant to paragraph (g)(5)(ii); or
+(B) Has experienced a standard threshold shift.
+(3) Employees shall be given the opportunity to select their hearing protectors from a variety of suitable hearing protectors provided by the employer.
+(4) The employer shall provide training in the use and care of all hearing protectors provided to employees.
+(5) The employer shall ensure proper initial fitting and supervise the correct use of all hearing protectors.

@@ -1,0 +1,14 @@
+§ 1910.104 Oxygen.
+(iv) Elevation. When locating bulk oxygen systems near above-ground flammable or combustible liquid storage which may be either indoors or outdoors, it is advisable to locate the system on ground higher than the flammable or combustible liquid storage.
+(v) Dikes. Where it is necessary to locate a bulk oxygen system on ground lower than adjacent flammable or combustible liquid storage suitable means shall be taken (such as by diking, diversion curbs, or grading) with respect to the adjacent flammable or combustible liquid storage to prevent accumulation of liquids under the bulk oxygen system.
+(3) Distance between systems and exposures —(i) General. The minimum distance from any bulk oxygen storage container to exposures, measured in the most direct line except as indicated in paragraphs (b)(3) (vi) and (viii) of this section, shall be as indicated in paragraphs (b)(3) (ii) to (xviii) of this section inclusive.
+(ii) Combustible structures. Fifty feet from any combustible structures.
+(iii) Fire resistive structures. Twenty-five feet from any structures with fire-resistive exterior walls or sprinklered buildings of other construction, but not less than one-half the height of adjacent side wall of the structure.
+(iv) Openings. At least 10 feet from any opening in adjacent walls of fire resistive structures. Spacing from such structures shall be adequate to permit maintenance, but shall not be less than 1 foot.
+(v) Flammable liquid storage above-ground.
+
+Distance (feet) Capacity (gallons)
+----------------------------------
+50 0 to 1000.
+90 1001 or more.
+

@@ -1,0 +1,11 @@
+§ 1910.111 Storage and handling of anhydrous ammonia.
+(iv) Underground containers shall be set on a firm foundation (firm earth may be used) and surrounded with earth or sand well tamped in place. The container, prior to being placed under ground, shall be given a corrosion resisting protective coating. The container thus coated shall be so lowered into place as to prevent abrasion or other damage to the coating.
+(v) Containers with foundations attached (portable or semiportable tank containers with suitable steel "runners" or "skids" and commonly known in the industry as "skid tanks") shall be designed and constructed in accordance with paragraph (c)(1) of this section.
+(vi) Secure anchorage or adequate pier height shall be provided against container flotation wherever sufficiently high flood water might occur.
+(vii) The distance between underground containers of over 2,000 gallons capacity shall be at least 5 feet.
+(6) Protection of appurtenances. (i) Valves, regulating, gaging, and other appurtenances shall be protected against tampering and physical damage. Such appurtenances shall also be protected during transit of containers.
+(ii) All connections to underground containers shall be located within a dome, housing, or manhole and with access thereto by means of a substantial cover.
+(7) Damage from vehicles. Precaution shall be taken against damage to ammonia systems from vehicles.
+(d) Refrigerated storage systems. This paragraph applies to systems utilizing containers with the storage of anhydrous ammonia under refrigerated conditions. All applicable rules of paragraph (b) of this section apply to this paragraph unless otherwise noted.
+(1) Design of containers. (i) The design temperature shall be the minimum temperature to which the container will be refrigerated.
+(ii) Containers with a design pressure exceeding 15 p.s.i.g. shall be constructed in accordance with paragraph (b)(2) of this section, and the materials shall be selected from those listed in API Standard 620, Recommended Rules for Design and Construction of Large, Welded, Low-Pressure Storage Tanks, Fourth Edition, 1970, Tables 2.02, R2.2, R2.2(A), R2.2.1, or R2.3 which are incorporated by reference as specified in § 1910.6.

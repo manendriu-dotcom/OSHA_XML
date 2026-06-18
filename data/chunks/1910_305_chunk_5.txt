@@ -1,0 +1,12 @@
+§ 1910.305 Wiring methods, components, and equipment for general use.
+(iii) Where cable is used, each cable shall be secured to the cabinet, cutout box, or meter socket enclosure. However, where cable with an entirely nonmetallic sheath enters the top of a surface-mounted enclosure through one or more nonflexible raceways not less than 457 mm (18 in.) or more than 3.05 m (10.0 ft) in length, the cable need not be secured to the cabinet, box, or enclosure provided all of the following conditions are met:
+(A) Each cable is fastened within 305 mm (12 in.) of the outer end of the raceway, measured along the sheath;
+(B) The raceway extends directly above the enclosure and does not penetrate a structural ceiling;
+(C) A fitting is provided on each end of the raceway to protect the cable from abrasion, and the fittings remain accessible after installation;
+(D) The raceway is sealed or plugged at the outer end using approved means so as to prevent access to the enclosure through the raceway;
+(E) The cable sheath is continuous through the raceway and extends into the enclosure not less than 6.35 mm (0.25 in.) beyond the fitting;
+(F) The raceway is fastened at its outer end and at other points as necessary; and
+(G) Where installed as conduit or tubing, the allowable cable fill does not exceed that permitted for complete conduit or tubing systems.
+(2) Covers and canopies. (i) All pull boxes, junction boxes, and fittings shall be provided with covers identified for the purpose. If metal covers are used, they shall be grounded. In completed installations, each outlet box shall have a cover, faceplate, or fixture canopy. Covers of outlet boxes having holes through which flexible cord pendants pass shall be provided with bushings designed for the purpose or shall have smooth, well-rounded surfaces on which the cords may bear.
+(ii) Where a fixture canopy or pan is used, any combustible wall or ceiling finish exposed between the edge of the canopy or pan and the outlet box shall be covered with noncombustible material.
+(3) Pull and junction boxes for systems over 600 volts, nominal. In addition to other requirements in this section, the following requirements apply to pull and junction boxes for systems over 600 volts, nominal:

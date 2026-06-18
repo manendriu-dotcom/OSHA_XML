@@ -1,0 +1,10 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+Note: Note to paragraph ( l )(3)( ii ): See appendix B to this section for information on how to calculate the maximum anticipated per-unit transient overvoltage, phase-to-ground, when the employer uses portable protective gaps to reduce maximum transient overvoltages.
+(iii) The employer shall ensure that no employee approaches or takes any conductive object closer to exposed energized parts than the employer's established minimum approach distance, unless:
+(A) The employee is insulated from the energized part (rubber insulating gloves or rubber insulating gloves and sleeves worn in accordance with paragraph (l)(4) of this section constitutes insulation of the employee from the energized part upon which the employee is working provided that the employee has control of the part in a manner sufficient to prevent exposure to uninsulated portions of the employee's body), or
+(B) The energized part is insulated from the employee and from any other conductive object at a different potential, or
+(C) The employee is insulated from any other exposed conductive object in accordance with the requirements for live-line barehand work in paragraph (q)(3) of this section.
+(4) Type of insulation. (i) When an employee uses rubber insulating gloves as insulation from energized parts (under paragraph (l)(3)(iii)(A) of this section), the employer shall ensure that the employee also uses rubber insulating sleeves. However, an employee need not use rubber insulating sleeves if:
+(A) Exposed energized parts on which the employee is not working are insulated from the employee; and
+(B) When installing insulation for purposes of paragraph (l)(4)(i)(A) of this section, the employee installs the insulation from a position that does not expose his or her upper arm to contact with other energized parts.
+(ii) When an employee uses rubber insulating gloves or rubber insulating gloves and sleeves as insulation from energized parts (under paragraph (l)(3)(iii)(A) of this section), the employer shall ensure that the employee:

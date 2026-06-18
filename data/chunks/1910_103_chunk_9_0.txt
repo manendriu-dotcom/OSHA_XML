@@ -1,0 +1,12 @@
+§ 1910.103 Hydrogen.
+(vi) Equipment assembly. ( a ) Valves, gauges, regulators, and other accessories shall be suitable for liquefied hydrogen service and for the pressures and temperatures involved.
+( b ) Installation of liquefied hydrogen systems shall be supervised by personnel familiar with proper practices and with reference to their construction and use.
+( c ) Storage containers, piping, valves, regulating equipment, and other accessories shall be readily accessible and shall be protected against physical damage and against tampering. A shutoff valve shall be located in liquid product withdrawal lines as close to the container as practical. On containers of over 2,000 gallons capacity, this shutoff valve shall be of the remote control type with no connections, flanges, or other appurtenances (other than a welded manual shutoff valve) allowed in the piping between the shutoff valve and its connection to the inner container.
+( d ) Cabinets or housings containing hydrogen control equipment shall be ventilated to prevent any accumulation of hydrogen gas.
+(vii) Testing. ( a ) After installation, all field-erected piping shall be tested and proved hydrogen gas-tight at operating pressure and temperature.
+( b ) Containers if out of service in excess of 1 year shall be inspected and tested as outlined in ( a ) of this subdivision. The safety relief devices shall be checked to determine if they are operable and properly set.
+(viii) Liquefied hydrogen vaporizers. ( a ) The vaporizer shall be anchored and its connecting piping shall be sufficiently flexible to provide for the effect of expansion and contraction due to temperature changes.
+( b ) The vaporizer and its piping shall be adequately protected on the hydrogen and heating media sections with safety relief devices.
+( c ) Heat used in a liquefied hydrogen vaporizer shall be indirectly supplied utilizing media such as air, steam, water, or water solutions.
+( d ) A low temperature shutoff switch shall be provided in the vaporizer discharge piping to prevent flow of liquefied hydrogen in the event of the loss of the heat source.
+(ix) Electrical systems. ( a ) Electrical wiring and equipment located within 3 feet of a point where connections are regularly made and disconnected, shall be in accordance with subpart S of this part, for Class I, Group B, Division 1 locations.

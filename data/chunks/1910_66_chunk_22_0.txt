@@ -1,0 +1,20 @@
+§ 1910.66 Powered platforms for building maintenance.
+(v) No more than one reverse bend in six wire rope lays shall be permitted.
+(vi) A corrosion-resistant tag shall be securely attached to one of the wire rope fastenings when a suspension wire rope is to be used at a specific location and will remain in that location. This tag shall bear the following wire rope data:
+(A) The diameter (inches and/or mm);
+(B) Construction classification;
+(C) Whether non-preformed or preformed;
+(D) The grade of material;
+(E) The manufacturer's rated strength;
+(F) The manufacturer's name;
+(G) The month and year the ropes were installed; and
+(H) The name of the person or company which installed the ropes.
+(vii) A new tag shall be installed at each rope renewal.
+(viii) The original tag shall be stamped with the date of the resocketing, or the original tag shall be retained and a supplemental tag shall be provided when ropes are resocketed. The supplemental tag shall show the date of resocketing and the name of the person or company that resocketed the rope.
+(ix) Winding drum type hoists shall contain at least three wraps of the suspension wire rope on the drum when the suspended unit has reached the lowest possible point of its vertical travel.
+(x) Traction drum and sheave type hoists shall be provided with a wire rope of sufficient length to reach the lowest possible point of vertical travel of the suspended unit, and an additional length of the wire rope of at least four feet (1.2 m).
+(xi) The lengthening or repairing of suspension wire ropes is prohibited.
+(xii) Babbitted fastenings for suspension wire rope are prohibited.
+(8) Control circuits, power circuits and their components. (i) Electrical wiring and equipment shall comply with subpart S of this part, except as otherwise required by this section.
+(ii) Electrical runway conductor systems shall be of a type designed for use in exterior locations, and shall be located so that they do not come into contact with accumulated snow or water.
+(iii) Cables shall be protected against damage resulting from overtensioning or from other causes.

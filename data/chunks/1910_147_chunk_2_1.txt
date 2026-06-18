@@ -1,0 +1,2 @@
+§ 1910.147 The control of hazardous energy (lockout/tagout).
+petrochemical distribution systems. Lockout. The placement of a lockout device on an energy isolating device, in accordance with an established procedure, ensuring that the energy isolating device and the equipment being controlled cannot be operated until the lockout device is removed. Lockout device. A device that utilizes a positive means such as a lock, either key or combination type, to hold an energy isolating

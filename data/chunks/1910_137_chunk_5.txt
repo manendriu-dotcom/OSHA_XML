@@ -1,0 +1,12 @@
+§ 1910.137 Electrical protective equipment.
+(v) Insulating equipment shall be cleaned as needed to remove foreign substances.
+(vi) Insulating equipment shall be stored in such a location and in such a manner as to protect it from light, temperature extremes, excessive humidity, ozone, and other damaging substances and conditions.
+(vii) Protector gloves shall be worn over insulating gloves, except as follows:
+(A) Protector gloves need not be used with Class 0 gloves, under limited-use conditions, when small equipment and parts manipulation necessitate unusually high finger dexterity.
+Note: Note to paragraph ( c )(2)( vii )(A): Persons inspecting rubber insulating gloves used under these conditions need to take extra care in visually examining them. Employees using rubber insulating gloves under these conditions need to take extra care to avoid handling sharp objects.
+(B) If the voltage does not exceed 250 volts, ac, or 375 volts, dc, protector gloves need not be used with Class 00 gloves, under limited-use conditions, when small equipment and parts manipulation necessitate unusually high finger dexterity.
+Note: Note to paragraph ( c )(2)( vii )(B): Persons inspecting rubber insulating gloves used under these conditions need to take extra care in visually examining them. Employees using rubber insulating gloves under these conditions need to take extra care to avoid handling sharp objects.
+(C) Any other class of glove may be used without protector gloves, under limited-use conditions, when small equipment and parts manipulation necessitate unusually high finger dexterity but only if the employer can demonstrate that the possibility of physical damage to the gloves is small and if the class of glove is one class higher than that required for the voltage involved.
+(D) Insulating gloves that have been used without protector gloves may not be reused until they have been tested under the provisions of paragraphs (c)(2)(viii) and (c)(2)(ix) of this section.
+(viii) Electrical protective equipment shall be subjected to periodic electrical tests. Test voltages and the maximum intervals between tests shall be in accordance with Table I-4 and Table I-5.
+(ix) The test method used under paragraphs (c)(2)(viii) and (c)(2)(xi) of this section shall reliably indicate whether the insulating equipment can withstand the voltages involved.

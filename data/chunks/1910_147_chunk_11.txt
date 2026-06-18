@@ -1,0 +1,13 @@
+§ 1910.147 The control of hazardous energy (lockout/tagout).
+(1) The machine or equipment. The work area shall be inspected to ensure that nonessential items have been removed and to ensure that machine or equipment components are operationally intact.
+(2) Employees. (i) The work area shall be checked to ensure that all employees have been safely positioned or removed.
+(ii) After lockout or tagout devices have been removed and before a machine or equipment is started, affected employees shall be notified that the lockout or tagout device(s) have been removed.
+(3) Lockout or tagout devices removal. Each lockout or tagout device shall be removed from each energy isolating device by the employee who applied the device. Exception to paragraph (e)(3): When the authorized employee who applied the lockout or tagout device is not available to remove it, that device may be removed under the direction of the employer, provided that specific procedures and training for such removal have been developed, documented and incorporated into the employer's energy control program. The employer shall demonstrate that the specific procedure provides equivalent safety to the removal of the device by the authorized employee who applied it. The specific procedure shall include at least the following elements:
+(i) Verfication by the employer that the authorized employee who applied the device is not at the facility;
+(ii) Making all reasonable efforts to contact the authorized employee to inform him/her that his/her lockout or tagout device has been removed; and
+(iii) Ensuring that the authorized employee has this knowledge before he/she resumes work at that facility.
+(f) Additional requirements —(1) Testing or positioning of machines, equipment or components thereof. In situations in which lockout or tagout devices must be temporarily removed from the energy isolating device and the machine or equipment energized to test or position the machine, equipment or component thereof, the following sequence of actions shall be followed:
+(i) Clear the machine or equipment of tools and materials in accordance with paragraph (e)(1) of this section;
+(ii) Remove employees from the machine or equipment area in accordance with paragraph (e)(2) of this section;
+(iii) Remove the lockout or tagout devices as specified in paragraph (e)(3) of this section;
+(iv) Energize and proceed with testing or positioning;

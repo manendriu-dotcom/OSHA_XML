@@ -1,0 +1,2 @@
+§ 1910.140 Personal fall protection systems.
+volts, AC, per centimeter (25,000 volts per foot) for 3 minutes without visible deterioration; (B) A leakage test of 98.4 volts, AC, per centimeter (3,000 volts per foot) with a leakage current of no more than 1 mA; and

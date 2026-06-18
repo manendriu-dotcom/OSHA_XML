@@ -1,0 +1,11 @@
+§ 1910.219 Mechanical power-transmission apparatus.
+(n) [Reserved]
+(o) Approved materials —(1) Minimum requirements. The materials and dimensions specified in this paragraph shall apply to all guards, except horizontal overhead belts, rope, cable, or chain guards more than seven (7) feet above floor, or platform.
+(i) [Reserved]
+( a ) All guards shall be rigidly braced every three (3) feet or fractional part of their height to some fixed part of machinery or building structure. Where guard is exposed to contact with moving equipment additional strength may be necessary.
+( b ) [Reserved]
+(ii) [Reserved]
+(2) Wood guards. (i) Wood guards may be used in the woodworking and chemical industries, in industries where the presence of fumes or where manufacturing conditions would cause the rapid deterioration of metal guards; also in construction work and in locations outdoors where extreme cold or extreme heat make metal guards and railings undesirable. In all other industries, wood guards shall not be used.
+(ii) [Reserved]
+(3) Guards for horizontal overhead belts. (i) Guards for horizontal overhead belts shall run the entire length of the belt and follow the line of the pulley to the ceiling or be carried to the nearest wall, thus enclosing the belt effectively. Where belts are so located as to make it impracticable to carry the guard to wall or ceiling, construction of guard shall be such as to enclose completely the top and bottom runs of belt and the face of pulleys.
+(ii) [Reserved]

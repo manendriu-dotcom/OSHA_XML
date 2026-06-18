@@ -1,0 +1,15 @@
+§ 1910.145 Specifications for accident prevention signs and tags.
+(i) Tags shall contain a signal word and a major message.
+(A) The signal word shall be either "Danger," "Caution," or "Biological Hazard," "BIOHAZARD," or the biological hazard symbol.
+(B) The major message shall indicate the specific hazardous condition or the instruction to be communicated to the employee.
+(ii) The signal word shall be readable at a minimum distance of five feet (1.52 m) or such greater distance as warranted by the hazard.
+(iii) The tag's major message shall be presented in either pictographs, written text or both.
+(iv) The signal word and the major message shall be understandable to all employees who may be exposed to the identified hazard.
+(v) All employees shall be informed as to the meaning of the various tags used throughout the workplace and what special precautions are necessary.
+(vi) Tags shall be affixed as close as safely possible to their respective hazards by a positive means such as string, wire, or adhesive that prevents their loss or unintentional removal.
+(5) Danger tags. Danger tags shall be used in major hazard situations where an immediate hazard presents a threat of death or serious injury to employees. Danger tags shall be used only in these situations.
+(6) Caution tags. Caution tags shall be used in minor hazard situations where a non-immediate or potential hazard or unsafe practice presents a lesser threat of employee injury. Caution tags shall be used only in these situations.
+(7) Warning tags. Warning tags may be used to represent a hazard level between "Caution" and "Danger," instead of the required "Caution" tag, provided that they have a signal word of "Warning," an appropriate major message, and otherwise meet the general tag criteria of paragraph (f)(4) of this section.
+(8) Biological hazard tags. (i) Biological hazard tags shall be used to identify the actual or potential presence of a biological hazard and to identify equipment, containers, rooms, experimental animals, or combinations thereof, that contain or are contaminated with hazardous biological agents.
+(ii) The symbol design for biological hazard tags shall conform to the design shown below:
+EC27OC91.086 Biological Hazard Symbol Configuration

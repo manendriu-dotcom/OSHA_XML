@@ -1,0 +1,2 @@
+§ 1910.304 Wiring design and protection.
+AC systems of 50 volts to 1000 volts shall be grounded under any of the following conditions, unless exempted by paragraph (g)(1)(v) of this section: (A) If the system can be so grounded that the maximum voltage to ground on the ungrounded conductors does not exceed 150 volts;

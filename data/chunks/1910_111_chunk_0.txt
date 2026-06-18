@@ -1,0 +1,20 @@
+§ 1910.111 Storage and handling of anhydrous ammonia.
+§ 1910.111 Storage and handling of anhydrous ammonia.
+(a) General —(1) Scope. (i) This standard is intended to apply to the design, construction, location, installation, and operation of anhydrous ammonia systems including refrigerated ammonia storage systems.
+(ii) This standard does not apply to:
+( a ) Ammonia manufacturing plants.
+( b ) Refrigeration plants where ammonia is used solely as a refrigerant.
+(2) Definitions. As used in this section.
+(i) Appurtenances. All devices such as pumps, compressors, safety relief devices, liquid-level gaging devices, valves and pressure gages.
+(ii) Cylinder. A container of 1,000 pounds of water capacity or less constructed in accordance with Department of Transportation specifications.
+(iii) Code. The Boiler and Pressure Vessel Code, Section VIII, Unfired Pressure Vessels of the American Society of Mechanical Engineers (ASME)—1968.
+(iv) Container. Includes all vessels, tanks, cylinders, or spheres used for transportation, storage, or application of anhydrous ammonia.
+(v) DOT. U.S. Department of Transportation.
+(vi) Design pressure is identical to the term Maximum Allowable Working Pressure used in the Code.
+(vii) Farm vehicle (implement of husbandry). A vehicle for use on a farm on which is mounted a container of not over 1,200 gallons water capacity.
+(viii) Filling density. the percent ratio of the weight of the gas in a container to the weight of water at 60 degrees F. that the container will hold.
+(ix) Gas. Anhydrous ammonia in either the gaseous or liquefied state.
+(x) Gas masks. Gas masks must be approved by the National Institute for Occupational Safety and Health (NIOSH) under 42 CFR part 84 for use with anhydrous ammonia.
+(xi) Capacity. Total volume of the container in standard U.S. gallons.
+(xii) DOT specifications—Regulations of the Department of Transportation published in 49 CFR chapter I.
+(b) Basic rules. This paragraph applies to all paragraphs of this section unless otherwise noted.

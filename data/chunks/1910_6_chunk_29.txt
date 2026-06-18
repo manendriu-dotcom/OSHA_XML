@@ -1,0 +1,13 @@
+§ 1910.6 Incorporation by reference.
+(u) The following material is available for purchase from the Society of Automotive Engineers (SAE), 485 Lexington Avenue, New York, NY 10017:
+(1) SAE J185, June 1988, Recommended Practice for Access Systems for Off-Road Machines, IBR approved for § 1910.266(f)(5)(i).
+(2) SAE J231, January 1981, Minimum Performance Criteria for Falling Object Protective Structure (FOPS), IBR approved for § 1910.266(f)(3)(ii).
+(3) SAE J386, June 1985, Operator Restraint Systems for Off-Road Work Machines, IBR approved for § 1910.266(d)(3)(iv).
+(4) SAE J397, April 1988, Deflection Limiting Volume-ROPS/FOPS Laboratory Evaluation, IBR approved for § 1910.266(f)(3)(iv).
+(5) SAE 765 (1961) SAE Recommended Practice: Crane Loading Stability Test Code, IBR approved for § 1910.180 (c)(1)(iii) and (e)(2)(iii)( a ).
+(6) SAE J1040, April 1988, Performance Criteria for Rollover Protective Structures (ROPS) for Construction, Earthmoving, Forestry and Mining Machines, IBR approved for § 1910.266(f)(3)(ii).
+(v) The following material is available for purchase from the Fertilizer Institute, 1015 18th Street NW, Washington, DC 20036:
+(1) Standard M-1 (1953, 1955, 1957, 1960, 1961, 1963, 1965, 1966, 1967, 1968), Superseded by ANSI K61.1-1972, IBR approved for § 1910.111(b)(1) (i) and (iii).
+(2) [Reserved]
+(w) The following material is available for purchase from Underwriters Laboratories (UL), 207 East Ohio Street, Chicago, IL 60611:
+(1) UL 58-61 Steel Underground Tanks for Flammable and Combustible Liquids, 5th Ed., IBR approved for § 1910.106(b)(1)(iii)( a )( 1 ).

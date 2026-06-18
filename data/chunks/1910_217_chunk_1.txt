@@ -1,0 +1,13 @@
+§ 1910.217 Mechanical power presses.
+(iv) If pedal counterweights are provided, the path of the travel of the weight shall be enclosed.
+(5) Hand operated levers. (i) Hand-lever-operated power presses shall be equipped with a spring latch on the operating lever to prevent premature or accidental tripping.
+(ii) The operating levers on hand-tripped presses having more than one operating station shall be interlocked to prevent the tripping of the press except by the "concurrent" use of all levers.
+(6) Two-hand trip. (i) A two-hand trip shall have the individual operator's hand controls protected against unintentional operation and have the individual operator's hand controls arranged by design and construction and/or separation to require the use of both hands to trip the press and use a control arrangement requiring concurrent operation of the individual operator's hand controls.
+(ii) Two-hand trip systems on full revolution clutch machines shall incorporate an antirepeat feature.
+(iii) If two-hand trip systems are used on multiple operator presses, each operator shall have a separate set of controls.
+(7) Machines using part revolution clutches. (i) The clutch shall release and the brake shall be applied when the external clutch engaging means is removed, deactivated, or deenergized.
+(ii) A red color stop control shall be provided with the clutch/brake control system. Momentary operation of the stop control shall immediately deactivate the clutch and apply the brake. The stop control shall override any other control, and reactuation of the clutch shall require use of the operating (tripping) means which has been selected.
+(iii) A means of selecting Off, "Inch," Single Stroke, and Continuous (when the continuous function is furnished) shall be supplied with the clutch/brake control to select type of operation of the press. Fixing of selection shall be by means capable of supervision by the employer.
+(iv) The "Inch" operating means shall be designed to prevent exposure of the workers hands within the point of operation by:
+( a ) Requiring the concurrent use of both hands to actuate the clutch, or
+( b ) Being a single control protected against accidental actuation and so located that the worker cannot reach into the point of operation while operating the single control.

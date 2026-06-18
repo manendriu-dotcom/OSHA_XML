@@ -1,0 +1,12 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+Note: Note to paragraph ( q )(3)( vi ): Thunderstorms in the vicinity, high winds, snow storms, and ice storms are examples of adverse weather conditions that make live-line barehand work too hazardous to perform safely even after the employer implements the work practices required by this section.
+(vii) The employer shall provide and ensure that employees use a conductive bucket liner or other conductive device for bonding the insulated aerial device to the energized line or equipment.
+(A) The employee shall be connected to the bucket liner or other conductive device by the use of conductive shoes, leg clips, or other means.
+(B) Where differences in potentials at the worksite pose a hazard to employees, the employer shall provide electrostatic shielding designed for the voltage being worked.
+(viii) The employer shall ensure that, before the employee contacts the energized part, the employee bonds the conductive bucket liner or other conductive device to the energized conductor by means of a positive connection. This connection shall remain attached to the energized conductor until the employee completes the work on the energized circuit.
+(ix) Aerial lifts used for live-line barehand work shall have dual controls (lower and upper) as follows:
+(A) The upper controls shall be within easy reach of the employee in the bucket. On a two-bucket-type lift, access to the controls shall be within easy reach of both buckets.
+(B) The lower set of controls shall be near the base of the boom and shall be designed so that they can override operation of the equipment at any time.
+(x) Lower (ground-level) lift controls may not be operated with an employee in the lift except in case of emergency.
+(xi) The employer shall ensure that, before employees elevate an aerial lift into the work position, the employees check all controls (ground level and bucket) to determine that they are in proper working condition.
+(xii) The employer shall ensure that, before employees elevate the boom of an aerial lift, the employees ground the body of the truck or barricade the body of the truck and treat it as energized.

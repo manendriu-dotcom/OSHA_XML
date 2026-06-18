@@ -1,0 +1,7 @@
+§ 1910.94 Ventilation.
+( e ) Where make-up air is heated by gas, and the products of combustion are not mixed with the make-up air but are conducted through an independent flue to a point outside the building remote from all points where make-up air enters the building, it is not necessary to comply with paragraph (c)(7)(iv)( f ) of this section.
+( f ) Where make-up air to any manually operated spray booth or room is heated by gas and the products of combustion are allowed to mix with the supply air, the following precautions must be taken:
+( 1 ) The gas must have a distinctive and strong enough odor to warn workmen in a spray booth or room of its presence if in an unburned state in the make-up air.
+( 2 ) The maximum rate of gas supply to the make-up air heater burners must not exceed that which would yield in excess of 200 p.p.m. (parts per million) of carbon monoxide or 2,000 p.p.m. of total combustible gases in the mixture if the unburned gas upon the occurrence of flame failure were mixed with all of the make-up air supplied.
+( 3 ) A fan must be provided to deliver the mixture of heated air and products of combustion from the plenum chamber housing the gas burners to the spray booth or room.
+(8) Scope. Spray booths or spray rooms are to be used to enclose or confine all spray finishing operations covered by this paragraph (c). This paragraph does not apply to the spraying of the exteriors of buildings, fixed tanks, or similar structures, nor to small portable spraying apparatus not used repeatedly in the same location.

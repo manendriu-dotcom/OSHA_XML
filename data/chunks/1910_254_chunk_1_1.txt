@@ -1,0 +1,2 @@
+§ 1910.254 Arc welding and cutting.
+cable. (vi) Auto transformers or a.c. reactors shall not be used to draw welding current directly from any a.c. power source having a voltage exceeding 80 volts. (c) Installation of arc welding equipment —(1) General. Installation including power supply shall be in accordance with the requirements of subpart S of this part.

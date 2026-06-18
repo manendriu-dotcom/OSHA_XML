@@ -1,0 +1,17 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+( e ) Tank heaters shall be equipped with an automatic safety device to shut off the flow of gas to main burners, if the pilot light should fail. When flow through pilot exceeds 2,000 B.t.u. per hour, the pilot also shall be equipped with an automatic safety device to shut off the flow of gas to the pilot should the pilot flame be extinguished.
+( f ) Pressure regulating and pressure reducing equipment if located within 10 feet of a direct fired tank heater shall be separated from the open flame by a substantially airtight noncombustible partition.
+( g ) The following minimum distances shall be maintained between a storage tank heated by a direct fired tank heater and the nearest important building or group of buildings:
+( h ) No direct fired tank heater shall raise the product pressure within the storage container over 75 percent of the pressure set out in the second column of Table H-31.
+(v) The vaporizer section of vaporizer-burners used for dehydrators or dryers shall be located outside of buildings; they shall be constructed and installed as follows:
+( a ) Vaporizer-burners shall have a minimum design pressure of 250 p.s.i.g. with a factor of safety of five.
+( b ) Manually operated positive shut-off valves shall be located at the containers to shut off all flow to the vaporizer-burners.
+( c ) Minimum distances between storage containers and vaporizer-burners shall be as follows:
+
+Water capacity per container (gallons) Minimum distances (feet)
+---------------------------------------------------------------
+Less than 501 10
+501 to 2,000 25
+Over 2,000 50
+
+( d ) The vaporizer section of vaporizer-burners shall be protected by a hydrostatic relief valve. The relief valve shall be located so as not to be subjected to temperatures in excess of 140 degrees F. The start-to-discharge pressure setting shall be such as to protect the components involved, but not less than 250 p.s.i.g. The discharge shall be directed upward and away from component parts of the equipment and away from operating personnel.

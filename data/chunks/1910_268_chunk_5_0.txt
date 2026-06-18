@@ -1,0 +1,13 @@
+§ 1910.268 Telecommunications.
+(3) The employer shall insure that an employee finding any crossed or fallen wires which create or may create a hazardous situation at the work area: (i) Remains on guard or adopts other adequate means to warn other employees of the danger and (ii) has the proper authority notified at the earliest practical moment.
+(e) Tools and personal protective equipment—Generally. Personal protective equipment, protective devices and special tools needed for the work of employees shall be provided and the employer shall ensure that they are used by employees. Before each day's use the employer shall ensure that these personal protective devices, tools, and equipment are carefully inspected by a competent person to ascertain that they are in good condition.
+(f) Rubber insulating equipment. (1) Rubber insulating equipment designed for the voltage levels to be encountered shall be provided and the employer shall ensure that they are used by employees as required by this section. The requirements of § 1910.137, Electrical Protective Equipment, shall be followed except for Table I-6.
+(2) The employer is responsible for the periodic retesting of all insulating gloves, blankets, and other rubber insulating equipment. This retesting shall be electrical, visual and mechanical. The following maximum retesting intervals shall apply:
+
+Gloves, blankets, and other insulating equipment Natural rubber Synthetic rubber
+--------------------------------------------------------------------------------
+ Months
+New 12 18
+Re-issued 9 15
+
+(3) Gloves and blankets shall be marked to indicate compliance with the retest schedule, and shall be marked with the date the next test is due. Gloves found to be defective in the field or by the tests set forth in paragraph (f)(2) of this section shall be destroyed by cutting them open from the finger to the gauntlet.

@@ -1,0 +1,11 @@
+§ 1910.243 Guarding of portable powered tools.
+( 2 ) Firing of the tool shall be dependent upon at least two separate and distinct operations of the operator, with the final firing movement being separate from the operation of bringing the tool into the firing position.
+( c ) The tool shall be so designed as not to be operable other than against a work surface, and unless the operator is holding the tool against the work surface with a force at least 5 pounds greater than the total weight of the tool.
+( d ) The tool shall be so designed that positive means of varying the power are available or can be made available to the operator as part of the tool, or as an auxiliary, in order to make it possible for the operator to select a power level adequate to perform the desired work without excessive force.
+( e ) The tool shall be so designed that all breeching parts will be reasonably visible to allow a check for any foreign matter that may be present.
+(iii) Tools of the hammer-operated piston tools—low-velocity type shall have the characteristics outlined in paragraphs (d)(2)(iii) ( a ) through ( e ) of this section.
+( a ) The muzzle end of the tool shall be so designed that suitable protective shields, guards, jigs, or fixtures, designed and built by the manufacturer of the tool being used, can be mounted perpendicular to the barrel. A standard spall shield shall be supplied with each tool.
+( b ) The tool shall be so designed that it shall not in ordinary usage propel or discharge a stud, pin, or fastener while loading, or during preparation to fire, or if the tool should be dropped while loaded.
+( c ) Firing of the tool shall be dependent upon at least two separate and distinct operations of the operator, with the final firing movement being separate from the operation of bringing the tool into the firing position.
+( d ) The tool shall be so designed that positive means of varying the power are available or can be made available to the operator as part of the tool, or as an auxiliary, in order to make it possible for the operator to select a power level adequate to perform the desired work without excessive force.
+( e ) The tool shall be so designed that all breeching parts will be reasonably visible to allow a check for any foreign matter that may be present.

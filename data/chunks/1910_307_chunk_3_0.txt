@@ -1,0 +1,13 @@
+§ 1910.307 Hazardous (classified) locations.
+(f) Protection techniques. The following are acceptable protection techniques for electric and electronic equipment in hazardous (classified) locations.
+(1) Explosionproof apparatus. This protection technique is permitted for equipment in the Class I, Division 1 and 2 locations for which it is approved.
+(2) Dust ignitionproof. This protection technique is permitted for equipment in the Class II, Division 1 and 2 locations for which it is approved.
+(3) Dust-tight. This protection technique is permitted for equipment in the Class II, Division 2 and Class III locations for which it is approved.
+(4) Purged and pressurized. This protection technique is permitted for equipment in any hazardous (classified) location for which it is approved.
+(5) Nonincendive circuit. This protection technique is permitted for equipment in Class I, Division 2; Class II, Division 2; or Class III, Division 1or 2 locations.
+(6) Nonincendive equipment. This protection technique is permitted for equipment in Class I, Division 2; Class II, Division 2; or Class III, Division 1 or 2 locations.
+(7) Nonincendive component. This protection technique is permitted for equipment in Class I, Division 2; Class II, Division 2; or Class III, Division 1 or 2 locations.
+(8) Oil immersion. This protection technique is permitted for current-interrupting contacts in Class I, Division 2 locations as described in the Subpart.
+(9) Hermetically sealed. This protection technique is permitted for equipment in Class I, Division 2; Class II, Division 2; and Class III, Division 1 or 2 locations.
+(10) Other protection techniques. Any other protection technique that meets paragraph (c) of this section is acceptable in any hazardous (classified) location.
+(g) Class I, Zone 0, 1, and 2 locations —(1) Scope. Employers may use the zone classification system as an alternative to the division classification system for electric and electronic equipment and wiring for all voltage in Class I, Zone 0, Zone 1, and Zone 2 hazardous (classified) locations where fire or explosion hazards may exist due to flammable gases, vapors, or liquids.

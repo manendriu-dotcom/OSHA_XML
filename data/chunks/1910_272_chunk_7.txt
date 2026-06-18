@@ -1,0 +1,13 @@
+§ 1910.272 Grain handling facilities.
+(i) Regularly scheduled inspections of at least the mechanical and safety control equipment associated with dryers, grain stream processing equipment, dust collection equipment including filter collectors, and bucket elevators;
+(ii) Lubrication and other appropriate maintenance in accordance with manufacturers' recommendations, or as determined necessary by prior operating records.
+(2) The employer shall promptly correct dust collection systems which are malfunctioning or which are operating below designed efficiency. Additionally, the employer shall promptly correct, or remove from service, overheated bearings and slipping or misaligned belts associated with inside bucket elevators.
+(3) A certification record shall be maintained of each inspection, performed in accordance with this paragraph (m), containing the date of the inspection, the name of the person who performed the inspection and the serial number, or other identifier, of the equipment specified in paragraph (m)(1)(i) of this section that was inspected.
+(4) The employer shall implement procedures for the use of tags and locks which will prevent the inadvertent application of energy or motion to equipment being repaired, serviced, or adjusted, which could result in employee injury. Such locks and tags shall be removed in accordance with established procedures only by the employee installing them or, if unavailable, by his or her supervisor.
+(n) Grain stream processing equipment. The employer shall equip grain stream processing equipment (such as hammer mills, grinders, and pulverizers) with an effective means of removing ferrous material from the incoming grain stream.
+(o) Emergency escape. (1) The employer shall provide at least two means of emergency escape from galleries (bin decks).
+(2) The employer shall provide at least one means of emergency escape in tunnels of existing grain elevators. Tunnels in grain elevators constructed after the effective date of this standard shall be provided with at least two means of emergency escape.
+(p) Continuous-flow bulk raw grain dryers. (1) All direct-heat grain dryers shall be equipped with automatic controls that:
+(i) Will shut-off the fuel supply in case of power or flame failure or interruption of air movement through the exhaust fan; and,
+(ii) Will stop the grain from being fed into the dryer if excessive temperature occurs in the exhaust of the drying section.
+(2) Direct-heat grain dryers installed after March 30, 1988 shall be:

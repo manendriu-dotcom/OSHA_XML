@@ -1,0 +1,25 @@
+§ 1910.184 Slings.
+(ii) Mechanical coupling links or low carbon steel repair links shall not be used to repair broken lengths of chain.
+(8) Effect of wear. If the chain size at any point of the link is less than that stated in Table N-184-1, the employer must remove the chain from service.
+(9) Deformed attachments. (i) Alloy steel chain slings with cracked or deformed master links, coupling links or other components shall be removed from service.
+
+Table N-184-1—Minimum Allowable Chain Size At Any Point of Link
+---------------------------------------------------------------
+Chain size, inches Minimum allowable chain size, inches
+-------------------------------------------------------
+1/4 13/64
+3/8 19/64
+1/2 25/64
+5/8 31/64
+3/4 19/32
+7/8 4 5/64
+1 13/16
+1 1/8 29/32
+1 1/4 1
+1 3/8 1 3/32
+1 1/2 1 3/16
+1 3/4 1 13/32
+
+(ii) Slings shall be removed from service if hooks are cracked, have been opened more than 15 percent of the normal throat opening measured at the narrowest point or twisted more than 10 degrees from the plane of the unbent hook.
+(f) Wire-rope slings —(1) Sling use. Employers must use only wire-rope slings that have permanently affixed and legible identification markings as prescribed by the manufacturer, and that indicate the recommended safe working load for the type(s) of hitch(es) used, the angle upon which it is based, and the number of legs if more than one.
+(2) Minimum sling lengths. (i) Cable laid and 6 x 19 and 6 x 37 slings shall have a minimum clear length of wire rope 10 times the component rope diameter between splices, sleeves or end fittings.

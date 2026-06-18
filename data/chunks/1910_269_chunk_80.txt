@@ -1,0 +1,10 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+(w) Special conditions —(1) Capacitors. The following additional requirements apply to work on capacitors and on lines connected to capacitors.
+Note: Note to paragraph ( w )(1): See paragraphs (m) and (n) of this section for requirements pertaining to the deenergizing and grounding of capacitor installations.
+(i) Before employees work on capacitors, the employer shall disconnect the capacitors from energized sources and short circuit the capacitors. The employer shall ensure that the employee short circuiting the capacitors waits at least 5 minutes from the time of disconnection before applying the short circuit,
+(ii) Before employees handle the units, the employer shall short circuit each unit in series-parallel capacitor banks between all terminals and the capacitor case or its rack. If the cases of capacitors are on ungrounded substation racks, the employer shall bond the racks to ground.
+(iii) The employer shall short circuit any line connected to capacitors before the line is treated as deenergized.
+(2) Current transformer secondaries. The employer shall ensure that employees do not open the secondary of a current transformer while the transformer is energized. If the employer cannot deenergize the primary of the current transformer before employees perform work on an instrument, a relay, or other section of a current transformer secondary circuit, the employer shall bridge the circuit so that the current transformer secondary does not experience an open-circuit condition.
+(3) Series streetlighting. (i) If the open-circuit voltage exceeds 600 volts, the employer shall ensure that employees work on series streetlighting circuits in accordance with paragraph (q) or (t) of this section, as appropriate.
+(ii) Before any employee opens a series loop, the employer shall deenergize the streetlighting transformer and isolate it from the source of supply or shall bridge the loop to avoid an open-circuit condition.
+(4) Illumination. The employer shall provide sufficient illumination to enable the employee to perform the work safely.

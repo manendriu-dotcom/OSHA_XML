@@ -1,0 +1,13 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+(A) Distinctively colored safety tape supported approximately waist high with safety signs attached to it,
+(B) A barrier or barricade that limits access to the test area to a degree equivalent, physically and visually, to the barricade specified in paragraph (o)(3)(iii)(A) of this section, or
+(C) One or more test observers stationed so that they can monitor the entire area.
+(iv) The employer shall ensure the removal of the safeguards required by paragraph (o)(3)(iii) of this section when employees no longer need the protection afforded by the safeguards.
+(4) Grounding practices. (i) The employer shall establish and implement safe grounding practices for the test facility.
+(A) The employer shall maintain at ground potential all conductive parts accessible to the test operator while the equipment is operating at high voltage.
+(B) Wherever ungrounded terminals of test equipment or apparatus under test may be present, they shall be treated as energized until tests demonstrate that they are deenergized.
+(ii) The employer shall ensure either that visible grounds are applied automatically, or that employees using properly insulated tools manually apply visible grounds, to the high-voltage circuits after they are deenergized and before any employee performs work on the circuit or on the item or apparatus under test. Common ground connections shall be solidly connected to the test equipment and the apparatus under test.
+(iii) In high-power testing, the employer shall provide an isolated ground-return conductor system designed to prevent the intentional passage of current, with its attendant voltage rise, from occurring in the ground grid or in the earth. However, the employer need not provide an isolated ground-return conductor if the employer can demonstrate that both of the following conditions exist:
+(A) The employer cannot provide an isolated ground-return conductor due to the distance of the test site from the electric energy source, and
+(B) The employer protects employees from any hazardous step and touch potentials that may develop during the test.
+Note: Note to paragraph ( o )(4)( iii )(B): See appendix C to this section for information on measures that employers can take to protect employees from hazardous step and touch potentials.

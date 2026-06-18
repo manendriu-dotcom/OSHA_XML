@@ -1,0 +1,15 @@
+§ 1910.126 Additional requirements for special dipping and coating operations.
+(4) Between goods being electrostatically deteared and the electrodes or conductors of the electrostatic equipment, you must maintain a minimum distance of twice the sparking distance. This minimum distance must be displayed conspicuously on a sign located near the equipment.
+(5) You must ensure that the electrostatic equipment has automatic controls that immediately disconnect the power supply to the high-voltage transformer and signal the operator if:
+(i) Ventilation or the conveyors fail to operate;
+(ii) A ground (or imminent ground) occurs anywhere in the high-voltage system; or
+(iii) Goods being electrostatically deteared come within twice the sparking distance of the electrodes or conductors of the equipment.
+(6) You must use fences, rails, or guards, made of conducting material and adequately grounded, to separate paint-detearing operations from storage areas and from personnel.
+(7) To protect paint-detearing operations from fire, you must have in place:
+(i) Automatic sprinklers; or
+(ii) An automatic fire-extinguishing system conforming to the requirements of subpart L of this part.
+(8) To collect paint deposits, you must:
+(i) Provide drip plates and screens; and
+(ii) Clean these plates and screens in a safe location.
+
+Subpart I—Personal Protective Equipment

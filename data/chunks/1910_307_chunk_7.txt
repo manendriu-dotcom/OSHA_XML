@@ -1,0 +1,17 @@
+§ 1910.307 Hazardous (classified) locations.
+(ii) Equipment shall be marked in accordance with paragraph (g)(5)(ii)(A) and (g)(5)(ii)(B) of this section, except as provided in (g)(5)(ii)(C).
+(A) Equipment approved for Class I, Division 1 or Class 1, Division 2 shall, in addition to being marked in accordance with (c)(2)(ii), be marked with the following:
+( 1 ) Class I, Zone 1 or Class I, Zone 2 (as applicable);
+( 2 ) Applicable gas classification groups; and
+( 3 ) Temperature classification; or
+(B) Equipment meeting one or more of the protection techniques described in paragraph (g)(3) of this section shall be marked with the following in the order shown:
+( 1 ) Class, except for intrinsically safe apparatus;
+( 2 ) Zone, except for intrinsically safe apparatus;
+( 3 ) Symbol "AEx;"
+( 4 ) Protection techniques;
+( 5 ) Applicable gas classification groups; and
+( 6 ) Temperature classification, except for intrinsically safe apparatus.
+Note: Note to paragraph ( g )(5)( ii )(B) of this section: An example of such a required marking is "Class I, Zone 0, AEx ia IIC T6." See Figure S-1 for an explanation of this marking.
+(C) Equipment that the employer demonstrates will provide protection from the hazards arising from the flammability of the gas or vapor and the zone of location involved and will be recognized as providing such protection by employees need not be marked.
+Note: Note to paragraph ( g )(5)( ii )(C) of this section: The National Electrical Code, NFPA 70, contains guidelines for determining the type and design of equipment and installations that will meet this provision.
+ER14FE07.000

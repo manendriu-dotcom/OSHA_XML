@@ -1,0 +1,16 @@
+§ 1910.218 Forging machines.
+(4) Pressure pipes. Steam or air piping shall conform to the specifications of American National Standard ANSI B31.1.0-1967, Power Piping with Addenda issued before April 28, 1971, which is incorporated by reference as specified in § 1910.6.
+(e) Gravity hammers —(1) Air-lift hammers. (i) Air-lift hammers shall have a safety cylinder head as required in paragraph (d)(1) of this section.
+(ii) Air-lift hammers shall have an air shutoff valve as required in paragraph (d)(2) of this section.
+(iii) Air-lift hammers shall be provided with two drain cocks: one on main head cylinder, and one on clamp cylinder.
+(iv) Air piping shall conform to the specifications of the ANSI B31.1.0-1967, Power Piping with Addenda issued before April 28, 1971, which is incorporated by reference as specified in § 1910.6.
+(2) Board drophammers. (i) A suitable enclosure shall be provided to prevent damaged or detached boards from falling. The board enclosure shall be securely fastened to the hammer.
+(ii) All major assemblies and fittings which can loosen and fall shall be properly secured in place.
+(f) Forging presses —(1) Mechanical forging presses. When dies are being changed or maintenance is being performed on the press, the following shall be accomplished:
+(i) The power to the press shall be locked out.
+(ii) The flywheel shall be at rest.
+(iii) The ram shall be blocked with a material the strength of which shall meet or exceed the specifications or dimensions shown in Table O-11.
+(2) Hydraulic forging presses. When dies are being changed or maintenance is being performed on the press, the following shall be accomplished:
+(i) The hydraulic pumps and power apparatus shall be locked out.
+(ii) The ram shall be blocked with a material the strength of which shall meet or exceed the specifications or dimensions shown in Table O-11.
+(g) Trimming presses —(1) Hot trimming presses. The requirements of paragraph (f)(1) of this section shall also apply to hot trimming presses.

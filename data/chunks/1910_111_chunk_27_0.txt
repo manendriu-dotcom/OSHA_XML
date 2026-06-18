@@ -1,0 +1,6 @@
+§ 1910.111 Storage and handling of anhydrous ammonia.
+(iv) Regulation equipment may be connected directly to the tank coupling or flange, in which case a flexible connection shall be used between such regulating equipment and the remainder of the liquid withdrawal system. Regulating equipment not so installed shall be flexibly connected to the container shutoff valve.
+(v) No excess flow valve is required in the liquid withdrawal line provided the controlling orifice between the contents of the container and the outlet of the shutoff valve does not exceed seven-sixteenths inch in diameter.
+
+§§ 1910.112-1910.113
+[Reserved]

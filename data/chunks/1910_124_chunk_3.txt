@@ -1,0 +1,4 @@
+§ 1910.124 General requirements for dipping and coating operations.
+(3) Periodically inspect all dipping and coating equipment, including covers, drains, overflow piping, and electrical and fire-extinguishing systems, and promptly correct any deficiencies;
+(4) Provide mechanical ventilation or respirators (selected and used as specified in § 1910.134, OSHA's Respiratory Protection standard) to protect employees in the vapor area from exposure to toxic substances released during welding, burning, or open-flame work; and
+(5) Have dip tanks thoroughly cleaned of solvents and vapors before permitting welding, burning, or open-flame work on them.

@@ -1,0 +1,11 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+( b ) If more than one such container is located in the same room, the containers shall be separated by at least 20 feet.
+(6) Container valves and accessories. (i) Valves in the assembly of multiple container systems shall be arranged so that replacement of containers can be made without shutting off the flow of gas in the system.
+Note: Note: This provision is not to be construed as requiring an automatic changeover device.
+(ii) Regulators and low-pressure relief devices shall be rigidly attached to the cylinder valves, cylinders, supporting standards, the building walls or otherwise rigidly secured and shall be so installed or protected that the elements (sleet, snow, or ice) will not affect their operation.
+(iii) Valves and connections to the containers shall be protected while in transit, in storage, and while being moved into final utilization, as follows:
+( a ) By setting into the recess of the container to prevent the possibility of their being struck if the container is dropped upon a flat surface, or
+( b ) By ventilated cap or collar, fastened to the container capable of withstanding a blow from any direction equivalent to that of a 30-pound weight dropped 4 feet. Construction must be such that a blow will not be transmitted to the valve or other connection.
+(iv) When containers are not connected to the system, the outlet valves shall be kept tightly closed or plugged, even though containers are considered empty.
+(v) Containers having a water capacity in excess of 50 pounds (approximately 21 pounds LP-Gas capacity), recharged at the installation, shall be provided with excess flow or backflow check valves to prevent the discharge of container contents in case of failure of the filling or equalizing connection.
+(7) Safety devices. (i) Containers shall be provided with safety devices as required by DOT regulations.

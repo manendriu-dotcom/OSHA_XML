@@ -1,0 +1,3 @@
+§ 1910.243 Guarding of portable powered tools.
+(v) Vehicle stopping means shall be provided.
+(vi) Hand-operated wheel drive disengaging controls shall move opposite to the direction of vehicle motion in order to disengage the drive. Foot-operated wheel drive disengaging controls shall be depressed to disengage the drive. Deadman controls, both hand and foot operated, shall automatically interrupt power to a drive when the operator's actuating force is removed, and may operate in any direction to disengage the drive.

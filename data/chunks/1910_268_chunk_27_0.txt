@@ -1,0 +1,12 @@
+§ 1910.268 Telecommunications.
+(21) Grounding electrode conductor. (Grounding conductor). A conductor used to connect equipment or the grounded circuit of a wiring system to a grounding electrode.
+(22) Insulated. Separated from other conducting surfaces by a dielectric substance (including air space) offering a high resistance to the passage of current.
+Note: Note: When any object is said to be insulated, it is understood to be insulated in suitable manner for the conditions to which it is subjected. Otherwise, it is, within the purpose of these rules, uninsulated. Insulating coverings of conductors in one means of making the conductor insulated.
+(23) Insulation (as applied to cable). That which is relied upon to insulate the conductor from other conductors or conducting parts or from ground.
+(24) Joint use. The sharing of a common facility, such as a manhole, trench or pole, by two or more different kinds of utilities (e.g., power and telecommunications).
+(25) Ladder platform. A device designed to facilitate working aloft from an extension ladder. A typical device consists of a platform (approximately 9″ x 18″) hinged to a welded pipe frame. The rear edge of the platform and the bottom cross-member of the frame are equipped with latches to lock the platform to ladder rungs.
+(26) Ladder seat. A removable seat used to facilitate work at an elevated position on rolling ladders in telecommunication centers.
+(27) Manhole. A subsurface enclosure which personnel may enter and which is used for the purpose of installing, operating, and maintaining submersible equipment and/or cable.
+(28) Manhole platform. A platform consisting of separate planks which are laid across steel platform supports. The ends of the supports are engaged in the manhole cable racks.
+(29) Microwave transmission. The act of communicating or signaling utilizing a frequency between 1 GH z (gigahertz) and 300 GH z inclusively.
+(30) Nominal voltage. The nominal voltage of a system or circuit is the value assigned to a system or circuit of a given voltage class for the purpose of convenient designation. The actual voltage may vary above or below this value.

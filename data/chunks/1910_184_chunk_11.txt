@@ -1,0 +1,18 @@
+§ 1910.184 Slings.
+(i) Nylon web slings shall not be used where fumes, vapors, sprays, mists or liquids of acids or phenolics are present.
+(ii) Polyester and polypropylene web slings shall not be used where fumes, vapors, sprays, mists or liquids of caustics are present.
+(iii) Web slings with aluminum fittings shall not be used where fumes, vapors, sprays, mists or liquids of caustics are present.
+EC27OC91.050
+EC27OC91.051
+(7) Safe operating temperatures. Synthetic web slings of polyester and nylon shall not be used at temperatures in excess of 180 degrees F. Polypropylene web slings shall not be used at temperatures in excess of 200 degrees F.
+(8) Repairs. (i) Synthetic web slings which are repaired shall not be used unless repaired by a sling manufacturer or an equivalent entity.
+(ii) Each repaired sling shall be proof tested by the manufacturer or equivalent entity to twice the rated capacity prior to its return to service. The employer shall retain a certificate of the proof test and make it available for examination.
+(iii) Slings, including webbing and fittings, which have been repaired in a temporary manner shall not be used.
+(9) Removal from service. Synthetic web slings shall be immediately removed from service if any of the following conditions are present:
+(i) Acid or caustic burns;
+(ii) Melting or charring of any part of the sling surface;
+(iii) Snags, punctures, tears or cuts;
+(iv) Broken or worn stitches; or
+(v) Distortion of fittings.
+
+Subpart O—Machinery and Machine Guarding

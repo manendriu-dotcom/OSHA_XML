@@ -1,0 +1,7 @@
+§ 1910.6 Incorporation by reference.
+(15) ANSI B7.1-70 Safety Code for the Use, Care and Protection of Abrasive Wheels, IBR approved for §§ 1910.215(b)(12) and 1910.218(j).
+(16) ANSI B15.1-53 (R 58) Safety Code for Mechanical Power Transmission Apparatus, IBR approved for §§ 1910.68(b)(4) and 1910.261 (a)(3)(ix), (b)(1), (e)(3), (e)(9), (f)(4), (j)(5)(iv), (k)(12), and (l)(3).
+(17) ANSI B20.1-57 Safety Code for Conveyors, Cableways, and Related Equipment, IBR approved for §§ 1910.218(j)(3); 1910.261 (a)(3)(x), (b)(1), (c)(15)(iv), (f)(4), and (j)(2); 1910.265(c)(18)(i).
+(18) ANSI B30.2-43 (R 52) Safety Code for Cranes, Derricks, and Hoists, IBR approved for § 1910.261 (a)(3)(xi), (c)(2)(vi), and (c)(8) (i) and (iv).
+(19) ANSI B30.2.0-67 Safety Code for Overhead and Gantry Cranes, IBR approved for §§ 1910.179(b)(2); 1910.261 (a)(3)(xii), (c)(2)(v), and (c)(8) (i) and (iv).
+(20) ANSI B30.5-68 Safety Code for Crawler, Locomotive, and Truck Cranes, IBR approved for §§ 1910.180(b)(2) and 1910.261(a)(3)(xiii).

@@ -1,0 +1,23 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+(x) Definitions.
+Affected employee. An employee whose job requires him or her to operate or use a machine or equipment on which servicing or maintenance is being performed under lockout or tagout, or whose job requires him or her to work in an area in which such servicing or maintenance is being performed.
+Attendant. An employee assigned to remain immediately outside the entrance to an enclosed or other space to render assistance as needed to employees inside the space.
+Authorized employee. An employee who locks out or tags out machines or equipment in order to perform servicing or maintenance on that machine or equipment. An affected employee becomes an authorized employee when that employee's duties include performing servicing or maintenance covered under this section.
+Automatic circuit recloser. A self-controlled device for automatically interrupting and reclosing an alternating-current circuit, with a predetermined sequence of opening and reclosing followed by resetting, hold closed, or lockout.
+Barricade. A physical obstruction such as tapes, cones, or A-frame type wood or metal structures that provides a warning about, and limits access to, a hazardous area.
+Barrier. A physical obstruction that prevents contact with energized lines or equipment or prevents unauthorized access to a work area.
+Bond. The electrical interconnection of conductive parts designed to maintain a common electric potential.
+Bus. A conductor or a group of conductors that serve as a common connection for two or more circuits.
+Bushing. An insulating structure that includes a through conductor or that provides a passageway for such a conductor, and that, when mounted on a barrier, insulates the conductor from the barrier for the purpose of conducting current from one side of the barrier to the other.
+Cable. A conductor with insulation, or a stranded conductor with or without insulation and other coverings (single-conductor cable), or a combination of conductors insulated from one another (multiple-conductor cable).
+Cable sheath. A conductive protective covering applied to cables.
+Note: Note to the definition of "cable sheath": A cable sheath may consist of multiple layers one or more of which is conductive.
+Circuit. A conductor or system of conductors through which an electric current is intended to flow.
+Clearance (between objects). The clear distance between two objects measured surface to surface.
+Clearance (for work). Authorization to perform specified work or permission to enter a restricted area.
+Communication lines. (See Lines; (1) Communication lines. )
+Conductor. A material, usually in the form of a wire, cable, or bus bar, used for carrying an electric current.
+Contract employer. An employer, other than a host employer, that performs work covered by this section under contract.
+Covered conductor. A conductor covered with a dielectric having no rated insulating strength or having a rated insulating strength less than the voltage of the circuit in which the conductor is used.
+Current-carrying part. A conducting part intended to be connected in an electric circuit to a source of voltage. Non-current-carrying parts are those not intended to be so connected.
+Deenergized. Free from any electrical connection to a source of potential difference and from electric charge; not having a potential that is different from the potential of the earth.

@@ -1,0 +1,13 @@
+§ 1910.157 Portable fire extinguishers.
+(8) Hose assemblies passing a hydrostatic test do not require any type of recording or stamping.
+(9) The employer shall assure that hose assemblies for carbon dioxide extinguishers that require a hydrostatic test are tested within a protective cage device.
+(10) The employer shall assure that carbon dioxide extinguishers and nitrogen or carbon dioxide cylinders used with wheeled extinguishers are tested every 5 years at 5/3 of the service pressure as stamped into the cylinder. Nitrogen cylinders which comply with 49 CFR 173.34(e)(15) may be hydrostatically tested every 10 years.
+(11) The employer shall assure that all stored pressure and Halon 1211 types of extinguishers are hydrostatically tested at the factory test pressure not to exceed two times the service pressure.
+(12) The employer shall assure that acceptable self-generating type soda acid and foam extinguishers are tested at 350 psi (2,410 kPa).
+(13) Air or gas pressure may not be used for hydrostatic testing.
+(14) Extinguisher shells, cylinders, or cartridges which fail a hydrostatic pressure test, or which are not fit for testing shall be removed from service and from the workplace.
+(15)(i) The equipment for testing compressed gas type cylinders shall be of the water jacket type. The equipment shall be provided with an expansion indicator which operates with an accuracy within one percent of the total expansion or .1cc (.1mL) of liquid.
+(ii) The equipment for testing non-compressed gas type cylinders shall consist of the following:
+(A) A hydrostatic test pump, hand or power operated, capable of producing not less than 150 percent of the test pressure, which shall include appropriate check valves and fittings;
+(B) A flexible connection for attachment to fittings to test through the extinguisher nozzle, test bonnet, or hose outlet, as is applicable; and
+(C) A protective cage or barrier for personal protection of the tester, designed to provide visual observation of the extinguisher under test.

@@ -1,0 +1,12 @@
+§ 1910.215 Abrasive wheel machinery.
+(iii) Type 27A cutting-off wheels are designed to be mounted by means of flat, not relieved, flanges having matching bearing surfaces and which may be less than one-third but shall not be less than one-fourth the wheel diameter. (See Figure O-24 for one such type of mounting.)
+(iv) There are three general types of flanges:
+( a ) Straight relieved flanges (see Figure O-32);
+( b ) Straight unrelieved flanges (see Figure O-30);
+( c ) Adaptor flanges (see Figures O-33 and O-34);
+(v) Regardless of flange type used, the wheel shall always be guarded. Blotters shall be used in accordance with paragraph (c)(6) of this section.
+EC27OC91.066 Figure No. O-24
+The Type 27 A Wheel is mounted between flat non-relieved flanges of equal bearing surfaces.
+(2) [Reserved]
+(3) Finish and balance. Flanges shall be dimensionally accurate and in good balance. There shall be no rough surfaces or sharp edges.
+(4) Uniformity of diameter. (i) Both flanges, of any type, between which a wheel is mounted, shall be of the same diameter and have equal bearing surface. Exceptions are set forth in the remaining subdivisions of this subparagraph.

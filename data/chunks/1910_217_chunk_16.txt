@@ -1,0 +1,12 @@
+§ 1910.217 Mechanical power presses.
+(iv) Type of safeguard(s) being used (two hand control, two hand trip, pullouts, sweeps, or other). If the safeguard is not described in this section, give a complete description.
+(v) Cause of the accident (repeat of press, safeguard failure, removing stuck part or scrap, no safeguard provided, no safeguard in use, or other).
+(vi) Type of feeding (manual with hands in dies or with hands out of dies, semiautomatic, automatic, or other).
+(vii) Means used to actuate press stroke (foot trip, foot control, hand trip, hand control, or other).
+(viii) Number of operators required for the operation and the number of operators provided with controls and safeguards.
+(h) Presence sensing device initiation (PSDI) —(1) General. (i) The requirements of paragraph (h) shall apply to all part revolution mechanical power presses used in the PSDI mode of operation.
+(ii) The relevant requirements of paragraphs (a) through (g) of this section also shall apply to all presses used in the PSDI mode of operation, whether or not cross referenced in this paragraph (h). Such cross-referencing of specific requirements from paragraphs (a) through (g) of this section is intended only to enhance convenience and understanding in relating to the new provisions to the existing standard, and is not to be construed as limiting the applicability of other provisions in paragraphs (a) through (g) of this section.
+(iii) Full revolution mechanical power presses shall not be used in the PSDI mode of operation.
+(iv) Mechanical power presses with a configuration which would allow a person to enter, pass through, and become clear of the sensing field into the hazardous portion of the press shall not be used in the PSDI mode of operation.
+(v) The PSDI mode of operation shall be used only for normal production operations. Die-setting and maintenance procedures shall comply with paragraphs (a) through (g) of this section, and shall not be done in the PSDI mode.
+(2) Brake and clutch requirements. (i) Presses with flexible steel band brakes or with mechanical linkage actuated brakes or clutches shall not be used in the PSDI mode.

@@ -1,0 +1,2 @@
+§ 1910.307 Hazardous (classified) locations.
+Division 2 location of the same class and group. General-purpose equipment or equipment in general-purpose enclosures may be installed in Division 2 locations if the employer can demonstrate that the equipment does not constitute a source of ignition under normal operating conditions. (f) Protection techniques. The following are acceptable protection techniques for electric and electronic equipment in hazardous (classified) locations.

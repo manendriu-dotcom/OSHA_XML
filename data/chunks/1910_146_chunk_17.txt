@@ -1,0 +1,18 @@
+§ 1910.146 Permit-required confined spaces.
+(i) An order to evacuate is given by the attendant or the entry supervisor,
+(ii) The entrant recognizes any warning sign or symptom of exposure to a dangerous situation,
+(iii) The entrant detects a prohibited condition, or
+(iv) An evacuation alarm is activated.
+(i) Duties of attendants. The employer shall ensure that each attendant:
+(1) Knows the hazards that may be faced during entry, including information on the mode, signs or symptoms, and consequences of the exposure;
+(2) Is aware of possible behavioral effects of hazard exposure in authorized entrants;
+(3) Continuously maintains an accurate count of authorized entrants in the permit space and ensures that the means used to identify authorized entrants under paragraph (f)(4) of this section accurately identifies who is in the permit space;
+(4) Remains outside the permit space during entry operations until relieved by another attendant;
+Note: Note: When the employer's permit entry program allows attendant entry for rescue, attendants may enter a permit space to attempt a rescue if they have been trained and equipped for rescue operations as required by paragraph (k)(1) of this section and if they have been relieved as required by paragraph (i)(4) of this section.
+(5) Communicates with authorized entrants as necessary to monitor entrant status and to alert entrants of the need to evacuate the space under paragraph (i)(6) of this section;
+(6) Monitors activities inside and outside the space to determine if it is safe for entrants to remain in the space and orders the authorized entrants to evacuate the permit space immediately under any of the following conditions;
+(i) If the attendant detects a prohibited condition;
+(ii) If the attendant detects the behavioral effects of hazard exposure in an authorized entrant;
+(iii) If the attendant detects a situation outside the space that could endanger the authorized entrants; or
+(iv) If the attendant cannot effectively and safely perform all the duties required under paragraph (i) of this section;
+(7) Summon rescue and other emergency services as soon as the attendant determines that authorized entrants may need assistance to escape from permit space hazards;

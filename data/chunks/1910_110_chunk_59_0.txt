@@ -1,0 +1,17 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+(12) General provisions applicable to systems in industrial plants (of 2,000 gallons water capacity and more) and to bulk filling plants. (i) When standard watch service is provided, it shall be extended to the LP-Gas installation and personnel properly trained.
+(ii) If loading and unloading are normally done during other than daylight hours, adequate lights shall be provided to illuminate storage containers, control valves, and other equipment.
+(iii) Suitable roadways or means of access for extinguishing equipment such as wheeled extinguishers or fire department apparatus shall be provided.
+(iv) To minimize trespassing or tampering, the area which includes container appurtenances, pumping equipment, loading and unloading facilities, and cylinder-filling facilities shall be enclosed with at least a 6-foot-high industrial type fence unless otherwise adequately protected. There shall be at least two means of emergency access.
+(13) Container-charging plants. (i) The container-charging room shall be located not less than:
+( a ) Ten feet from bulk storage containers.
+( b ) [Reserved]
+(ii) Tank truck filling station outlets shall be located not less than:
+( a ) [Reserved]
+( b ) Ten feet from pumps and compressors if housed in one or more separate buildings.
+(iii) The pumps or compressors may be located in the container-charging room or building, in a separate building, or outside of buildings. When housed in a separate building, such building (a small noncombustible weather cover is not to be construed as a building) shall be located not less than:
+( a ) Ten feet from bulk storage tanks.
+( b ) [Reserved]
+( c ) Twenty-five feet from sources of ignition.
+(iv) When a part of the container-charging building is to be used for a boiler room or where open flames or similar sources of ignition exist or are employed, the space to be so occupied shall be separated from container charging room by a partition wall or walls of fire-resistant construction continuous from floor to roof or ceiling. Such separation walls shall be without openings and shall be joined to the floor, other walls, and ceiling or roof in a manner to effect a permanent gas-tight joint.
+(v) Electrical equipment and installations shall conform with paragraphs (b) (17) and (18) of this section.

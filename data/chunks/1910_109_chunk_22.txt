@@ -1,0 +1,11 @@
+§ 1910.109 Explosives and blasting agents.
+( b ) A discharge hose shall be used that has a resistance range that will prevent conducting stray currents, but that is conductive enough to bleed off static buildup.
+( c ) A qualified person shall evaluate all systems to determine if they will adequately dissipate static under potential field conditions.
+(v) Repairs to bulk delivery vehicles shall conform to the requirements of this section.
+( a ) No welding or open flames shall be used on or around any part of the delivery equipment unless it has been completely washed down and all oxidizer material removed.
+( b ) Before welding or making repairs to hollow shafts, the shaft shall be thoroughly cleaned inside and out and vented with a minimum one-half-inch diameter opening.
+(4) Bulk storage bins. (i) The bin, including supports, shall be constructed of compatible materials, waterproof, and adequately supported and braced to withstand the combination of all loads including impact forces arising from product movement within the bin and accidental vehicle contact with the support legs.
+(ii) The bin discharge gate shall be designed to provide a closure tight enough to prevent leakage of the stored product. Provision shall also be made so that the gate can be locked.
+(iii) Bin loading manways or access hatches shall be hinged or otherwise attached to the bin and be designed to permit locking.
+(iv) Any electrically driven conveyors for loading or unloading bins shall conform to the requirements of subpart S of this part. They shall be designed to minimize damage from corrosion.
+(v) Bins containing blasting agent shall be located, with respect to inhabited buildings, passenger railroads, and public highways, in accordance with Table-21 and separation from other blasting agent storage and explosives storage shall be in conformity with Table H-22.

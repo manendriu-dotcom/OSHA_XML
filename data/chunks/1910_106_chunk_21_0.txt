@@ -1,0 +1,10 @@
+§ 1910.106 Flammable liquids.
+(v) Tank openings other than vents. ( a ) Connections for all tank openings shall be vapor or liquid tight.
+( b ) Openings for manual gaging, if independent of the fill pipe, shall be provided with a liquid-tight cap or cover. If inside a building, each such opening shall be protected against liquid overflow and possible vapor release by means of a spring loaded check valve or other approved device.
+( c ) Fill and discharge lines shall enter tanks only through the top. Fill lines shall be sloped toward the tank.
+( d ) For Category 2 flammable liquids and Category 3 flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C), other than crude oils, gasolines, and asphalts, the fill pipe shall be so designed and installed as to minimize the possibility of generating static electricity by terminating within 6 inches of the bottom of the tank.
+( e ) Filling and emptying connections which are made and broken shall be located outside of buildings at a location free from any source of ignition and not less than 5 feet away from any building opening. Such connection shall be closed and liquidtight when not in use. The connection shall be properly identified.
+(4) Installation of tanks inside of buildings —(i) Location. Tanks shall not be permitted inside of buildings except as provided in paragraphs (e), (g), (h), or (i) of this section.
+(ii) Vents. Vents for tanks inside of buildings shall be as provided in subparagraphs (2) (iv), (v), (vi)( b ), and (3)(iv) of this paragraph, except that emergency venting by the use of weak roof seams on tanks shall not be permitted. Vents shall discharge vapors outside the buildings.
+(iii) Vent piping. Vent piping shall be constructed in accordance with paragraph (c) of this section.
+(iv) Tank openings other than vents. ( a ) Connections for all tank openings shall be vapor or liquidtight. Vents are covered in subdivision (ii) of this subparagraph.

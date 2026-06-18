@@ -1,0 +1,13 @@
+§ 1910.106 Flammable liquids.
+(29) Safety can shall mean an approved container, of not more than 5 gallons capacity, having a spring-closing lid and spout cover and so designed that it will safely relieve internal pressure when subjected to fire exposure.
+(30) Vapor pressure shall mean the pressure, measured in pounds per square inch (absolute) exerted by a volatile liquid as determined by the "Standard Method of Test for Vapor Pressure of Petroleum Products (Reid Method)," American Society for Testing and Materials ASTM D323-68, which is incorporated by reference as specified in § 1910.6.
+(31) Ventilation as specified in this section is for the prevention of fire and explosion. It is considered adequate if it is sufficient to prevent accumulation of significant quantities of vapor-air mixtures in concentration over one-fourth of the lower flammable limit.
+(32) Storage: Flammable liquids shall be stored in a tank or in a container that complies with paragraph (d)(2) of this section.
+(33) Barrel shall mean a volume of 42 U.S. gallons.
+(34) Container shall mean any can, barrel, or drum.
+(35) Approved unless otherwise indicated, approved, or listed by a nationally recognized testing laboratory. Refer to § 1910.7 for definition of nationally recognized testing laboratory.
+(36) Listed see "approved" in § 1910.106(a)(35).
+(37) SUS means Saybolt Universal Seconds as determined by the Standard Method of Test for Saybolt Viscosity (ASTM D-88-56), and may be determined by use of the SUS conversion tables specified in ASTM Method D2161-66 following determination of viscosity in accordance with the procedures specified in the Standard Method of Test for Viscosity of Transparent and Opaque Liquids (ASTM D445-65).
+(38) Viscous means a viscosity of 45 SUS or more.
+(b) Tank storage —(1) Design and construction of tanks —(i) Materials. ( a ) Tanks shall be built of steel except as provided in paragraphs (b)(1)(i) ( b ) through ( e ) of this section.
+( b ) Tanks may be built of materials other than steel for installation underground or if required by the properties of the liquid stored. Tanks located above ground or inside buildings shall be of noncombustible construction.

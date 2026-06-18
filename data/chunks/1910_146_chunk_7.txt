@@ -1,0 +1,12 @@
+§ 1910.146 Permit-required confined spaces.
+(E) The determinations and supporting data required by paragraphs (c)(5)(i)(A), (c)(5)(i)(B), and (c)(5)(i)(C) of this section are documented by the employer and are made available to each employee who enters the permit space under the terms of paragraph (c)(5) of this section or to that employee's authorized representative; and
+(F) Entry into the permit space under the terms of paragraph (c)(5)(i) of this section is performed in accordance with the requirements of paragraph (c)(5)(ii) of this section.
+Note: Note: See paragraph (c)(7) of this section for reclassification of a permit space after all hazards within the space have been eliminated.
+(ii) The following requirements apply to entry into permit spaces that meet the conditions set forth in paragraph (c)(5)(i) of this section.
+(A) Any conditions making it unsafe to remove an entrance cover shall be eliminated before the cover is removed.
+(B) When entrance covers are removed, the opening shall be promptly guarded by a railing, temporary cover, or other temporary barrier that will prevent an accidental fall through the opening and that will protect each employee working in the space from foreign objects entering the space.
+(C) Before an employee enters the space, the internal atmosphere shall be tested, with a calibrated direct-reading instrument, for oxygen content, for flammable gases and vapors, and for potential toxic air contaminants, in that order. Any employee who enters the space, or that employee's authorized representative, shall be provided an opportunity to observe the pre-entry testing required by this paragraph.
+(D) There may be no hazardous atmosphere within the space whenever any employee is inside the space.
+(E) Continuous forced air ventilation shall be used, as follows:
+( 1 ) An employee may not enter the space until the forced air ventilation has eliminated any hazardous atmosphere;
+( 2 ) The forced air ventilation shall be so directed as to ventilate the immediate areas where an employee is or will be present within the space and shall continue until all employees have left the space;

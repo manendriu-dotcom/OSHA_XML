@@ -1,0 +1,17 @@
+§ 1910.211 Definitions.
+(19) Die builder means any person who builds dies for power presses.
+(20) Die set means a tool holder held in alignment by guide posts and bushings and consisting of a lower shoe, an upper shoe or punch holder, and guide posts and bushings.
+(21) Die setter means an individual who places or removes dies in or from mechanical power presses, and who, as a part of his duties, makes the necessary adjustments to cause the tooling to function properly and safely.
+(22) Die setting means the process of placing or removing dies in or from a mechanical power press, and the process of adjusting the dies, other tooling and safeguarding means to cause them to function properly and safely.
+(23) Die shoe means a plate or block upon which a die holder is mounted. A die shoe functions primarily as a base for the complete die assembly, and, when used, is bolted or clamped to the bolster plate or the face of slide.
+(24) Ejector means a mechanism for removing work or material from between the dies.
+(25) Face of slide means the bottom surface of the slide to which the punch or upper die is generally attached.
+(26) Feeding means the process of placing or removing material within or from the point of operation.
+(27) Automatic feeding means feeding wherein the material or part being processed is placed within or removed from the point of operation by a method or means not requiring action by an operator on each stroke of the press.
+(28) Semiautomatic feeding means feeding wherein the material or part being processed is placed within or removed from the point of operation by an auxiliary means controlled by operator on each stroke of the press.
+(29) Manual feeding means feeding wherein the material or part being processed is handled by the operator on each stroke of the press.
+(30) Foot control means the foot operated control mechanism designed to be used with a clutch or clutch/brake control system.
+(31) Foot pedal means the foot operated lever designed to operate the mechanical linkage that trips a full revolution clutch.
+(32) Guard means a barrier that prevents entry of the operator's hands or fingers into the point of operation.
+(33) Die enclosure guard means an enclosure attached to the die shoe or stripper, or both, in a fixed position.
+(34) Fixed barrier guard means a die space barrier attached to the press frame.

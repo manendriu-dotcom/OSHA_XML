@@ -1,0 +1,12 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+(iii) Backpack power unit engines shall be stopped for all cleaning, refueling, adjustments, and repairs to the saw or motor, except as the manufacturer's servicing procedures require otherwise.
+(7) Rope. (i) Climbing ropes shall be used by employees working aloft in trees. These ropes shall have a minimum diameter of 12 millimeters (0.5 inch) with a minimum breaking strength of 10.2 kilonewtons (2,300 pounds). Synthetic rope shall have elasticity of not more than 7 percent.
+(ii) Rope shall be inspected before each use and, if unsafe (for example, because of damage or defect), may not be used.
+(iii) Rope shall be stored away from cutting edges and sharp tools. Rope contact with corrosive chemicals, gas, and oil shall be avoided.
+(iv) When stored, rope shall be coiled and piled, or shall be suspended, so that air can circulate through the coils.
+(v) Rope ends shall be secured to prevent their unraveling.
+(vi) Climbing rope may not be spliced to effect repair.
+(vii) A rope that is wet, that is contaminated to the extent that its insulating capacity is impaired, or that is otherwise not considered to be insulated for the voltage involved may not be used near exposed energized lines.
+(8) Fall protection. Each employee shall be tied in with a climbing rope and safety saddle when the employee is working above the ground in a tree, unless he or she is ascending into the tree.
+(s) Communication facilities —(1) Microwave transmission. (i) The employer shall ensure that no employee looks into an open waveguide or antenna connected to an energized microwave source.
+(ii) If the electromagnetic-radiation level within an accessible area associated with microwave communications systems exceeds the radiation-protection guide specified by § 1910.97(a)(2), the employer shall post the area with warning signs containing the warning symbol described in § 1910.97(a)(3). The lower half of the warning symbol shall include the following statements, or ones that the employer can demonstrate are equivalent: "Radiation in this area may exceed hazard limitations and special precautions are required. Obtain specific instruction before entering."

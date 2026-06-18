@@ -1,0 +1,15 @@
+§ 1910.335 Safeguards for personnel protection.
+(ii) Protective shields, protective barriers, or insulating materials shall be used to protect each employee from shock, burns, or other electrically related injuries while that employee is working near exposed energized parts which might be accidentally contacted or where dangerous electric heating or arcing might occur. When normally enclosed live parts are exposed for maintenance or repair, they shall be guarded to protect unqualified persons from contact with the live parts.
+(b) Alerting techniques. The following alerting techniques shall be used to warn and protect employees from hazards which could cause injury due to electric shock, burns, or failure of electric equipment parts:
+(1) Safety signs and tags. Safety signs, safety symbols, or accident prevention tags shall be used where necessary to warn employees about electrical hazards which may endanger them, as required by § 1910.145.
+(2) Barricades. Barricades shall be used in conjunction with safety signs where it is necessary to prevent or limit employee access to work areas exposing employees to uninsulated energized conductors or circuit parts. Conductive barricades may not be used where they might cause an electrical contact hazard.
+(3) Attendants. If signs and barricades do not provide sufficient warning and protection from electrical hazards, an attendant shall be stationed to warn and protect employees.
+
+§§ 1910.336-1910.360
+[Reserved]
+
+§§ 1910.361-1910.380
+[Reserved]
+
+§§ 1910.381-1910.398
+[Reserved]

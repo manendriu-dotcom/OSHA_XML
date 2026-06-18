@@ -1,0 +1,710 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+(B) If live parts operating at 151 to 600 volts to ground and located within 2.4 meters (8 feet) of the ground or other working surface inside the room or other space are guarded only by location, as permitted under paragraph (v)(5)(i) of this section, or
+(C) If live parts operating at more than 600 volts to ground are within the room or other space, unless:
+( 1 ) The live parts are enclosed within grounded, metal-enclosed equipment whose only openings are designed so that foreign objects inserted in these openings will be deflected from energized parts, or
+( 2 The live parts are installed at a height, above ground and any other working surface, that provides protection at the voltage on the live parts corresponding to the protection provided by a 2.4-meter (8-foot) height at 50 volts.
+(ii) Fences, screens, partitions, or walls shall enclose the rooms and other spaces so as to minimize the possibility that unqualified persons will enter.
+(iii) Unqualified persons may not enter the rooms or other spaces while the electric supply lines or equipment are energized.
+(iv) The employer shall display signs at entrances to the rooms and other spaces warning unqualified persons to keep out.
+(v) The employer shall keep each entrance to a room or other space locked, unless the entrance is under the observation of a person who is attending the room or other space for the purpose of preventing unqualified employees from entering.
+(5) Guarding of energized parts. (i) The employer shall provide guards around all live parts operating at more than 150 volts to ground without an insulating covering unless the location of the live parts gives sufficient clearance (horizontal, vertical, or both) to minimize the possibility of accidental employee contact.
+Note: Note to paragraph ( v )(5)( i ): American National Standard National Electrical Safety Code, ANSI/IEEE C2-2002 contains guidelines for the dimensions of clearance distances about electric equipment in substations. Installations meeting the ANSI provisions comply with paragraph (v)(5)(i) of this section. The Occupational Safety and Health Administration will determine whether an installation that does not conform to this ANSI standard complies with paragraph (v)(5)(i) of this section based on the following criteria: (1) Whether the installation conforms to the edition of ANSI C2 that was in effect when the installation was made; (2) Whether each employee is isolated from energized parts at the point of closest approach; and (3) Whether the precautions taken when employees perform work on the installation provide protection equivalent to the protection provided by horizontal and vertical clearances meeting ANSI/IEEE C2-2002.
+(ii) Except for fuse replacement and other necessary access by qualified persons, the employer shall maintain guarding of energized parts within a compartment during operation and maintenance functions to prevent accidental contact with energized parts and to prevent dropped tools or other equipment from contacting energized parts.
+(iii) Before guards are removed from energized equipment, the employer shall install barriers around the work area to prevent employees who are not working on the equipment, but who are in the area, from contacting the exposed live parts.
+(6) Water or steam spaces. The following requirements apply to work in water and steam spaces associated with boilers:
+(i) A designated employee shall inspect conditions before work is permitted and after its completion. Eye protection, or full face protection if necessary, shall be worn at all times when condenser, heater, or boiler tubes are being cleaned.
+(ii) Where it is necessary for employees to work near tube ends during cleaning, shielding shall be installed at the tube ends.
+(7) Chemical cleaning of boilers and pressure vessels. The following requirements apply to chemical cleaning of boilers and pressure vessels:
+(i) Areas where chemical cleaning is in progress shall be cordoned off to restrict access during cleaning. If flammable liquids, gases, or vapors or combustible materials will be used or might be produced during the cleaning process, the following requirements also apply:
+(A) The area shall be posted with signs restricting entry and warning of the hazards of fire and explosion; and
+(B) Smoking, welding, and other possible ignition sources are prohibited in these restricted areas.
+(ii) The number of personnel in the restricted area shall be limited to those necessary to accomplish the task safely.
+(iii) There shall be ready access to water or showers for emergency use.
+Note: Note to paragraph ( v )(7)( iii ): See § 1910.141 for requirements that apply to the water supply and to washing facilities.
+(iv) Employees in restricted areas shall wear protective equipment meeting the requirements of Subpart I of this part and including, but not limited to, protective clothing, boots, goggles, and gloves.
+(8) Chlorine systems. (i) Chlorine system enclosures shall be posted with signs restricting entry and warning of the hazard to health and the hazards of fire and explosion.
+Note: Note to paragraph ( v )(8)( i ): See subpart Z of this part for requirements necessary to protect the health of employees from the effects of chlorine.
+(ii) Only designated employees may enter the restricted area. Additionally, the number of personnel shall be limited to those necessary to accomplish the task safely.
+(iii) Emergency repair kits shall be available near the shelter or enclosure to allow for the prompt repair of leaks in chlorine lines, equipment, or containers.
+(iv) Before repair procedures are started, chlorine tanks, pipes, and equipment shall be purged with dry air and isolated from other sources of chlorine.
+(v) The employer shall ensure that chlorine is not mixed with materials that would react with the chlorine in a dangerously exothermic or other hazardous manner.
+(9) Boilers. (i) Before internal furnace or ash hopper repair work is started, overhead areas shall be inspected for possible falling objects. If the hazard of falling objects exists, overhead protection such as planking or nets shall be provided.
+(ii) When opening an operating boiler door, employees shall stand clear of the opening of the door to avoid the heat blast and gases which may escape from the boiler.
+(10) Turbine generators. (i) Smoking and other ignition sources are prohibited near hydrogen or hydrogen sealing systems, and signs warning of the danger of explosion and fire shall be posted.
+(ii) Excessive hydrogen makeup or abnormal loss of pressure shall be considered as an emergency and shall be corrected immediately.
+(iii) A sufficient quantity of inert gas shall be available to purge the hydrogen from the largest generator.
+(11) Coal and ash handling. (i) Only designated persons may operate railroad equipment.
+(ii) Before a locomotive or locomotive crane is moved, a warning shall be given to employees in the area.
+(iii) Employees engaged in switching or dumping cars may not use their feet to line up drawheads.
+(iv) Drawheads and knuckles may not be shifted while locomotives or cars are in motion.
+(v) When a railroad car is stopped for unloading, the car shall be secured from displacement that could endanger employees.
+(vi) An emergency means of stopping dump operations shall be provided at railcar dumps.
+(vii) The employer shall ensure that employees who work in coal- or ash-handling conveyor areas are trained and knowledgeable in conveyor operation and in the requirements of paragraphs (v)(11)(viii) through (v)(11)(xii) of this section.
+(viii) Employees may not ride a coal- or ash-handling conveyor belt at any time. Employees may not cross over the conveyor belt, except at walkways, unless the conveyor's energy source has been deenergized and has been locked out or tagged in accordance with paragraph (d) of this section.
+(ix) A conveyor that could cause injury when started may not be started until personnel in the area are alerted by a signal or by a designated person that the conveyor is about to start.
+(x) If a conveyor that could cause injury when started is automatically controlled or is controlled from a remote location, an audible device shall be provided that sounds an alarm that will be recognized by each employee as a warning that the conveyor will start and that can be clearly heard at all points along the conveyor where personnel may be present. The warning device shall be actuated by the device starting the conveyor and shall continue for a period of time before the conveyor starts that is long enough to allow employees to move clear of the conveyor system. A visual warning may be used in place of the audible device if the employer can demonstrate that it will provide an equally effective warning in the particular circumstances involved. However if the employer can demonstrate that the system's function would be seriously hindered by the required time delay, warning signs may be provided in place of the audible warning device. If the system was installed before January 31, 1995, warning signs may be provided in place of the audible warning device until such time as the conveyor or its control system is rebuilt or rewired. These warning signs shall be clear, concise, and legible and shall indicate that conveyors and allied equipment may be started at any time, that danger exists, and that personnel must keep clear. These warning signs shall be provided along the conveyor at areas not guarded by position or location.
+(xi) Remotely and automatically controlled conveyors, and conveyors that have operating stations which are not manned or which are beyond voice and visual contact from drive areas, loading areas, transfer points, and other locations on the conveyor path not guarded by location, position, or guards shall be furnished with emergency stop buttons, pull cords, limit switches, or similar emergency stop devices. However, if the employer can demonstrate that the design, function, and operation of the conveyor do not expose an employee to hazards, an emergency stop device is not required.
+(A) Emergency stop devices shall be easily identifiable in the immediate vicinity of such locations.
+(B) An emergency stop device shall act directly on the control of the conveyor involved and may not depend on the stopping of any other equipment.
+(C) Emergency stop devices shall be installed so that they cannot be overridden from other locations.
+(xii) Where coal-handling operations may produce a combustible atmosphere from fuel sources or from flammable gases or dust, sources of ignition shall be eliminated or safely controlled to prevent ignition of the combustible atmosphere.
+Note: Note to paragraph ( v )(11)( xii ): Locations that are hazardous because of the presence of combustible dust are classified as Class II hazardous locations. See § 1910.307.
+(xiii) An employee may not work on or beneath overhanging coal in coal bunkers, coal silos, or coal storage areas, unless the employee is protected from all hazards posed by shifting coal.
+(xiv) An employee entering a bunker or silo to dislodge the contents shall wear a body harness with lifeline attached. The lifeline shall be secured to a fixed support outside the bunker and shall be attended at all times by an employee located outside the bunker or facility.
+(12) Hydroplants and equipment. Employees working on or close to water gates, valves, intakes, forebays, flumes, or other locations where increased or decreased water flow or levels may pose a significant hazard shall be warned and shall vacate such dangerous areas before water flow changes are made.
+(w) Special conditions —(1) Capacitors. The following additional requirements apply to work on capacitors and on lines connected to capacitors.
+Note: Note to paragraph ( w )(1): See paragraphs (m) and (n) of this section for requirements pertaining to the deenergizing and grounding of capacitor installations.
+(i) Before employees work on capacitors, the employer shall disconnect the capacitors from energized sources and short circuit the capacitors. The employer shall ensure that the employee short circuiting the capacitors waits at least 5 minutes from the time of disconnection before applying the short circuit,
+(ii) Before employees handle the units, the employer shall short circuit each unit in series-parallel capacitor banks between all terminals and the capacitor case or its rack. If the cases of capacitors are on ungrounded substation racks, the employer shall bond the racks to ground.
+(iii) The employer shall short circuit any line connected to capacitors before the line is treated as deenergized.
+(2) Current transformer secondaries. The employer shall ensure that employees do not open the secondary of a current transformer while the transformer is energized. If the employer cannot deenergize the primary of the current transformer before employees perform work on an instrument, a relay, or other section of a current transformer secondary circuit, the employer shall bridge the circuit so that the current transformer secondary does not experience an open-circuit condition.
+(3) Series streetlighting. (i) If the open-circuit voltage exceeds 600 volts, the employer shall ensure that employees work on series streetlighting circuits in accordance with paragraph (q) or (t) of this section, as appropriate.
+(ii) Before any employee opens a series loop, the employer shall deenergize the streetlighting transformer and isolate it from the source of supply or shall bridge the loop to avoid an open-circuit condition.
+(4) Illumination. The employer shall provide sufficient illumination to enable the employee to perform the work safely.
+(5) Protection against drowning. (i) Whenever an employee may be pulled or pushed, or might fall, into water where the danger of drowning exists, the employer shall provide the employee with, and shall ensure that the employee uses, a U.S. Coast Guard-approved personal flotation device.
+(ii) The employer shall maintain each personal flotation device in safe condition and shall inspect each personal flotation device frequently enough to ensure that it does not have rot, mildew, water saturation, or any other condition that could render the device unsuitable for use.
+(iii) An employee may cross streams or other bodies of water only if a safe means of passage, such as a bridge, is available.
+(6) Employee protection in public work areas. (i) Traffic-control signs and traffic-control devices used for the protection of employees shall meet § 1926.200(g)(2) of this chapter.
+(ii) Before employees begin work in the vicinity of vehicular or pedestrian traffic that may endanger them, the employer shall place warning signs or flags and other traffic-control devices in conspicuous locations to alert and channel approaching traffic.
+(iii) The employer shall use barricades where additional employee protection is necessary.
+(iv) The employer shall protect excavated areas with barricades.
+(v) The employer shall display warning lights prominently at night.
+(7) Backfeed. When there is a possibility of voltage backfeed from sources of cogeneration or from the secondary system (for example, backfeed from more than one energized phase feeding a common load), the requirements of paragraph (l) of this section apply if employees will work the lines or equipment as energized, and the requirements of paragraphs (m) and (n) of this section apply if employees will work the lines or equipment as deenergized.
+(8) Lasers. The employer shall install, adjust, and operate laser equipment in accordance with § 1926.54 of this chapter.
+(9) Hydraulic fluids. Hydraulic fluids used for the insulated sections of equipment shall provide insulation for the voltage involved.
+(x) Definitions.
+Affected employee. An employee whose job requires him or her to operate or use a machine or equipment on which servicing or maintenance is being performed under lockout or tagout, or whose job requires him or her to work in an area in which such servicing or maintenance is being performed.
+Attendant. An employee assigned to remain immediately outside the entrance to an enclosed or other space to render assistance as needed to employees inside the space.
+Authorized employee. An employee who locks out or tags out machines or equipment in order to perform servicing or maintenance on that machine or equipment. An affected employee becomes an authorized employee when that employee's duties include performing servicing or maintenance covered under this section.
+Automatic circuit recloser. A self-controlled device for automatically interrupting and reclosing an alternating-current circuit, with a predetermined sequence of opening and reclosing followed by resetting, hold closed, or lockout.
+Barricade. A physical obstruction such as tapes, cones, or A-frame type wood or metal structures that provides a warning about, and limits access to, a hazardous area.
+Barrier. A physical obstruction that prevents contact with energized lines or equipment or prevents unauthorized access to a work area.
+Bond. The electrical interconnection of conductive parts designed to maintain a common electric potential.
+Bus. A conductor or a group of conductors that serve as a common connection for two or more circuits.
+Bushing. An insulating structure that includes a through conductor or that provides a passageway for such a conductor, and that, when mounted on a barrier, insulates the conductor from the barrier for the purpose of conducting current from one side of the barrier to the other.
+Cable. A conductor with insulation, or a stranded conductor with or without insulation and other coverings (single-conductor cable), or a combination of conductors insulated from one another (multiple-conductor cable).
+Cable sheath. A conductive protective covering applied to cables.
+Note: Note to the definition of "cable sheath": A cable sheath may consist of multiple layers one or more of which is conductive.
+Circuit. A conductor or system of conductors through which an electric current is intended to flow.
+Clearance (between objects). The clear distance between two objects measured surface to surface.
+Clearance (for work). Authorization to perform specified work or permission to enter a restricted area.
+Communication lines. (See Lines; (1) Communication lines. )
+Conductor. A material, usually in the form of a wire, cable, or bus bar, used for carrying an electric current.
+Contract employer. An employer, other than a host employer, that performs work covered by this section under contract.
+Covered conductor. A conductor covered with a dielectric having no rated insulating strength or having a rated insulating strength less than the voltage of the circuit in which the conductor is used.
+Current-carrying part. A conducting part intended to be connected in an electric circuit to a source of voltage. Non-current-carrying parts are those not intended to be so connected.
+Deenergized. Free from any electrical connection to a source of potential difference and from electric charge; not having a potential that is different from the potential of the earth.
+Note: Note to the definition of "deenergized": The term applies only to current-carrying parts, which are sometimes energized (alive).
+Designated employee (designated person). An employee (or person) who is assigned by the employer to perform specific duties under the terms of this section and who has sufficient knowledge of the construction and operation of the equipment, and the hazards involved, to perform his or her duties safely.
+Electric line truck. A truck used to transport personnel, tools, and material for electric supply line work.
+Electric supply equipment. Equipment that produces, modifies, regulates, controls, or safeguards a supply of electric energy.
+Electric supply lines. (See Lines; (2) Electric supply lines. )
+Electric utility. An organization responsible for the installation, operation, or maintenance of an electric supply system.
+Enclosed space. A working space, such as a manhole, vault, tunnel, or shaft, that has a limited means of egress or entry, that is designed for periodic employee entry under normal operating conditions, and that, under normal conditions, does not contain a hazardous atmosphere, but may contain a hazardous atmosphere under abnormal conditions.
+Note: Note to the definition of "enclosed space": The Occupational Safety and Health Administration does not consider spaces that are enclosed but not designed for employee entry under normal operating conditions to be enclosed spaces for the purposes of this section. Similarly, the Occupational Safety and Health Administration does not consider spaces that are enclosed and that are expected to contain a hazardous atmosphere to be enclosed spaces for the purposes of this section. Such spaces meet the definition of permit spaces in § 1910.146, and entry into them must conform to that standard.
+Energized (alive, live). Electrically connected to a source of potential difference, or electrically charged so as to have a potential significantly different from that of earth in the vicinity.
+Energy isolating device. A physical device that prevents the transmission or release of energy, including, but not limited to, the following: a manually operated electric circuit breaker, a disconnect switch, a manually operated switch, a slide gate, a slip blind, a line valve, blocks, and any similar device with a visible indication of the position of the device. (Push buttons, selector switches, and other control-circuit-type devices are not energy isolating devices.)
+Energy source. Any electrical, mechanical, hydraulic, pneumatic, chemical, nuclear, thermal, or other energy source that could cause injury to employees.
+Entry (as used in paragraph (e) of this section). The action by which a person passes through an opening into an enclosed space. Entry includes ensuing work activities in that space and is considered to have occurred as soon as any part of the entrant's body breaks the plane of an opening into the space.
+Equipment (electric). A general term including material, fittings, devices, appliances, fixtures, apparatus, and the like used as part of or in connection with an electrical installation.
+Exposed, Exposed to contact (as applied to energized parts). Not isolated or guarded.
+Fall restraint system. A fall protection system that prevents the user from falling any distance.
+First-aid training. Training in the initial care, including cardiopulmonary resuscitation (which includes chest compressions, rescue breathing, and, as appropriate, other heart and lung resuscitation techniques), performed by a person who is not a medical practitioner, of a sick or injured person until definitive medical treatment can be administered.
+Ground. A conducting connection, whether planned or unplanned, between an electric circuit or equipment and the earth, or to some conducting body that serves in place of the earth.
+Grounded. Connected to earth or to some conducting body that serves in place of the earth.
+Guarded. Covered, fenced, enclosed, or otherwise protected, by means of suitable covers or casings, barrier rails or screens, mats, or platforms, designed to minimize the possibility, under normal conditions, of dangerous approach or inadvertent contact by persons or objects.
+Note: Note to the definition of "guarded": Wires that are insulated, but not otherwise protected, are not guarded.
+Hazardous atmosphere. An atmosphere that may expose employees to the risk of death, incapacitation, impairment of ability to self-rescue (that is, escape unaided from an enclosed space), injury, or acute illness from one or more of the following causes:
+(1) Flammable gas, vapor, or mist in excess of 10 percent of its lower flammable limit (LFL);
+(2) Airborne combustible dust at a concentration that meets or exceeds its LFL;
+Note: Note to the definition of "hazardous atmosphere" (2): This concentration may be approximated as a condition in which the dust obscures vision at a distance of 1.52 meters (5 feet) or less.
+(3) Atmospheric oxygen concentration below 19.5 percent or above 23.5 percent;
+(4) Atmospheric concentration of any substance for which a dose or a permissible exposure limit is published in subpart G, Occupational Health and Environmental Control, or in Subpart Z, Toxic and Hazardous Substances, of this part and which could result in employee exposure in excess of its dose or permissible exposure limit;
+Note: Note to the definition of "hazardous atmosphere" (4): An atmospheric concentration of any substance that is not capable of causing death, incapacitation, impairment of ability to self-rescue, injury, or acute illness due to its health effects is not covered by this provision.
+(5) Any other atmospheric condition that is immediately dangerous to life or health.
+Note: Note to the definition of "hazardous atmosphere" (5): For air contaminants for which the Occupational Safety and Health Administration has not determined a dose or permissible exposure limit, other sources of information, such as Material Safety Data Sheets that comply with the Hazard Communication Standard, § 1910.1200, published information, and internal documents can provide guidance in establishing acceptable atmospheric conditions.
+High-power tests. Tests in which the employer uses fault currents, load currents, magnetizing currents, and line-dropping currents to test equipment, either at the equipment's rated voltage or at lower voltages.
+High-voltage tests. Tests in which the employer uses voltages of approximately 1,000 volts as a practical minimum and in which the voltage source has sufficient energy to cause injury.
+High wind. A wind of such velocity that one or more of the following hazards would be present:
+(1) The wind could blow an employee from an elevated location,
+(2) The wind could cause an employee or equipment handling material to lose control of the material, or
+(3) The wind would expose an employee to other hazards not controlled by the standard involved.
+Note: Note to the definition of "high wind": The Occupational Safety and Health Administration normally considers winds exceeding 64.4 kilometers per hour (40 miles per hour), or 48.3 kilometers per hour (30 miles per hour) if the work involves material handling, as meeting this criteria, unless the employer takes precautions to protect employees from the hazardous effects of the wind.
+Host employer. An employer that operates, or that controls the operating procedures for, an electric power generation, transmission, or distribution installation on which a contract employer is performing work covered by this section.
+Note: Note to the definition of "host employer": The Occupational Safety and Health Administration will treat the electric utility or the owner of the installation as the host employer if it operates or controls operating procedures for the installation. If the electric utility or installation owner neither operates nor controls operating procedures for the installation, the Occupational Safety and Health Administration will treat the employer that the utility or owner has contracted with to operate or control the operating procedures for the installation as the host employer. In no case will there be more than one host employer.
+Immediately dangerous to life or health (IDLH). Any condition that poses an immediate or delayed threat to life or that would cause irreversible adverse health effects or that would interfere with an individual's ability to escape unaided from a permit space.
+Note: Note to the definition of "immediately dangerous to life or health": Some materials—hydrogen fluoride gas and cadmium vapor, for example—may produce immediate transient effects that, even if severe, may pass without medical attention, but are followed by sudden, possibly fatal collapse 12-72 hours after exposure. The victim "feels normal" from recovery from transient effects until collapse. Such materials in hazardous quantities are considered to be "immediately" dangerous to life or health.
+Insulated. Separated from other conducting surfaces by a dielectric (including air space) offering a high resistance to the passage of current.
+Note: Note to the definition of "insulated": When any object is said to be insulated, it is understood to be insulated for the conditions to which it normally is subjected. Otherwise, it is, for the purpose of this section, uninsulated.
+Insulation (cable). Material relied upon to insulate the conductor from other conductors or conducting parts or from ground.
+Isolated. Not readily accessible to persons unless special means for access are used.
+Line-clearance tree trimmer. An employee who, through related training or on-the-job experience or both, is familiar with the special techniques and hazards involved in line-clearance tree trimming.
+Note: Note 1 to the definition of "line-clearance tree trimmer": An employee who is regularly assigned to a line-clearance tree-trimming crew and who is undergoing on-the-job training and who, in the course of such training, has demonstrated an ability to perform duties safely at his or her level of training and who is under the direct supervision of a line-clearance tree trimmer is considered to be a line-clearance tree trimmer for the performance of those duties.
+Note: Note 2 to the definition of "line-clearance tree trimmer": A line-clearance tree trimmer is not considered to be a "qualified employee" under this section unless he or she has the training required for a qualified employee under paragraph (a)(2)(ii) of this section. However, under the electrical safety-related work practices standard in subpart S of this part, a line-clearance tree trimmer is considered to be a "qualified employee." Tree trimming performed by such "qualified employees" is not subject to the electrical safety-related work practice requirements contained in §§ 1910.331 through 1910.335 when it is directly associated with electric power generation, transmission, or distribution lines or equipment. (See § 1910.331 for requirements on the applicability of the electrical safety-related work practice requirements contained in §§ 1910.331 through 1910.335 to line-clearance tree trimming performed by such "qualified employees," and see the note following § 1910.332(b)(3) for information regarding the training an employee must have to be considered a qualified employee under §§ 1910.331 through 1910.335.)
+Line-clearance tree trimming. The pruning, trimming, repairing, maintaining, removing, or clearing of trees, or the cutting of brush, that is within the following distance of electric supply lines and equipment:
+(1) For voltages to ground of 50 kilovolts or less—3.05 meters (10 feet);
+(2) For voltages to ground of more than 50 kilovolts—3.05 meters (10 feet) plus 0.10 meters (4 inches) for every 10 kilovolts over 50 kilovolts.
+Note: Note to the definition of "line-clearance tree trimming": This section applies only to line-clearance tree trimming performed for the purpose of clearing space around electric power generation, transmission, or distribution lines or equipment and on behalf of an organization that operates, or that controls the operating procedures for, those lines or equipment. See paragraph (a)(1) of this section. Tree trimming performed on behalf of a homeowner or commercial entity other than an organization that operates, or that controls the operating procedures for, electric power generation, transmission, or distribution lines or equipment is not directly associated with an electric power generation, transmission, or distribution installation and is outside the scope of this section. In addition, tree trimming that is not for the purpose of clearing space around electric power generation, transmission, or distribution lines or equipment is not directly associated with an electric power generation, transmission, or distribution installation and is outside the scope of this section. Such tree trimming may be covered by other applicable standards. See, for example, §§ 1910.268 and 1910.331 through 1910.335.
+Lines —(1) Communication lines. The conductors and their supporting or containing structures which are used for public or private signal or communication service, and which operate at potentials not exceeding 400 volts to ground or 750 volts between any two points of the circuit, and the transmitted power of which does not exceed 150 watts. If the lines are operating at less than 150 volts, no limit is placed on the transmitted power of the system. Under certain conditions, communication cables may include communication circuits exceeding these limitations where such circuits are also used to supply power solely to communication equipment.
+Note: Note to the definition of "communication lines": Telephone, telegraph, railroad signal, data, clock, fire, police alarm, cable television, and other systems conforming to this definition are included. Lines used for signaling purposes, but not included under this definition, are considered as electric supply lines of the same voltage.
+(2) Electric supply lines. Conductors used to transmit electric energy and their necessary supporting or containing structures. Signal lines of more than 400 volts are always supply lines within this section, and those of less than 400 volts are considered as supply lines, if so run and operated throughout.
+Manhole. A subsurface enclosure that personnel may enter and that is used for installing, operating, and maintaining submersible equipment or cable.
+Minimum approach distance. The closest distance an employee may approach an energized or a grounded object.
+Note: Note to the definition of "minimum approach distance": Paragraph (l)(3)(i) of this section requires employers to establish minimum approach distances.
+Personal fall arrest system. A system used to arrest an employee in a fall from a working level.
+Qualified employee (qualified person). An employee (person) knowledgeable in the construction and operation of the electric power generation, transmission, and distribution equipment involved, along with the associated hazards.
+Note: Note 1 to the definition of "qualified employee (qualified person)": An employee must have the training required by (a)(2)(ii) of this section to be a qualified employee.
+Note: Note 2 to the definition of "qualified employee (qualified person)": Except under (g)(2)(iv)(C)(2) and (g)(2)(iv)(C)(3) of this section, an employee who is undergoing on-the-job training and who has demonstrated, in the course of such training, an ability to perform duties safely at his or her level of training and who is under the direct supervision of a qualified person is a qualified person for the performance of those duties.
+Statistical sparkover voltage. A transient overvoltage level that produces a 97.72-percent probability of sparkover (that is, two standard deviations above the voltage at which there is a 50-percent probability of sparkover).
+Statistical withstand voltage. A transient overvoltage level that produces a 0.14-percent probability of sparkover (that is, three standard deviations below the voltage at which there is a 50-percent probability of sparkover).
+Switch. A device for opening and closing or for changing the connection of a circuit. In this section, a switch is manually operable, unless otherwise stated.
+System operator. A qualified person designated to operate the system or its parts.
+Vault. An enclosure, above or below ground, that personnel may enter and that is used for installing, operating, or maintaining equipment or cable.
+Vented vault. A vault that has provision for air changes using exhaust-flue stacks and low-level air intakes operating on pressure and temperature differentials that provide for airflow that precludes a hazardous atmosphere from developing.
+Voltage. The effective (root mean square, or rms) potential difference between any two conductors or between a conductor and ground. This section expresses voltages in nominal values, unless otherwise indicated. The nominal voltage of a system or circuit is the value assigned to a system or circuit of a given voltage class for the purpose of convenient designation. The operating voltage of the system may vary above or below this value.
+Work-positioning equipment. A body belt or body harness system rigged to allow an employee to be supported on an elevated vertical surface, such as a utility pole or tower leg, and work with both hands free while leaning.
+ER11AP14.018
+ER24SE14.004
+
+Table 1—Electrical Safety Requirements in § 1910.269
+----------------------------------------------------
+Compliance with Subpart S will comply with these paragraphs of § 1910.269 1 Paragraphs that apply regardless of compliance with Subpart S 2
+--------------------------------------------------------------------------------
+(d), electric-shock hazards only (a)(2), (a)(3) and (a)(4).
+(h)(3) (b)
+(i)(2) and (i)(3) (c)
+(k) (d), for other than electric-shock hazards.
+(l)(1) through (l)(5), (l)(7), and (l)(10) through (l)(12) (e)
+(m) (f)
+(p)(4) (g)
+(s)(2) (h)(1) and (h)(2).
+(u)(1) and (u)(3) through (u)(5) (i)(4)
+(v)(3) through (v)(5) (j)
+(w)(1) and (w)(7) (l)(6), (l)(8) and (l)(9).
+ (n)
+ (o)
+ (p)(1) through (p)(3).
+ (q)
+ (r)
+ (s)(1)
+ (t)
+ (u)(2) and (u)(6)
+ (v)(1), (v)(2), and (v)(6) through (v)(12).
+ (w)(2) through (w)(6), (w)(8), and (w)(9).
+
+ER05OC15.000
+ER11AP14.022
+ER05OC15.001
+
+Table 1—Sparkover Distance for Rod-to-Rod Gap
+---------------------------------------------
+60 Hz Rod-to-Rod sparkover (kV peak) Gap spacing from IEEE Std 4-1995 (cm)
+--------------------------------------------------------------------------
+25 2
+36 3
+46 4
+53 5
+60 6
+70 8
+79 10
+86 12
+95 14
+104 16
+112 18
+120 20
+143 25
+167 30
+192 35
+218 40
+243 45
+270 50
+322 60
+Table 2—Calculating the Electrical Component of MAD 751 V to 72.5 kV
+--------------------------------------------------------------------
+Step Maximum system phase-to-phase voltage (kV) 15 36 46 72.5
+-------------------------------------------------------------
+1. Divide by √3 8.7 20.8 26.6 41.9
+2. Multiply by √2 12.2 29.4 37.6 59.2
+3. Multiply by 3.0 36.7 88.2 112.7 177.6
+4. Divide by 0.85 43.2 103.7 132.6 208.9
+5. Interpolate from Table 1 3 + (7.2/10)*1 14 + (8.7/9)*2 20 + (12.6/23)*5 35 + (16.9/26)*5
+Electrical component of MAD (cm) 3.72 15.93 22.74 38.25
+Table 3—Equations for Calculating the Surge Factor, a
+-----------------------------------------------------
+Phase-to-ground exposures
+V Peak = T L-G V L-G √2 635 kV or less 635.1 to 915 kV 915.1 to 1,050 kV
+a 0 ( V Peak - 635)/140,000 ( V Peak -645)/135,000
+V Peak = T L-G V L-G √2 More than 1,050 kV
+a ( V Peak -675)/125,000
+Phase-to-phase exposures 1
+V Peak = (1.35 T L-G + 0.45) V L-G √2 630 kV or less 630.1 to 848 kV 848.1 to 1,131 kV
+a 0 ( V Peak -630)/155,000 ( V Peak -633.6)/152,207
+V Peak = (1.35 T L-G + 0.45) V L-G √2 1,131.1 to 1,485 kV More than 1,485 kV
+a ( V Peak -628)/153,846 ( V Peak -350.5)/203,666
+Table 4—Ergonomic Component of Minimum Approach Distance
+--------------------------------------------------------
+Voltage range (kV) Distance m ft
+--------------------------------
+0.301 to 0.750 0.31 1.0
+0.751 to 72.5 0.61 2.0
+72.6 to 800 0.31 1.0
+Table 5—Magnitude of Typical Transient Overvoltages
+---------------------------------------------------
+Cause Magnitude (per unit)
+--------------------------
+Energized 200-mile line without closing resistors 3.5
+Energized 200-mile line with one-step closing resistor 2.1
+Energized 200-mile line with multistep resistor 2.5
+Reclosing with trapped charge one-step resistor 2.2
+Opening surge with single restrike 3.0
+Fault initiation unfaulted phase 2.1
+Fault initiation adjacent circuit 2.5
+Fault clearing 1.7 to 1.9
+
+Table 6—Minimum Approach Distances Until December 31, 2014
+----------------------------------------------------------
+Voltage range phase to phase (kV) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+--------------------------------------------------------------------------------
+0.05 to 1.0 Avoid Contact Avoid Contact
+1.1 to 15.0 0.64 2.10 0.66 2.20
+15.1 to 36.0 0.72 2.30 0.77 2.60
+36.1 to 46.0 0.77 2.60 0.85 2.80
+46.1 to 72.5 0.90 3.00 1.05 3.50
+72.6 to 121 0.95 3.20 1.29 4.30
+138 to 145 1.09 3.60 1.50 4.90
+161 to 169 1.22 4.00 1.71 5.70
+230 to 242 1.59 5.30 2.27 7.50
+345 to 362 2.59 8.50 3.80 12.50
+500 to 550 3.42 11.30 5.50 18.10
+765 to 800 4.53 14.90 7.91 26.00
+
+Table 7—Minimum Approach Distances Until March 31, 2015—72.6 to 121.0 kV With Overvoltage Factor
+--------------------------------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+2.0 0.74 2.42 1.09 3.58
+2.1 0.76 2.50 1.09 3.58
+2.2 0.79 2.58 1.12 3.67
+2.3 0.81 2.67 1.14 3.75
+2.4 0.84 2.75 1.17 3.83
+2.5 0.84 2.75 1.19 3.92
+2.6 0.86 2.83 1.22 4.00
+2.7 0.89 2.92 1.24 4.08
+2.8 0.91 3.00 1.24 4.08
+2.9 0.94 3.08 1.27 4.17
+3.0 0.97 3.17 1.30 4.25
+
+Table 8—Minimum Approach Distances Until March 31, 2015—121.1 to 145.0 kV With Overvoltage Factor
+--------------------------------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+2.0 0.84 2.75 1.24 4.08
+2.1 0.86 2.83 1.27 4.17
+2.2 0.89 2.92 1.30 4.25
+2.3 0.91 3.00 1.32 4.33
+2.4 0.94 3.08 1.35 4.42
+2.5 0.97 3.17 1.37 4.50
+2.6 0.99 3.25 1.40 4.58
+2.7 1.02 3.33 1.42 4.67
+2.8 1.04 3.42 1.45 4.75
+2.9 1.07 3.50 1.47 4.83
+3.0 1.09 3.58 1.50 4.92
+
+Table 9—Minimum Approach Distances Until March 31, 2015—145.1 to 169.0 kV With Overvoltage Factor
+--------------------------------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+2.0 0.91 3.00 1.42 4.67
+2.1 0.97 3.17 1.45 4.75
+2.2 0.99 3.25 1.47 4.83
+2.3 1.02 3.33 1.50 4.92
+2.4 1.04 3.42 1.52 5.00
+2.5 1.07 3.50 1.57 5.17
+2.6 1.12 3.67 1.60 5.25
+2.7 1.14 3.75 1.63 5.33
+2.8 1.17 3.83 1.65 5.42
+2.9 1.19 3.92 1.68 5.50
+3.0 1.22 4.00 1.73 5.67
+
+Table 10—Minimum Approach Distances Until March 31, 2015—169.1 to 242.0 kV With Overvoltage Factor
+--------------------------------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+2.0 1.17 3.83 1.85 6.08
+2.1 1.22 4.00 1.91 6.25
+2.2 1.24 4.08 1.93 6.33
+2.3 1.30 4.25 1.98 6.50
+2.4 1.35 4.42 2.01 6.58
+2.5 1.37 4.50 2.06 6.75
+2.6 1.42 4.67 2.11 6.92
+2.7 1.47 4.83 2.13 7.00
+2.8 1.50 4.92 2.18 7.17
+2.9 1.55 5.08 2.24 7.33
+3.0 1.60 5.25 2.29 7.50
+
+Table 11—Minimum Approach Distances Until March 31, 2015—242.1 to 362.0 kV With Overvoltage Factor
+--------------------------------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+2.0 1.60 5.25 2.62 8.58
+2.1 1.65 5.42 2.69 8.83
+2.2 1.75 5.75 2.79 9.17
+2.3 1.85 6.08 2.90 9.50
+2.4 1.93 6.33 3.02 9.92
+2.5 2.03 6.67 3.15 10.33
+2.6 2.16 7.08 3.28 10.75
+2.7 2.26 7.42 3.40 11.17
+2.8 2.36 7.75 3.53 11.58
+2.9 2.49 8.17 3.68 12.08
+3.0 2.59 8.50 3.81 12.50
+
+Table 12—Minimum Approach Distances Until March 31, 2015—362.1 to 552.0 kV With Overvoltage Factor
+--------------------------------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 1.83 6.00 2.24 7.33
+1.6 1.98 6.50 2.67 8.75
+1.7 2.13 7.00 3.10 10.17
+1.8 2.31 7.58 3.53 11.58
+1.9 2.46 8.08 4.01 13.17
+2.0 2.67 8.75 4.52 14.83
+2.1 2.84 9.33 4.75 15.58
+2.2 3.02 9.92 4.98 16.33
+2.3 3.20 10.50 5.23 17.17
+2.4 3.43 11.25 5.51 18.08
+
+Table 13—Minimum Approach Distances Until March 31, 2015—552.1 to 800.0 kV With Overvoltage Factor
+--------------------------------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 2.95 9.67 3.68 12.08
+1.6 3.25 10.67 4.42 14.50
+1.7 3.56 11.67 5.23 17.17
+1.8 3.86 12.67 6.07 19.92
+1.9 4.19 13.75 6.99 22.92
+2.0 4.55 14.92 7.92 26.00
+
+B. Alternative minimum approach distances. Employers may use the minimum approach distances in Table 14 through Table 21 provided that the employer follows the notes to those tables.
+
+Table 14—AC Minimum Approach Distances—72.6 to 121.0 kV
+-------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 0.67 2.2 0.84 2.8
+1.6 0.69 2.3 0.87 2.9
+1.7 0.71 2.3 0.90 3.0
+1.8 0.74 2.4 0.93 3.1
+1.9 0.76 2.5 0.96 3.1
+2.0 0.78 2.6 0.99 3.2
+2.1 0.81 2.7 1.01 3.3
+2.2 0.83 2.7 1.04 3.4
+2.3 0.85 2.8 1.07 3.5
+2.4 0.88 2.9 1.10 3.6
+2.5 0.90 3.0 1.13 3.7
+2.6 0.92 3.0 1.16 3.8
+2.7 0.95 3.1 1.19 3.9
+2.8 0.97 3.2 1.22 4.0
+2.9 0.99 3.2 1.24 4.1
+3.0 1.02 3.3 1.27 4.2
+3.1 1.04 3.4 1.30 4.3
+3.2 1.06 3.5 1.33 4.4
+3.3 1.09 3.6 1.36 4.5
+3.4 1.11 3.6 1.39 4.6
+3.5 1.13 3.7 1.42 4.7
+
+Table 15—AC Minimum Approach Distances—121.1 to 145.0 kV
+--------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 0.74 2.4 0.95 3.1
+1.6 0.76 2.5 0.98 3.2
+1.7 0.79 2.6 1.02 3.3
+1.8 0.82 2.7 1.05 3.4
+1.9 0.85 2.8 1.08 3.5
+2.0 0.88 2.9 1.12 3.7
+2.1 0.90 3.0 1.15 3.8
+2.2 0.93 3.1 1.19 3.9
+2.3 0.96 3.1 1.22 4.0
+2.4 0.99 3.2 1.26 4.1
+2.5 1.02 3.3 1.29 4.2
+2.6 1.04 3.4 1.33 4.4
+2.7 1.07 3.5 1.36 4.5
+2.8 1.10 3.6 1.39 4.6
+2.9 1.13 3.7 1.43 4.7
+3.0 1.16 3.8 1.46 4.8
+3.1 1.19 3.9 1.50 4.9
+3.2 1.21 4.0 1.53 5.0
+3.3 1.24 4.1 1.57 5.2
+3.4 1.27 4.2 1.60 5.2
+3.5 1.30 4.3 1.64 5.4
+
+Table 16—AC Minimum Approach Distances—145.1 to 169.0 kV
+--------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 0.81 2.7 1.05 3.4
+1.6 0.84 2.8 1.09 3.6
+1.7 0.87 2.9 1.13 3.7
+1.8 0.90 3.0 1.17 3.8
+1.9 0.94 3.1 1.21 4.0
+2.0 0.97 3.2 1.25 4.1
+2.1 1.00 3.3 1.29 4.2
+2.2 1.03 3.4 1.33 4.4
+2.3 1.07 3.5 1.37 4.5
+2.4 1.10 3.6 1.41 4.6
+2.5 1.13 3.7 1.45 4.8
+2.6 1.17 3.8 1.49 4.9
+2.7 1.20 3.9 1.53 5.0
+2.8 1.23 4.0 1.57 5.2
+2.9 1.26 4.1 1.61 5.3
+3.0 1.30 4.3 1.65 5.4
+3.1 1.33 4.4 1.70 5.6
+3.2 1.36 4.5 1.76 5.8
+3.3 1.39 4.6 1.82 6.0
+3.4 1.43 4.7 1.88 6.2
+3.5 1.46 4.8 1.94 6.4
+
+Table 17—AC Minimum Approach Distances—169.1 to 242.0 kV
+--------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 1.02 3.3 1.37 4.5
+1.6 1.06 3.5 1.43 4.7
+1.7 1.11 3.6 1.48 4.9
+1.8 1.16 3.8 1.54 5.1
+1.9 1.21 4.0 1.60 5.2
+2.0 1.25 4.1 1.66 5.4
+2.1 1.30 4.3 1.73 5.7
+2.2 1.35 4.4 1.81 5.9
+2.3 1.39 4.6 1.90 6.2
+2.4 1.44 4.7 1.99 6.5
+2.5 1.49 4.9 2.08 6.8
+2.6 1.53 5.0 2.17 7.1
+2.7 1.58 5.2 2.26 7.4
+2.8 1.63 5.3 2.36 7.7
+2.9 1.67 5.5 2.45 8.0
+3.0 1.72 5.6 2.55 8.4
+3.1 1.77 5.8 2.65 8.7
+3.2 1.81 5.9 2.76 9.1
+3.3 1.88 6.2 2.86 9.4
+3.4 1.95 6.4 2.97 9.7
+3.5 2.01 6.6 3.08 10.1
+
+Table 18—AC Minimum Approach Distances—242.1 to 362.0 kV
+--------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 1.37 4.5 1.99 6.5
+1.6 1.44 4.7 2.13 7.0
+1.7 1.51 5.0 2.27 7.4
+1.8 1.58 5.2 2.41 7.9
+1.9 1.65 5.4 2.56 8.4
+2.0 1.72 5.6 2.71 8.9
+2.1 1.79 5.9 2.87 9.4
+2.2 1.87 6.1 3.03 9.9
+2.3 1.97 6.5 3.20 10.5
+2.4 2.08 6.8 3.37 11.1
+2.5 2.19 7.2 3.55 11.6
+2.6 2.29 7.5 3.73 12.2
+2.7 2.41 7.9 3.91 12.8
+2.8 2.52 8.3 4.10 13.5
+2.9 2.64 8.7 4.29 14.1
+3.0 2.76 9.1 4.49 14.7
+3.1 2.88 9.4 4.69 15.4
+3.2 3.01 9.9 4.90 16.1
+3.3 3.14 10.3 5.11 16.8
+3.4 3.27 10.7 5.32 17.5
+3.5 3.41 11.2 5.52 18.1
+
+Table 19—AC Minimum Approach Distances—362.1 to 420.0 kV
+--------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 1.53 5.0 2.40 7.9
+1.6 1.62 5.3 2.58 8.5
+1.7 1.70 5.6 2.75 9.0
+1.8 1.78 5.8 2.94 9.6
+1.9 1.88 6.2 3.13 10.3
+2.0 1.99 6.5 3.33 10.9
+2.1 2.12 7.0 3.53 11.6
+2.2 2.24 7.3 3.74 12.3
+2.3 2.37 7.8 3.95 13.0
+2.4 2.50 8.2 4.17 13.7
+2.5 2.64 8.7 4.40 14.4
+2.6 2.78 9.1 4.63 15.2
+2.7 2.93 9.6 4.87 16.0
+2.8 3.07 10.1 5.11 16.8
+2.9 3.23 10.6 5.36 17.6
+3.0 3.38 11.1 5.59 18.3
+3.1 3.55 11.6 5.82 19.1
+3.2 3.72 12.2 6.07 19.9
+3.3 3.89 12.8 6.31 20.7
+3.4 4.07 13.4 6.56 21.5
+3.5 4.25 13.9 6.81 22.3
+
+Table 20—AC Minimum Approach Distances—420.1 to 550.0 kV
+--------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 1.95 6.4 3.46 11.4
+1.6 2.11 6.9 3.73 12.2
+1.7 2.28 7.5 4.02 13.2
+1.8 2.45 8.0 4.31 14.1
+1.9 2.62 8.6 4.61 15.1
+2.0 2.81 9.2 4.92 16.1
+2.1 3.00 9.8 5.25 17.2
+2.2 3.20 10.5 5.55 18.2
+2.3 3.40 11.2 5.86 19.2
+2.4 3.62 11.9 6.18 20.3
+2.5 3.84 12.6 6.50 21.3
+2.6 4.07 13.4 6.83 22.4
+2.7 4.31 14.1 7.18 23.6
+2.8 4.56 15.0 7.52 24.7
+2.9 4.81 15.8 7.88 25.9
+3.0 5.07 16.6 8.24 27.0
+
+Table 21—AC Minimum Approach Distances—550.1 to 800.0 kV
+--------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 3.16 10.4 5.97 19.6
+1.6 3.46 11.4 6.43 21.1
+1.7 3.78 12.4 6.92 22.7
+1.8 4.12 13.5 7.42 24.3
+1.9 4.47 14.7 7.93 26.0
+2.0 4.83 15.8 8.47 27.8
+2.1 5.21 17.1 9.02 29.6
+2.2 5.61 18.4 9.58 31.4
+2.3 6.02 19.8 10.16 33.3
+2.4 6.44 21.1 10.76 35.3
+2.5 6.88 22.6 11.38 37.3
+
+Table 1—Example Assessments for Various Tasks
+---------------------------------------------
+Task Is employee exposed to flame or electric-arc hazard?
+Normal operation of enclosed equipment, such as closing or opening a switch The employer properly installs and maintains enclosed equipment, and there is no evidence of impending failure No.
+ There is evidence of arcing or overheating Yes.
+ Parts of the equipment are loose or sticking, or the equipment otherwise exhibits signs of lack of maintenance Yes.
+Servicing electric equipment, such as racking in a circuit breaker or replacing a switch Yes.
+Inspection of electric equipment with exposed energized parts. The employee is not holding conductive objects and remains outside the minimum approach distance established by the employer No.
+ The employee is holding a conductive object, such as a flashlight, that could fall or otherwise contact energized parts (irrespective of whether the employee maintains the minimum approach distance) Yes.
+ The employee is closer than the minimum approach distance established by the employer (for example, when wearing rubber insulating gloves or rubber insulating gloves and sleeves) Yes.
+Using open flames, for example, in wiping cable splice sleeves Yes.
+Table 2—Methods of Calculating Incident Heat Energy From an Electric Arc
+------------------------------------------------------------------------
+1. Standard for Electrical Safety Requirements for Employee Workplaces, NFPA 70E-2012, Annex D, "Sample Calculation of Flash Protection Boundary."
+2. Doughty, T.E., Neal, T.E., and Floyd II, H.L., "Predicting Incident Energy to Better Manage the Electric Arc Hazard on 600 V Power Distribution Systems," Record of Conference Papers IEEE IAS 45th Annual Petroleum and Chemical Industry Conference, September 28-30, 1998.
+3. Guide for Performing Arc-Flash Hazard Calculations, IEEE Std 1584-2002, 1584a-2004 (Amendment 1 to IEEE Std 1584-2002), and 1584b-2011 (Amendment 2: Changes to Clause 4 of IEEE Std 1584-2002).*
+4. ARCPRO, a commercially available software program developed by Kinectrics, Toronto, ON, CA.
+Table 3—Selecting a Reasonable Incident-Energy Calculation Method 1
+-------------------------------------------------------------------
+Incident-energy calculation method 600 V and Less 2 1Φ 3Φa 3Φb 601 V to 15 kV 2 1Φ 3Φa 3Φb More than 15 kV 1Φ 3Φa 3Φb
+--------------------------------------------------------------------------------
+NFPA 70E-2012 Annex D (Lee equation) Y-C Y N Y-C Y-C N N 3 N 3 N 3
+Doughty, Neal, and Floyd Y-C Y Y N N N N N N
+IEEE Std 1584b-2011 Y Y Y Y Y Y N N N
+ARCPRO Y N N Y N N Y Y 4 Y 4
+Table 4—Selecting a Reasonable Distance From the Employee to the Electric Arc
+-----------------------------------------------------------------------------
+Class of equipment Single-phase arc mm (inches) Three-phase arc mm (inches)
+---------------------------------------------------------------------------
+Cable * NA 455 (18)
+Low voltage MCCs and panelboards NA 455 (18)
+Low-voltage switchgear NA 610 (24)
+5-kV switchgear NA 910 (36)
+15-kV switchgear NA 910 (36)
+Single conductors in air (up to 46 kilovolts), work with rubber insulating gloves 380 (15) NA
+Single conductors in air, work with live-line tools and live-line barehand work MAD − (2 x kV x 2.54) ( MAD − (2 x kV /10)) † NA
+Table 5—Selecting a Reasonable Arc Gap
+--------------------------------------
+Class of equipment Single-phase arc mm (inches) Three-phase arc mm 1 (inches)
+-----------------------------------------------------------------------------
+Cable NA 2 13 (0.5).
+Low voltage MCCs and panelboards NA 25 (1.0).
+Low-voltage switchgear NA 32 (1.25).
+5-kV switchgear NA 104 (4.0).
+15-kV switchgear NA 152 (6.0).
+Single conductors in air, 15 kV and less. 51 (2.0) Phase conductor spacing.
+Single conductor in air, more than 15 kV Voltage in kV x 2.54 (Voltage in kV x 0.1), but no less than 51 mm (2 inches) Phase conductor spacing.
+Table 6—Incident Heat Energy for Various Fault Currents, Clearing Times, and Voltages of 4.0 to 46.0 kV: Rubber Insulating Glove Exposures Involving Phase-to-Ground Arcs in Open Air Only * † ‡
+--------------------------------------------------------------------------------
+Voltage range (kV) ** Fault current (kA) Maximum clearing time (cycles) 4 cal/cm 2 5 cal/cm 2 8 cal/cm 2 12 cal/cm 2
+--------------------------------------------------------------------------------
+4.0 to 15.0 5 46 58 92 138
+ 10 18 22 36 54
+ 15 10 12 20 30
+ 20 6 8 13 19
+15.1 to 25.0 5 28 34 55 83
+ 10 11 14 23 34
+ 15 7 8 13 20
+ 20 4 5 9 13
+25.1 to 36.0 5 21 26 42 62
+ 10 9 11 18 26
+ 15 5 6 10 16
+ 20 4 4 7 11
+36.1 to 46.0 5 16 20 32 48
+ 10 7 9 14 21
+ 15 4 5 8 13
+ 20 3 4 6 9
+Table 7—Incident Heat Energy for Various Fault Currents, Clearing Times, and Voltages: Live-Line Tool Exposures Involving Phase-to-Ground Arcs in Open Air Only * † ‡  #
+--------------------------------------------------------------------------------
+Voltage range (kV) ** Fault current (kA) Maximum clearing time (cycles) 4 cal/cm 2 5 cal/cm 2 8 cal/cm 2 12 cal/cm 2
+--------------------------------------------------------------------------------
+4.0 to 15.0 5 197 246 394 591
+ 10 73 92 147 220
+ 15 39 49 78 117
+ 20 24 31 49 73
+15.1 to 25.0 5 197 246 394 591
+ 10 75 94 150 225
+ 15 41 51 82 122
+ 20 26 33 52 78
+25.1 to 36.0 5 138 172 275 413
+ 10 53 66 106 159
+ 15 30 37 59 89
+ 20 19 24 38 58
+36.1 to 46.0 5 129 161 257 386
+ 10 51 64 102 154
+ 15 29 36 58 87
+ 20 19 24 38 57
+46.1 to 72.5 20 18 23 36 55
+ 30 10 13 20 30
+ 40 6 8 13 19
+ 50 4 6 9 13
+72.6 to 121.0 20 10 12 20 30
+ 30 6 7 11 17
+ 40 4 5 7 11
+ 50 3 3 5 8
+121.1 to 145.0 20 12 15 24 35
+ 30 7 9 15 22
+ 40 5 6 10 15
+ 50 4 5 8 11
+145.1 to 169.0 20 12 15 24 36
+ 30 7 9 15 22
+ 40 5 7 10 16
+ 50 4 5 8 12
+169.1 to 242.0 20 13 17 27 40
+ 30 8 10 17 25
+ 40 6 7 12 17
+ 50 4 5 9 13
+242.1 to 362.0 20 25 32 51 76
+ 30 16 19 31 47
+ 40 11 14 22 33
+ 50 8 10 16 25
+362.1 to 420.0 20 12 15 25 37
+ 30 8 10 15 23
+ 40 5 7 11 16
+ 50 4 5 8 12
+420.1 to 550.0 20 23 29 47 70
+ 30 14 18 29 43
+ 40 10 13 20 30
+ 50 8 9 15 23
+550.1 to 800.0 20 25 31 50 75
+ 30 15 19 31 46
+ 40 11 13 21 32
+ 50 8 10 16 24
+For any estimated incident heat energy When the employee is wearing rubber insulating gloves with protectors.
+If the estimated incident heat energy does not exceed 14 cal/cm 2 When the employee is wearing heavy-duty leather work gloves with a weight of at least 407 gm/m 2 (12 oz/yd 2 ).
+Exposure Minimum head and face protection None * Arc-rated faceshield with a minimum rating of 8 cal/cm 2 * Arc-rated hood or faceshield with balaclava
+--------------------------------------------------------------------------------
+Single-phase, open air 2-8 cal/cm 2 9-12 cal/cm 2 13 cal/cm 2 or higher †.
+Three-phase 2-4 cal/cm 2 5-8 cal/cm 2 9 cal/cm 2 or higher ‡.

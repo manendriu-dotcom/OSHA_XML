@@ -1,0 +1,9 @@
+§ 1910.106 Flammable liquids.
+( b ) Manual-closing type valves shall be held open manually during dispensing. Automatic-closing type valves may be used in conjunction with an approved latch-open device.
+(4) Marine service stations —(i) Dispensing. ( a ) The dispensing area shall be located away from other structures so as to provide room for safe ingress and egress of craft to be fueled. Dispensing units shall in all cases be at least 20 feet from any activity involving fixed sources of ignition.
+( b ) Dispensing shall be by approved dispensing units with or without integral pumps and may be located on open piers, wharves, or floating docks or on shore or on piers of the solid fill type.
+( c ) Dispensing nozzles shall be automatic-closing without a hold-open latch.
+(ii) Tanks and pumps. ( a ) Tanks, and pumps not integral with the dispensing unit, shall be on shore or on a pier of the solid fill type, except as provided in paragraphs (g)(4)(ii) ( b ) and ( c ) of this section.
+( b ) Where shore location would require excessively long supply lines to dispensers, tanks may be installed on a pier provided that applicable portions of paragraph (b) of this section relative to spacing, diking, and piping are complied with and the quantity so stored does not exceed 1,100 gallons aggregate capacity.
+( c ) Shore tanks supplying marine service stations may be located above ground, where rock ledges or high water table make underground tanks impractical.
+( d ) Where tanks are at an elevation which would produce gravity head on the dispensing unit, the tank outlet shall be equipped with a pressure control valve positioned adjacent to and outside the tank block valve specified in paragraph (b)(2)(ix)( b ) of this section, so adjusted that liquid cannot flow by gravity from the tank in case of piping or hose failure.

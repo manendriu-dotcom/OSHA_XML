@@ -1,0 +1,8 @@
+§ 1910.241 Definitions.
+(9) Type 6 straight cup wheels. Type 6 cup wheels have diameter, thickness, hole size, rim thickness, and back thickness dimensions. Grinding is always performed on rim face, W dimension.
+(10) Type 1 straight wheels. Type 1 straight wheels have diameter, thickness, and hole size dimensions and should be used only on the periphery. Type 1 wheels shall be mounted between flanges.
+(c) [Reserved]
+(d) Jack terms —(1) Jack. A jack is an appliance for lifting and lowering or moving horizontally a load by application of a pushing force.
+Note: Note: Jacks may be of the following types: Lever and ratchet, screw and hydraulic.
+(2) Rating. The rating of a jack is the maximum working load for which it is designed to lift safely that load throughout its specified amount of travel.
+Note: Note: To raise the rated load of a jack, the point of application of the load, the applied force, and the length of lever arm should be those designated by the manufacturer for the particular jack considered.

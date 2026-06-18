@@ -1,0 +1,10 @@
+§ 1910.94 Ventilation.
+(6) Scope. This paragraph (b), prescribes the use of exhaust hood enclosures and systems in removing dust, dirt, fumes, and gases generated through the grinding, polishing, or buffing of ferrous and nonferrous metals.
+(c) Spray finishing operations —(1) Definitions applicable to this paragraph —(i) Spray-finishing operations. Spray-finishing operations are employment of methods wherein organic or inorganic materials are utilized in dispersed form for deposit on surfaces to be coated, treated, or cleaned. Such methods of deposit may involve either automatic, manual, or electrostatic deposition but do not include metal spraying or metallizing, dipping, flow coating, roller coating, tumbling, centrifuging, or spray washing and degreasing as conducted in self-contained washing and degreasing machines or systems.
+(ii) Spray booth. Spray booths are defined and described in § 1910.107(a).
+(iii) Spray room. A spray room is a room in which spray-finishing operations not conducted in a spray booth are performed separately from other areas.
+(iv) Minimum maintained velocity. Minimum maintained velocity is the velocity of air movement which must be maintained in order to meet minimum specified requirements for health and safety.
+(2) Location and application. Spray booths or spray rooms are to be used to enclose or confine all operations. Spray-finishing operations shall be located as provided in sections 201 through 206 of the Standard for Spray Finishing Using Flammable and Combustible Materials, NFPA No. 33-1969.
+(3) Design and construction of spray booths. (i) Spray booths shall be designed and constructed in accordance with § 1910.107(b)(1) through (b)(4) and (b)(6) through (b)(10). For a more detailed discussion of fundamentals relating to this subject, see ANSI Z9.2-1960, which is incorporated by reference as specified in § 1910.6.
+( a ) Lights, motors, electrical equipment, and other sources of ignition shall conform to the requirements of § 1910.107(b)(10) and (c).
+( b ) In no case shall combustible material be used in the construction of a spray booth and supply or exhaust duct connected to it.

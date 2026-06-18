@@ -1,0 +1,11 @@
+§ 1910.109 Explosives and blasting agents.
+(vii) Except as provided in subdivision (viii) of this subparagraph, class II magazines shall be located in conformity with Table H-21, but may be permitted in warehouses and in wholesale and retail establishments when located on a floor which has an entrance at outside grade level and the magazine is located not more than 10 feet from such an entrance. Two class II magazines may be located in the same building when one is used only for blasting caps in quantities not in excess of 5,000 caps and a distance of 10 feet is maintained between magazines.
+(viii) When used for temporary storage at a site for blasting operations, class II magazines shall be located away from other magazines. A distance of at least one hundred and fifty (150) feet shall be maintained between class II magazines and the work in progress when the quantity of explosives kept therein is in excess of 25 pounds, and at least 50 feet when the quantity of explosives is 25 pounds, or less.
+(ix) This paragraph (c) does not apply to:
+( a ) Stocks of small arms ammunition, propellant-actuated power cartridges, small arms ammunition primers in quantities of less than 750,000, or of smokeless propellants in quantities less than 750 pounds;
+( b ) Explosive-actuated power devices when in quantities less than 50 pounds net weight of explosives;
+( c ) Fuse lighters and fuse igniters;
+( d ) Safety fuses other than cordeau detonant fuses.
+(2) Construction of magazines—general. (i) Magazines shall be constructed in conformity with the provisions of this paragraph.
+(ii) Magazines for the storage of explosives, other than black powder, Class B and Class C explosives shall be bullet resistant, weather resistant, fire resistant, and ventilated sufficiently to protect the explosive in the specific locality. Magazines used only for storage of black powder, Class B and Class C explosives shall be weather resistant, fire-resistant, and have ventilation. Magazines for storage of blasting and electric blasting caps shall be weather resistant, fire-resistant, and ventilated.
+(iii) Property upon which Class I magazines are located and property where Class II magazines are located outside of buildings shall be posted with signs reading "Explosives—Keep Off."

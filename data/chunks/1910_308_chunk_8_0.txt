@@ -1,0 +1,11 @@
+§ 1910.308 Special systems.
+(1) Conductors of different systems. Photovoltaic source circuits and photovoltaic output circuits may not be contained in the same raceway, cable tray, cable, outlet box, junction box, or similar fitting as feeders or branch circuits of other systems, unless the conductors of the different systems are separated by a partition or are connected together.
+(2) Disconnecting means. Means shall be provided to disconnect all current-carrying conductors of a photovoltaic power source from all other conductors in a building or other structure. Where a circuit grounding connection is not designed to be automatically interrupted as part of the ground-fault protection system, a switch or circuit breaker used as disconnecting means may not have a pole in the grounded conductor.
+(g) Integrated electrical systems —(1) Scope. Paragraph (g) of this section covers integrated electrical systems, other than unit equipment, in which orderly shutdown is necessary to ensure safe operation. An integrated electrical system as used in this section shall be a unitized segment of an industrial wiring system where all of the following conditions are met:
+(i) An orderly shutdown process minimizes employee hazard and equipment damage;
+(ii) The conditions of maintenance and supervision ensure that only qualified persons will service the system; and
+(iii) Effective safeguards are established and maintained.
+(2) Location of overcurrent devices in or on premises. Overcurrent devices that are critical to integrated electrical systems need not be readily accessible to employees as required by § 1910.304(f)(1)(iv) if they are located with mounting heights to ensure security from operation by nonqualified persons.
+
+§§ 1910.309-1910.330
+[Reserved]

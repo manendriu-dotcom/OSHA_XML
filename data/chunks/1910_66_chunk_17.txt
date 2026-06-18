@@ -1,0 +1,13 @@
+§ 1910.66 Powered platforms for building maintenance.
+(C) Each suspended unit shall be provided with a load rating plate, conspicuously located, stating the unit weight and rated load of the suspended unit.
+(D) When the suspension points on a suspended unit are not at the unit ends, the unit shall be capable of remaining continuously stable under all conditions of use and position of the live load, and shall maintain at least a 1.5 to 1 stability factor against unit upset.
+(E) Guide rollers, guide shoes or building face rollers shall be provided, and shall compensate for variations in building dimensions and for minor horizontal out-of-level variations of each suspended unit.
+(F) Each working platform of a suspended unit shall be secured to the building facade by one or more of the following methods, or by an equivalent method:
+( 1 ) Continuous engagement to building anchors as provided in paragraph (e)(2)(i) of this section;
+( 2 ) Intermittent engagement to building anchors as provided in paragraph (e)(2)(iii)(A) of this section;
+( 3 ) Button guide engagement as provided in paragraph (e)(2)(iii)(B) of this section; or
+( 4 ) Angulated roping and building face rollers as provided in paragraph (e)(2)(iii)(C) of this section.
+(G) Each working platform of a suspended unit shall be provided with a guardrail system on all sides which shall meet the following requirements:
+( 1 ) The system shall consist of a top guardrail, midrail, and a toeboard;
+( 2 ) The top guardrail shall not be less than 36 inches (914 mm) high and shall be able to withstand at least a 100-pound (444 n) force in any downward or outward direction;
+( 3 ) The midrail shall be able to withstand at least a 75-pound (333 n) force in any downward or outward direction; and

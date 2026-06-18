@@ -1,0 +1,29 @@
+§ 1910.94 Ventilation.
+(ii) Grinding wheels on floor stands, pedestals, benches, and special-purpose grinding machines and abrasive cutting-off wheels shall have not less than the minimum exhaust volumes shown in Table G-4 with a recommended minimum duct velocity of 4,500 feet per minute in the branch and 3,500 feet per minute in the main. The entry losses from all hoods except the vertical-spindle disc grinder hood, shall equal 0.65 velocity pressure for a straight takeoff and 0.45 velocity pressure for a tapered takeoff. The entry loss for the vertical-spindle disc grinder hood is shown in figure G-1 (following § 1910.94(b)).
+
+Table G-4—Grinding and Abrasive Cutting-Off Wheels
+--------------------------------------------------
+Wheel diameter (inches) Wheel width (inches) Minimum exhaust volume (feet 3 /min.)
+--------------------------------------------------------------------------------
+To 9 1 1/2 220
+Over 9 to 16 2 390
+Over 16 to 19 3 500
+Over 19 to 24 4 610
+Over 24 to 30 5 880
+Over 30 to 36 6 1,200
+
+For any wheel wider than wheel diameters shown in Table G-4, increase the exhaust volume by the ratio of the new width to the width shown.
+Example: If wheel width = 4 1/2 inches, then 4.5 ÷ 4 x 610 = 686 (rounded to 690).
+(iii) Scratch-brush wheels and all buffing and polishing wheels mounted on floor stands, pedestals, benches, or special-purpose machines shall have not less than the minimum exhaust volume shown in Table G-5.
+
+Table G-5—Buffing and Polishing Wheels
+--------------------------------------
+Wheel diameter (inches) Wheel width (inches) Minimum exhaust volume (feet 3 /min.)
+--------------------------------------------------------------------------------
+To 9 2 300
+Over 9 to 16 3 500
+Over 16 to 19 4 610
+Over 19 to 24 5 740
+Over 24 to 30 6 1,040
+Over 30 to 36 6 1,200
+

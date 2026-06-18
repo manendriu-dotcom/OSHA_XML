@@ -1,0 +1,10 @@
+§ 1910.306 Specific purpose equipment and installations.
+(2) Remote control. (i) If remote controls are used for applying power, a selector switch shall be provided and interlocked to provide power from only one control point at a time.
+(ii) Switches operated by foot pressure shall be provided with a shield over the contact button to avoid accidental closing of the switch.
+(h) Electrolytic cells. This paragraph applies to the installation of the electrical components and accessory equipment of electrolytic cells, electrolytic cell lines, and process power supply for the production of aluminum, cadmium, chlorine, copper, fluorine, hydrogen peroxide, magnesium, sodium, sodium chlorate, and zinc. Cells used as a source of electric energy and for electroplating processes and cells used for production of hydrogen are not covered by this paragraph.
+(1) Application. Installations covered by paragraph (h) of this section shall comply with all applicable provisions of this subpart, except as follows:
+(i) Overcurrent protection of electrolytic cell dc process power circuits need not comply with the requirements of § 1910.304(f);
+(ii) Equipment located or used within the cell line working zone or associated with the cell line dc power circuits need not comply with the provisions of § 1910.304(g); and
+(iii) Electrolytic cells, cell line conductors, cell line attachments, and the wiring of auxiliary equipment and devices within the cell line working zone need not comply with the provisions of § 1910.303 or § 1910.304(b) and (c).
+(2) Disconnecting means. If more than one dc cell line process power supply serves the same cell line, a disconnecting means shall be provided on the cell line circuit side of each power supply to disconnect it from the cell line circuit. Removable links or removable conductors may be used as the disconnecting means.
+(3) Portable electric equipment. (i) The frames and enclosures of portable electric equipment used within the cell line working zone may not be grounded, unless the cell line circuit voltage does not exceed 200 volts DC or the frames are guarded.

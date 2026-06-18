@@ -1,0 +1,12 @@
+§ 1910.243 Guarding of portable powered tools.
+(iv) The mower handle shall be fastened to the mower so as to prevent loss of control by unintentional uncoupling while in operation.
+(v) A positive upstop or latch shall be provided for the mower handle in the normal operating position(s). The upstop shall not be subject to unintentional disengagement during normal operation of the mower. The upstop or latch shall not allow the center or the handle grips to come closer than 17 inches horizontally behind the closest path of the mower blade(s) unless manually disengaged.
+(vi) A swing-over handle, which complies with the above requirements, will be permitted.
+(vii) Wheel drive disengaging controls, except deadman controls, shall move opposite to the direction of the vehicle motion in order to disengage the drive. Deadman controls shall automatically interrupt power to a drive when the operator's actuating force is removed, and may operate in any direction to disengage the drive.
+(4) Riding rotary mowers. (i) The highest point(s) of all openings in the blade enclosure, front shall be limited by a vertical angle of opening of 15 degrees and a maximum distance of 1 1/4 inches above the lowest cutting point of the blade in the lowest blade position.
+(ii) Opening(s) shall be placed so that grass or debris will not discharge directly toward any part of an operator seated in a normal operator position.
+(iii) There shall be one of the following at all openings in the blade enclosure intended for the discharge of grass:
+( a ) A minimum unobstructed horizontal distance of 6 inches from the end of the discharge chute to the blade tip circle.
+( b ) A rigid bar fastened across the discharge opening, secured to prevent removal without the use of tools. The bottom of the bar shall be no higher than the bottom edge of the blade enclosure.
+(iv) Mowers shall be provided with stops to prevent jackknifing or locking of the steering mechanism.
+(v) Vehicle stopping means shall be provided.

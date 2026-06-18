@@ -1,0 +1,14 @@
+§ 1910.253 Oxygen-fuel gas welding and cutting.
+(C) Valve-protection caps shall not be used for lifting cylinders from one vertical position to another. Bars shall not be used under valves or valve-protection caps to pry cylinders loose when frozen to the ground or otherwise fixed; the use of warm (not boiling) water is recommended. Valve-protection caps are designed to protect cylinder valves from damage.
+(D) Unless cylinders are secured on a special truck, regulators shall be removed and valve-protection caps, when provided for, shall be put in place before cylinders are moved.
+(E) Cylinders not having fixed hand wheels shall have keys, handles, or nonadjustable wrenches on valve stems while these cylinders are in service. In multiple cylinder installations only one key or handle is required for each manifold.
+(F) Cylinder valves shall be closed before moving cylinders.
+(G) Cylinder valves shall be closed when work is finished.
+(H) Valves of empty cylinders shall be closed.
+(I) Cylinders shall be kept far enough away from the actual welding or cutting operation so that sparks, hot slag, or flame will not reach them, or fire-resistant shields shall be provided.
+(J) Cylinders shall not be placed where they might become part of an electric circuit. Contacts with third rails, trolley wires, etc., shall be avoided. Cylinders shall be kept away from radiators, piping systems, layout tables, etc., that may be used for grounding electric circuits such as for arc welding machines. Any practice such as the tapping of an electrode against a cylinder to strike an arc shall be prohibited.
+(K) Cylinders shall never be used as rollers or supports, whether full or empty.
+(L) The numbers and markings stamped into cylinders shall not be tampered with.
+(M) No person, other than the gas supplier, shall attempt to mix gases in a cylinder. No one, except the owner of the cylinder or person authorized by him, shall refill a cylinder.
+(N) No one shall tamper with safety devices in cylinders or valves.
+(O) Cylinders shall not be dropped or otherwise roughly handled.

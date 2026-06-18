@@ -1,0 +1,2 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+T L-G , the maximum per-unit transient overvoltage, phase-to-ground, determined by the employer under paragraph (l)(3)(ii) of this section; for phase-to-phase exposures, T equals 1.35 T L-G + 0.45 A = altitude correction factor from Table R-5 M =

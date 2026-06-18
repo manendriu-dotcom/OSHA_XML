@@ -1,0 +1,13 @@
+§ 1910.6 Incorporation by reference.
+(6) AWS D8.4-61 Recommended Practices for Automotive Welding Design, IBR approved for § 1910.67(c)(5)(ii).
+(7) AWS D10.9-69 Standard Qualification of Welding Procedures and Welders for Piping and Tubing, IBR approved for § 1910.67(c)(5)(iii).
+(j) The following material is available for purchase from the Department of Commerce:
+(1) [Reserved]
+(2) Publication "Model Performance Criteria for Structural Fire Fighters' Helmets," IBR approved for § 1910.156(e)(5)(i).
+(k) The following material is available for purchase from the Compressed Gas Association (CGA), 1235 Jefferson Davis Highway, Arlington, VA 22202:
+(1) CGA C-6 (1968) Standards for Visual Inspection of Compressed Gas Cylinders, IBR approved for § 1910.101(a).
+(2) CGA C-8 (1962) Standard for Requalification of ICC-3HT Cylinders, IBR approved for § 1910.101(a).
+(3) CGA G-1-2009 Acetylene, Twelfth Edition, IBR approved for § 1910.102(a). Copies of CGA Pamphlet G-1-2009 are available for purchase from the: Compressed Gas Association, Inc., 4221 Walney Road, 5th Floor, Chantilly, VA 20151; telephone: (703) 788-2700; fax: (703) 961-1831; email: cga@cganet.com.
+(4) CGA G-7.1 (1966) Commodity Specification, IBR approved for § 1910.134(d)(1).
+(5) CGA G-8.1 (1964) Standard for the Installation of Nitrous Oxide Systems at Consumer Sites, IBR approved for § 1910.105.
+(6) CGA P-1 (1965) Safe Handling of Compressed Gases, IBR approved for § 1910.101(b).

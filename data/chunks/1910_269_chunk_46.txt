@@ -1,0 +1,14 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+(A) Every network protector is maintained so that it will immediately trip open if closed when a primary conductor is deenergized;
+(B) Employees cannot manually place any network protector in a closed position without the use of tools, and any manual override position is blocked, locked, or otherwise disabled; and
+(C) The employer has procedures for manually overriding any network protector that incorporate provisions for determining, before anyone places a network protector in a closed position, that: The line connected to the network protector is not deenergized for the protection of any employee working on the line; and (if the line connected to the network protector is not deenergized for the protection of any employee working on the line) the primary conductors for the network protector are energized.
+(v) Tags shall prohibit operation of the disconnecting means and shall indicate that employees are at work.
+(vi) After the applicable requirements in paragraphs (m)(3)(i) through (m)(3)(v) of this section have been followed and the system operator gives a clearance to the employee in charge, the employer shall ensure that the lines and equipment are deenergized by testing the lines and equipment to be worked with a device designed to detect voltage.
+(vii) The employer shall ensure the installation of protective grounds as required by paragraph (n) of this section.
+(viii) After the applicable requirements of paragraphs (m)(3)(i) through (m)(3)(vii) of this section have been followed, the lines and equipment involved may be considered deenergized.
+(ix) To transfer the clearance, the employee in charge (or the employee's supervisor if the employee in charge must leave the worksite due to illness or other emergency) shall inform the system operator and employees in the crew; and the new employee in charge shall be responsible for the clearance.
+(x) To release a clearance, the employee in charge shall:
+(A) Notify each employee under that clearance of the pending release of the clearance;
+(B) Ensure that all employees under that clearance are clear of the lines and equipment;
+(C) Ensure that all protective grounds protecting employees under that clearance have been removed; and
+(D) Report this information to the system operator and then release the clearance.

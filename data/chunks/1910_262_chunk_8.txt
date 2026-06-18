@@ -1,0 +1,11 @@
+§ 1910.262 Textiles.
+(2) Fancy rolls. Garnett fancy rolls shall be enclosed by covers. These shall be installed in a way that keeps worker rolls reasonably accessible for removal or adjustment.
+(3) Underside of machine. The underside of the garnett shall be guarded by a screen mesh or other form of enclosure to prevent access.
+(g) Spinning mules —A substantial fender of metal or hardwood shall be installed in front of the carriage wheels, the fender to extend to within one-fourth inch of the rail.
+(h) Slashers —(1) Cylinder dryers —(i) Reducing valves, safety valves, and pressure gages. Reducing valves, safety valves, and pressure gages shall conform to the ASME Pressure Vessel Code, Section VIII, Unfired Pressure Vessels, 1968, which is incorporated by reference as specified in § 1910.6.
+(ii) Vacuum relief valves. Vacuum relief valves shall conform to the ASME Code for Pressure Vessels, Section VIII, Unfired Pressure Vessels, 1968.
+(iii) Lever control. When slashers are operated by control levers, these levers shall be connected to a horizontal bar or treadle located not more than 69 inches above the floor to control the operation from any point.
+(iv) Pushbutton control. Slashers operated by pushbutton control shall have stop and start buttons located at each end of the machine, and additional buttons located on both sides of the machine, at the size box and the delivery end. If calender rolls are used, additional buttons shall be provided at both sides of the machine at points near the nips, except when slashers are equipped with an enclosed dryer.
+(v) Nip guards. All nip guards shall comply with the requirements of paragraph (h)(2)(iv) of this section.
+(vi) Cylinder enclosure. When enclosures or hoods are used over cylinder drying rolls, such enclosures or hoods shall be provided with an exhaust system which will effectively prevent wet air and steam from escaping into the workroom.
+(vii) Expansion chambers. Slasher kettles and cookers shall be provided with expansion chambers in the covers, or drains, to prevent surging over. Steam-control valves shall be so located that they can be operated without exposing the worker to moving parts, hot surfaces, or steam.

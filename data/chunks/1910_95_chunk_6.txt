@@ -1,0 +1,14 @@
+§ 1910.95 Occupational noise exposure.
+(i) Hearing protectors. (1) Employers shall make hearing protectors available to all employees exposed to an 8-hour time-weighted average of 85 decibels or greater at no cost to the employees. Hearing protectors shall be replaced as necessary.
+(2) Employers shall ensure that hearing protectors are worn:
+(i) By an employee who is required by paragraph (b)(1) of this section to wear personal protective equipment; and
+(ii) By any employee who is exposed to an 8-hour time-weighted average of 85 decibels or greater, and who:
+(A) Has not yet had a baseline audiogram established pursuant to paragraph (g)(5)(ii); or
+(B) Has experienced a standard threshold shift.
+(3) Employees shall be given the opportunity to select their hearing protectors from a variety of suitable hearing protectors provided by the employer.
+(4) The employer shall provide training in the use and care of all hearing protectors provided to employees.
+(5) The employer shall ensure proper initial fitting and supervise the correct use of all hearing protectors.
+(j) Hearing protector attenuation. (1) The employer shall evaluate hearing protector attenuation for the specific noise environments in which the protector will be used. The employer shall use one of the evaluation methods described in appendix B: Methods for Estimating the Adequacy of Hearing Protection Attenuation.
+(2) Hearing protectors must attenuate employee exposure at least to an 8-hour time-weighted average of 90 decibels as required by paragraph (b) of this section.
+(3) For employees who have experienced a standard threshold shift, hearing protectors must attenuate employee exposure to an 8-hour time-weighted average of 85 decibels or below.
+(4) The adequacy of hearing protector attenuation shall be re-evaluated whenever employee noise exposures increase to the extent that the hearing protectors provided may no longer provide adequate attenuation. The employer shall provide more effective hearing protectors where necessary.

@@ -1,0 +1,13 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+( 3 ) For positioning straps, the strap shall be adjusted to its shortest length possible to accommodate the test and connected to the test-structure anchorage point at one end and to the test mass on the other end.
+( 4 ) The test mass shall be dropped an unobstructed distance of 1 meter (39.4 inches) from a supporting structure that will sustain minimal deflection during the test.
+( 5 ) Body belts shall successfully arrest the fall of the test mass and shall be capable of supporting the mass after the test.
+( 6 ) Positioning straps shall successfully arrest the fall of the test mass without breaking, and the arrest force may not exceed 17.8 kilonewtons (4,000 pounds-force). Additionally, snaphooks on positioning straps may not distort to such an extent that the keeper would release.
+Note: Note to paragraph ( g )(2)( iii ) of this section: When used by employees weighing no more than 140 kg (310 lbm) fully equipped, body belts and positioning straps that conform to American Society of Testing and Materials Standard Specifications for Personal Climbing Equipment, ASTM F887-12 e1 , are deemed to be in compliance with paragraph (g)(2)(iii) of this section.
+(iv) The following requirements apply to the care and use of personal fall protection equipment.
+(A) Work-positioning equipment shall be inspected before use each day to determine that the equipment is in safe working condition. Work-positioning equipment that is not in safe working condition may not be used.
+Note: Note to paragraph ( g )(2)( iv )(A): Appendix F to this section contains guidelines for inspecting work-positioning equipment.
+(B) Personal fall arrest systems shall be used in accordance with subpart I of this part.
+Note: Note to paragraph ( g )(2)( iv )(B): Fall protection equipment rigged to arrest falls is considered a fall arrest system and must meet the applicable requirements for the design and use of those systems. Fall protection equipment rigged for work positioning is considered work-positioning equipment and must meet the applicable requirements for the design and use of that equipment.
+(C) The employer shall ensure that employees use fall protection systems as follows:
+(1) Each employee working from an aerial lift shall use a travel restraint system or a personal fall arrest system.

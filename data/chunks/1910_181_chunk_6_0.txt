@@ -1,0 +1,18 @@
+§ 1910.181 Derricks.
+(2) Anchorages. All anchorages shall be approved by the appointed person. Rock and hairpin anchorages may require special testing.
+(f) Maintenance —(1) Preventive maintenance. A preventive maintenance program based on the derrick manufacturer's recommendations shall be established.
+(2) Maintenance procedure. (i) Before adjustments and repairs are started on a derrick the following precautions shall be taken:
+( a ) The derrick to be repaired shall be arranged so it will cause the least interference with other equipment and operations in the area.
+( b ) All hoist drum dogs shall be engaged.
+( c ) The main or emergency switch shall be locked in the open position, if an electric hoist is used.
+( d ) Warning or out of order signs shall be placed on the derrick and hoist.
+( e ) The repairs of booms of derricks shall either be made when the booms are lowered and adequately supported or safely tied off.
+( f ) A good communication system shall be set up between the hoist operator and the appointed individual in charge of derrick operations before any work on the equipment is started.
+(ii) After adjustments and repairs have been made the derrick shall not be operated until all guards have been reinstalled, safety devices reactivated, and maintenance equipment removed.
+(3) Adjustments and repairs. (i) Any unsafe conditions disclosed by inspection shall be corrected before operation of the derrick is resumed.
+(ii) Adjustments shall be maintained to assure correct functioning of components.
+(iii) Repairs or replacements shall be provided promptly as needed for safe operation. The following are examples of conditions requiring prompt repair or replacement:
+( a ) Hooks showing defects described in paragraph (d)(2)(vi) of this section shall be discarded.
+( b ) All critical parts which are cracked, broken, bent, or excessively worn.
+( c ) [Reserved]
+( d ) All replacement and repaired parts shall have at least the original safety factor.

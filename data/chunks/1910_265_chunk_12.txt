@@ -1,0 +1,13 @@
+§ 1910.265 Sawmills.
+(iv) Identifying controls. Every manually operated control switch shall be properly identified and so located as to be readily accessible to the operator.
+(v) Locking main control switches. Main control switches shall be so designed that they can be locked in the open position.
+(vi) Guarding side openings. The hoistway side openings at the top level of the stacker and unstacker shall be protected by enclosures of standard railings.
+(vii) Guarding hoistway openings. When the hoist platform or top of the load is below the working platform, the hoistway openings shall be guarded.
+(viii) Guarding lower landing area. The lower landing area of stackers and unstackers shall be guarded by enclosures that prevent entrance to the area or pit below the hoist platform. Entrances should be protected by electrically interlocked gates which, when open, will disconnect the power and set the hoist brakes. When the interlock is not installed, other positive means of protecting the entrance shall be provided.
+(ix) Inspection. Every stacker and unstacker shall be inspected at frequent intervals and all defective parts shall be immediately repaired or replaced.
+(x) Cleaning pits. Safe means of entrance and exit shall be provided to permit cleaning of pits.
+(xi) Preventing entry to hazardous area. Where the return of trucks from unstacker to stacker is by mechanical power or gravity, adequate signs, warning devices, or barriers shall be erected to prevent entry into the hazardous area.
+(27) Lumber piling and storage —(i) Pile foundations. In stacking units of lumber, pile foundations shall be designed and arranged to support maximum loads without sinking, sagging, or permitting the piles to topple. In unit package piles, substantial bolsters or unit separators shall be placed between each package directly over the stickers.
+(ii) Stacking dissimilar unit packages. Long units of lumber shall not be stacked upon shorter packages except where a stable pile can be made with the use of package separators.
+(iii) Unstable piles. Piles of lumber which have become unstable shall be immediately made safe, or the area into which they might fall shall be fenced or barricaded and employees prohibited from entering it.
+(iv) Stickers. Unit packages of lumber shall be provided with stickers as necessary to insure stability under ordinary operating conditions.

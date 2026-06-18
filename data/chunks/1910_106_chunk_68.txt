@@ -1,0 +1,13 @@
+§ 1910.106 Flammable liquids.
+(iii) Ventilation. ( a ) Enclosed processing buildings shall be ventilated at a rate of not less than 1 cubic foot per minute per square foot of solid floor area. This shall be accomplished by natural or mechanical ventilation with discharge or exhaust to a safe location outside of the building. Provisions shall be made for introduction of makeup air in such a manner as not to short circuit the ventilation. Ventilation shall be arranged to include all floor areas or pits where flammable vapors may collect.
+( b ) Equipment used in a building and the ventilation of the building shall be designed so as to limit flammable vapor-air mixtures under normal operating conditions to the interior of equipment, and to not more than 5 feet from equipment which exposes Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C), to the air. Examples of such equipment are dispensing stations, open centrifuges, plate and frame filters, open vacuum filters, and surfaces of open equipment.
+(iv) Explosion relief. Areas where Category 1 or unstable liquids are processed shall have explosion venting through one or more of the following methods:
+( a ) Open air construction.
+( b ) Lightweight walls and roof.
+( c ) Lightweight wall panels and roof hatches.
+( d ) Windows of explosion venting type.
+(4) Liquid handling —(i) Storage. ( a ) The storage of flammable liquids in tanks shall be in accordance with the applicable provisions of paragraph (b) of this section.
+( b ) If the storage of flammable liquids in outside aboveground or underground tanks is not practical because of temperature or production considerations, tanks may be permitted inside of buildings or structures in accordance with the applicable provisions of paragraph (b) of this section.
+( c ) Storage tanks inside of buildings shall be permitted only in areas at or above grade which have adequate drainage and are separated from the processing area by construction having a fire resistance rating of at least 2 hours.
+( d ) The storage of flammable liquids in containers shall be in accordance with the applicable provisions of paragraph (d) of this section.
+(ii) Piping, valves, and fittings. ( a ) Piping, valves, and fittings shall be in accordance with paragraph (c) of this section.

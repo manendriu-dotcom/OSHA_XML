@@ -1,0 +1,16 @@
+§ 1910.179 Overhead and gantry cranes.
+(2) Equipment. (i) Electrical equipment shall be so located or enclosed that live parts will not be exposed to accidental contact under normal operating conditions.
+(ii) Electric equipment shall be protected from dirt, grease, oil, and moisture.
+(iii) Guards for live parts shall be substantial and so located that they cannot be accidently deformed so as to make contact with the live parts.
+(3) Controllers. (i) Cranes not equipped with spring-return controllers or momentary contact pushbuttons shall be provided with a device which will disconnect all motors from the line on failure of power and will not permit any motor to be restarted until the controller handle is brought to the "off" position, or a reset switch or button is operated.
+(ii) Lever operated controllers shall be provided with a notch or latch which in the "off" position prevents the handle from being inadvertently moved to the "on" position. An "off" detent or spring return arrangement is acceptable.
+(iii) The controller operating handle shall be located within convenient reach of the operator.
+(iv) As far as practicable, the movement of each controller handle shall be in the same general directions as the resultant movements of the load.
+(v) The control for the bridge and trolley travel shall be so located that the operator can readily face the direction of travel.
+(vi) For floor-operated cranes, the controller or controllers if rope operated, shall automatically return to the "off" position when released by the operator.
+(vii) Pushbuttons in pendant stations shall return to the "off" position when pressure is released by the crane operator.
+(viii) Automatic cranes shall be so designed that all motions shall fail-safe if any malfunction of operation occurs.
+(ix) Remote-operated cranes shall function so that if the control signal for any crane motion becomes ineffective the crane motion shall stop.
+(4) Resistors. (i) Enclosures for resistors shall have openings to provide adequate ventilation, and shall be installed to prevent the accumulation of combustible matter too near to hot parts.
+(ii) Resistor units shall be supported so as to be as free as possible from vibration.
+(iii) Provision shall be made to prevent broken parts or molten metal falling upon the operator or from the crane.

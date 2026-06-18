@@ -1,0 +1,11 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+(ii) Any appliance that was originally manufactured for operation with a gaseous fuel other than LP-Gas and is in good condition may be used with LP-Gas only after it is properly converted, adapted, and tested for performance with LP-Gas before the appliance is placed in use.
+(iii) Unattended heaters used inside buildings for the purpose of animal or poultry production or care shall be equipped with an approved automatic device designed to shut off the flow of gas to the main burners, and pilot if used, in the event of flame extinguishment.
+(iv) All commercial, industrial, and agricultural appliances or equipment shall be installed in accordance with the requirements of this section and in accordance with the following NFPA consensus standards, which are incorporated by reference as specified in § 1910.6:
+( a ) Domestic and commercial appliances—NFPA 54-1969, Standard for the Installation of Gas Appliances and Gas Piping.
+( b ) Industrial appliances—NFPA 54A-1969, Standard for the Installation of Gas Piping and Gas Equipment on Industrial Premises and Certain Other Premises.
+( c ) Standard for the Installation and Use of Stationary Combustion Engines and Gas Turbines—NFPA 37-1970.
+( d ) Standard for the Installation of Equipment for the Removal of Smoke and Grease-Laden Vapors from Commercial Cooking Equipment, NFPA 96-1970.
+(c) Cylinder systems —(1) Application. This paragraph applies specifically to systems utilizing containers constructed in accordance with DOT Specifications. All requirements of paragraph (b) of this section apply to this paragraph unless otherwise noted in paragraph (b) of this section.
+(2) Marking of containers. Containers shall be marked in accordance with DOT regulations. Additional markings not in conflict with DOT regulations may be used.
+(3) Description of a system. A system shall include the container base or bracket, containers, container valves, connectors, manifold valve assembly, regulators, and relief valves.

@@ -1,0 +1,12 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+§ 1910.269 Electric power generation, transmission, and distribution.
+(a) General —(1) Application. (i) This section covers the operation and maintenance of electric power generation, control, transformation, transmission, and distribution lines and equipment. These provisions apply to:
+(A) Power generation, transmission, and distribution installations, including related equipment for the purpose of communication or metering that are accessible only to qualified employees;
+Note: Note to paragraph ( a )(1)( i )(A): The types of installations covered by this paragraph include the generation, transmission, and distribution installations of electric utilities, as well as equivalent installations of industrial establishments. Subpart S of this part covers supplementary electric generating equipment that is used to supply a workplace for emergency, standby, or similar purposes only. (See paragraph (a)(1)(i)(B) of this section.)
+(B) Other installations at an electric power generating station, as follows:
+( 1 ) Fuel and ash handling and processing installations, such as coal conveyors,
+( 2 ) Water and steam installations, such as penstocks, pipelines, and tanks, providing a source of energy for electric generators, and
+( 3 ) Chlorine and hydrogen systems;
+(C) Test sites where employees perform electrical testing involving temporary measurements associated with electric power generation, transmission, and distribution in laboratories, in the field, in substations, and on lines, as opposed to metering, relaying, and routine line work;
+(D) Work on, or directly associated with, the installations covered in paragraphs (a)(1)(i)(A) through (a)(1)(i)(C) of this section; and
+(E) Line-clearance tree trimming performed for the purpose of clearing space around electric power generation, transmission, or distribution lines or equipment and on behalf of an organization that operates, or that controls the operating procedures for, those lines or equipment, as follows:

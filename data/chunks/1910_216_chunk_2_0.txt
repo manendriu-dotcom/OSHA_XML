@@ -1,0 +1,4 @@
+§ 1910.216 Mills and calenders in the rubber and plastics industries.
+(2) Stopping limits for mills. All mills irrespective of the size of the rolls or their arrangement (individually or group-driven) shall be stopped within a distance, as measured in inches of surface travel, not greater than 1 1/2 percent of the peripheral no-load surface speeds of the respective rolls as determined in feet per minute.
+(3) Stopping limits for calenders. (i) All calenders, irrespective of size of the rolls or their configuration, shall be stopped within a distance, as measured in inches of surface travel, not greater than 1 3/4 percent of the peripheral no-load surface speeds of the respective calender rolls as determined in feet per minute.
+(ii) Where speeds above 250 feet per minute as measured on the surface of the drive roll are used, stopping distances of more than 1 3/4 percent are permissible. Such stopping distances shall be subject to engineering determination.

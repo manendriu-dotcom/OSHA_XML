@@ -1,0 +1,18 @@
+§ 1910.302 Electric utilization systems.
+Sections 1910.302 through 1910.308 contain design safety standards for electric utilization systems.
+(a) Scope —(1) Covered. The provisions of §§ 1910.302 through 1910.308 cover electrical installations and utilization equipment installed or used within or on buildings, structures, and other premises, including:
+(i) Yards;
+(ii) Carnivals;
+(iii) Parking and other lots;
+(iv) Mobile homes;
+(v) Recreational vehicles;
+(vi) Industrial substations;
+(vii) Conductors that connect the installations to a supply of electricity; and
+(viii) Other outside conductors on the premises.
+(2) Not covered. The provisions of §§ 1910.302 through 1910.308 do not cover:
+(i) Installations in ships, watercraft, railway rolling stock, aircraft, or automotive vehicles other than mobile homes and recreational vehicles;
+(ii) Installations underground in mines;
+(iii) Installations of railways for generation, transformation, transmission, or distribution of power used exclusively for operation of rolling stock or installations used exclusively for signaling and communication purposes;
+(iv) Installations of communication equipment under the exclusive control of communication utilities, located outdoors or in building spaces used exclusively for such installations; or
+(v) Installations under the exclusive control of electric utilities for the purpose of communication or metering; or for the generation, control, transformation, transmission, and distribution of electric energy located in buildings used exclusively by utilities for such purposes or located outdoors on property owned or leased by the utility or on public highways, streets, roads, etc., or outdoors by established rights on private property.
+(b) Extent of application —(1) Requirements applicable to all installations. The following requirements apply to all electrical installations and utilization equipment, regardless of when they were designed or installed:

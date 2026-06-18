@@ -1,0 +1,2 @@
+§ 1910.106 Flammable liquids.
+equipment which exposes Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C), to the air. Examples of such equipment are dispensing stations, open centrifuges, plate and frame filters, open vacuum filters, and surfaces of open equipment.

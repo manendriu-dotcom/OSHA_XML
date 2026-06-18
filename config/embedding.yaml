@@ -1,0 +1,29 @@
+# embedding.yaml — OSHA 1910 XML pipeline
+# No changes from the PDF version required here.
+# XML chunks are cleaner and more uniform, so embeddings will be higher quality
+# with the same model.
+
+model:
+  # HuggingFace sentence-transformers model name.
+  # "all-MiniLM-L6-v2"          — fast (~80 MB), good baseline
+  # "multi-qa-mpnet-base-dot-v1" — higher accuracy for Q&A (~420 MB)
+  # "all-mpnet-base-v2"          — best general quality (~420 MB)
+  name: "all-MiniLM-L6-v2"
+  batch_size: 64
+  normalize: true
+  # Device: "cpu" | "cuda" | "mps"  (auto-detected if blank)
+  device: ""
+
+faiss:
+  # "flat" = exact search — best for OSHA 1910 corpus size (~500-1500 chunks)
+  # "ivf"  = approximate, faster for corpora > 100k vectors (not needed here)
+  index_type: "flat"
+  # "cosine" (inner product on normalised vectors) | "l2"
+  metric: "cosine"
+  # IVF only
+  nlist: 100
+
+output:
+  index_dir: "embeddings/osha_vectors"
+  index_file: "embeddings/osha_vectors/osha.index"
+  metadata_file: "embeddings/osha_vectors/osha_metadata.jsonl"

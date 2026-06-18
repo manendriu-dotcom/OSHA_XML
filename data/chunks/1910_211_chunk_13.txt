@@ -1,0 +1,10 @@
+§ 1910.211 Definitions.
+(2) Belt shifter means a device for mechanically shifting belts from tight to loose pulleys or vice versa, or for shifting belts on cones of speed pulleys.
+(3) Belt pole (sometimes called a belt shipper or shipper pole, ) means a device used in shifting belts on and off fixed pulleys on line or countershaft where there are no loose pulleys.
+(4) Exposed to contact means that the location of an object is such that a person is likely to come into contact with it and be injured.
+(5) Flywheels include flywheels, balance wheels, and flywheel pulleys mounted and revolving on crankshaft of engine or other shafting.
+(6) Maintenance runway means any permanent runway or platform used for oiling, maintenance, running adjustment, or repair work, but not for passageway.
+(7) Nip-point belt and pulley guard means a device which encloses the pulley and is provided with rounded or rolled edge slots through which the belt passes.
+(8) Point of operation means that point at which cutting, shaping, or forming is accomplished upon the stock and shall include such other points as may offer a hazard to the operator in inserting or manipulating the stock in the operation of the machine.
+(9) Prime movers include steam, gas, oil, and air engines, motors, steam and hydraulic turbines, and other equipment used as a source of power.
+(10) Sheaves mean grooved pulleys, and shall be so classified unless used as flywheels.

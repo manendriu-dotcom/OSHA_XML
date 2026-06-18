@@ -1,0 +1,13 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+(x) Employees may operate the pulling rig only when it is safe to do so.
+Note: Note to paragraph ( q )(2)( x ): Examples of unsafe conditions include: employees in locations prohibited by paragraph (q)(2)(xi) of this section, conductor and pulling line hang-ups, and slipping of the conductor grip.
+(xi) While a power-driven device is pulling the conductor or pulling line and the conductor or pulling line is in motion, the employer shall ensure that employees are not directly under overhead operations or on the crossarm, except as necessary for the employees to guide the stringing sock or board over or through the stringing sheave.
+(3) Live-line barehand work. In addition to other applicable provisions contained in this section, the following requirements apply to live-line barehand work:
+(i) Before an employee uses or supervises the use of the live-line barehand technique on energized circuits, the employer shall ensure that the employee completes training conforming to paragraph (a)(2) of this section in the technique and in the safety requirements of paragraph (q)(3) of this section.
+(ii) Before any employee uses the live-line barehand technique on energized high-voltage conductors or parts, the employer shall ascertain the following information in addition to information about other existing conditions required by paragraph (a)(4) of this section:
+(A) The nominal voltage rating of the circuit on which employees will perform the work,
+(B) The clearances to ground of lines and other energized parts on which employees will perform the work, and
+(C) The voltage limitations of equipment employees will use.
+(iii) The employer shall ensure that the insulated equipment, insulated tools, and aerial devices and platforms used by employees are designed, tested, and made for live-line barehand work.
+(iv) The employer shall ensure that employees keep tools and equipment clean and dry while they are in use.
+(v) The employer shall render inoperable the automatic-reclosing feature of circuit-interrupting devices protecting the lines if the design of the devices permits.

@@ -1,0 +1,12 @@
+§ 1910.268 Telecommunications.
+(ii) Where the electric power conductors are cabled secondary service drops carrying less than 300 volts to ground and are attached 40 inches or more below the communications conductors or cables.
+(13) Metal tapes and ropes. (i) Metal measuring tapes, metal measuring ropes, or tapes containing conductive strands may not be used when working near exposed energized parts.
+(ii) Where it is necessary to measure clearances from energized parts, only nonconductive devices shall be used.
+(o) Underground lines. The provisions of this paragraph apply to the guarding of manholes and street openings, and to the ventilation and testing for gas in manholes and unvented vaults, where telecommunications field work is performed on or with underground lines.
+(1) Guarding manholes and street openings. (i) When covers of manholes or vaults are removed, the opening shall be promptly guarded by a railing, temporary cover, or other suitable temporary barrier which is appropriate to prevent an accidental fall through the opening and to protect employees working in the manhole from foreign objects entering the manhole.
+(ii) While work is being performed in the manhole, a person with basic first aid training shall be immediately available to render assistance if there is cause for believing that a safety hazard exists, and if the requirements contained in paragraphs (d)(1) and (o)(1)(i) of this section do not adequately protect the employee(s). Examples of manhole worksite hazards which shall be considered to constitute a safety hazard include, but are not limited to:
+(A) Manhole worksites where safety hazards are created by traffic patterns that cannot be corrected by provisions of paragraph (d)(1) of this section.
+(B) Manhole worksites that are subject to unusual water hazards that cannot be abated by conventional means.
+(C) Manhole worksites that are occupied jointly with power utilities as described in paragraph (o)(3) of this section.
+(2) Requirements prior to entering manholes and unvented vaults. (i) Before an employee enters a manhole, the following steps shall be taken:
+(A) The internal atmosphere shall be tested for combustible gas and, except when continuous forced ventilation is provided, the atmosphere shall also be tested for oxygen deficiency.

@@ -1,0 +1,15 @@
+§ 1910.134 Respiratory protection.
+(iv) For respirators maintained for emergency use, the employer shall:
+(A) Certify the respirator by documenting the date the inspection was performed, the name (or signature) of the person who made the inspection, the findings, required remedial action, and a serial number or other means of identifying the inspected respirator; and
+(B) Provide this information on a tag or label that is attached to the storage compartment for the respirator, is kept with the respirator, or is included in inspection reports stored as paper or electronic files. This information shall be maintained until replaced following a subsequent certification.
+(4) Repairs. The employer shall ensure that respirators that fail an inspection or are otherwise found to be defective are removed from service, and are discarded or repaired or adjusted in accordance with the following procedures:
+(i) Repairs or adjustments to respirators are to be made only by persons appropriately trained to perform such operations and shall use only the respirator manufacturer's NIOSH-approved parts designed for the respirator;
+(ii) Repairs shall be made according to the manufacturer's recommendations and specifications for the type and extent of repairs to be performed; and
+(iii) Reducing and admission valves, regulators, and alarms shall be adjusted or repaired only by the manufacturer or a technician trained by the manufacturer.
+(i) Breathing air quality and use. This paragraph requires the employer to provide employees using atmosphere-supplying respirators (supplied-air and SCBA) with breathing gases of high purity.
+(1) The employer shall ensure that compressed air, compressed oxygen, liquid air, and liquid oxygen used for respiration accords with the following specifications:
+(i) Compressed and liquid oxygen shall meet the United States Pharmacopoeia requirements for medical or breathing oxygen; and
+(ii) Compressed breathing air shall meet at least the requirements for Grade D breathing air described in ANSI/Compressed Gas Association Commodity Specification for Air, G-7.1-1989, to include:
+(A) Oxygen content (v/v) of 19.5-23.5%;
+(B) Hydrocarbon (condensed) content of 5 milligrams per cubic meter of air or less;
+(C) Carbon monoxide (CO) content of 10 ppm or less;

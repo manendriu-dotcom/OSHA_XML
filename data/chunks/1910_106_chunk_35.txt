@@ -1,0 +1,13 @@
+§ 1910.106 Flammable liquids.
+(4) Design and construction of inside storage rooms —(i) Construction. Inside storage rooms shall be constructed to meet the required fire-resistive rating for their use. Such construction shall comply with the test specifications set forth in Standard Methods of Fire Tests of Building Construction and Materials, NFPA 251-1969. Where an automatic sprinkler system is provided, the system shall be designed and installed in an acceptable manner. Openings to other rooms or buildings shall be provided with noncombustible liquid-tight raised sills or ramps at least 4 inches in height, or the floor in the storage area shall be at least 4 inches below the surrounding floor. Openings shall be provided with approved self-closing fire doors. The room shall be liquid-tight where the walls join the floor. A permissible alternate to the sill or ramp is an open-grated trench inside of the room which drains to a safe location. Where other portions of the building or other properties are exposed, windows shall be protected as set forth in the Standard for Fire Doors and Windows, NFPA No. 80-1968, which is incorporated by reference as specified in § 1910.6, for Class E or F openings. Wood at least 1 inch nominal thickness may be used for shelving, racks, dunnage, scuffboards, floor overlay, and similar installations.
+(ii) Rating and capacity. Storage in inside storage rooms shall comply with Table H-13.
+
+Table H-13—Storage in Inside Rooms
+----------------------------------
+Fire protection 1 provided Fire resistance Maximum size Total allowable quantities (gals./sq. ft./floor area)
+--------------------------------------------------------------------------------
+Yes 2 hours 500 sq. ft 10
+No 2 hours 500 sq. ft 5
+Yes 1 hour 150 sq. ft 4
+No 1 hour 150 sq. ft 2
+

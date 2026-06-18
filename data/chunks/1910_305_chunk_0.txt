@@ -1,0 +1,12 @@
+§ 1910.305 Wiring methods, components, and equipment for general use.
+§ 1910.305 Wiring methods, components, and equipment for general use.
+(a) Wiring methods. The provisions of this section do not apply to conductors that are an integral part of factory-assembled equipment.
+(1) General requirements. (i) Metal raceways, cable trays, cable armor, cable sheath, enclosures, frames, fittings, and other metal noncurrent-carrying parts that are to serve as grounding conductors, with or without the use of supplementary equipment grounding conductors, shall be effectively bonded where necessary to ensure electrical continuity and the capacity to conduct safely any fault current likely to be imposed on them. Any nonconductive paint, enamel, or similar coating shall be removed at threads, contact points, and contact surfaces or be connected by means of fittings designed so as to make such removal unnecessary.
+(ii) Where necessary for the reduction of electrical noise (electromagnetic interference) of the grounding circuit, an equipment enclosure supplied by a branch circuit may be isolated from a raceway containing circuits supplying only that equipment by one or more listed nonmetallic raceway fittings located at the point of attachment of the raceway to the equipment enclosure. The metal raceway shall be supplemented by an internal insulated equipment grounding conductor installed to ground the equipment enclosure.
+(iii) No wiring systems of any type may be installed in ducts used to transport dust, loose stock, or flammable vapors. No wiring system of any type may be installed in any duct used for vapor removal or for ventilation of commercial-type cooking equipment, or in any shaft containing only such ducts.
+(2) Temporary wiring. Except as specifically modified in this paragraph, all other requirements of this subpart for permanent wiring shall also apply to temporary wiring installations.
+(i) Temporary electrical power and lighting installations of 600 volts, nominal, or less may be used only as follows:
+(A) During and for remodeling, maintenance, or repair of buildings, structures, or equipment, and similar activities;
+(B) For a period not to exceed 90 days for Christmas decorative lighting, carnivals, and similar purposes; or
+(C) For experimental or development work, and during emergencies.
+(ii) Temporary wiring shall be removed immediately upon completion of the project or purpose for which the wiring was installed.

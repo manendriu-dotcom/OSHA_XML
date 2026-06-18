@@ -1,0 +1,15 @@
+§ 1910.159 Automatic sprinkler systems.
+§ 1910.159 Automatic sprinkler systems.
+(a) Scope and application. (1) The requirements of this section apply to all automatic sprinkler systems installed to meet a particular OSHA standard.
+(2) For automatic sprinkler systems used to meet OSHA requirements and installed prior to the effective date of this standard, compliance with the National Fire Protection Association (NFPA) or the National Board of Fire Underwriters (NBFU) standard in effect at the time of the system's installation will be acceptable as compliance with this section.
+(b) Exemptions. Automatic sprinkler systems installed in workplaces, but not required by OSHA, are exempt from the requirements of this section.
+(c) General requirements —(1) Design. (i) All automatic sprinkler designs used to comply with this standard shall provide the necessary discharge patterns, densities, and water flow characteristics for complete coverage in a particular workplace or zoned subdivision of the workplace.
+(ii) The employer shall assure that only approved equipment and devices are used in the design and installation of automatic sprinkler systems used to comply with this standard.
+(2) Maintenance. The employer shall properly maintain an automatic sprinkler system installed to comply with this section. The employer shall assure that a main drain flow test is performed on each system annually. The inspector's test valve shall be opened at least every two years to assure that the sprinkler system operates properly.
+(3) Acceptance tests. The employer shall conduct proper acceptance tests on sprinkler systems installed for employee protection after January 1, 1981, and record the dates of such tests. Proper acceptance tests include the following:
+(i) Flushing of underground connections;
+(ii) Hydrostatic tests of piping in system;
+(iii) Air tests in dry-pipe systems;
+(iv) Dry-pipe valve operation; and
+(v) Test of drainage facilities.
+(4) Water supplies. The employer shall assure that every automatic sprinkler system is provided with at least one automatic water supply capable of providing design water flow for at least 30 minutes. An auxiliary water supply or equivalent protection shall be provided when the automatic water supply is out of service, except for systems of 20 or fewer sprinklers.

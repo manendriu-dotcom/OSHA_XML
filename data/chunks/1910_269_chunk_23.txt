@@ -1,0 +1,15 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+(ii) Personal fall arrest equipment used by employees who are exposed to hazards from flames or electric arcs, as determined by the employer under paragraph (l)(8)(i) of this section, shall be capable of passing a drop test equivalent to that required by paragraph (g)(2)(iii)(L) of this section after exposure to an electric arc with a heat energy of 40+/-5 cal/cm 2 .
+(iii) Body belts and positioning straps for work-positioning equipment shall meet the following requirements:
+(A) Hardware for body belts and positioning straps shall meet the following requirements:
+( 1 ) Hardware shall be made of drop-forged steel, pressed steel, formed steel, or equivalent material.
+( 2 ) Hardware shall have a corrosion-resistant finish.
+( 3 ) Hardware surfaces shall be smooth and free of sharp edges.
+(B) Buckles shall be capable of withstanding an 8.9-kilonewton (2,000-pound-force) tension test with a maximum permanent deformation no greater than 0.4 millimeters (0.0156 inches).
+(C) D rings shall be capable of withstanding a 22-kilonewton (5,000-pound-force) tensile test without cracking or breaking.
+(D) Snaphooks shall be capable of withstanding a 22-kilonewton (5,000-pound-force) tension test without failure.
+Note: Note to paragraph ( g )(2)( iii )(D): Distortion of the snaphook sufficient to release the keeper is considered to be tensile failure of a snaphook.
+(E) Top grain leather or leather substitute may be used in the manufacture of body belts and positioning straps; however, leather and leather substitutes may not be used alone as a load-bearing component of the assembly.
+(F) Plied fabric used in positioning straps and in load-bearing parts of body belts shall be constructed in such a way that no raw edges are exposed and the plies do not separate.
+(G) Positioning straps shall be capable of withstanding the following tests:
+( 1 ) A dielectric test of 819.7 volts, AC, per centimeter (25,000 volts per foot) for 3 minutes without visible deterioration;

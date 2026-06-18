@@ -1,0 +1,18 @@
+§ 1910.119 Process safety management of highly hazardous chemicals.
+(v) Authorization requirements for the proposed change.
+(3) Employees involved in operating a process and maintenance and contract employees whose job tasks will be affected by a change in the process shall be informed of, and trained in, the change prior to start-up of the process or affected part of the process.
+(4) If a change covered by this paragraph results in a change in the process safety information required by paragraph (d) of this section, such information shall be updated accordingly.
+(5) If a change covered by this paragraph results in a change in the operating procedures or practices required by paragraph (f) of this section, such procedures or practices shall be updated accordingly.
+(m) Incident investigation. (1) The employer shall investigate each incident which resulted in, or could reasonably have resulted in a catastrophic release of highly hazardous chemical in the workplace.
+(2) An incident investigation shall be initiated as promptly as possible, but not later than 48 hours following the incident.
+(3) An incident investigation team shall be established and consist of at least one person knowledgeable in the process involved, including a contract employee if the incident involved work of the contractor, and other persons with appropriate knowledge and experience to thoroughly investigate and analyze the incident.
+(4) A report shall be prepared at the conclusion of the investigation which includes at a minimum:
+(i) Date of incident;
+(ii) Date investigation began;
+(iii) A description of the incident;
+(iv) The factors that contributed to the incident; and,
+(v) Any recommendations resulting from the investigation.
+(5) The employer shall establish a system to promptly address and resolve the incident report findings and recommendations. Resolutions and corrective actions shall be documented.
+(6) The report shall be reviewed with all affected personnel whose job tasks are relevant to the incident findings including contract employees where applicable.
+(7) Incident investigation reports shall be retained for five years.
+(n) Emergency planning and response. The employer shall establish and implement an emergency action plan for the entire plant in accordance with the provisions of 29 CFR 1910.38. In addition, the emergency action plan shall include procedures for handling small releases. Employers covered under this standard may also be subject to the hazardous waste and emergency response provisions contained in 29 CFR 1910.120 (a), (p) and (q).

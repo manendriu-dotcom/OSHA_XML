@@ -1,0 +1,14 @@
+§ 1910.109 Explosives and blasting agents.
+( f ) All internal-combustion engines used for electric power generation shall be located outside the mixing plant building, or shall be properly ventilated and isolated by a firewall. The exhaust systems on all such engines shall be located so any spark emission cannot be a hazard to any materials in or adjacent to the plant.
+(iii) Equipment used for mixing blasting agents shall conform to the requirements of this subdivision.
+( a ) The design of the mixer shall minimize the possibility of frictional heating, compaction, and especially confinement. All bearings and drive assemblies shall be mounted outside the mixer and protected against the accumulation of dust. All surfaces shall be accessible for cleaning.
+( b ) Mixing and packaging equipment shall be constructed of materials compatible with the fuel-ammonium nitrate composition.
+( c ) Suitable means shall be provided to prevent the flow of fuel oil to the mixer in case of fire. In gravity flow systems an automatic spring-loaded shutoff valve with fusible link shall be installed.
+(iv) The provisions of this subdivision shall be considered when determining blasting agent compositions.
+( a ) The sensitivity of the blasting agent shall be determined by means of a No. 8 test blasting cap at regular intervals and after every change in formulation.
+( b ) Oxidizers of small particle size, such as crushed ammonium nitrate prills or fines, may be more sensitive than coarser products and shall, therefore, be handled with greater care.
+( c ) No hydrocarbon liquid fuel with flashpoint lower than that of No. 2 diesel fuel oil 125 degrees F. minimum shall be used.
+( d ) Crude oil and crankcase oil shall not be used.
+( e ) Metal powders such as aluminum shall be kept dry and shall be stored in containers or bins which are moisture-resistant or weathertight. Solid fuels shall be used in such manner as to minimize dust explosion hazards.
+( f ) Peroxides and chlorates shall not be used.
+(v) All electrical switches, controls, motors, and lights located in the mixing room shall conform to the requirements in subpart S of this part for Class II, Division 2 locations; otherwise they shall be located outside the mixing room. The frame of the mixer and all other equipment that may be used shall be electrically bonded and be provided with a continuous path to the ground.

@@ -1,0 +1,25 @@
+§ 1910.252 General requirements.
+(G) Lenses shall bear some permanent distinctive marking by which the source and shade may be readily identified.
+(H) The following is a guide for the selection of the proper shade numbers. These recommendations may be varied to suit the individual's needs.
+
+Welding operation Shade No.
+---------------------------
+Shielded metal-arc welding— 1/16 -, 3/32 -, 1/8 -, 5/32 -inch electrodes 10
+Gas-shielded arc welding (nonferrous)— 1/16 -, 3/32 -, 1/8 -, 5/32 -inch electrodes 11
+Gas-shielded arc welding (ferrous)— 1/16 -, 3/32 -, 1/8 -, 5/32 -inch electrodes 12
+Shielded metal-arc welding:
+3/16 -, 7/32 -, 1/4 -inch electrodes 12
+5/16 -, 3/8 -inch electrodes 14
+Atomic hydrogen welding 10-14
+Carbon arc welding 14
+Soldering 2
+Torch brazing 3 or 4
+Light cutting, up to 1 inch 3 or 4
+Medium cutting, 1 inch to 6 inches 4 or 5
+Heavy cutting, 6 inches and over 5 or 6
+Gas welding (light) up to 1/8 inch 4 or 5
+Gas welding (medium) 1/8 inch to 1/2 inch 5 or 6
+Gas welding (heavy) 1/2 inch and over 6 or 8
+
+(I) Filter lenses must meet the test for transmission of radiant energy prescribed by any of the consensus standards listed in 29 CFR 1910.133(b)(1).
+(iii) Protection from arc welding rays. Where the work permits, the welder should be enclosed in an individual booth painted with a finish of low reflectivity such as zinc oxide (an important factor for absorbing ultraviolet radiations) and lamp black, or shall be enclosed with noncombustible screens similarly painted. Booths and screens shall permit circulation of air at floor level. Workers or other persons adjacent to the welding areas shall be protected from the rays by noncombustible or flameproof screens or shields or shall be required to wear appropriate goggles.

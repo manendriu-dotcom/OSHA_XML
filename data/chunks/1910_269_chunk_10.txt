@@ -1,0 +1,12 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+( 2 ) In demonstrating that a level of safety is achieved in the tagout program equivalent to the level of safety obtained by the use of a lockout program, the employer shall demonstrate full compliance with all tagout-related provisions of this standard together with such additional elements as are necessary to provide the equivalent safety available from the use of a lockout device. Additional means to be considered as part of the demonstration of full employee protection shall include the implementation of additional safety measures such as the removal of an isolating circuit element, blocking of a controlling switch, opening of an extra disconnecting device, or the removal of a valve handle to reduce the likelihood of inadvertent energizing.
+(C) After November 1, 1994, whenever replacement or major repair, renovation, or modification of a machine or equipment is performed, and whenever new machines or equipment are installed, energy isolating devices for such machines or equipment shall be designed to accept a lockout device.
+(iii) Procedures shall be developed, documented, and used for the control of potentially hazardous energy covered by paragraph (d) of this section.
+(iv) The procedure shall clearly and specifically outline the scope, purpose, responsibility, authorization, rules, and techniques to be applied to the control of hazardous energy, and the measures to enforce compliance including, but not limited to, the following:
+(A) A specific statement of the intended use of this procedure;
+(B) Specific procedural steps for shutting down, isolating, blocking and securing machines or equipment to control hazardous energy;
+(C) Specific procedural steps for the placement, removal, and transfer of lockout devices or tagout devices and the responsibility for them; and
+(D) Specific requirements for testing a machine or equipment to determine and verify the effectiveness of lockout devices, tagout devices, and other energy control measures.
+(v) The employer shall conduct a periodic inspection of the energy control procedure at least annually to ensure that the procedure and the provisions of paragraph (d) of this section are being followed.
+(A) The periodic inspection shall be performed by an authorized employee who is not using the energy control procedure being inspected.
+(B) The periodic inspection shall be designed to identify and correct any deviations or inadequacies.

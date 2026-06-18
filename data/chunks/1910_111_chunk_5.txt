@@ -1,0 +1,20 @@
+§ 1910.111 Storage and handling of anhydrous ammonia.
+( b ) With a marking identifying compliance with the rules of the Code under which the container is constructed.
+( c ) With a notation whether the system is designed for underground or aboveground installation or both.
+( d ) With the name and address of the supplier of the system or the trade name of the system and with the date of fabrication.
+( e ) With the water capacity of the container in pounds at 60 degrees F. or gallons, U.S. Standard.
+( f ) With the design pressure in pounds per square inch.
+( g ) With the wall thickness of the shell and heads.
+( h ) With marking indicating the maximum level to which the container may be filled with liquid anhydrous ammonia at temperatures between 20 degrees F. and 130 degrees F. except on containers provided with fixed level indicators, such as fixed length dip tubes, or containers that are filled with weight. Markings shall be in increments of not more than 20 degrees F.
+( i ) With the total outside surface area of the container in square feet.
+( j ) Marking specified on the container shall be on the container itself or on a nameplate permanently attached to it.
+(4) Marking refrigerated containers. Each refrigerated container shall be marked with nameplate on the outer covering in an accessible place as specified in the following:
+(i) With the notation, "Anhydrous Ammonia."
+(ii) With the name and address of the builder and the date of fabrication.
+(iii) With the water capacity of the container in gallons, U.S. Standard.
+(iv) With the design pressure.
+(v) With the minimum temperature in degrees Fahrenheit for which the container was designed.
+(vi) The maximum allowable water level to which the container may be filled for test purposes.
+(vii) With the density of the product in pounds per cubic foot for which the container was designed.
+(viii) With the maximum level to which the container may be filled with liquid anhydrous ammonia.
+(5) Location of containers. (i) Consideration shall be given to the physiological effects of ammonia as well as to adjacent fire hazards in selecting the location for a storage container. Containers shall be located outside of buildings or in buildings or sections thereof especially provided for this purpose.

@@ -1,0 +1,10 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+( d ) Discharge from any safety relief device shall not terminate in any building nor beneath any building.
+(ii) Aboveground containers shall be provided with safety relief valves as follows:
+( a ) The rate of discharge, which may be provided by one or more valves, shall be not less than that specified in paragraph (b)(10)(ii) of this section.
+( b ) The discharge from safety relief valves shall be vented to the open air unobstructed and vertically upwards in such a manner as to prevent any impingement of escaping gas upon the container; loose-fitting rain caps shall be used. On a container having a water capacity greater than 2,000 gallons, the discharge from the safety relief valves shall be vented away from the container vertically upwards to a point at least 7 feet above the container. Suitable provisions shall be made so that any liquid or condensate that may accumulate inside of the relief valve or its discharge pipe will not render the valve inoperative. If a drain is used, a means shall be provided to protect the container, adjacent containers, piping, or equipment against impingement of flame resulting from ignition of the product escaping from the drain.
+(iii) Underground containers shall be provided with safety relief valves as follows:
+( a ) The discharge from safety-relief valves shall be piped vertically upward to a point at least 10 feet above the ground. The discharge lines or pipes shall be adequately supported and protected against physical damage.
+( b ) [Reserved]
+( c ) If no liquid is put into a container until after it is buried and covered, the rate of discharge of the relief valves may be reduced to not less than 30 percent of the rate shown in paragraph (b)(10)(ii) of this section. If liquid fuel is present during installation of containers, the rate of discharge shall be the same as for aboveground containers. Such containers shall not be uncovered until emptied of liquid fuel.
+(5) Capacity of liquid containers. Individual liquid storage containers shall not exceed 30,000 gallons water capacity.

@@ -1,0 +1,11 @@
+§ 1910.106 Flammable liquids.
+(iv) Repairs. All leaks or deformations shall be corrected in an acceptable manner before the tank is placed in service. Mechanical caulking is not permitted for correcting leaks in welded tanks except pinhole leaks in the roof.
+(v) Derated operations. Tanks to be operated at pressures below their design pressure may be tested by the applicable provisions of subdivision (i) or (ii) of this subparagraph, based upon the pressure developed under full emergency venting of the tank.
+(c) Piping, valves, and fittings —(1) General —(i) Design. The design (including selection of materials) fabrication, assembly, test, and inspection of piping systems containing flammable liquids shall be suitable for the expected working pressures and structural stresses. Conformity with the applicable provisions of Pressure Piping, ANSI B31 series and the provisions of this paragraph, shall be considered prima facie evidence of compliance with the foregoing provisions.
+(ii) Exceptions. This paragraph does not apply to any of the following:
+( a ) Tubing or casing on any oil or gas wells and any piping connected directly thereto.
+( b ) Motor vehicle, aircraft, boat, or portable or stationary engines.
+( c ) Piping within the scope of any applicable boiler and pressures vessel code.
+(iii) Definitions. As used in this paragraph, piping systems consist of pipe, tubing, flanges, bolting, gaskets, valves, fittings, the pressure containing parts of other components such as expansion joints and strainers, and devices which serve such purposes as mixing, separating, snubbing, distributing, metering, or controlling flow.
+(2) Materials for piping, valves, and fittings —(i) Required materials. Materials for piping, valves, or fittings shall be steel, nodular iron, or malleable iron, except as provided in paragraph (c)(2) (ii), (iii) and (iv) of this section.
+(ii) Exceptions. Materials other than steel, nodular iron, or malleable iron may be used underground, or if required by the properties of the flammable liquid handled. Material other than steel, nodular iron, or malleable iron shall be designed to specifications embodying principles recognized as good engineering practices for the material used.

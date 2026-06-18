@@ -1,0 +1,13 @@
+§ 1910.265 Sawmills.
+( j ) Wood pike poles shall be made of straight-grained, select material. Metal or conductive pike poles shall not be used around exposed energized electrical conductors. Defective, blunt, or dull pike poles shall not be used.
+(2) Log unloading and storage areas —(i) General. ( a ) Log dumps, booms, ponds, or storage areas used at night shall be illuminated in accordance with the requirements of American National Standard A11.1-1965 (R-1970) Standard Practice for Industrial Lighting, which is incorporated by reference as specified in § 1910.6.
+( b ) Log unloading areas shall be arranged and maintained to provide a safe working area.
+( c ) Where skids are used, space adequate to clear a man's body shall be maintained between the top of the skids and the ground.
+( d ) Signs prohibiting unauthorized foot or vehicle traffic in log unloading and storage areas shall be posted.
+(ii) Water log dumps. ( a ) Ungrounded electrically powered hoists using handheld remote control in grounded locations, such as log dumps or mill log lifts, shall be actuated by circuits operating at less than 50 volts to ground.
+( b ) Roadbeds at log dumps shall be of sufficient width and evenness to insure safe operation of equipment.
+( c ) An adequate brow log or skid timbers or the equivalent shall be provided where necessary. Railroad-type dumps, when located where logs are dumped directly into water or where entire loads are lifted from vehicle, may be exempted providing such practice does not create a hazardous exposure of personnel or equipment.
+( d ) Unloading lines shall be arranged so that it is not necessary for the employees to attach them from the pond or dump side of the load except when entire loads are lifted from the log-transporting vehicle.
+( e ) Unloading lines, crotch lines, or equally effective means shall be arranged and used in a manner to minimize the possibility of any log from swinging or rolling back.
+( f ) When logs are unloaded with peavys or similar manual methods, means shall be provided and used that will minimize the danger from rolling or swinging logs.
+( g ) Guardrails, walkways, and standard handrails shall be installed

@@ -1,0 +1,14 @@
+§ 1910.252 General requirements.
+(C) In confined spaces or where the welding space contains partitions, balconies, or other structural barriers to the extent that they significantly obstruct cross ventilation.
+(ii) Minimum rate. Such ventilation shall be at the minimum rate of 2,000 cubic feet (57 m 3 ) per minute per welder, except where local exhaust hoods and booths as per paragraph (c)(3) of this section, or airline respirators approved by the Mine Safety and Health Administration and the National Institute for Occupational Safety and Health, pursuant to the provisions of 30 CFR part 11, are provided. Natural ventilation is considered sufficient for welding or cutting operations where the restrictions in paragraph (c)(2)(i) of this section are not present.
+(3) Local exhaust hoods and booths. Mechanical local exhaust ventilation may be by means of either of the following:
+(i) Hoods. Freely movable hoods intended to be placed by the welder as near as practicable to the work being welded and provided with a rate of air-flow sufficient to maintain a velocity in the direction of the hood of 100 linear feet (30 m) per minute in the zone of welding when the hood is at its most remote distance from the point of welding. The rates of ventilation required to accomplish this control velocity using a 3-inch (7.6 cm) wide flanged suction opening are shown in the following table:
+
+Welding zone Minimum air flow 1 cubic feet/minute Duct diameter, inches 2
+-------------------------------------------------------------------------
+4 to 6 inches from arc or torch 150 3
+6 to 8 inches from arc or torch 275 3 1/2
+8 to 10 inches from arc or torch 425 4 1/2
+10 to 12 inches from arc or torch 600 5 1/2
+
+(ii) Fixed enclosure. A fixed enclosure with a top and not less than two sides which surround the welding or cutting operations and with a rate of airflow sufficient to maintain a velocity away from the welder of not less than 100 linear feet (30 m) per minute.

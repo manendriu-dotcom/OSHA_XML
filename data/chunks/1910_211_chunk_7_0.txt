@@ -1,0 +1,13 @@
+§ 1910.211 Definitions.
+(34) Fixed barrier guard means a die space barrier attached to the press frame.
+(35) Interlocked press barrier guard means a barrier attached to the press frame and interlocked so that the press stroke cannot be started normally unless the guard itself, or its hinged or movable sections, enclose the point of operation.
+(36) Adjustable barrier guard means a barrier requiring adjustment for each job or die setup.
+(37) Guide post means the pin attached to the upper or lower die shoe operating within the bushing on the opposing die shoe, to maintain the alignment of the upper and lower dies.
+(38) Hand feeding tool means any hand held tool designed for placing or removing material or parts to be processed within or from the point of operation.
+(39) Inch means an intermittent motion imparted to the slide (on machines using part revolution clutches) by momentary operation of the Inch operating means. Operation of the Inch operating means engages the driving clutch so that a small portion of one stroke or indefinite stroking can occur, depending upon the length of time the Inch operating means is held operated. Inch is a function used by the die setter for setup of dies and tooling, but is not intended for use during production operations by the operator.
+(40) Jog means an intermittent motion imparted to the slide by momentary operation of the drive motor, after the clutch is engaged with the flywheel at rest.
+(41) Knockout means a mechanism for releasing material from either die.
+(42) Liftout means the mechanism also known as knockout.
+(43) Operator's station means the complete complement of controls used by or available to an operator on a given operation for stroking the press.
+(44) Pinch point means any point other than the point of operation at which it is possible for a part of the body to be caught between the moving parts of a press or auxiliary equipment, or between moving and stationary parts of a press or auxiliary equipment or between the material and moving part or parts of the press or auxiliary equipment.
+(45) Point of operation means the area of the press where material is actually positioned and work is being performed during any process such as shearing, punching, forming, or assembling.

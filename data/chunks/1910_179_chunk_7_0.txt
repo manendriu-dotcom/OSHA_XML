@@ -1,0 +1,12 @@
+§ 1910.179 Overhead and gantry cranes.
+(ii) Bumpers shall be so designed and installed as to minimize parts falling from the crane in case of breakage.
+(3) Trolley bumpers —(i) A trolley shall be provided with bumpers or other automatic means of equivalent effect, unless the trolley travels at a slow rate of speed, or is not operated near the ends of bridge and trolley travel, or is restricted to a limited distance of the runway and there is no hazard of striking any object in this limited distance, or is used in similar operating conditions. The bumpers shall be capable of stopping the trolley (not including the lifted load) at an average rate of deceleration not to exceed 4.7 ft/s/s when traveling in either direction at one-third of the rated load speed.
+(ii) When more than one trolley is operated on the same bridge, each shall be equipped with bumpers or equivalent on their adjacent ends.
+(iii) Bumpers or equivalent shall be designed and installed to minimize parts falling from the trolley in case of age.
+(4) Rail sweeps. Bridge trucks shall be equipped with sweeps which extend below the top of the rail and project in front of the truck wheels.
+(5) Guards for hoisting ropes. (i) If hoisting ropes run near enough to other parts to make fouling or chafing possible, guards shall be installed to prevent this condition.
+(ii) A guard shall be provided to prevent contact between bridge conductors and hoisting ropes if they could come into contact.
+(6) Guards for moving parts. (i) Exposed moving parts such as gears, set screws, projecting keys, chains, chain sprockets, and reciprocating components which might constitute a hazard under normal operating conditions shall be guarded.
+(ii) Guards shall be securely fastened.
+(iii) Each guard shall be capable of supporting without permanent distortion the weight of a 200-pound person unless the guard is located where it is impossible for a person to step on it.
+(f) Brakes —(1) Brakes for hoists. (i) Each independent hoisting unit of a crane shall be equipped with at least one self-setting brake, hereafter referred to as a holding brake, applied directly to the motor shaft or some part of the gear train.

@@ -1,0 +1,2 @@
+§ 1910.304 Wiring design and protection.
+this section shall be as follows: (i) One conductor of a single-phase, two-wire system shall be grounded; (ii) The neutral conductor of a single-phase, three-wire system shall be grounded; (iii) The common conductor of a multiphase system having one wire common to all phases shall be grounded;

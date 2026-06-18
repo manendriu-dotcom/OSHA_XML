@@ -1,0 +1,2 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+of § 1910.243(a)(5): (i) The equipment shall be equipped with a cord containing an equipment grounding conductor connected to the equipment frame and to a means for grounding the other end of the conductor (however, this option may not be used where the introduction of the ground into the work environment increases the hazard to an employee); or

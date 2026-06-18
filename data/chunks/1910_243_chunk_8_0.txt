@@ -1,0 +1,12 @@
+§ 1910.243 Guarding of portable powered tools.
+(ii) [Reserved]
+(iii) No load (cased or caseless) shall be used if it will accurately chamber in any existing approved commercially available low-velocity piston tool or hammer operated piston tool—low-velocity type and will cause a fastener to have a mean velocity in excess of 300 feet per second when measured 6.5 feet from the muzzle end of the barrel. No individual test firing of a series shall exceed 300 feet per second by more than 8 percent.
+(iv) Fasteners used in tools shall be only those specifically manufactured for use in such tools.
+(4) Operating requirements. (i) Before using a tool, the operator shall inspect it to determine to his satisfaction that it is clean, that all moving parts operate freely, and that the barrel is free from obstructions.
+(ii) When a tool develops a defect during use, the operator shall immediately cease to use it, until it is properly repaired.
+(iii) Tools shall not be loaded until just prior to the intended firing time. Neither loaded nor empty tools are to be pointed at any workmen.
+(iv) No tools shall be loaded unless being prepared for immediate use, nor shall an unattended tool be left loaded.
+(v) In case of a misfire, the operator shall hold the tool in the operating position for at least 30 seconds. He shall then try to operate the tool a second time. He shall wait another 30 seconds, holding the tool in the operating position; then he shall proceed to remove the explosive load in strict accordance with the manufacturer's instructions.
+(vi) A tool shall never be left unattended in a place where it would be available to unauthorized persons.
+(vii) Fasteners shall not be driven into very hard or brittle materials including, but not limited to, cast iron, glazed tile, surface-hardened steel, glass block, live rock, face brick, or hollow tile.
+(viii) Driving into materials easily penetrated shall be avoided unless such materials are backed by a substance that will prevent the pin or fastener from passing completely through and creating a flying-missile hazard on the other side.

@@ -1,0 +1,10 @@
+§ 1910.219 Mechanical power-transmission apparatus.
+§ 1910.219 Mechanical power-transmission apparatus.
+(a) General requirements. (1) This section covers all types and shapes of power-transmission belts, except the following when operating at two hundred and fifty (250) feet per minute or less: (i) Flat belts one (1) inch or less in width, (ii) flat belts two (2) inches or less in width which are free from metal lacings or fasteners, (iii) round belts one-half ( 1/2 ) inch or less in diameter; and (iv) single strand V-belts, the width of which is thirteen thirty-seconds ( 13/32 ) inch or less.
+(2) Vertical and inclined belts (paragraphs (e) (3) and (4) of this section) if not more than two and one-half (2 1/2 ) inches wide and running at a speed of less than one thousand (1,000) feet per minute, and if free from metal lacings or fastenings may be guarded with a nip-point belt and pulley guard.
+(3) For the Textile Industry, because of the presence of excessive deposits of lint, which constitute a serious fire hazard, the sides and face sections only of nip-point belt and pulley guards are required, provided the guard shall extend at least six (6) inches beyond the rim of the pulley on the in-running and off-running sides of the belt and at least two (2) inches away from the rim and face of the pulley in all other directions.
+(4) This section covers the principal features with which power transmission safeguards shall comply.
+(b) Prime-mover guards —(1) Flywheels. Flywheels located so that any part is seven (7) feet or less above floor or platform shall be guarded in accordance with the requirements of this subparagraph:
+(i) With an enclosure of sheet, perforated, or expanded metal, or woven wire;
+(ii) With guard rails placed not less than fifteen (15) inches nor more than twenty (20) inches from rim. When flywheel extends into pit or is within 12 inches of floor, a standard toeboard shall also be provided;
+(iii) When the upper rim of flywheel protrudes through a working floor, it shall be entirely enclosed or surrounded by a guardrail and toeboard.

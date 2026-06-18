@@ -1,0 +1,13 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+(A) Verification by the employer that the authorized employee who applied the device is not at the facility;
+(B) Making all reasonable efforts to contact the authorized employee to inform him or her that his or her lockout or tagout device has been removed; and
+(C) Ensuring that the authorized employee has this knowledge before he or she resumes work at that facility.
+(8) Additional requirements. (i) If the lockout or tagout devices must be temporarily removed from energy isolating devices and the machine or equipment must be energized to test or position the machine, equipment, or component thereof, the following sequence of actions shall be followed:
+(A) Clear the machine or equipment of tools and materials in accordance with paragraph (d)(7)(i) of this section;
+(B) Remove employees from the machine or equipment area in accordance with paragraphs (d)(7)(ii) and (d)(7)(iii) of this section;
+(C) Remove the lockout or tagout devices as specified in paragraph (d)(7)(iv) of this section;
+(D) Energize and proceed with the testing or positioning; and
+(E) Deenergize all systems and reapply energy control measures in accordance with paragraph (d)(6) of this section to continue the servicing or maintenance.
+(ii) When servicing or maintenance is performed by a crew, craft, department, or other group, they shall use a procedure which affords the employees a level of protection equivalent to that provided by the implementation of a personal lockout or tagout device. Group lockout or tagout devices shall be used in accordance with the procedures required by paragraphs (d)(2)(iii) and (d)(2)(iv) of this section including, but not limited to, the following specific requirements:
+(A) Primary responsibility shall be vested in an authorized employee for a set number of employees working under the protection of a group lockout or tagout device (such as an operations lock);
+(B) Provision shall be made for the authorized employee to ascertain the exposure status of all individual group members with regard to the lockout or tagout of the machine or equipment;

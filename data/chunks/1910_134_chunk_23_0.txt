@@ -1,0 +1,20 @@
+§ 1910.134 Respiratory protection.
+(B) Type of fit test performed;
+(C) Specific make, model, style, and size of respirator tested;
+(D) Date of test; and
+(E) The pass/fail results for QLFTs or the fit factor and strip chart recording or other recording of the test results for QNFTs.
+(ii) Fit test records shall be retained for respirator users until the next fit test is administered.
+(3) A written copy of the current respirator program shall be retained by the employer.
+(4) Written materials required to be retained under this paragraph shall be made available upon request to affected employees and to the Assistant Secretary or designee for examination and copying.
+(n) Effective date. Paragraphs (d)(3)(i)(A) and (d)(3)(i)(B) of this section become effective November 22, 2006.
+(o) Appendices. Compliance with appendix A, appendix B-1, appendix B-2, appendix C, and appendix D to this section are mandatory.
+
+Table A-1—CNP REDON Quantitative Fit Testing Protocol
+-----------------------------------------------------
+Exercises 1 Exercise procedure Measurement procedure
+----------------------------------------------------
+Facing Forward Stand and breathe normally, without talking, for 30 seconds Face forward, while holding breath for 10 seconds.
+Bending Over Bend at the waist, as if going to touch his or her toes, for 30 seconds Face parallel to the floor, while holding breath for 10 seconds
+Head Shaking For about three seconds, shake head back and forth vigorously several times while shouting Face forward, while holding breath for 10 seconds
+REDON 1 Remove the respirator mask, loosen all facepiece straps, and then redon the respirator mask Face forward, while holding breath for 10 seconds.
+REDON 2 Remove the respirator mask, loosen all facepiece straps, and then redon the respirator mask again Face forward, while holding breath for 10 seconds.

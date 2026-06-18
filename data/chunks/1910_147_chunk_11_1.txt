@@ -1,0 +1,2 @@
+§ 1910.147 The control of hazardous energy (lockout/tagout).
+Group lockout or tagout devices shall be used in accordance with the procedures required by paragraph (c)(4) of this section including, but not necessarily limited to, the following specific requirements: (A) Primary responsibility is vested in an authorized employee for a set number of employees working under the protection of a group lockout or tagout device (such as an operations lock);

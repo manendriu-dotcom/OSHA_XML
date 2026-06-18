@@ -1,0 +1,2 @@
+§ 1910.308(f)—Solar photovoltaic systems
+(c) Applicability of requirements for disconnecting means. The requirement in § 1910.147(c)(2)(iii) that energy isolating devices be capable of accepting a lockout device whenever replacement or major repair, renovation or modification of a machine or equipment is performed, and whenever new machines or equipment are installed after January 2, 1990, applies in addition to any requirements in §§ 1910.303 through 1910.308 that disconnecting means be capable of being locked in the open position under certain conditions.

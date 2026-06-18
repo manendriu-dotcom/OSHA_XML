@@ -1,0 +1,36 @@
+# retrieval.yaml — OSHA 1910 XML pipeline
+# Core retrieval settings are unchanged from the PDF version.
+# XML chunking produces cleaner paragraph boundaries, so you may find
+# min_score can be raised to 0.25-0.30 for tighter, more precise results.
+
+retrieval:
+  top_k: 5
+  min_score: 0.20
+  rerank: false
+  rerank_model: "cross-encoder/ms-marco-MiniLM-L-6-v2"
+  rerank_top_n: 3
+  # context_window: include N neighbouring chunks on each side of a hit.
+  # XML chunks align on regulatory paragraphs, so window=1 gives clean context
+  # (e.g. if (c)(4) is retrieved, window=1 also returns (c)(3) and (c)(5)).
+  context_window: 1
+
+generation:
+  model: "claude-sonnet-4-20250514"
+  max_tokens: 1024
+  temperature: 0.0
+  system_prompt: |
+    You are an expert OSHA compliance analyst specialising in 29 CFR Part 1910
+    (General Industry standards). Answer questions using ONLY the provided
+    context excerpts. Cite the specific section number(s) (e.g. § 1910.147(c)(4))
+    for every claim. If the context does not contain enough information to answer,
+    say so clearly — do not speculate or use outside knowledge.
+  context_template: |
+    --- RETRIEVED CONTEXT ---
+    {context}
+    --- END CONTEXT ---
+
+    USER QUESTION: {question}
+
+logging:
+  log_queries: true
+  log_file: "logs/pipeline.log"

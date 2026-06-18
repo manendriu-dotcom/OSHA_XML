@@ -1,0 +1,9 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+( d ) The vaporizer section of vaporizer-burners shall be protected by a hydrostatic relief valve. The relief valve shall be located so as not to be subjected to temperatures in excess of 140 degrees F. The start-to-discharge pressure setting shall be such as to protect the components involved, but not less than 250 p.s.i.g. The discharge shall be directed upward and away from component parts of the equipment and away from operating personnel.
+( e ) Vaporizer-burners shall be provided with means for manually turning off the gas to the main burner and pilot.
+( f ) Vaporizer-burners shall be equipped with automatic safety devices to shut off the flow of gas to the main burner and pilot in the event the pilot is extinguished.
+( g ) Pressure regulating and control equipment shall be located or protected so that the temperatures surrounding this equipment shall not exceed 140 degrees F. except that equipment components may be used at higher temperatures if designed to withstand such temperatures.
+( h ) Pressure regulating and control equipment when located downstream of the vaporizer shall be designed to withstand the maximum discharge temperature of the vapor.
+( i ) The vaporizer section of vaporizer-burners shall not be provided with fusible plugs.
+( j ) Vaporizer coils or jackets shall be made of ferrous metal or high temperature alloys.
+( k ) Equipment utilizing vaporizer-burners shall be equipped with automatic shutoff devices upstream and downstream of the vaporizer section connected so as to operate in the event of excessive temperature, flame failure, and, if applicable, insufficient airflow.

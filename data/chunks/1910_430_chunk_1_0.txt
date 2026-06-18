@@ -1,0 +1,20 @@
+§ 1910.430 Equipment.
+(ii) Be made of kink-resistant materials; and
+(iii) Have a working pressure greater than the pressure equivalent to the maximum depth of the dive (relative to the supply source) plus 100 psi.
+(d) Buoyancy control. (1) Helmets or masks connected directly to the dry suit or other buoyancy-changing equipment shall be equipped with an exhaust valve.
+(2) A dry suit or other buoyancy-changing equipment not directly connected to the helmet or mask shall be equipped with an exhaust valve.
+(3) When used for SCUBA diving, a buoyancy compensator shall have an inflation source separate from the breathing gas supply.
+(4) An inflatable flotation device capable of maintaining the diver at the surface in a face-up position, having a manually activated inflation source independent of the breathing supply, an oral inflation device, and an exhaust valve shall be used for SCUBA diving.
+(e) Compressed gas cylinders. Compressed gas cylinders shall:
+(1) Be designed, constructed and maintained in accordance with the applicable provisions of 29 CFR 1910.101 and 1910.169 through 1910.171.
+(2) Be stored in a ventilated area and protected from excessive heat;
+(3) Be secured from falling; and
+(4) Have shut-off valves recessed into the cylinder or protected by a cap, except when in use or manifolded, or when used for SCUBA diving.
+(f) Decompression chambers. (1) Each decompression chamber manufactured after the effective date of this standard, shall be built and maintained in accordance with the ASME Code or equivalent.
+(2) Each decompression chamber manufactured prior to the effective date of this standard shall be maintained in conformity with the code requirements to which it was built, or equivalent.
+(3) Each decompression chamber shall be equipped with:
+(i) Means to maintain the atmosphere below a level of 25 percent oxygen by volume;
+(ii) Mufflers on intake and exhaust lines, which shall be regularly inspected and maintained;
+(iii) Suction guards on exhaust line openings; and
+(iv) A means for extinguishing fire, and shall be maintained to minimize sources of ignition and combustible material.
+(g) Gauges and timekeeping devices. (1) Gauges indicating diver depth which can be read at the dive location shall be used for all dives except SCUBA.

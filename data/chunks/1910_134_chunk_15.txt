@@ -1,0 +1,17 @@
+§ 1910.134 Respiratory protection.
+(B) If they detect vapor or gas breakthrough, changes in breathing resistance, or leakage of the facepiece; or
+(C) To replace the respirator or the filter, cartridge, or canister elements.
+(iii) If the employee detects vapor or gas breakthrough, changes in breathing resistance, or leakage of the facepiece, the employer must replace or repair the respirator before allowing the employee to return to the work area.
+(3) Procedures for IDLH atmospheres. For all IDLH atmospheres, the employer shall ensure that:
+(i) One employee or, when needed, more than one employee is located outside the IDLH atmosphere;
+(ii) Visual, voice, or signal line communication is maintained between the employee(s) in the IDLH atmosphere and the employee(s) located outside the IDLH atmosphere;
+(iii) The employee(s) located outside the IDLH atmosphere are trained and equipped to provide effective emergency rescue;
+(iv) The employer or designee is notified before the employee(s) located outside the IDLH atmosphere enter the IDLH atmosphere to provide emergency rescue;
+(v) The employer or designee authorized to do so by the employer, once notified, provides necessary assistance appropriate to the situation;
+(vi) Employee(s) located outside the IDLH atmospheres are equipped with:
+(A) Pressure demand or other positive pressure SCBAs, or a pressure demand or other positive pressure supplied-air respirator with auxiliary SCBA; and either
+(B) Appropriate retrieval equipment for removing the employee(s) who enter(s) these hazardous atmospheres where retrieval equipment would contribute to the rescue of the employee(s) and would not increase the overall risk resulting from entry; or
+(C) Equivalent means for rescue where retrieval equipment is not required under paragraph (g)(3)(vi)(B).
+(4) Procedures for interior structural firefighting. In addition to the requirements set forth under paragraph (g)(3), in interior structural fires, the employer shall ensure that:
+(i) At least two employees enter the IDLH atmosphere and remain in visual or voice contact with one another at all times;
+(ii) At least two employees are located outside the IDLH atmosphere; and

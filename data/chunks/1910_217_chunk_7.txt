@@ -1,0 +1,13 @@
+§ 1910.217 Mechanical power presses.
+(v) The hinged or movable sections of an interlocked press barrier guard shall not be used for manual feeding. The guard shall prevent opening of the interlocked section and reaching into the point of operation prior to die closure or prior to the cessation of slide motion. See paragraph (c)(3)(ii) of this section regarding manual feeding through interlocked press barrier devices.
+(vi) The adjustable barrier guard shall be securely attached to the press bed, bolster plate, or die shoe, and shall be adjusted and operated in conformity with Table O-10 and the requirements of this subparagraph. Adjustments shall be made only by authorized personnel whose qualifications include a knowledge of the provisions of Table O-10 and this subparagraph.
+(vii) A point of operation enclosure which does not meet the requirements of this subparagraph and Table O-10 shall be used only in conjunction with point of operation devices.
+(3) Point of operation devices. (i) Point of operation devices shall protect the operator by:
+( a ) Preventing and/or stopping normal stroking of the press if the operator's hands are inadvertently placed in the point of operation; or
+( b ) Preventing the operator from inadvertently reaching into the point of operation, or withdrawing his hands if they are inadvertently located in the point of operation, as the dies close; or
+( c ) Preventing the operator from inadvertently reaching into the point of operation at all times; or
+( d ) [Reserved]
+( e ) Requiring application of both of the operator's hands to machine operating controls and locating such controls at such a safety distance from the point of operation that the slide completes the downward travel or stops before the operator can reach into the point of operation with his hands; or
+( f ) Enclosing the point of operation before a press stroke can be initiated, and maintaining this closed condition until the motion of the slide had ceased; or
+( g ) Enclosing the point of operation before a press stroke can be initiated, so as to prevent an operator from reaching into the point of operation prior to die closure or prior to cessation of slide motion during the downward stroke.
+(ii) A gate or movable barrier device shall protect the operator as follows:

@@ -1,0 +1,11 @@
+§ 1910.217 Mechanical power presses.
+(C) Maintain a certification record of each inspection, and each maintenance and repair task performed, under the general component of the inspection program that includes the date of the inspection, maintenance, or repair work, the signature of the person who performed the inspection, maintenance, or repair work, and the serial number, or other identifier, of the power press inspected, maintained, and repaired.
+(ii) Under the directed component of the inspection program, the employer shall:
+(A) Inspect and test each press on a regular basis at least once a week to determine the condition of the clutch/brake mechanism, antirepeat feature, and single-stroke mechanism;
+(B) Perform and complete necessary maintenance or repair, or both, on the clutch/brake mechanism, antirepeat feature, and single-stroke mechanism before operating the press; and
+(C) Maintain a certification record of each maintenance task performed under the directed component of the inspection program that includes the date of the maintenance task, the signature of the person who performed the maintenance task, and the serial number, or other identifier, of the power press maintained.
+Note: Note to paragraph ( e )(1)( ii ): Inspections of the clutch/brake mechanism, antirepeat feature, and single-stroke mechanism conducted under the directed component of the inspection program are exempt from the requirement to maintain certification records specified by paragraph (e)(1)(i)(C) of this section, but inspections of the clutch/brake mechanism, antirepeat feature, and single-stroke mechanism conducted under the general component of the inspection program are not exempt from this requirement.
+(iii) Paragraph (e)(1)(ii) of this section does not apply to presses that comply with paragraphs (b)(13) and (14) of this section.
+(2) Modification. It shall be the responsibility of any person modifying a power press to furnish instructions with the modification to establish new or changed guidelines for use and care of the power press so modified.
+(3) Training of maintenance personnel. It shall be the responsibility of the employer to insure the original and continuing competence of personnel caring for, inspecting, and maintaining power presses.
+(f) Operation of power presses —(1) [Reserved]

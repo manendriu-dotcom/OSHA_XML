@@ -1,0 +1,13 @@
+§ 1910.304 Wiring design and protection.
+( 3 ) Hand-held motor-operated tools, stationary and fixed motor-operated tools, and light industrial motor-operated tools;
+( 4 ) Motor-operated appliances of the following types: hedge clippers, lawn mowers, snow blowers, and wet scrubbers;
+( 5 ) Cord- and plug-connected appliances used in damp or wet locations, or by employees standing on the ground or on metal floors or working inside of metal tanks or boilers;
+( 6 ) Portable and mobile X-ray and associated equipment;
+( 7 ) Tools likely to be used in wet and conductive locations; and
+( 8 Portable hand lamps.
+(vii) Notwithstanding the provisions of paragraph (g)(6)(vi) of this section, the following equipment need not be grounded:
+(A) Tools likely to be used in wet and conductive locations if supplied through an isolating transformer with an ungrounded secondary of not over 50 volts; and
+(B) Listed or labeled portable tools and appliances if protected by an approved system of double insulation, or its equivalent, and distinctively marked.
+(7) Nonelectrical equipment. The metal parts of the following nonelectrical equipment shall be grounded: frames and tracks of electrically operated cranes and hoists; frames of nonelectrically driven elevator cars to which electric conductors are attached; hand-operated metal shifting ropes or cables of electric elevators; and metal partitions, grill work, and similar metal enclosures around equipment of over 750 volts between conductors.
+(8) Methods of grounding fixed equipment. (i) Noncurrent-carrying metal parts of fixed equipment, if required to be grounded by this subpart, shall be grounded by an equipment grounding conductor that is contained within the same raceway, cable, or cord, or runs with or encloses the circuit conductors. For dc circuits only, the equipment grounding conductor may be run separately from the circuit conductors.
+(ii) Electric equipment is considered to be effectively grounded if it is secured to, and in electrical contact with, a metal rack or structure that is provided for its support and the metal rack or structure is grounded by the method specified for the noncurrent-carrying metal parts of fixed equipment in paragraph (g)(8)(i) of this section. Metal car frames supported by metal hoisting cables attached to or running over metal sheaves or drums of grounded elevator machines are also considered to be effectively grounded.

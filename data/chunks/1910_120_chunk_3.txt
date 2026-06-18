@@ -1,0 +1,7 @@
+§ 1910.120 Hazardous waste operations and emergency response.
+(A) Any substance defined under section 103(14) of the Comprehensive Environmental Response Compensation and Liability Act (CERCLA) (42 U.S.C. 9601).
+(B) Any biological agent and other disease-causing agent which after release into the environment and upon exposure, ingestion, inhalation, or assimilation into any person, either directly from the environment or indirectly by ingestion through food chains, will or may reasonably be anticipated to cause death, disease, behavioral abnormalities, cancer, genetic mutation, physiological malfunctions (including malfunctions in reproduction) or physical deformations in such persons or their offspring;
+(C) Any substance listed by the U.S. Department of Transportation as hazardous materials under 49 CFR 172.101 and appendices; and
+(D) Hazardous waste as herein defined.
+Hazardous waste means—
+(A) A waste or combination of wastes as defined in 40 CFR 261.3, or

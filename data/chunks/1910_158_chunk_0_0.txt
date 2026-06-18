@@ -1,0 +1,12 @@
+§ 1910.158 Standpipe and hose systems.
+§ 1910.158 Standpipe and hose systems.
+(a) Scope and application —(1) Scope. This section applies to all small hose, Class II, and Class III standpipe systems installed to meet the requirements of a particular OSHA standard.
+(2) Exception. This section does not apply to Class I standpipe systems.
+(b) Protection of standpipes. The employer shall assure that standpipes are located or otherwise protected against mechanical damage. Damaged standpipes shall be repaired promptly.
+(c) Equipment —(1) Reels and cabinets. Where reels or cabinets are provided to contain fire hose, the employer shall assure that they are designed to facilitate prompt use of the hose valves, the hose, and other equipment at the time of a fire or other emergency. The employer shall assure that the reels and cabinets are conspicuously identified and used only for fire equipment.
+(2) Hose outlets and connections. (i) The employer shall assure that hose outlets and connections are located high enough above the floor to avoid being obstructed and to be accessible to employees.
+(ii) The employer shall standardize screw threads or provide appropriate adapters throughout the system and assure that the hose connections are compatible with those used on the supporting fire equipment.
+(3) Hose. (i) The employer shall assure that every 1 1/2 ″ (3.8 cm) or smaller hose outlet used to meet this standard is equipped with hose connected and ready for use. In extremely cold climates where such installation may result in damaged equipment, the hose may be stored in another location provided it is readily available and can be connected when needed.
+(ii) Standpipe systems installed after January 1, 1981, for use by employees, shall be equipped with lined hose. Unlined hose may remain in use on existing systems. However, after the effective date of this standard, unlined hose which becomes unserviceable shall be replaced with lined hose.
+(iii) The employer shall provide hose of such length that friction loss resulting from water flowing through the hose will not decrease the pressure at the nozzle below 30 psi (210 kPa). The dynamic pressure at the nozzle shall be within the range of 30 psi (210 kPa) to 125 psi (860 kPa).
+(4) Nozzles. The employer shall assure that standpipe hose is equipped with shut-off type nozzles.

@@ -1,0 +1,13 @@
+§ 1910.211 Definitions.
+(10) Bolt-headers mean the same as an upsetter or forging machine except that the diameter of stock fed into the machine is much smaller, i.e., commonly three-fourths inch or less.
+(11) Rivet making machines mean the same as upsetters and boltheaders when producing rivets with stock diameter of 1-inch or more. Rivet making with less than 1-inch diameter is usually a cold forging operation, and therefore not included in this subpart.
+(12) Upsetters (or forging machines, or headers) type of forging equipment, related to the mechanical press, in which the main forming energy is applied horizontally to the workpiece which is gripped and held by prior action of the dies.
+(f) As used in § 1910.219, unless the context clearly requires otherwise, the following mechanical power-transmission guarding terms shall have the meaning prescribed in this paragraph.
+(1) Belts include all power transmission belts, such as flat belts, round belts, V-belts, etc., unless otherwise specified.
+(2) Belt shifter means a device for mechanically shifting belts from tight to loose pulleys or vice versa, or for shifting belts on cones of speed pulleys.
+(3) Belt pole (sometimes called a belt shipper or shipper pole, ) means a device used in shifting belts on and off fixed pulleys on line or countershaft where there are no loose pulleys.
+(4) Exposed to contact means that the location of an object is such that a person is likely to come into contact with it and be injured.
+(5) Flywheels include flywheels, balance wheels, and flywheel pulleys mounted and revolving on crankshaft of engine or other shafting.
+(6) Maintenance runway means any permanent runway or platform used for oiling, maintenance, running adjustment, or repair work, but not for passageway.
+(7) Nip-point belt and pulley guard means a device which encloses the pulley and is provided with rounded or rolled edge slots through which the belt passes.
+(8) Point of operation means that point at which cutting, shaping, or forming is accomplished upon the stock and shall include such other points as may offer a hazard to the operator in inserting or manipulating the stock in the operation of the machine.

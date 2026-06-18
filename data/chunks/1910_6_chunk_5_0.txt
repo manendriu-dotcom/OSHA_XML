@@ -1,0 +1,14 @@
+§ 1910.6 Incorporation by reference.
+(27) ANSI B31.3-66 Petroleum Refinery Piping, IBR approved for § 1910.103(b)(3)(v)(b).
+(28) ANSI B31.5-66 Addenda B31.5a (1968) Refrigeration Piping, IB approved for §§ 1910.103(b)(3)(v)(b) and 1910.111(b)(7)(iii).
+(29) ANSI B56.1-69 Safety Standard for Powered Industrial Trucks, IBR approved for §§ 1910.178(a) (2) and (3) and 1910.261 (a)(3)(xv), (b)(6), (m)(2), and (m)(5)(iii).
+(30) ANSI B57.1-65 Compressed Gas Cylinder Valve Outlet and Inlet Connections, IBR approved for § 1910.253(b)(1)(iii).
+(31) [Reserved]
+(32) ANSI B175.1-1991, Safety Requirements for Gasoline-Powered Chain Saws 1910.266(e)(2)(i).
+(33) [Reserved]
+(34) ANSI C33.2-56 Safety Standard for Transformer-Type Arc Welding Machines, IBR approved for § 1910.254(b)(1).
+(35) [Reserved]
+(36) ANSI H23.1-70 Seamless Copper Water Tube Specification, IBR approved for § 1910.110(b) (8)(ii) and (13)(ii)(b)(1).
+(37) ANSI H38.7-69 Specification for Aluminum Alloy Seamless Pipe and Seamless Extruded Tube, IBR approved for § 1910.110(b)(8)(i).
+(38) ANSI J6.4-71 Standard Specification for Rubber Insulating Blankets, IBR approved for § 1910.268 (f)(1) and (n)(11)(v).
+(39) ANSI J6.6-71 Standard Specification for Rubber Insulating Gloves, IBR approved for § 1910.268 (f)(1) and (n)(11)(iv).

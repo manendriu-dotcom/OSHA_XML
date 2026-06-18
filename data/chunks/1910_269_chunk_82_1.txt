@@ -1,0 +1,2 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+short circuit, (ii) Before employees handle the units, the employer shall short circuit each unit in series-parallel capacitor banks between all terminals and the capacitor case or its rack. If the cases of capacitors are on ungrounded substation racks, the employer shall bond the racks to ground. (iii) The employer shall short circuit any line connected to capacitors before the line is treated as deenergized.

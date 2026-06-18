@@ -1,0 +1,2 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+employer shall provide the protective measures required by paragraph (p)(4)(iii) of this section when employees are installing or removing a conductor or cable close enough to energized conductors that any of the following failures could energize the pulling or tensioning equipment or the conductor or cable being installed or removed: (A) Failure of the pulling or tensioning equipment,

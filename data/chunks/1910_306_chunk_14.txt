@@ -1,0 +1,15 @@
+§ 1910.306 Specific purpose equipment and installations.
+(i) Boxes shall be designed so that no live parts are exposed to accidental contact. Where installed outdoors, the box shall be of weatherproof construction and mounted so that the bottom of the enclosure is not less than 152 mm (6 in.) above the ground;
+(ii) Busbars shall have an ampere rating not less than the overcurrent device supplying the feeder supplying the box. Busbar connectors shall be provided where conductors terminate directly on busbars;
+(iii) Receptacles shall have overcurrent protection installed within the box. The overcurrent protection may not exceed the ampere rating of the receptacle, except as permitted in § 1910.305(j)(4) for motor loads;
+(iv) Where single-pole connectors are used, they shall comply with the following:
+(A) Where ac single-pole portable cable connectors are used, they shall be listed and of the locking type. Where paralleled sets of current-carrying single-pole separable connectors are provided as input devices, they shall be prominently labeled with a warning indicating the presence of internal parallel connections. The use of single-pole separable connectors shall comply with at least one of the following conditions:
+( 1 ) Connection and disconnection of connectors are only possible where the supply connectors are interlocked to the source and it is not possible to connect or disconnect connectors when the supply is energized; or
+( 2 ) Line connectors are of the listed sequential-interlocking type so that load connectors are connected in the following sequence:
+( i ) Equipment grounding conductor connection;
+( ii ) Grounded circuit-conductor connection, if provided; and
+( iii ) Ungrounded conductor connection; and so that disconnection is in the reverse order; or
+( 3 ) A caution notice is provided adjacent to the line connectors indicating that plug connection must be in the following sequence:
+( i ) Equipment grounding conductor connection;
+( ii ) Grounded circuit-conductor connection, if provided; and
+( iii ) Ungrounded conductor connection; and indicating that disconnection is in the reverse order; and

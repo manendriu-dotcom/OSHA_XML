@@ -1,0 +1,19 @@
+§ 1910.211 Definitions.
+(13) Cutting off wheels means wheels having diameter thickness and hole size dimensions and are subject to all limitations of mounting and use listed for type 1 wheels, the definition in subparagraph (1) of this paragraph and paragraph (d) of § 1910.215. They may be steel centered, diamond abrasive or organic bonded abrasive of the plain or reinforced type.
+(i) Limitation: Cutting off wheels are recommended only for use on specially designed and fully guarded machines and are subject to the following maximum thickness and hole size limitations.
+
+Wheel diameter Max. thickness (inch)
+------------------------------------
+6 inch and smaller 3/18
+Larger than 6 inches to 12 inches 1/4
+Larger than 12 inches to 23 inches 3/8
+Larger than 23 inches 1/2
+
+(ii) Maximum hole size for cutting-off wheels should not be larger than 1/4 -wheel diameter.
+(14) Abrasive wheel means a cutting tool consisting of abrasive grains held together by organic or inorganic bonds. Diamond and reinforced wheels are included.
+(15) Organic wheels means wheels which are bonded by means of an organic material such as resin, rubber, shellac, or other similar bonding agent.
+(16) Inorganic wheels means wheels which are bonded by means of inorganic material such as clay, glass, porcelain, sodium silicate, magnesium oxychloride, or metal. Wheels bonded with clay, glass, porcelain or related ceramic materials are characterized as vitrified bonded wheels.
+(c) As used in § 1910.216, unless the context clearly requires otherwise, the following mills and calenders in the rubber and plastic industries terms shall have the meanings prescribed in this paragraph.
+(1) Bite means the nip point between any two inrunning rolls.
+(2) Calender means a machine equipped with two or more metal rolls revolving in opposite directions and used for continuously sheeting or plying up rubber and plastics compounds and for frictioning or coating materials with rubber and plastics compounds.
+(3) Mill means a machine consisting of two adjacent metal rolls, set horizontally, which revolve in opposite directions (i.e., toward each other as viewed from above) used for the mechanical working of rubber and plastics compounds.

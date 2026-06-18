@@ -1,0 +1,11 @@
+§ 1910.303 General.
+(4) Capable of accepting a lock. Disconnecting means required by this subpart shall be capable of being locked in the open position.
+(5) Marking for series combination ratings. (i) Where circuit breakers or fuses are applied in compliance with the series combination ratings marked on the equipment by the manufacturer, the equipment enclosures shall be legibly marked in the field to indicate that the equipment has been applied with a series combination rating.
+(ii) The marking required by paragraph (f)(5)(i) of this section shall be readily visible and shall state "Caution—Series Combination System Rated __ Amperes. Identified Replacement Component Required."
+(g) 600 Volts, nominal, or less. This paragraph applies to electric equipment operating at 600 volts, nominal, or less to ground.
+(1) Space about electric equipment. Sufficient access and working space shall be provided and maintained about all electric equipment to permit ready and safe operation and maintenance of such equipment.
+(i) Working space for equipment likely to require examination, adjustment, servicing, or maintenance while energized shall comply with the following dimensions, except as required or permitted elsewhere in this subpart:
+(A) The depth of the working space in the direction of access to live parts may not be less than indicated in Table S-1. Distances shall be measured from the live parts if they are exposed or from the enclosure front or opening if they are enclosed;
+(B) The width of working space in front of the electric equipment shall be the width of the equipment or 762 mm (30 in.), whichever is greater. In all cases, the working space shall permit at least a 90-degree opening of equipment doors or hinged panels; and
+(C) The work space shall be clear and extend from the grade, floor, or platform to the height required by paragraph (g)(1)(vi) of this section. However, other equipment associated with the electrical installation and located above or below the electric equipment may extend not more than 153 mm (6 in.) beyond the front of the electric equipment.
+(ii) Working space required by this standard may not be used for storage. When normally enclosed live parts are exposed for inspection or servicing, the working space, if in a passageway or general open space, shall be suitably guarded.

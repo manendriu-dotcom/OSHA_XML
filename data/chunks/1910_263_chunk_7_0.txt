@@ -1,0 +1,13 @@
+§ 1910.263 Bakery equipment.
+(iii) The cover over the knife head of reciprocating-blade slicers shall be provided with an interlocking arrangement so that the machine cannot operate unless the cover is in place.
+(iv) On slicers with endless band knives, each motor shall be equipped with a magnet brake which operates whenever the motor is not energized. Each door, panel, or other point of access to the cutting blades shall be arranged by means of mechanical or electric interlocks so that the motor will be deenergized if all such access doors, panels, or access points are not closed.
+(v) When it is necessary to sharpen slicer blades on the machine, a barrier shall be provided leaving only sufficient opening for the sharpening stone to reach the knife blades.
+(vi) [Reserved]
+(vii) Slicer wrapper conditions.
+( a )-( b ) [Reserved]
+( c ) Mechanical control levers for starting and stopping both slicing machine conveyors and wrapping machines shall be extended or so located that an operator in one location can control both machines. Such levers should be provided wherever necessary, but these should be so arranged that there is only one station capable of starting the wrapping machine and conveyor assembly, and this starting station should be so arranged or guarded as to prevent accidental starting. The electric control station for starting and stopping the electric motor driving the wrapping machine and conveyor should be located near the clutch starting lever.
+(2) Wrappers.
+(i)-(ii) [Reserved]
+(iii) Electrical heaters on wrappers shall be protected by a cover plate properly separated or insulated from the heaters in order that accidental contact with this cover plate will not cause a burn to the operator.
+(k) Biscuit and cracker equipment —(1) Meal, peanut, and fig grinders. (i) If the hopper is removable it shall be provided with an electric interlock so that the machine cannot be put in operation when the hopper is removed.
+(ii) Where grid guards cannot be used, feed conveyors to hoppers, or baffle-type hoppers, shall be provided. Hoppers in such cases shall be enclosed and provided with hinged covers, and equipped with electric interlock to prevent operation of the machine with the cover open.

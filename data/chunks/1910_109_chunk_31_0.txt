@@ -1,0 +1,11 @@
+§ 1910.109 Explosives and blasting agents.
+(ii)( a ) [Reserved]
+( b ) The standards for ammonium nitrate (nitrous oxide grade) are those found in the "Specifications, Properties, and Recommendations for Packaging, Transportation, Storage, and Use of Ammonium Nitrate", available from the Compressed Gas Association, Inc., which is incorporated by reference as specified in § 1910.6.
+(2) General provisions. (i) This paragraph applies to all persons storing, having, or keeping ammonium nitrate, and to the owner or lessee of any building, premises, or structure in which ammonium nitrate is stored in quantities of 1,000 pounds or more.
+(ii) Approval of large quantity storage shall be subject to due consideration of the fire and explosion hazards, including exposure to toxic vapors from burning or decomposing ammonium nitrate.
+(iii)( a ) Storage buildings shall not have basements unless the basements are open on at least one side. Storage buildings shall not be over one story in height.
+( b ) Storage buildings shall have adequate ventilation or be of a construction that will be self-ventilating in the event of fire.
+( c ) The wall on the exposed side of a storage building within 50 feet of a combustible building, forest, piles of combustible materials and similar exposure hazards shall be of fire-resistive construction. In lieu of the fire-resistive wall, other suitable means of exposure protection such as a free standing wall may be used. The roof coverings shall be Class C or better, as defined in the Manual on Roof Coverings, NFPA 203M-1970, which is incorporated by reference as specified in § 1910.6.
+( d ) All flooring in storage and handling areas, shall be of noncombustible material or protected against impregnation by ammonium nitrate and shall be without open drains, traps, tunnels, pits, or pockets into which any molten ammonium nitrate could flow and be confined in the event of fire.
+( e ) The continued use of an existing storage building or structure not in strict conformity with this paragraph may be approved in cases where such continued use will not constitute a hazard to life.
+( f ) Buildings and structures shall be dry and free from water seepage through the roof, walls, and floors.

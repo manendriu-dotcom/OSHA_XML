@@ -1,0 +1,2 @@
+§ 1910.147 The control of hazardous energy (lockout/tagout).
+energy isolation and control. (B) Each affected employee shall be instructed in the purpose and use of the energy control procedure. (C) All other employees whose work operations are or may be in an area where energy control procedures may be utilized, shall be instructed about the procedure, and about the prohibition relating to attempts to restart or reenergize machines or equipment which are locked out or tagged out.

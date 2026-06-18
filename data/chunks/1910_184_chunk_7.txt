@@ -1,0 +1,17 @@
+§ 1910.184 Slings.
+(ii) Wear or scraping of one-third the original diameter of outside individual wires.
+(iii) Kinking, crushing, bird caging or any other damage resulting in distortion of the wire rope structure.
+(iv) Evidence of heat damage.
+(v) End attachments that are cracked, deformed or worn.
+(vi) Hooks that have been opened more than 15 percent of the normal throat opening measured at the narrowest point or twisted more than 10 degrees from the plane of the unbent hook.
+(vii) Corrosion of the rope or end attachments.
+(g) Metal mesh slings —(1) Sling marking. Each metal mesh sling shall have permanently affixed to it a durable marking that states the rated capacity for vertical basket hitch and choker hitch loadings.
+(2) Handles. Handles shall have a rated capacity at least equal to the metal fabric and exhibit no deformation after proof testing.
+(3) Attachments of handles to fabric. The fabric and handles shall be joined so that:
+(i) The rated capacity of the sling is not reduced.
+(ii) The load is evenly distributed across the width of the fabric.
+(iii) Sharp edges will not damage the fabric.
+(4) Sling coatings. Coatings which diminish the rated capacity of a sling shall not be applied.
+(5) Sling testing. All new and repaired metal mesh slings, including handles, shall not be used unless proof tested by the manufacturer or equivalent entity at a minimum of 1 1/2 times their rated capacity. Elastomer impregnated slings shall be proof tested before coating.
+(6) [Reserved]
+(7) Safe operating temperatures. Metal mesh slings which are not impregnated with elastomers may be used in a temperature range from minus 20 degrees F to plus 550 degrees F without decreasing the working load limit. Metal mesh slings impregnated with polyvinyl chloride or neoprene may be used only in a temperature range from zero degrees to plus 200 degrees F. For operations outside these temperature ranges or for metal mesh slings impregnated with other materials, the sling manufacturer's recommendations shall be followed.

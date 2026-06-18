@@ -1,0 +1,17 @@
+§ 1910.215 Abrasive wheel machinery.
+(iii) Cast steel, or structural steel, safety guards as specified in Figures O-36 and O-37 and Table O-9 shall be used where operating speeds of wheels are faster than 8,000 surface feet per minute up to a maximum of 16,000 surface feet per minute.
+(iv) For cutting-off wheels 16 inches diameter and smaller and where speed does not exceed 16,000 surface feet per minute, cast iron or malleable iron safety guards as specified in Figures O-36 and O-37, and in Table O-9 shall be used.
+EC27OC91.063 Figure No. O-18   Figure No. O-19
+correct
+Showing adjustable tongue giving required angular protection for all sizes of wheel used.
+EC27OC91.064 Figure No. O-20   Figure No. O-21
+correct
+Showing movable guard with opening small enough to give required protection for smallest size wheel used.
+EC27OC91.065 Figure No. O-22   Figure No. O-23
+incorrect
+Showing movable guard with size of opening correct for full size wheel but too large for smaller wheels.
+(v) For cutting-off wheels larger than 16 inches diameter and where speed does not exceed 14,200 surface feet per minute, safety guards as specified in Figures O-27 and O-28, and in Table O-1 shall be used.
+(vi) For thread grinding wheels not exceeding 1 inch in thickness cast iron or malleable iron safety guards as specified in Figures O-36 and O-37, and in Table O-9 shall be used.
+(11) Band type guards—general specifications. Band type guards shall conform to the following general specifications:
+(i) The bands shall be of steel plate or other material of equal or greater strength. They shall be continuous, the ends being either riveted, bolted, or welded together in such a manner as to leave the inside free from projections.
+(ii) The inside diameter of the band shall not be more than 1 inch larger than the outside diameter of the wheel, and shall be mounted as nearly concentric with the wheel as practicable.

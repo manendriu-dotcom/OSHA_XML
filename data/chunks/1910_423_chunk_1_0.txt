@@ -1,0 +1,22 @@
+§ 1910.423 Post-dive procedures.
+(v) Illumination capability to light the interior.
+(5) Treatment tables, treatment gas appropriate to the diving mode, and sufficient gas to conduct treatment shall be available at the dive location.
+(6) A dive team member shall be available at the dive location during and for at least one hour after the dive to operate the decompression chamber (when required or provided).
+(d) Record of dive. (1) The following information shall be recorded and maintained for each diving operation:
+(i) Names of dive team members including designated person-in-charge;
+(ii) Date, time, and location;
+(iii) Diving modes used;
+(iv) General nature of work performed;
+(v) Approximate underwater and surface conditions (visibility, water temperature and current); and
+(vi) Maximum depth and bottom time for each diver.
+(2) For each dive outside the no-decompression limits, deeper than 100 fsw or using mixed gas, the following additional information shall be recorded and maintained:
+(i) Depth-time and breathing gas profiles;
+(ii) Decompression table designation (including modification); and
+(iii) Elapsed time since last pressure exposure if less than 24 hours or repetitive dive designation for each diver.
+(3) For each dive in which decompression sickness is suspected or symptoms are evident, the following additional information shall be recorded and maintained:
+(i) Description of decompression sickness symptoms (including depth and time of onset); and
+(ii) Description and results of treatment.
+(e) Decompression procedure assessment. The employer shall:
+(1) Investigate and evaluate each incident of decompression sickness based on the recorded information, consideration of the past performance of decompression table used, and individual susceptibility;
+(2) Take appropriate corrective action to reduce the probability of recurrence of decompression sickness; and
+(3) Prepare a written evaluation of the decompression procedure assessment, including any corrective action taken, within 45 days of the incident of decompression sickness.

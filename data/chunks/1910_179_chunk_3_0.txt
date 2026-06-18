@@ -1,0 +1,18 @@
+§ 1910.179 Overhead and gantry cranes.
+(50) Rated load means the maximum load for which a crane or individual hoist is designed and built by the manufacturer and shown on the equipment nameplate(s).
+(51) Rope refers to wire rope, unless otherwise specified.
+(52) Running sheave means a sheave which rotates as the load block is raised or lowered.
+(53) Runway means an assembly of rails, beams, girders, brackets, and framework on which the crane or trolley travels.
+(54) Side pull means that portion of the hoist pull acting horizontally when the hoist lines are not operated vertically.
+(55) Span means the horizontal distance center to center of runway rails.
+(56) Standby crane means a crane which is not in regular service but which is used occasionally or intermittently as required.
+(57) A stop is a device to limit travel of a trolley or crane bridge. This device normally is attached to a fixed structure and normally does not have energy absorbing ability.
+(58) A switch is a device for making, breaking, or for changing the connections in an electric circuit.
+(59) An emergency stop switch is a manually or automatically operated electric switch to cut off electric power independently of the regular operating controls.
+(60) A limit switch is a switch which is operated by some part or motion of a power-driven machine or equipment to alter the electric circuit associated with the machine or equipment.
+(61) A main switch is a switch controlling the entire power supply to the crane.
+(62) A master switch is a switch which dominates the operation of contactors, relays, or other remotely operated devices.
+(63) The trolley is the unit which travels on the bridge rails and carries the hoisting mechanism.
+(64) Trolley travel means the trolley movement at right angles to the crane runway.
+(65) Truck means the unit consisting of a frame, wheels, bearings, and axles which supports the bridge girders or trolleys.
+(b) General requirements —(1) Application. This section applies to overhead and gantry cranes, including semigantry, cantilever gantry, wall cranes, storage bridge cranes, and others having the same fundamental characteristics. These cranes are grouped because they all have trolleys and similar travel characteristics.

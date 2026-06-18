@@ -1,0 +1,10 @@
+§ 1910.253 Oxygen-fuel gas welding and cutting.
+(F) If cylinders are found to have leaky valves or fittings which cannot be stopped by closing of the valve, the cylinders shall be taken outdoors away from sources of ignition and slowly emptied.
+(G) A warning should be placed near cylinders having leaking fuse plugs or other leaking safety devices not to approach them with a lighted cigarette or other source of ignition. Such cylinders should be plainly tagged; the supplier should be promptly notified and his instructions followed as to their return.
+(H) Safety devices shall not be tampered with.
+(I) Fuel-gas shall never be used from cylinders through torches or other devices equipped with shutoff valves without reducing the pressure through a suitable regulator attached to the cylinder valve or manifold.
+(J) The cylinder valve shall always be opened slowly.
+(K) An acetylene cylinder valve shall not be opened more than one and one-half turns of the spindle, and preferably no more than three-fourths of a turn.
+(L) Where a special wrench is required it shall be left in position on the stem of the valve while the cylinder is in use so that the fuel-gas flow can be quickly turned off in case of emergency. In the case of manifolded or coupled cylinders at least one such wrench shall always be available for immediate use.
+(c) Manifolding of cylinders —(1) Fuel-gas manifolds. (i) Manifolds shall be approved either separately for each component part or as an assembled unit.
+(ii) Except as provided in paragraph (c)(1)(iii) of this section fuel-gas cylinders connected to one manifold inside a building shall be limited to a total capacity not exceeding 300 pounds (135.9 kg) of liquefied petroleum gas or 3,000 cubic feet (84 m 3 ) of other fuel-gas. More than one such manifold with connected cylinders may be located in the same room provided the manifolds are at least 50 feet (15 m) apart or separated by a noncombustible barrier at least 5 feet (1.5 m) high having a fire-resistance rating of at least one-half hour.

@@ -1,0 +1,11 @@
+§ 1910.262 Textiles.
+(35) Solvent (industrial organic). Industrial organic solvent means any organic volatile liquid or compound, or any combination of these substances which are used to dissolve or suspend a nonvolatile or slightly volatile substance for industrial utilization. It shall also apply to such substances when used as detergents or cleansing agents. It shall not apply to petroleum products when such products are used as fuel.
+(36) Tenter frame. A tenter frame is a machine for drying cloth under tension. It essentially consists of a pair of endless traveling chains fitted with clips of fine pins and carried on tracks. The cloth is firmly held at the selvages by the two chains which diverge as they move forward so that the cloth is brought to the desired width.
+(37) Warper. A warper is any machine for preparing and arranging the yarns intended for the warp of a fabric, specifically, a beam warper.
+(c) General safety requirements —(1) Means of stopping machines. Every textile machine shall be provided with individual mechanical or electrical means for stopping such machines. On machines driven by belts and shafting, a locking-type shifter or an equivalent positive device shall be used. On operations where injury to the operator might result if motors were to restart after power failures, provision shall be made to prevent machines from automatically restarting upon restoration of power.
+(2) Handles. Stopping and starting handles shall be designed to the proper length to prevent the worker's hand or fingers from striking against any revolving part, gear guard, or any other part of the machine.
+(3)-(4) [Reserved]
+(5) Inspection and maintenance. All guards and other safety devices, including starting and stopping devices, shall be properly maintained.
+(6) Lighting. Lighting shall conform to American National Standard A11.1—1965, which is incorporated by reference as specified in § 1910.6.
+(7) Identification of piping systems. Identification of piping systems shall conform to American National Standard A13.1—1956, which is incorporated by reference as specified in § 1910.6.
+(8) Identification of physical hazards. Identification of physical hazards shall be in accordance with the requirements of § 1910.144.

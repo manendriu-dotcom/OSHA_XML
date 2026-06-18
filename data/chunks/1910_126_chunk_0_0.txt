@@ -1,0 +1,18 @@
+§ 1910.126 Additional requirements for special dipping and coating operations.
+§ 1910.126 Additional requirements for special dipping and coating operations.
+In addition to the requirements in §§ 1910.123 through 1910.125, you must comply with any requirement in this section that applies to your operation.
+(a) What additional requirements apply to hardening or tempering tanks?
+(1) You must ensure that hardening or tempering tanks:
+(i) Are located as far as practicable from furnaces;
+(ii) Are on noncombustible flooring; and
+(iii) Have noncombustible hoods and vents (or equivalent devices) for venting to the outside. For this purpose, vent ducts must be treated as flues and kept away from combustible materials, particularly roofs.
+(2) You must equip each tank with an alarm that will sound if the temperature of the liquid comes within 50 degrees F (10 degrees C) of its flashpoint (the alarm set point).
+(3) When practicable, you must also provide each tank with a limit switch to shut down the conveyor supplying work to the tank.
+(4) If the temperature of the liquid can exceed the alarm set point, you must equip the tank with a circulating cooling system.
+(5) If the tank has a bottom drain, the bottom drain may be combined with the oil-circulating system.
+(6) You must not use air under pressure when you fill the dip tank or agitate the liquid in the dip tank.
+(b) What additional requirements apply to flow coating? (1) You must use a direct low-pressure pumping system or a 10-gallon (38 L) or smaller gravity tank to supply the paint for flow coating. In case of fire, an approved heat-actuated device must shut down the pumping system.
+(2) You must ensure that the piping is substantial and rigidly supported.
+(c) What additional requirements apply to roll coating, roll spreading, or roll impregnating? When these operations use a flammable liquid that has a flashpoint below 140 degrees F (60 degrees C), you must prevent sparking of static electricity by:
+(1) Bonding and grounding all metallic parts (including rotating parts) and installing static collectors; or
+(2) Maintaining a conductive atmosphere (for example, one with a high relative humidity) in the vapor area.

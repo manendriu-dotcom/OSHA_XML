@@ -1,0 +1,2 @@
+§ 1910.305 Wiring methods, components, and equipment for general use.
+or (C) For experimental or development work, and during emergencies. (ii) Temporary wiring shall be removed immediately upon completion of the project or purpose for which the wiring was installed. (iii) Temporary electrical installations of more than 600 volts may be used only during periods of tests, experiments, emergencies, or construction-like activities. (iv) The following requirements apply to feeders:

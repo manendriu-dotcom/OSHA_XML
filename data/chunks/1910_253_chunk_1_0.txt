@@ -1,0 +1,9 @@
+§ 1910.253 Oxygen-fuel gas welding and cutting.
+(ii) Compressed gas cylinders shall be legibly marked, for the purpose of identifying the gas content, with either the chemical or the trade name of the gas. Such marking shall be by means of stenciling, stamping, or labeling, and shall not be readily removable. Whenever practical, the marking shall be located on the shoulder of the cylinder.
+(iii) Compressed gas cylinders shall be equipped with connections complying with the American National Standard Compressed Gas Cylinder Valve Outlet and Inlet Connections, ANSI B57.1—1965, which is incorporated by reference as specified in § 1910.6.
+(iv) All cylinders with a water weight capacity of over 30 pounds (13.6 kg) shall be equipped with means of connecting a valve protection cap or with a collar or recess to protect the valve.
+(2) Storage of cylinders—general. (i) Cylinders shall be kept away from radiators and other sources of heat.
+(ii) Inside of buildings, cylinders shall be stored in a well-protected, well-ventilated, dry location, at least 20 feet (6.1 m) from highly combustible materials such as oil or excelsior. Cylinders should be stored in definitely assigned places away from elevators, stairs, or gangways. Assigned storage spaces shall be located where cylinders will not be knocked over or damaged by passing or falling objects, or subject to tampering by unauthorized persons. Cylinders shall not be kept in unventilated enclosures such as lockers and cupboards.
+(iii) Empty cylinders shall have their valves closed.
+(iv) Valve protection caps, where cylinder is designed to accept a cap, shall always be in place, hand-tight, except when cylinders are in use or connected for use.
+(3) Fuel-gas cylinder storage. Inside a building, cylinders, except those in actual use or attached ready for use, shall be limited to a total gas capacity of 2,000 cubic feet (56 m 3 ) or 300 pounds (135.9 kg) of liquefied petroleum gas.

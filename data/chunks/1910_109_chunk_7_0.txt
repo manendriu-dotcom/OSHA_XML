@@ -1,0 +1,12 @@
+§ 1910.109 Explosives and blasting agents.
+(iii) Property upon which Class I magazines are located and property where Class II magazines are located outside of buildings shall be posted with signs reading "Explosives—Keep Off."
+(iv) Magazines requiring heat shall be heated by either hot-water radiant heating with the magazine building; or air directed into the magazine building over either hot water or low pressure steam (15 p.s.i.g.) coils located outside the magazine building.
+(v) The magazine heating systems shall meet the following requirements:
+( a ) The radiant heating coils within the building shall be installed in such a manner that the explosives or explosives containers cannot contact the coils and air is free to circulate between the coils and the explosives or explosives containers.
+( b ) The heating ducts shall be installed in such a manner that the hot-air discharge from the duct is not directed against the explosives or explosives containers.
+( c ) The heating device used in connection with a magazine shall have controls which prevent the ambient building temperature from exceeding 130 degrees F.
+( d ) The electric fan or pump used in the heating system for a magazine shall be mounted outside and separate from the wall of the magazine and shall be grounded.
+( e ) The electric fan motor and the controls for electrical heating devices used in heating water or steam shall have overloads and disconnects, which comply with subpart S of this part. All electrical switch gear shall be located a minimum distance of 25 feet from the magazine.
+( f ) The heating source for water or steam shall be separated from the magazine by a distance of not less than 25 feet when electrical and 50 feet when fuel fired. The area between the heating unit and the magazine shall be cleared of all combustible materials.
+( g ) The storage of explosives and explosives containers in the magazine shall allow uniform air circulation so product temperature uniformity can be maintained.
+(vi) When lights are necessary inside the magazine, electric safety flashlight, or electric safety lanterns shall be used.

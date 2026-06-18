@@ -1,0 +1,14 @@
+§ 1910.263 Bakery equipment.
+(9) General requirements. (i) Protecting devices shall be properly maintained and kept in working order.
+(ii) All safety devices on ovens shall be inspected at intervals of not less than twice a month by an especially appointed, properly instructed bakery employee, and not less than once a year by representatives of the oven manufacturers.
+(iii)( a ) Protection of gas pilot lights shall be provided when it is impracticable to protect the main flame of the burner and where the pilot flame cannot contact the flame electrode without being in the path of the main flame of the burner. Failure of any gas pilot shall automatically shut off the fuel supply to the burner.
+( b ) Ovens with multiple burners shall be equipped with individual atmospheric pilot lights where there is sufficient secondary air in the baking chamber and where gas is available; or else each burner shall be equipped with an electric spark-type ignition device.
+(iv) Burners of a capacity exceeding 150,000 B.t.u. per hour equipped with electric ignition shall be protected in addition by quick-acting combustion safeguards.
+( a ) The high-tension current for any electric spark-type ignition device shall originate in a power supply line which is interlocked with the fuel supply for the oven in such a way that in case of current failure both the source of electricity to the high-tension circuits and the fuel supply shall be turned off simultaneously.
+( b ) [Reserved]
+( c ) Combustion safeguards used in connection with electric ignition systems on ovens shall be so designed as to prevent an explosive mixture from accumulating inside the oven before ignition has taken place.
+(v) When fuel is supplied and used at line pressure, safety shutoff valves shall be provided in the fuel line leading to the burner.
+( a ) When fuel is supplied in excess of line pressure, safety shutoff valves shall be provided in the fuel line leading to the burners, unless the fuel supply lines are equipped with other automatic valves which will prevent the flow of fuel when the compressing equipment is stopped.
+( b ) The safety shutoff valve shall be positively tight and shall be tested at least twice monthly.
+( c )-( d ) [Reserved]
+( e ) A safety shutoff valve shall require manual operation for reopening after it has closed, or the electric circuit shall be so arranged that it will require a manual operation for reopening the safety shutoff valve.

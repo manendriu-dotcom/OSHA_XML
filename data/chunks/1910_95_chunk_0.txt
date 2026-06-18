@@ -1,0 +1,23 @@
+§ 1910.95 Occupational noise exposure.
+§ 1910.95 Occupational noise exposure.
+(a) Protection against the effects of noise exposure shall be provided when the sound levels exceed those shown in Table G-16 when measured on the A scale of a standard sound level meter at slow response. When noise levels are determined by octave band analysis, the equivalent A-weighted sound level may be determined as follows:
+EC27OC91.023 Figure G-9
+(b)(1) When employees are subjected to sound exceeding those listed in Table G-16, feasible administrative or engineering controls shall be utilized. If such controls fail to reduce sound levels within the levels of Table G-16, personal protective equipment shall be provided and used to reduce sound levels within the levels of the table.
+(2) If the variations in noise level involve maxima at intervals of 1 second or less, it is to be considered continuous.
+
+Table G-16—Permissible Noise Exposures 1
+----------------------------------------
+Duration per day, hours Sound level dBA slow response
+-----------------------------------------------------
+8 90
+6 92
+4 95
+3 97
+2 100
+1 1/2 102
+1 105
+1/2 110
+1/4 or less 115
+
+(c) Hearing conservation program. (1) The employer shall administer a continuing, effective hearing conservation program, as described in paragraphs (c) through (o) of this section, whenever employee noise exposures equal or exceed an 8-hour time-weighted average sound level (TWA) of 85 decibels measured on the A scale (slow response) or, equivalently, a dose of fifty percent. For purposes of the hearing conservation program, employee noise exposures shall be computed in accordance with appendix A and Table G-16a, and without regard to any attenuation provided by the use of personal protective equipment.
+(2) For purposes of paragraphs (c) through (n) of this section, an 8-hour time-weighted average of 85 decibels or a dose of fifty percent shall also be referred to as the action level.

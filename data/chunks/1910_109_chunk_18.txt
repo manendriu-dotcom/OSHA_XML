@@ -1,0 +1,13 @@
+§ 1910.109 Explosives and blasting agents.
+(3) Marking cars. Every railway car containing explosives which has reached its designation, or is stopped in transit so as no longer to be in interstate commerce, shall have attached to both sides and ends of the car, cards with the words "Explosives—Handle Carefully—Keep Fire Away" in red letters at least 1 1/2 inches high on a white background.
+(4) Storage. Any explosives at a railway facility, truck terminal, pier, wharf harbor facility, or airport terminal whether for delivery to a consignee, or forwarded to some other destination shall be kept in a safe place, isolated as far as practicable and in such manner that they can be easily and quickly removed.
+(5) Hours of transfer. Explosives shall not be delivered to or received from any railway station, truck terminal, pier, wharf, harbor facility, or airport terminal between the hours of sunset and sunrise.
+(g) Blasting agents —(1) General. Unless otherwise set forth in this paragraph, blasting agents, excluding water gels, shall be transported, stored, and used in the same manner as explosives. Water gels are covered in paragraph (h) of this section.
+(2) Fixed location mixing. (i) [Reserved]
+(ii) Buildings used for the mixing of blasting agents shall conform to the requirements of this section.
+( a ) Buildings shall be of noncombustible construction or sheet metal on wood studs.
+( b ) Floors in a mixing plant shall be of concrete or of other nonabsorbent materials.
+( c ) All fuel oil storage facilities shall be separated from the mixing plant and located in such a manner that in case of tank rupture, the oil will drain away from the mixing plant building.
+( d ) The building shall be well ventilated.
+( e ) Heating units which do not depend on combustion processes, when properly designed and located, may be used in the building. All direct sources of heat shall be provided exclusively from units located outside the mixing building.
+( f ) All internal-combustion engines used for electric power generation shall be located outside the mixing plant building, or shall be properly ventilated and isolated by a firewall. The exhaust systems on all such engines shall be located so any spark emission cannot be a hazard to any materials in or adjacent to the plant.

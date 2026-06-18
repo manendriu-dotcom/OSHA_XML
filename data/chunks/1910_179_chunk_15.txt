@@ -1,0 +1,16 @@
+§ 1910.179 Overhead and gantry cranes.
+(vii) Rope reeving for noncompliance with manufacturer's recommendations.
+(3) Periodic inspection. Complete inspections of the crane shall be performed at intervals as generally defined in paragraph (j)(1)(ii)( b ) of this section, depending upon its activity, severity of service, and environment, or as specifically indicated below. These inspections shall include the requirements of paragraph (j)(2) of this section and in addition, the following items. Any deficiencies such as listed shall be carefully examined and determination made as to whether they constitute a safety hazard:
+(i) Deformed, cracked, or corroded members.
+(ii) Loose bolts or rivets.
+(iii) Cracked or worn sheaves and drums.
+(iv) Worn, cracked or distorted parts such as pins, bearings, shafts, gears, rollers, locking and clamping devices.
+(v) Excessive wear on brake system parts, linings, pawls, and ratchets.
+(vi) Load, wind, and other indicators over their full range, for any significant inaccuracies.
+(vii) Gasoline, diesel, electric, or other powerplants for improper performance or noncompliance with applicable safety requirements.
+(viii) Excessive wear of chain drive sprockets and excessive chain stretch.
+(ix) [Reserved]
+(x) Electrical apparatus, for signs of pitting or any deterioration of controller contactors, limit switches and pushbutton stations.
+(4) Cranes not in regular use. (i) A crane which has been idle for a period of 1 month or more, but less than 6 months, shall be given an inspection conforming with requirements of paragraph (j)(2) of this section and paragraph (m)(2) of this section before placing in service.
+(ii) A crane which has been idle for a period of over 6 months shall be given a complete inspection conforming with requirements of paragraphs (j) (2) and (3) of this section and paragraph (m)(2) of this section before placing in service.
+(iii) Standby cranes shall be inspected at least semi-annually in accordance with requirements of paragraph (j)(2) of this section and paragraph (m)(2) of this section.

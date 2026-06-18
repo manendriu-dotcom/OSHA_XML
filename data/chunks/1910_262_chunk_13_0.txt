@@ -1,0 +1,12 @@
+§ 1910.262 Textiles.
+(2) Vacuum collapse. If cans are not designed to prevent vacuum collapse, each can shall be equipped with one or more vacuum relief valves with openings of sufficient size to prevent the collapse of the can if vacuum occurs.
+(x) Flat-work ironer —(1) Feed rolls. The feed rolls shall be guarded to conform to § 1910.264.
+(2) Pressure rolls. Pressure rolls shall be covered or guarded to conform to § 1910.264.
+(y) Extractors —(1) Centrifugal extractor —(i) Cover. Each extractor shall be equipped with a metal cover.
+(ii) Interlocking device. Each extractor shall be equipped with an interlocking device that will prevent the cover from being opened while the basket is in motion, and also prevent the power operation of the basket while the cover is open.
+(iii) Brakes. Each extractor shall be equipped with a mechanically or electrically operated brake to quickly stop the basket when the power driving the basket is shut off.
+(iv) Maximum allowable speed. Each centrifugal extractor shall be effectively secured in position on the floor or foundation so as to eliminate unnecessary vibration, and should not be operated at a speed greater than the manufacturer's rating, which shall be stamped where easily visible in letters not less than one-quarter inch in height. The maximum allowable speed shall be given in revolutions per minute (rpm).
+(2) Engine drum extractor — Over-speed governor. Each engine individually driving an extractor shall be provided with an approved engine stop and speed limit governor.
+(3) Squeezer or wringer extractor — Nip guards. All nip guards shall comply with the requirements of paragraph (h)(2)(iv) of this section.
+(z) Nip guards. All nip guards for water mangle, starch mangle, back-washer (worsted yarn) crabbing machines, decating machines, shall comply with the requirements of paragraph (h)(2)(iv).
+(aa) Sanforizing and palmer machine. A safety trip rod, cable, or wire center cord shall be provided across the front and back of all palmer cylinders extending the length of the face of the cylinder. It shall operate readily whether pushed or pulled. This safety trip shall be not more than 72 inches above the level on which the operator stands and shall be readily accessible.

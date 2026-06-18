@@ -1,0 +1,12 @@
+§ 1910.106 Flammable liquids.
+(8) Housekeeping —(i) General. Maintenance and operating practices shall be in accordance with established procedures which will tend to control leakage and prevent the accidental escape of flammable liquids. Spills shall be cleaned up promptly.
+(ii) Access. Adequate aisles shall be maintained for unobstructed movement of personnel and so that fire protection equipment can be brought to bear on any part of the processing equipment.
+(iii) Waste and residues. Combustible waste material and residues in a building or operating area shall be kept to a minimum, stored in closed metal waste cans, and disposed of daily.
+(iv) Clear zone. Ground area around buildings and operating areas shall be kept free of tall grass, weeds, trash, or other combustible materials.
+(i) Refineries, chemical plants, and distilleries —(1) Storage tanks. Flammable liquids shall be stored in tanks, in containers, or in portable tanks. Tanks shall be installed in accordance with paragraph (b) of this section. Tanks for the storage of flammable liquids in tank farms and in locations other than process areas shall be located in accordance with paragraph (b)(2) (i) and (ii) of this section.
+(2) Wharves. Wharves handling flammable liquids shall be in accordance with paragraph (f)(4) of this section.
+(3) Fired and unfired pressure vessels —(i) Fired vessels. Fired pressure vessels shall be constructed in accordance with the Code for Fired Pressure Vessels, Section I of the ASME Boiler and Pressure Vessel Code—1968.
+(ii) Unfired vessels shall be constructed in accordance with the Code for Unfired Pressure Vessels, Section VIII of the ASME Boiler and Pressure Vessel Code—1968.
+(4) Location of process units. Process units shall be located so that they are accessible from at least one side for the purpose of fire control.
+(5) Fire control —(i) Portable equipment. Portable fire extinguishment and control equipment shall be provided in such quantities and types as are needed for the special hazards of operation and storage.
+(ii) Water supply. Water shall be available in volume and at adequate pressure to supply water hose streams, foam producing equipment, automatic sprinklers, or water spray systems as the need is indicated by the special hazards of operation and storage.

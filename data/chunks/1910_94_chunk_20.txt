@@ -1,0 +1,14 @@
+§ 1910.94 Ventilation.
+(v) Collecting tanks shall be of welded steel construction or other suitable non-combustible material. If pits are used as collecting tanks, they shall be concrete, masonry, or other material having similar properties.
+( a ) Tanks shall be provided with weirs, skimmer plates, or screens to prevent sludge and floating paint from entering the pump suction box. Means for automatically maintaining the proper water level shall also be provided. Fresh water inlets shall not be submerged. They shall terminate at least one pipe diameter above the safety overflow level of the tank.
+( b ) Tanks shall be so constructed as to discourage accumulation of hazardous deposits.
+(vi) Pump manifolds, risers, and headers shall be adequately sized to insure sufficient water flow to provide efficient operation of the water chamber.
+(4) Design and construction of spray rooms. (i) Spray rooms, including floors, shall be constructed of masonry, concrete, or other noncombustible material.
+(ii) Spray rooms shall have noncombustible fire doors and shutters.
+(iii) Spray rooms shall be adequately ventilated so that the atmosphere in the breathing zone of the operator shall be maintained in accordance with the requirements of paragraph (c)(6)(ii) of this section.
+(iv) Spray rooms used for production spray-finishing operations shall conform to the requirements for spray booths.
+(5) Ventilation. (i) Ventilation shall be provided in accordance with provisions of § 1910.107(d), and in accordance with the following:
+( a ) Where a fan plenum is used to equalize or control the distribution of exhaust air movement through the booth, it shall be of sufficient strength or rigidity to withstand the differential air pressure or other superficially imposed loads for which the equipment is designed and also to facilitate cleaning. Construction specifications shall be at least equivalent to those of paragraph (c)(5)(iii) of this section.
+( b ) [Reserved]
+(ii) Inlet or supply ductwork used to transport makeup air to spray booths or surrounding areas shall be constructed of noncombustible materials.
+( a ) If negative pressure exists within inlet ductwork, all seams and joints shall be sealed if there is a possibility of infiltration of harmful quantities of noxious gases, fumes, or mists from areas through which ductwork passes.

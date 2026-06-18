@@ -1,0 +1,16 @@
+§ 1910.66 Powered platforms for building maintenance.
+(H) A transportable outrigger shall be tied-back to a verified anchorage on the building with a rope equivalent in strength to the suspension rope.
+(I) The tie-back rope shall be installed parallel to the centerline of the outrigger.
+(iii) Davits. (A) Every davit installation, fixed or transportable, rotatable or non-rotatable shall be designed and installed to insure that it has a stability factor against overturning of not less than four.
+(B) The following requirements apply to roof rigged davit systems:
+( 1 ) Access to and egress from the working platform shall be from a safe surface. Access or egress shall not require persons to climb over a building's parapet or guard railing; and
+( 2 ) The working platform shall be provided with wheels, casters or a carriage for traversing horizontally.
+(C) The following requirements apply to ground rigged davit systems:
+( 1 ) The point of suspension shall not exceed 300 feet (91.5 m) above a safe surface. Guide system(s) shall be provided which meet the requirements of paragraph (e)(2) of this section;
+( 2 ) Access and egress to and from the working platform shall only be from a safe surface below the point of suspension.
+(D) A rotating davit shall not require a horizontal force in excess of 40 pounds (177.9 n) per person to initiate a rotating movement.
+(E) The following requirements shall apply to transportable davits:
+( 1 ) A davit or part of a davit weighing more than 80 pounds (36 kg) shall be provided with a means for its transport, which shall keep the center of gravity of the davit at or below 36 inches (914 mm) above the safe surface during transport;
+( 2 ) A davit shall be provided with a pivoting socket or with a base that will allow the insertion or removal of a davit at a position of not more than 35 degrees above the horizontal, with the complete davit inboard of the building face being serviced; and
+( 3 ) Means shall be provided to lock the davit to its socket or base before it is used to suspend the platform.
+(4) Hoisting machines. (i) Raising and lowering of suspended or supported equipment shall be performed only by a hoisting machine.

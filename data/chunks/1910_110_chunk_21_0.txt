@@ -1,0 +1,13 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+( g ) The device that supplies the necessary heat for producing steam, hot water, or other heating medium may be installed in a building, compartment, room, or lean-to which shall be ventilated near the floorline and roof to the outside. The device location shall be separated from all compartments or rooms containing liquefied petroleum gas vaporizers, pumps, and central gas mixing devices by a wall designed to withstand a static pressure of at least 100 pounds per square foot. This wall shall have no openings or pipes or conduit passing through it. This requirement does not apply to the domestic water heaters which may supply heat for a vaporizer in a domestic system.
+( h ) Gas-fired heating systems supplying heat exclusively for vaporization purposes shall be equipped with automatic safety devices to shut off the flow of gas to main burners, if the pilot light should fail.
+( i ) Vaporizers may be an integral part of a fuel storage container directly connected to the liquid section or gas section or both.
+( j ) Vaporizers shall not be equipped with fusible plugs.
+( k ) Vaporizer houses shall not have unprotected drains to sewers or sump pits.
+(ii) Atmospheric vaporizers employing heat from the ground or surrounding air shall be installed as follows:
+( a ) Buried underground, or
+( b ) Located inside the building close to a point at which pipe enters the building provided the capacity of the unit does not exceed 1 quart.
+( c ) Vaporizers of less than 1 quart capacity heated by the ground or surrounding air, need not be equipped with safety relief valves provided that adequate tests demonstrate that the assembly is safe without safety relief valves.
+(iii) Direct gas-fired vaporizers shall be constructed, marked, and installed as follows:
+( a )( 1 ) In accordance with the requirements of the American Society of Mechanical Engineers Boiler and Pressure Vessel Code—1968 that are applicable to the maximum working conditions for which the vaporizer is designed.
+( 2 ) With the name of the manufacturer; rated BTU input to the burner; the area of the heat exchange surface in square feet; the outside surface of the vaporizer in square feet; and the maximum vaporizing capacity in gallons per hour.

@@ -1,0 +1,13 @@
+§ 1910.134 Respiratory protection.
+(B) Maximum Use Concentration (MUC). ( 1 ) The employer must select a respirator for employee use that maintains the employee's exposure to the hazardous substance, when measured outside the respirator, at or below the MUC.
+( 2 ) Employers must not apply MUCs to conditions that are immediately dangerous to life or health (IDLH); instead, they must use respirators listed for IDLH conditions in paragraph (d)(2) of this standard.
+( 3 ) When the calculated MUC exceeds the IDLH level for a hazardous substance, or the performance limits of the cartridge or canister, then employers must set the maximum MUC at that lower limit.
+(ii) The respirator selected shall be appropriate for the chemical state and physical form of the contaminant.
+(iii) For protection against gases and vapors, the employer shall provide:
+(A) An atmosphere-supplying respirator, or
+(B) An air-purifying respirator, provided that:
+( 1 ) The respirator is equipped with an end-of-service-life indicator (ESLI) certified by NIOSH for the contaminant; or
+( 2 ) If there is no ESLI appropriate for conditions in the employer's workplace, the employer implements a change schedule for canisters and cartridges that is based on objective information or data that will ensure that canisters and cartridges are changed before the end of their service life. The employer shall describe in the respirator program the information and data relied upon and the basis for the canister and cartridge change schedule and the basis for reliance on the data.
+(iv) For protection against particulates, the employer shall provide:
+(A) An atmosphere-supplying respirator; or
+(B) An air-purifying respirator equipped with a filter certified by NIOSH under 30 CFR part 11 as a high efficiency particulate air (HEPA) filter, or an air-purifying respirator equipped with a filter certified for particulates by NIOSH under 42 CFR part 84; or

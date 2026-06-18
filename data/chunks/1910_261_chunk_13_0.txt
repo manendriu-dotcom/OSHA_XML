@@ -1,0 +1,9 @@
+§ 1910.261 Pulp, paper, and paperboard mills.
+(iii) No inspector shall enter a digester unless a lifeline is securely fastened to his body by means of a safety belt and at least one other experienced employee is stationed outside the digester to handle the line and to summon assistance. All ladders and lifelines shall be inspected before each use.
+(iv) All employees entering digesters for inspection or repair work shall be provided with protective headgear. Eye protection and dust masks shall be provided to workmen while the old brick lining is being removed, in accordance with American National Standards, Z87.1—1968, Z88.2—1969, and Z99.1—1969.
+(16) Pressure tanks-accumulators (acid). (i) Safety regulations governing inspection and repairing of pressure tanks-accumulators (acid) shall be the same as those specified in subparagraph (15) of this paragraph.
+(ii) The pressure tanks-accumulators shall be inspected twice annually. (See the ASME Boiler and Pressure Vessel Code, Section VIII, Unfired Pressure Vessels—1968, with Addenda.)
+(17) Pressure vessels (safety devices). (i) A safety valve shall be installed in a separate line from each pressure vessel; no hand valve shall be installed between this safety valve and the pressure vessel. Safety valves shall be checked between each cook to be sure they have not become plugged or corroded to the point of being inoperative. (See the ASME Boiler and Pressure Vessel Code, Section VIII, Unfired Pressure Vessels—1968, with Addenda.)
+(ii) All safety devices shall conform to Paragraph U-2 in the ASME Boiler and Pressure Vessel Code, Section VIII, Unfired Pressure Vessels—1968, with Addenda.
+(18) Miscellaneous. Insofar as the processes of the sulfate and soda operations are similar to those of the sulfite processes, the standard of paragraphs (g) (1) through (17) of this section shall apply.
+(i) Quick operating showers, bubblers, etc., shall be available for emergency use in case of caustic soda burns.

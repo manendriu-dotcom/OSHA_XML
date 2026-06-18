@@ -1,0 +1,2 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+Voltage range (kV) Distance m ft -------------------------------- 0.301 to 0.750 0.31 1.0 0.751 to 72.5 0.61 2.0 72.6 to 800

@@ -1,0 +1,2 @@
+§ 1910.126 Additional requirements for special dipping and coating operations.
+You must ensure that goods being electrostatically deteared are not manually handled. (4) Between goods being electrostatically deteared and the electrodes or conductors of the electrostatic equipment, you must maintain a minimum distance of twice the sparking distance. This minimum distance must be displayed conspicuously on a sign located near the equipment.

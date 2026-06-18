@@ -1,0 +1,17 @@
+§ 1910.111 Storage and handling of anhydrous ammonia.
+(9) Safety relief devices. (i) Every container used in systems covered by paragraphs (c), (f), (g), and (h) of this section shall be provided with one or more safety relief valves of the spring-loaded or equivalent type. The discharge from safety-relief valves shall be vented away from the container upward and unobstructed to the atmosphere. All relief-valve discharge openings shall have suitable rain caps that will allow free discharge of the vapor and prevent entrance of water. Provision shall be made for draining condensate which may accumulate. The rate of the discharge shall be in accordance with the provisions of Table H-36.
+(ii) Container safety-relief valves shall be set to start-to-discharge as follows, with relation to the design pressure of the container:
+
+Containers Minimum (percent) Maximum (percent)
+----------------------------------------------
+ASME-U-68, U-69 110 125
+ASME-U-200, U-201 95 100
+ASME 1959, 1956, 1952, or 1962 95 100
+API-ASME 95 100
+U.S. Coast Guard 95 100
+
+As required by DOT Regulations.
+(iii) Safety relief devices used in systems covered by paragraphs (c), (f), (g), and (h) of this section shall be constructed to discharge at not less than the rates required in paragraph (b)(9)(i) of this section before the pressure is in excess of 120 percent (not including the 10 percent tolerance referred to in paragraph (b)(9)(ii) of this section) of the maximum permitted start-to-discharge pressure setting of the device.
+(iv) Safety-relief valves shall be so arranged that the possibility of tampering will be minimized. If the pressure setting adjustment is external, the relief valves shall be provided with means for sealing the adjustment.
+(v) Shutoff valves shall not be installed between the safety-relief valves and the container; except, that a shutoff valve may be used where the arrangement of this valve is such as always to afford full required capacity flow through the relief valves.
+(vi) Safety-relief valves shall have direct communication with the vapor space of the container.

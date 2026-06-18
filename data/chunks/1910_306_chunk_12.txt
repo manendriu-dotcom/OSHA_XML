@@ -1,0 +1,14 @@
+§ 1910.306 Specific purpose equipment and installations.
+(3) Cord- and plug-connected equipment. Flexible cords used with the following equipment may not exceed 0.9 m (3 ft) in length and shall have a copper equipment grounding conductor with a grounding-type attachment plug:
+(i) Cord- and plug-connected lighting fixtures installed within 4.88 m (16 ft) of the water surface of permanently installed pools; and
+(ii) Other cord- and plug-connected, fixed or stationary equipment used with permanently installed pools.
+(4) Underwater equipment. (i) A ground-fault circuit interrupter shall be installed in the branch circuit supplying underwater fixtures operating at more than 15 volts. Equipment installed underwater shall be identified for the purpose.
+(ii) No underwater lighting fixtures may be installed for operation at over 150 volts between conductors.
+(iii) A lighting fixture facing upward shall have the lens adequately guarded to prevent contact by any person.
+(5) Fountains. All electric equipment, including power supply cords, operating at more than 15 volts and used with fountains shall be protected by ground-fault circuit interrupters.
+(k) Carnivals, circuses, fairs, and similar events. This paragraph covers the installation of portable wiring and equipment, including wiring in or on all structures, for carnivals, circuses, exhibitions, fairs, traveling attractions, and similar events.
+(1) Protection of electric equipment. Electric equipment and wiring methods in or on rides, concessions, or other units shall be provided with mechanical protection where such equipment or wiring methods are subject to physical damage.
+(2) Installation. (i) Services shall be installed in accordance with applicable requirements of this subpart, and, in addition, shall comply with the following:
+(A) Service equipment may not be installed in a location that is accessible to unqualified persons, unless the equipment is lockable; and
+(B) Service equipment shall be mounted on solid backing and installed so as to be protected from the weather, unless the equipment is of weatherproof construction.
+(ii) Amusement rides and amusement attractions shall be maintained not less than 4.57 m (15 ft) in any direction from overhead conductors operating at 600 volts or less, except for the conductors supplying the amusement ride or attraction. Amusement rides or attractions may not be located under or within 4.57 m (15 ft) horizontally of conductors operating in excess of 600 volts.

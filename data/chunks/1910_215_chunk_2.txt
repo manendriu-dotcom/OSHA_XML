@@ -1,0 +1,10 @@
+§ 1910.215 Abrasive wheel machinery.
+(4) Cylindrical grinders. The maximum angular exposure of the grinding wheel periphery and sides for safety guards used on cylindrical grinding machines shall not exceed 180 degrees . This exposure shall begin at a point not more than 65 degrees above the horizontal plane of the wheel spindle. (See Figures O-10 and O-11 and subparagraph (9) of this paragraph.)
+EC27OC91.059 Figure No. O-10   Figure No. O-11
+(5) Surface grinders and cutting-off machines. The maximum angular exposure of the grinding wheel periphery and sides for safety guards used on cutting-off machines and on surface grinding machines which employ the wheel periphery shall not exceed 150 degrees . This exposure shall begin at a point not less than 15 degrees below the horizontal plane of the wheel spindle. (See Figures O-12 and O-13)
+EC27OC91.060 Figure No. O-12   Figure No. O-13
+(6) Swing frame grinders. The maximum angular exposure of the grinding wheel periphery and sides for safety guards used on machines known as swing frame grinding machines shall not exceed 180 degrees , and the top half of the wheel shall be enclosed at all times. (See Figures O-14 and O-15.)
+EC27OC91.061 Figure No. O-14   Figure No. O-15
+(7) Automatic snagging machines. The maximum angular exposure of the grinding wheel periphery and sides for safety guards used on grinders known as automatic snagging machines shall not exceed 180 degrees and the top half of the wheel shall be enclosed at all times. (See Figures O-14 and O-15.)
+(8) Top grinding. Where the work is applied to the wheel above the horizontal centerline, the exposure of the grinding wheel periphery shall be as small as possible and shall not exceed 60 degrees . (See Figures O-16 and O-17.)
+EC27OC91.062 Figure No. O-16   Figure No. O-17

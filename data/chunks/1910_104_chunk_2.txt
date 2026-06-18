@@ -1,0 +1,28 @@
+§ 1910.104 Oxygen.
+(v) Flammable liquid storage above-ground.
+
+Distance (feet) Capacity (gallons)
+----------------------------------
+50 0 to 1000.
+90 1001 or more.
+
+(vi) Flammable liquid storage below-ground.
+
+Distance measured horizontally from oxygen storage container to flammable liquid tank (feet) Distance from oxygen storage container to filling and vent connections or openings to flammable liquid tank (feet) Capacity gallons
+--------------------------------------------------------------------------------
+15 50 0 to 1000.
+30 50 1001 or more.
+
+(vii) Combustible liquid storage above-ground.
+
+Distance (feet) Capacity (gallons)
+----------------------------------
+25 0 to 1000.
+50 1001 or more.
+
+(viii) Combustible liquid storage belowground.
+
+Distance measured horizontally from oxygen storage container to combustible liquid tank (feet) Distance from oxygen storage container to filling and vent connections or openings to combustible liquid tank (feet)
+--------------------------------------------------------------------------------
+15 40.
+

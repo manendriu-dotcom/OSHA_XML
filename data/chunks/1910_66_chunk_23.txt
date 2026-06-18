@@ -1,0 +1,19 @@
+§ 1910.66 Powered platforms for building maintenance.
+(7) Suspension wire ropes and rope connections. (i) Each specific installation shall use suspension wire ropes or combination cable and connections meeting the specification recommended by the manufacturer of the hoisting machine used. Connections shall be capable of developing at least 80 percent of the rated breaking strength of the wire rope.
+(ii) Each suspension rope shall have a "Design Factor" of at least 10. The "Design Factor" is the ratio of the rated strength of the suspension wire rope to the rated working load, and shall be calculated using the following formula:
+ER25SE06.005
+(iii) Suspension wire rope grade shall be at least improved plow steel or equivalent.
+(iv) Suspension wire ropes shall be sized to conform with the required design factor, but shall not be less than 5/16 inch (7.94 mm) in diameter.
+(v) No more than one reverse bend in six wire rope lays shall be permitted.
+(vi) A corrosion-resistant tag shall be securely attached to one of the wire rope fastenings when a suspension wire rope is to be used at a specific location and will remain in that location. This tag shall bear the following wire rope data:
+(A) The diameter (inches and/or mm);
+(B) Construction classification;
+(C) Whether non-preformed or preformed;
+(D) The grade of material;
+(E) The manufacturer's rated strength;
+(F) The manufacturer's name;
+(G) The month and year the ropes were installed; and
+(H) The name of the person or company which installed the ropes.
+(vii) A new tag shall be installed at each rope renewal.
+(viii) The original tag shall be stamped with the date of the resocketing, or the original tag shall be retained and a supplemental tag shall be provided when ropes are resocketed. The supplemental tag shall show the date of resocketing and the name of the person or company that resocketed the rope.
+(ix) Winding drum type hoists shall contain at least three wraps of the suspension wire rope on the drum when the suspended unit has reached the lowest possible point of its vertical travel.

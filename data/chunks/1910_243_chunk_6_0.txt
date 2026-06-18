@@ -1,0 +1,11 @@
+§ 1910.243 Guarding of portable powered tools.
+( 2 ) Firing of the tool shall be dependent upon at least two separate and distinct operations of the operator, with the final firing movement being separate from the operation of bringing the tool into the firing position.
+( e ) The tool shall be so designed as not to be operable other than against a work surface, and unless the operator is holding the tool against the work surface with a force at least 5 pounds greater than the total weight of the tool.
+( f ) The tool shall be so designed that it will not operate when equipped with the standard guard indexed to the center position if any bearing surface of the guard is tilted more than 8 degrees from contact with the work surface.
+( g ) The tool shall be so designed that positive means of varying the power are available or can be made available to the operator as part of the tool, or as an auxiliary, in order to make it possible for the operator to select a power level adequate to perform the desired work without excessive force.
+( h ) The tool shall be so designed that all breeching parts will be reasonably visible to allow a check for any foreign matter that may be present.
+(ii) Tools of the low-velocity-piston type shall have the characteristics outlined in paragraphs (d)(2)(ii) ( a ) through ( e ) of this section and any additional safety features he may wish to incorporate.
+( a ) The muzzle end of the tool shall be designed so that suitable protective shields, guards, jigs, or fixtures, designed and built by the manufacturer of the tool being used, can be mounted perpendicular to the barrel. A standard spall shield shall be supplied with each tool.
+( b )( 1 ) The tool shall be designed so that it shall not in ordinary usage propel or discharge a stud, pin, or fastener while loading or during preparation to fire, or if the tool should be dropped while loaded.
+( 2 ) Firing of the tool shall be dependent upon at least two separate and distinct operations of the operator, with the final firing movement being separate from the operation of bringing the tool into the firing position.
+( c ) The tool shall be so designed as not to be operable other than against a work surface, and unless the operator is holding the tool against the work surface with a force at least 5 pounds greater than the total weight of the tool.

@@ -1,0 +1,12 @@
+§ 1910.253 Oxygen-fuel gas welding and cutting.
+(iii) Hose connections shall comply with the Standard Hose Connection Specifications, 1957, Compressed Gas Association.
+(iv) Hose connections shall be clamped or otherwise securely fastened in a manner that will withstand, without leakage, twice the pressure to which they are normally subjected in service, but in no case less than a pressure of 300 psi (2.04 MPa). Oil-free air or an oil-free inert gas shall be used for the test.
+(v) Hose showing leaks, burns, worn places, or other defects rendering it unfit for service shall be repaired or replaced.
+(6) Pressure-reducing regulators. (i) Pressure-reducing regulators shall be used only for the gas and pressures for which they are intended. The regulator inlet connections shall comply with Regulator Connection Standards, 1958, Compressed Gas Association.
+(ii) When regulators or parts of regulators, including gages, need repair, the work shall be performed by skilled mechanics who have been properly instructed.
+(iii) Gages on oxygen regulators shall be marked "USE NO OIL."
+(iv) Union nuts and connections on regulators shall be inspected before use to detect faulty seats which may cause leakage of gas when the regulators are attached to the cylinder valves.
+(f) Acetylene generators —(1) Approval and marking. (i) Generators shall be of approved construction and shall be plainly marked with the maximum rate of acetylene in cubic feet per hour for which they are designed; the weight and size of carbide necessary for a single charge; the manufacturer's name and address; and the name or number of the type of generator.
+(ii) Carbide shall be of the size marked on the generator nameplate.
+(2) Rating and pressure limitations. (i) The total hourly output of a generator shall not exceed the rate for which it is approved and marked. Unless specifically approved for higher ratings, carbide-feed generators shall be rated at 1 cubic foot (0.028 m 3 ) per hour per pound of carbide required for a single complete charge.
+(ii) Relief valves shall be regularly operated to insure proper functioning. Relief valves for generating chambers shall be set to open at a pressure not in excess of 15 psig (103 kPa gauge pressure). Relief valves for hydraulic back pressure valves shall be set to open at a pressure not in excess of 20 psig (137 kPa gauge pressure).

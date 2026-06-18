@@ -1,0 +1,13 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+(7) Safety devices. (i) Spring-loaded internal type safety relief valves shall be used on all motor fuel containers.
+(ii) The discharge outlet from safety relief valves shall be located on the outside of enclosed spaces and as far as practicable from possible sources of ignition, and vented upward within 45 degrees of the vertical in such a manner as to prevent impingement of escaping gas upon containers, or parts of vehicles, or on vehicles in adjacent lines of traffic. A rain cap or other protector shall be used to keep water and dirt from collecting in the valve.
+(iii) When a discharge line from the container safety relief valve is used, the line shall be metallic, other than aluminum, and shall be sized, located, and maintained so as not to restrict the required flow of gas from the safety relief valve. Such discharge line shall be able to withstand the pressure resulting from the discharge of vapor when the safety relief valve is in the full open position. When flexibility is necessary, flexible metal hose or tubing shall be used.
+(iv) Portable containers equipped for volumetric filling may be filled in either the vertical or horizontal position only when oriented to place the safety relief valve in communication with the vapor space.
+(v) Paragraph (b)(10)(xii) of this section for hydrostatic relief valves shall apply.
+(8) Vaporizers. (i) Vaporizers and any part thereof and other devices that may be subjected to container pressure shall have a design pressure of at least 250 p.s.i.g.
+(ii) Each vaporizer shall have a valve or suitable plug which will permit substantially complete draining of the vaporizer. It shall be located at or near the lowest portion of the section occupied by the water or other heating medium.
+(iii) Vaporizers shall be securely fastened so as to minimize the possibility of becoming loosened.
+(iv) Each vaporizer shall be permanently marked at a visible point as follows:
+( a ) With the design pressure of the fuel-containing portion in p.s.i.g.
+( b ) With the water capacity of the fuel-containing portion of the vaporizer in pounds.
+(v) Devices to supply heat directly to a fuel container shall be equipped with an automatic device to cut off the supply of heat before the pressure inside the fuel container reaches 80 percent of the start to discharge pressure setting of the safety relief device on the fuel container.

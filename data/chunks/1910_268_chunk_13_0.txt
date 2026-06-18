@@ -1,0 +1,16 @@
+§ 1910.268 Telecommunications.
+(B) Bonded to an underground metallic piping system, or
+(C) Bonded to a power system multigrounded neutral or grounded neutral of a power secondary system which has at least three services connected;
+(iii) Guys which are bonded to the grounds specified in paragraphs (m)(4) (i) and (ii) of this section and which have continuity uninterrupted by an insulator; and
+(iv) If all of the preceding grounds are not available, arrays of driven ground rods where the resultant resistance to ground will be low enough to eliminate danger to personnel or permit prompt operation of protective devices.
+(5) Attaching and removing temporary bonds. When attaching grounds (bonds), the first attachment shall be made to the protective ground. When removing bonds, the connection to the line or equipment shall be removed first. Insulating gloves shall be worn during these operations.
+(6) Temporary grounding of suspension strand. (i) The suspension strand shall be grounded to the existing grounds listed in paragraph (m)(4) of this section when being placed on jointly used poles or during thunderstorm activity.
+(ii) Where power crossings are encountered on nonjoint lines, the strand shall be bonded to an existing ground listed in paragraph (m)(4) of this section as close as possible to the crossing. This bonding is not required where crossings are made on a common crossing pole unless there is an upward change in grade at the pole.
+(iii) Where roller-type bonds are used, they shall be restrained so as to avoid stressing the electrical connections.
+(iv) Bonds between the suspension strand and the existing ground shall be at least No. 6AWG copper.
+(v) Temporary bonds shall be left in place until the strand has been tensioned, dead-ended, and permanently grounded.
+(vi) The requirements of paragraphs (m)(6)(i) through (m)(6)(v) of this section do not apply to the installation of insulated strand.
+(7) Antenna work-radio transmitting stations 3-30 MHZ. (i) Prior to grounding a radio transmitting station antenna, the employer shall insure that the rigger in charge:
+(A) Prepares a danger tag signed with his signature,
+(B) Requests the transmitting technician to shutdown the transmitter and to ground the antenna with its grounding switch,
+(C) Is notified by the transmitting technician that the transmitter has been shutdown, and

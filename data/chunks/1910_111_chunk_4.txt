@@ -1,0 +1,14 @@
+§ 1910.111 Storage and handling of anhydrous ammonia.
+(2) Requirements for construction, original test and requalification of nonrefrigerated containers. (i) Containers used with systems covered in paragraphs (c), (f), (g), and (h) of this section shall be constructed and tested in accordance with the Code except that construction under Table UW12 at a basic joint efficiency of under 80 percent is not authorized.
+(ii) Containers built according to the Code do not have to comply with Paragraphs UG125 to UG128 inclusive, and Paragraphs UG132 and UG133 of the Code.
+(iii) Containers exceeding 36 inches in diameter or 250 gallons water capacity shall be constructed to comply with one or more of the following:
+( a ) Containers shall be stress relieved after fabrication in accordance with the Code, or
+( b ) Cold-form heads when used, shall be stress relieved, or
+( c ) Hot-formed heads shall be used.
+(iv) Welding to the shell, head, or any other part of the container subject to internal pressure shall be done in compliance with the Code. Other welding is permitted only on saddle plates, lugs, or brackets attached to the container by the container manufacturer.
+(v) Containers used with systems covered in paragraph (e) of this section shall be constructed and tested in accordance with the DOT specifications.
+(vi) The provisions of subdivision (i) of this subparagraph shall not be construed as prohibiting the continued use or reinstallation of containers constructed and maintained in accordance with the 1949, 1950, 1952, 1956, 1959, and 1962 editions of the Code or any revisions thereof in effect at the time of fabrication.
+(3) Marking nonrefrigerated containers. (i) System nameplates, when required, shall be permanently attached to the system so as to be readily accessible for inspection and shall include markings as prescribed in subdivision (ii) of this subparagraph.
+(ii) Each container or system covered in paragraphs (c), (f), (g), and (h) of this section shall be marked as specified in the following:
+( a ) With a notation "Anhydrous Ammonia."
+( b ) With a marking identifying compliance with the rules of the Code under which the container is constructed.

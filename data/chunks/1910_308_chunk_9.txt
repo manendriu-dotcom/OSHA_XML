@@ -1,0 +1,6 @@
+§ 1910.308 Special systems.
+(iii) Effective safeguards are established and maintained.
+(2) Location of overcurrent devices in or on premises. Overcurrent devices that are critical to integrated electrical systems need not be readily accessible to employees as required by § 1910.304(f)(1)(iv) if they are located with mounting heights to ensure security from operation by nonqualified persons.
+
+§§ 1910.309-1910.330
+[Reserved]

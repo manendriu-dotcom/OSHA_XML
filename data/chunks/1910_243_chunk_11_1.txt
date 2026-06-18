@@ -1,0 +1,2 @@
+§ 1910.243 Guarding of portable powered tools.
+drive disengaging controls, except deadman controls, shall move opposite to the direction of the vehicle motion in order to disengage the drive. Deadman controls shall automatically interrupt power to a drive when the operator's actuating force is removed, and may operate in any direction to disengage the drive.

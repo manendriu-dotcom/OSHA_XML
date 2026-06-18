@@ -1,0 +1,11 @@
+§ 1910.94 Ventilation.
+(vii) Exhaust system. A system consisting of branch pipes connected to hoods or enclosures, one or more header pipes, an exhaust fan, means for separating solid contaminants from the air flowing in the system, and a discharge stack to outside.
+(viii) Grinding wheels. All power-driven rotatable grinding or abrasive wheels, except disc wheels as defined in this standard, consisting of abrasive particles held together by artificial or natural bonds and used for peripheral grinding.
+(ix) Header pipe (main pipe). A pipe into which one or more branch pipes enter and which connects such branch pipes to the remainder of the exhaust system.
+(x) Hoods and enclosures. The partial or complete enclosure around the wheel or disc through which air enters an exhaust system during operation.
+(xi) Horizontal double-spindle disc grinder. A grinding machine carrying two power-driven, rotatable, coaxial, horizontal spindles upon the inside ends of which are mounted abrasive disc wheels used for grinding two surfaces simultaneously.
+(xii) Horizontal single-spindle disc grinder. A grinding machine carrying an abrasive disc wheel upon one or both ends of a power-driven, rotatable single horizontal spindle.
+(xiii) Polishing and buffing wheels. All power-driven rotatable wheels composed all or in part of textile fabrics, wood, felt, leather, paper, and may be coated with abrasives on the periphery of the wheel for purposes of polishing, buffing, and light grinding.
+(xiv) Portable grinder. Any power-driven rotatable grinding, polishing, or buffing wheel mounted in such manner that it may be manually manipulated.
+(xv) Scratch brush wheels. All power-driven rotatable wheels made from wire or bristles, and used for scratch cleaning and brushing purposes.
+(xvi) Swing-frame grinder. Any power-driven rotatable grinding, polishing, or buffing wheel mounted in such a manner that the wheel with its supporting framework can be manipulated over stationary objects.

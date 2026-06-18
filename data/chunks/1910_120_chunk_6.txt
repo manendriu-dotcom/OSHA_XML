@@ -1,0 +1,15 @@
+§ 1910.120 Hazardous waste operations and emergency response.
+(b) Safety and health program.
+Note: Note to ( b ): Safety and health programs developed and implemented to meet other Federal, state, or local regulations are considered acceptable in meeting this requirement if they cover or are modified to cover the topics required in this paragraph. An additional or separate safety and health program is not required by this paragraph.
+(1) General. (i) Employers shall develop and implement a written safety and health program for their employees involved in hazardous waste operations. The program shall be designed to identify, evaluate, and control safety and health hazards, and provide for emergency response for hazardous waste operations.
+(ii) The written safety and health program shall incorporate the following:
+(A) An organizational structure;
+(B) A comprehensive workplan;
+(C) A site-specific safety and health plan which need not repeat the employer's standard operating procedures required in paragraph (b)(1)(ii)(F) of this section;
+(D) The safety and health training program;
+(E) The medical surveillance program;
+(F) The employer's standard operating procedures for safety and health; and
+(G) Any necessary interface between general program and site specific activities.
+(iii) Site excavation. Site excavations created during initial site preparation or during hazardous waste operations shall be shored or sloped as appropriate to prevent accidental collapse in accordance with subpart P of 29 CFR part 1926.
+(iv) Contractors and sub-contractors. An employer who retains contractor or sub-contractor services for work in hazardous waste operations shall inform those contractors, sub-contractors, or their representatives of the site emergency response procedures and any potential fire, explosion, health, safety or other hazards of the hazardous waste operation that have been identified by the employer, including those identified in the employer's information program.
+(v) Program availability. The written safety and health program shall be made available to any contractor or subcontractor or their representative who will be involved with the hazardous waste operation; to employees; to employee designated representatives; to OSHA personnel, and to personnel of other Federal, state, or local agencies with regulatory authority over the site.

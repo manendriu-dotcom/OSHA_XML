@@ -1,0 +1,13 @@
+§ 1910.217 Mechanical power presses.
+§ 1910.217 Mechanical power presses.
+(a) General requirements. (1)-(3) [Reserved]
+(4) Reconstruction and modification. It shall be the responsibility of any person reconstructing, or modifying a mechanical power press to do so in accordance with paragraph (b) of this section.
+(5) Excluded machines. Press brakes, hydraulic and pneumatic power presses, bulldozers, hot bending and hot metal presses, forging presses and hammers, riveting machines and similar types of fastener applicators are excluded from the requirements of this section.
+(b) Mechanical power press guarding and construction, general —(1) Hazards to personnel associated with broken or falling machine components. Machine components shall be designed, secured, or covered to minimize hazards caused by breakage, or loosening and falling or release of mechanical energy (i.e. broken springs).
+(2) Brakes. Friction brakes provided for stopping or holding a slide movement shall be inherently self-engaging by requiring power or force from an external source to cause disengagement. Brake capacity shall be sufficient to stop the motion of the slide quickly and capable of holding the slide and its attachments at any point in its travel.
+(3) Machines using full revolution positive clutches. (i) Machines using full revolution clutches shall incorporate a single-stroke mechanism.
+(ii) If the single-stroke mechanism is dependent upon spring action, the spring(s) shall be of the compression type, operating on a rod or guided within a hole or tube, and designed to prevent interleaving of the spring coils in event of breakage.
+(4) Foot pedals (treadle). (i) The pedal mechanism shall be protected to prevent unintended operation from falling or moving objects or by accidental stepping onto the pedal.
+(ii) A pad with a nonslip contact area shall be firmly attached to the pedal.
+(iii) The pedal return spring(s) shall be of the compression type, operating on a rod or guided within a hole or tube, or designed to prevent interleaving of spring coils in event of breakage.
+(iv) If pedal counterweights are provided, the path of the travel of the weight shall be enclosed.

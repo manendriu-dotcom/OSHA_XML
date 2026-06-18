@@ -1,0 +1,11 @@
+§ 1910.66 Powered platforms for building maintenance.
+( 2 ) Guide buttons shall be located horizontally on the building face so as to allow engagement of each of the guide tracks mounted on the platform.
+( 3 ) Guide buttons shall be located in vertical rows on the building face for proper engagement of the guide tracks mounted on the platform.
+( 4 ) Two guide buttons shall engage each guide track at all times except for the initial engagement.
+( 5 ) Guide buttons which extend beyond the face of the building shall be free of sharp edges or points. Where cables, ropes and lifelines may be in contact with the building face, guide buttons shall not interfere with their handling or operation.
+( 6 ) Guide buttons, connections and seals shall be capable of sustaining without damage at least the weight of the platform, or provision shall be made in the guide tracks or guide track connectors to prevent the platform and its attachments from transmitting the weight of the platform to the guide buttons, connections and seals. In either case, the minimum design load shall be 300 pounds (1334 n) per building anchor.
+Note: Note: See paragraph (f)(5)(vi) of this section for relevant equipment provisions.
+Note: Note: See figure 3 in appendix B of this section for a description of a typical button guide stabilization system.
+(C) System utilizing angulated roping and building face rollers. The system shall keep the equipment in continuous contact with the building facade, and shall prevent sudden horizontal movement of the platform. This system is acceptable only where the suspended portion of the equipment in use does not exceed 130 feet (39.6 m) above a safe surface or ground level, and where the platform maintains no less than 10 pounds (44.4 n) angulation force on the building facade.
+(iv) Tie-in guides for building interiors (atriums) may be eliminated when a registered professional engineer determines that an alternative stabilization system, including systems in paragraphs (e)(2)(iii) (A), (B) and (C), or a platform tie-off at each work station will provide equivalent safety.
+(3) Roof guarding. (i) Employees working on roofs while performing building maintenance shall be protected by a perimeter guarding system which meets the requirements of paragraph (c)(1) of § 1910.23 of this part.

@@ -1,0 +1,13 @@
+§ 1910.263 Bakery equipment.
+(ix)-(x) [Reserved]
+(xi) Where the gas supply pressure is substantially higher than that at which the burners of an oven are designed to operate, a gas pressure regulator shall be employed.
+( a )-( c ) [Reserved]
+( d ) A relief valve shall be placed on the outlet side of gas pressure regulators where gas is supplied at high pressure. The discharge from this valve shall be piped to the outside of the building.
+(10) Direct-fired ovens. (i) Direct-fired ovens shall be safeguarded against failure of fuel, air, or ignition.
+(ii) To prevent the possible accumulation of explosive gases from being ignited after a shutdown, all direct-fired ovens with a heating capacity over 150,000 B.t.u. per hour shall be ventilated before the ignition system, combustion air blower, and the fuel can be turned on. The preventilation shall insure at least four complete changes of atmosphere in the baking chamber by discharging the oven atmosphere to the outside of the building and entraining fresh air into it. The preventilation shall be repeated whenever the heating equipment is shut down by a safety device.
+(11) Direct recirculating ovens. (i) Each circulating fan in direct recirculating ovens shall be interconnected with the burner in such a manner that the fuel is shut off by a safety valve when the fan is not running.
+(ii) The flame of the burner or burners in direct recirculating ovens shall be protected by a quick-acting flame-sensitive safeguard which will automatically shut off the fuel supply in case of burner failure.
+(12)-(14) [Reserved]
+(15) Indirect recirculating ovens.
+(i)-(ii) [Reserved]
+(iii) Duct systems (in ovens) operating under pressure shall be tested for tightness in the initial starting of the oven and also at intervals not farther apart than 6 months.

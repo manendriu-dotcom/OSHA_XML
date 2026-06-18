@@ -1,0 +1,15 @@
+§ 1910.6 Incorporation by reference.
+(9) ASTM B 210-68, Aluminum-Alloy Drawn Seamless Tubes, IBR approved for § 1910.110.
+(10) ASTM B 241-69, Standard Specifications for Aluminum-Alloy Seamless Pipe and Seamless Extruded Tube, IBR approved for § 1910.110.
+(11) ASTM D 5-65, Test for Penetration by Bituminous Materials, IBR approved for § 1910.106.
+(12) ASTM D 56-70, Test for Flash Point by Tag Closed Tester, IBR approved for § 1910.106.
+(13) ASTM D 56-05, Standard Test Method for Flash Point by Tag Closed Cup Tester, Approved May 1, 2005, IBR approved for Appendix B to § 1910.1200.
+(14) ASTM D 86-62, Test for Distillation of Petroleum Products, IBR approved for §§ 1910.106 and 1910.119.
+(15) ASTM D 86-07a, Standard Test Method for Distillation of Petroleum Products at Atmospheric Pressure, Approved April 1, 2007, IBR approved for Appendix B to § 1910.1200.
+(16) ASTM D 88-56, Test for Saybolt Viscosity, IBR approved for § 1910.106.
+(17) ASTM D 93-71, Test for Flash Point by Pensky Martens, IBR approved for § 1910.106.
+(18) ASTM D 93-08, Standard Test Methods for Flash Point by Pensky-Martens Closed Cup Tester, Approved Oct. 15, 2008, IBR approved for Appendix B to § 1910.1200.
+(19) ASTM D 240-02 (Reapproved 2007), Standard Test Method for Heat of Combustion of Liquid Hydrocarbon Fuels by Bomb Calorimeter, Approved May 1, 2007, IBR approved for Appendix B to § 1910.1200.
+(20) ASTM D 323-68, Standard Test Method of Test for Vapor Pressure of Petroleum Products (Reid Method), IBR approved for § 1910.106.
+(21) ASTM D 445-65, Test for Viscosity of Transparent and Opaque Liquids, IBR approved for § 1910.106.
+(22) ASTM D 1078-05, Standard Test Method for Distillation Range of Volatile Organic Liquids, Approved May 15, 2005, IBR approved for Appendix B to § 1910.1200.

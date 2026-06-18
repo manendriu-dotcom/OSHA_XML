@@ -1,0 +1,14 @@
+§ 1910.179 Overhead and gantry cranes.
+( a ) Nonconductive rope attached to the main disconnect switch.
+( b ) An undervoltage trip for the main circuit breaker operated by an emergency stop button in the pendant pushbutton in the pendant pushbutton station.
+( c ) A main line contactor operated by a switch or pushbutton in the pendant pushbutton station.
+(iv) The hoisting motion of all electric traveling cranes shall be provided with an overtravel limit switch in the hoisting direction.
+(v) All cranes using a lifting magnet shall have a magnet circuit switch of the enclosed type with provision for locking in the open position. Means for discharging the inductive load of the magnet shall be provided.
+(6) Runway conductors. Conductors of the open type mounted on the crane runway beams or overhead shall be so located or so guarded that persons entering or leaving the cab or crane footwalk normally could not come into contact with them.
+(7) Extension lamps. If a service receptacle is provided in the cab or on the bridge of cab-operated cranes, it shall be a grounded three-prong type permanent receptacle, not exceeding 300 volts.
+(h) Hoisting equipment —(1) Sheaves. (i) Sheave grooves shall be smooth and free from surface defects which could cause rope damage.
+(ii) Sheaves carrying ropes which can be momentarily unloaded shall be provided with close-fitting guards or other suitable devices to guide the rope back into the groove when the load is applied again.
+(iii) The sheaves in the bottom block shall be equipped with close-fitting guards that will prevent ropes from becoming fouled when the block is lying on the ground with ropes loose.
+(iv) Pockets and flanges of sheaves used with hoist chains shall be of such dimensions that the chain does not catch or bind during operation.
+(v) All running sheaves shall be equipped with means for lubrication. Permanently lubricated, sealed and/or shielded bearings meet this requirement.
+(2) Ropes. (i) In using hoisting ropes, the crane manufacturer's recommendation shall be followed. The rated load divided by the number of parts of rope shall not exceed 20 percent of the nominal breaking strength of the rope.

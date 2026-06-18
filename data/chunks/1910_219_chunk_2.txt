@@ -1,0 +1,11 @@
+§ 1910.219 Mechanical power-transmission apparatus.
+(c) Shafting —(1) Installation. (i) Each continuous line of shafting shall be secured in position against excessive endwise movement.
+(ii) Inclined and vertical shafts, particularly inclined idler shafts, shall be securely held in position against endwise thrust.
+(2) Guarding horizontal shafting. (i) All exposed parts of horizontal shafting seven (7) feet or less from floor or working platform, excepting runways used exclusively for oiling, or running adjustments, shall be protected by a stationary casing enclosing shafting completely or by a trough enclosing sides and top or sides and bottom of shafting as location requires.
+(ii) Shafting under bench machines shall be enclosed by a stationary casing, or by a trough at sides and top or sides and bottom, as location requires. The sides of the trough shall come within at least six (6) inches of the underside of table, or if shafting is located near floor within six (6) inches of floor. In every case the sides of trough shall extend at least two (2) inches beyond the shafting or protuberance.
+(3) Guarding vertical and inclined shafting. Vertical and inclined shafting seven (7) feet or less from floor or working platform, excepting maintenance runways, shall be enclosed with a stationary casing in accordance with requirements of paragraphs (m) and (o) of this section.
+(4) Projecting shaft ends. (i) Projecting shaft ends shall present a smooth edge and end and shall not project more than one-half the diameter of the shaft unless guarded by nonrotating caps or safety sleeves.
+(ii) Unused keyways shall be filled up or covered.
+(5) Power-transmission apparatus located in basements. All mechanical power transmission apparatus located in basements, towers, and rooms used exclusively for power transmission equipment shall be guarded in accordance with this section, except that the requirements for safeguarding belts, pulleys, and shafting need not be complied with when the following requirements are met:
+(i) The basement, tower, or room occupied by transmission equipment is locked against unauthorized entrance.
+(ii) The vertical clearance in passageways between the floor and power transmission beams, ceiling, or any other objects, is not less than five feet six inches (5 ft. 6 in.).

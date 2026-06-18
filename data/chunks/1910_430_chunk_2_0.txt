@@ -1,0 +1,17 @@
+§ 1910.430 Equipment.
+(g) Gauges and timekeeping devices. (1) Gauges indicating diver depth which can be read at the dive location shall be used for all dives except SCUBA.
+(2) Each depth gauge shall be deadweight tested or calibrated against a master reference gauge every 6 months, and when there is a discrepancy greater than two percent (2 percent) of full scale between any two equivalent gauges.
+(3) A cylinder pressure gauge capable of being monitored by the diver during the dive shall be worn by each SCUBA diver.
+(4) A timekeeping device shall be available at each dive location.
+(h) Masks and helmets. (1) Surface-supplied air and mixed-gas masks and helmets shall have:
+(i) A non-return valve at the attachment point between helmet or mask and hose which shall close readily and positively; and
+(ii) An exhaust valve.
+(2) Surface-supplied air masks and helmets shall have a minimum ventilation rate capability of 4.5 acfm at any depth at which they are operated or the capability of maintaining the diver's inspired carbon dioxide partial pressure below 0.02 ATA when the diver is producing carbon dioxide at the rate of 1.6 standard liters per minute.
+(i) Oxygen safety. (1) Equipment used with oxygen or mixtures containing over forty percent (40%) by volume oxygen shall be designed for oxygen service.
+(2) Components (except umbilicals) exposed to oxygen or mixtures containing over forty percent (40%) by volume oxygen shall be cleaned of flammable materials before use.
+(3) Oxygen systems over 125 psig and compressed air systems over 500 psig shall have slow-opening shut-off valves.
+(j) Weights and harnesses. (1) Except when heavy gear is worn, divers shall be equipped with a weight belt or assembly capable of quick release.
+(2) Except when heavy gear is worn or in SCUBA diving, each diver shall wear a safety harness with:
+(i) A positive buckling device;
+(ii) An attachment point for the umbilical to prevent strain on the mask or helmet; and
+(iii) A lifting point to distribute the pull force of the line over the diver's body.

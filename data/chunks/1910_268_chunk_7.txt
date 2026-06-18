@@ -1,0 +1,18 @@
+§ 1910.268 Telecommunications.
+(h) Ladders. Ladders, step bolts, and manhole steps shall meet the applicable requirements in subpart D of this part.
+(i) Other tools and personal protective equipment —(1) Head protection. Head protection meeting the requirements of ANSI Z89.2-1971, "Safety Requirements for Industrial Protective Helmets for Electrical Workers, Class B" shall be provided whenever there is exposure to possible high voltage electrical contact, and the employer shall ensure that the head protection is used by employees. ANSI Z89.2-1971 is incorporated by reference as specified in § 1910.6.
+(2) Eye protection. Eye protection meeting the requirements of § 1910.133 (a)(2) thru (a)(6) shall be provided and the employer shall ensure its use by employees where foreign objects may enter the eyes due to work operations such as but not limited to:
+(i) Drilling or chipping stone, brick or masonry, breaking concrete or pavement, etc. by hand tools (sledgehammer, etc.) or power tools such as pneumatic drills or hammers;
+(ii) Working on or around high speed emery or other grinding wheels unprotected by guards;
+(iii) Cutting or chipping terra cotta ducts, tile, etc.;
+(iv) Working under motor vehicles requiring hammering;
+(v) Cleaning operations using compressed air, steam, or sand blast;
+(vi) Acetylene welding or similar operations where sparks are thrown off;
+(vii) Using powder actuated stud drivers;
+(viii) Tree pruning or cutting underbrush;
+(ix) Handling battery cells and solutions, such as taking battery readings with a hydrometer and thermometer;
+(x) Removing or rearranging strand or open wire; and
+(xi) Performing lead sleeve wiping and while soldering.
+(3) Tent heaters. Flame-type heaters may not be used within ground tents or on platforms within aerial tents unless:
+(i) The tent covers are constructed of fire resistant materials, and
+(ii) Adequate ventilation is provided to maintain safe oxygen levels and avoid harmful buildup of combustion products and combustible gases.

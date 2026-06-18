@@ -1,0 +1,32 @@
+# chunking.yaml — OSHA 1910 XML pipeline
+#
+# XML source notes:
+#   - Section markers are normalised to "§ 1910.XXX Title" by clean_text.py.
+#   - Subpart headers use an em-dash: "Subpart J—General Environmental Controls".
+#   - No fixed-window fallback needed: XML paragraphs are already clean units.
+#   - max_tokens_per_chunk can be safely raised to 600-700 for XML because
+#     chunks don't contain page-break noise; start at 512 and tune up.
+
+strategy: section
+
+# ── section-based chunking ──────────────────────────────────────────────────
+section:
+  # Regex patterns (informational — the actual patterns are compiled in chunk_osha.py)
+  section_pattern: "^§\\s*(1910\\.\\S+)\\s+(.*)"
+  subpart_pattern: "^Subpart\\s+([A-Z]+)—(.+)"   # em-dash required (clean_text.py enforces this)
+
+  # Maximum words per chunk before sub-splitting.
+  # XML produces clean paragraphs, so 512 is conservative — raise to 600 if
+  # you want fewer chunks without losing context.
+  max_tokens_per_chunk: 32000
+
+  # Overlap in words when a section must be sub-split.
+  # XML paragraph-aware splitting (chunk_osha.py) uses this as a fallback;
+  # most sections will split cleanly on paragraph boundaries instead.
+  overlap_tokens: 64
+
+# ── output ──────────────────────────────────────────────────────────────────
+output:
+  chunks_dir: "data/chunks"
+  filename_template: "{section_id}_chunk_{chunk_index}.txt"
+  manifest_file: "data/chunks/manifest.jsonl"

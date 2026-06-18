@@ -1,0 +1,15 @@
+§ 1910.109 Explosives and blasting agents.
+(v) All electrical switches, controls, motors, and lights located in the mixing room shall conform to the requirements in subpart S of this part for Class II, Division 2 locations; otherwise they shall be located outside the mixing room. The frame of the mixer and all other equipment that may be used shall be electrically bonded and be provided with a continuous path to the ground.
+(vi) Safety precautions at mixing plants shall include the requirements of this subdivision.
+( a ) Floors shall be constructed so as to eliminate floor drains and piping into which molten materials could flow and be confined in case of fire.
+( b ) The floors and equipment of the mixing and packaging room shall be cleaned regularly and thoroughly to prevent accumulation of oxidizers or fuels and other sensitizers.
+( c ) The entire mixing and packaging plant shall be cleaned regularly and thoroughly to prevent excessive accumulation of dust.
+( d ) Smoking, matches, open flames, spark-producing devices, and firearms (except firearms carried by guards) shall not be permitted inside of or within 50 feet of any building or facility used for the mixing of blasting agents.
+( e ) The land surrounding the mixing plant shall be kept clear of brush, dried grass, leaves, and other materials for a distance of at least 25 feet.
+( f ) Empty ammonium nitrate bags shall be disposed of daily in a safe manner.
+( g ) No welding shall be permitted or open flames used in or around the mixing or storage area of the plant unless the equipment or area has been completely washed down and all oxidizer material removed.
+( h ) Before welding or repairs to hollow shafts, all oxidizer material shall be removed from the outside and inside of the shaft and the shaft vented with a minimum one-half inch diameter opening.
+( i ) Explosives shall not be permitted inside of or within 50 feet of any building or facility used for the mixing of blasting agents.
+(3) Bulk delivery and mixing vehicles. (i) The provisions of this paragraph shall apply to off-highway private operations as well as to all public highway movements.
+(ii) A bulk vehicle body for delivering and mixing blasting agents shall conform with the requirements of this paragraph (ii).
+( a ) The body shall be constructed of noncombustible materials.

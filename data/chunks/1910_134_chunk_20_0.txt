@@ -1,0 +1,13 @@
+§ 1910.134 Respiratory protection.
+(ii) Cylinders of purchased breathing air have a certificate of analysis from the supplier that the breathing air meets the requirements for Grade D breathing air; and
+(iii) The moisture content in the cylinder does not exceed a dew point of −50 degrees F (−45.6 degrees C) at 1 atmosphere pressure.
+(5) The employer shall ensure that compressors used to supply breathing air to respirators are constructed and situated so as to:
+(i) Prevent entry of contaminated air into the air-supply system;
+(ii) Minimize moisture content so that the dew point at 1 atmosphere pressure is 10 degrees F (5.56 degrees C) below the ambient temperature;
+(iii) Have suitable in-line air-purifying sorbent beds and filters to further ensure breathing air quality. Sorbent beds and filters shall be maintained and replaced or refurbished periodically following the manufacturer's instructions.
+(iv) Have a tag containing the most recent change date and the signature of the person authorized by the employer to perform the change. The tag shall be maintained at the compressor.
+(6) For compressors that are not oil-lubricated, the employer shall ensure that carbon monoxide levels in the breathing air do not exceed 10 ppm.
+(7) For oil-lubricated compressors, the employer shall use a high-temperature or carbon monoxide alarm, or both, to monitor carbon monoxide levels. If only high-temperature alarms are used, the air supply shall be monitored at intervals sufficient to prevent carbon monoxide in the breathing air from exceeding 10 ppm.
+(8) The employer shall ensure that breathing air couplings are incompatible with outlets for nonrespirable worksite air or other gas systems. No asphyxiating substance shall be introduced into breathing air lines.
+(9) The employer shall use only the respirator manufacturer's NIOSH-approved breathing-gas containers, marked and maintained in accordance with the Quality Assurance provisions of the NIOSH approval for the SCBA as issued in accordance with the NIOSH respirator-certification standard at 42 CFR part 84.
+(j) Identification of filters, cartridges, and canisters. The employer shall ensure that all filters, cartridges and canisters used in the workplace are labeled and color coded with the NIOSH approval label and that the label is not removed and remains legible.

@@ -1,0 +1,12 @@
+§ 1910.253 Oxygen-fuel gas welding and cutting.
+(O) Cylinders shall not be dropped or otherwise roughly handled.
+(P) Unless connected to a manifold, oxygen from a cylinder shall not be used without first attaching an oxygen regulator to the cylinder valve. Before connecting the regulator to the cylinder valve, the valve shall be opened slightly for an instant and then closed. Always stand to one side of the outlet when opening the cylinder valve.
+(Q) A hammer or wrench shall not be used to open cylinder valves. If valves cannot be opened by hand, the supplier shall be notified.
+(R)( 1 ) Cylinder valves shall not be tampered with nor should any attempt be made to repair them. If trouble is experienced, the supplier should be sent a report promptly indicating the character of the trouble and the cylinder's serial number. Supplier's instructions as to its disposition shall be followed.
+( 2 ) Complete removal of the stem from a diaphragm-type cylinder valve shall be avoided.
+(iii)(A) Fuel-gas cylinders shall be placed with valve end up whenever they are in use. Liquefied gases shall be stored and shipped with the valve end up.
+(B) Cylinders shall be handled carefully. Rough handling, knocks, or falls are liable to damage the cylinder, valve or safety devices and cause leakage.
+(C) Before connecting a regulator to a cylinder valve, the valve shall be opened slightly and closed immediately. The valve shall be opened while standing to one side of the outlet; never in front of it. Never crack a fuel-gas cylinder valve near other welding work or near sparks, flame, or other possible sources of ignition.
+(D) Before a regulator is removed from a cylinder valve, the cylinder valve shall be closed and the gas released from the regulator.
+(E) Nothing shall be placed on top of an acetylene cylinder when in use which may damage the safety device or interfere with the quick closing of the valve.
+(F) If cylinders are found to have leaky valves or fittings which cannot be stopped by closing of the valve, the cylinders shall be taken outdoors away from sources of ignition and slowly emptied.

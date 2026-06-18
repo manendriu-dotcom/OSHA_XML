@@ -1,0 +1,14 @@
+§ 1910.111 Storage and handling of anhydrous ammonia.
+(iv) All vehicles shall carry a can containing 5 gallons or more of water.
+(h) Systems mounted on farm vehicles for the application of ammonia. (1) This paragraph applies to systems utilizing containers of 250 gallons capacity or less which are mounted on farm vehicles (implement of husbandry) and used for the application of ammonia to the soil. Paragraph (b) of this section applies to this paragraph unless otherwise noted. Where larger containers are used, they shall comply with paragraph (g) of this section.
+(2) Design pressure and classification of containers. (i) The minimum design pressure for containers shall be 250 p.s.i.g.
+(ii) The shell or head thickness of any container shall not be less than three-sixteenths inch.
+(3) Mounting of containers. All containers and flow-control devices shall be securely mounted.
+(4) Container valves and accessories. (i) Each container shall have a fixed liquid-level gage.
+(ii) The filling connection shall be fitted with a combination back-pressure check valve and an excess-flow valve; one double or two single back-pressure check valves: or a positive shutoff valve in conjunction with an internal back-pressure check valve or an internal excess-flow valve.
+(iii) The applicator tank may be filled by venting to open air provided the bleeder valve orifice does not exceed seven-sixteenths inch in diameter.
+(iv) Regulation equipment may be connected directly to the tank coupling or flange, in which case a flexible connection shall be used between such regulating equipment and the remainder of the liquid withdrawal system. Regulating equipment not so installed shall be flexibly connected to the container shutoff valve.
+(v) No excess flow valve is required in the liquid withdrawal line provided the controlling orifice between the contents of the container and the outlet of the shutoff valve does not exceed seven-sixteenths inch in diameter.
+
+§§ 1910.112-1910.113
+[Reserved]

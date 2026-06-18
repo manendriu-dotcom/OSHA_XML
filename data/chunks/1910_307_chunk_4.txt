@@ -1,0 +1,11 @@
+§ 1910.307 Hazardous (classified) locations.
+(5) Nonincendive circuit. This protection technique is permitted for equipment in Class I, Division 2; Class II, Division 2; or Class III, Division 1or 2 locations.
+(6) Nonincendive equipment. This protection technique is permitted for equipment in Class I, Division 2; Class II, Division 2; or Class III, Division 1 or 2 locations.
+(7) Nonincendive component. This protection technique is permitted for equipment in Class I, Division 2; Class II, Division 2; or Class III, Division 1 or 2 locations.
+(8) Oil immersion. This protection technique is permitted for current-interrupting contacts in Class I, Division 2 locations as described in the Subpart.
+(9) Hermetically sealed. This protection technique is permitted for equipment in Class I, Division 2; Class II, Division 2; and Class III, Division 1 or 2 locations.
+(10) Other protection techniques. Any other protection technique that meets paragraph (c) of this section is acceptable in any hazardous (classified) location.
+(g) Class I, Zone 0, 1, and 2 locations —(1) Scope. Employers may use the zone classification system as an alternative to the division classification system for electric and electronic equipment and wiring for all voltage in Class I, Zone 0, Zone 1, and Zone 2 hazardous (classified) locations where fire or explosion hazards may exist due to flammable gases, vapors, or liquids.
+(2) Location and general requirements. (i) Locations shall be classified depending on the properties of the flammable vapors, liquids, or gases that may be present and the likelihood that a flammable or combustible concentration or quantity is present. Where pyrophoric materials are the only materials used or handled, these locations need not be classified.
+(ii) Each room, section, or area shall be considered individually in determining its classification.
+(iii) All threaded conduit shall be threaded with an NPT (National (American) Standard Pipe Taper) standard conduit cutting die that provides 3/4 -in. taper per foot. The conduit shall be made wrench tight to prevent sparking when fault current flows through the conduit system and to ensure the explosionproof or flameproof integrity of the conduit system where applicable.

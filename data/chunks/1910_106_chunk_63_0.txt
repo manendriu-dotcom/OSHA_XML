@@ -1,0 +1,11 @@
+§ 1910.106 Flammable liquids.
+( d ) Where tanks are at an elevation which would produce gravity head on the dispensing unit, the tank outlet shall be equipped with a pressure control valve positioned adjacent to and outside the tank block valve specified in paragraph (b)(2)(ix)( b ) of this section, so adjusted that liquid cannot flow by gravity from the tank in case of piping or hose failure.
+(iii) Piping. ( a ) Piping between shore tanks and dispensing units shall be as described in paragraph ( c ) of this section, except that, where dispensing is from a floating structure, suitable lengths of oil-resistant flexible hose may be employed between the shore piping and the piping on the floating structure as made necessary by change in water level or shoreline.
+ER26MR12.058
+ER26MR12.059
+( b ) A readily accessible valve to shut off the supply from shore shall be provided in each pipeline at or near the approach to the pier and at the shore end of each pipeline adjacent to the point where flexible hose is attached.
+( c ) Piping shall be located so as to be protected from physical damage.
+( d ) Piping handling Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C), shall be grounded to control stray currents.
+(5) Electrical equipment —(i) Application. This paragraph (g)(5) shall apply to areas where Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C), are stored or handled. For areas where Category 3 flammable liquids with a flashpoint at or above 100 degrees F (37.8 degrees C) or Category 4 flammable liquids are stored or handled the electrical equipment may be installed in accordance with the provisions of subpart S of this part, for ordinary locations.
+(ii) All electrical equipment and wiring shall be of a type specified by and shall be installed in accordance with subpart S of this part.
+(iii) So far as it applies. Table H-19 shall be used to delineate and classify hazardous areas for the purpose of installation of electrical equipment under normal circumstances. A classified area shall not extend beyond an unpierced wall, roof, or other solid partition.

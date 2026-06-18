@@ -1,0 +1,16 @@
+§ 1910.261 Pulp, paper, and paperboard mills.
+(30) Core shaft. When the core shaft weighs in excess of the safe standard, a mechanical device such as a dolly shall be provided for carrying all or part of the weight when it is being removed from the set of paper and placed in the dressing brackets on the winder.
+(31) Winder area. A nonskid surface shall be provided in the front vicinity of the winder to prevent accidental slipping.
+(32) Radiation. Special standards regarding the use of radiation equipment shall be posted and followed as required by § 1910.96.
+(l) Finishing room —(1) Cleaning rolls. Rolls shall be cleaned only on the outrunning side.
+(2) Emergency stops. Electrically or manually operated quick power disconnecting devices, interlocked with braking action, shall be provided on all operating sides of the machine within easy reach of all employees. These devices shall be tested by making use of them when stopping the machine.
+(3) Core collars. The requirements of paragraph (k)(27) of this section and the American National Standard B15.1—1953 (reaffirmed 1958) shall apply.
+(4) Elevators. These shall be in accordance with American National Standard A17.1—1965.
+(5) Control panels. The requirements of paragraph (k)(22) of this section shall apply.
+(6) Guillotine-type cutters. (i) Each guillotine-type cutter shall be equipped with a control which requires the operator and his helper, if any, to use both hands to engage the clutch.
+(ii) Each guillotine-type cutter shall be equipped with a nonrepeat device.
+(iii) Carriers shall be provided and used for transportation of guillotine-type cutter knives.
+(7) Rotary cutter. (i) On single-knife machines a guard shall be provided at a point of contact to the knife.
+(ii) On duplex cutters the protection required for single-knife machines shall be provided for the first knife, and a hood shall be provided for the second knife.
+(iii) Safe access shall be provided to the knives of a rotary cutter by means of catwalks with nonslip surfaces, railings, and toeboards in accordance with paragraph (b)(3) of this section.
+(iv) A guard shall be provided for the spreader or squeeze roll at the nip side on sheet cutters.

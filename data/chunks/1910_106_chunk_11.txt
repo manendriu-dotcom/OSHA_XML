@@ -1,0 +1,3 @@
+§ 1910.106 Flammable liquids.
+(v) Emergency relief venting for fire exposure for aboveground tanks. ( a ) Every aboveground storage tank shall have some form of construction or device that will relieve excessive internal pressure caused by exposure fires.
+( b ) In a vertical tank the construction referred to in subdivision ( a ) of this subdivision may take the form of a floating roof, lifter roof, a weak roof-to-shell seam, or other approved pressure relieving construction. The weak roof-to-shell seam shall be constructed to fail preferential to any other seam.

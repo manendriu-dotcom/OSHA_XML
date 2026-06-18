@@ -1,0 +1,15 @@
+§ 1910.146 Permit-required confined spaces.
+Note: Note: Employers may perform a single annual review covering all entries performed during a 12-month period. If no entry is performed during a 12-month period, no review is necessary. Appendix C to § 1910.146 presents examples of permit space programs that are considered to comply with the requirements of paragraph (d) of this section.
+(e) Permit system. (1) Before entry is authorized, the employer shall document the completion of measures required by paragraph (d)(3) of this section by preparing an entry permit.
+Note: Note: Appendix D to § 1910.146 presents examples of permits whose elements are considered to comply with the requirements of this section.
+(2) Before entry begins, the entry supervisor identified on the permit shall sign the entry permit to authorize entry.
+(3) The completed permit shall be made available at the time of entry to all authorized entrants or their authorized representatives, by posting it at the entry portal or by any other equally effective means, so that the entrants can confirm that pre-entry preparations have been completed.
+(4) The duration of the permit may not exceed the time required to complete the assigned task or job identified on the permit in accordance with paragraph (f)(2) of this section.
+(5) The entry supervisor shall terminate entry and cancel the entry permit when:
+(i) The entry operations covered by the entry permit have been completed; or
+(ii) A condition that is not allowed under the entry permit arises in or near the permit space.
+(6) The employer shall retain each canceled entry permit for at least 1 year to facilitate the review of the permit-required confined space program required by paragraph (d)(14) of this section. Any problems encountered during an entry operation shall be noted on the pertinent permit so that appropriate revisions to the permit space program can be made.
+(f) Entry permit. The entry permit that documents compliance with this section and authorizes entry to a permit space shall identify:
+(1) The permit space to be entered;
+(2) The purpose of the entry;
+(3) The date and the authorized duration of the entry permit;
