@@ -1,6 +1,0 @@
-§ 1910.304 Wiring design and protection.
-(ii) Power conductors alone or above communication conductors:
-(A) 300 volts or less—610 mm (24 in.),
-(B) Over 300 volts—762 mm (30 in.);
-(iii) Communication conductors below power conductors—same as power conductors; and
-(iv) Communications conductors alone—no requirement.

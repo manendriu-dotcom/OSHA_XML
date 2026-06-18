@@ -1,8 +1,0 @@
-§ 1910.145 Specifications for accident prevention signs and tags.
-(d) Sign design —(1) Design features. All signs shall be furnished with rounded or blunt corners and shall be free from sharp edges, burrs, splinters, or other sharp projections. The ends or heads of bolts or other fastening devices shall be located in such a way that they do not constitute a hazard.
-(2) Danger signs. The colors red, black, and white shall be those of opaque glossy samples as specified in Table 1, "Fundamental Specification of Safety Colors for CIE Standard Source 'C,' " of ANSI Z53.1-1967 or in Table 1, "Specification of the Safety Colors for CIE Illuminate C and the CIE 1931, 2 Standard Observer," of ANSI Z535.1-2006(R2011), incorporated by reference in § 1910.6.
-(3) [Reserved]
-(4) Caution signs. The standard color of the background shall be yellow; and the panel, black with yellow letters. Any letters used against the yellow background shall be black. The colors shall be those of opaque glossy samples as specified in Table 1 of ANSI Z53.1-1967 or Table 1 of ANSI Z535.1-2006(R2011), incorporated by reference in § 1910.6.
-(5) [Reserved]
-(6) Safety instruction signs. The standard color of the background shall be white; and the panel, green with white letters. Any letters used against the white background shall be black. The colors shall be those of opaque glossy samples as specified in Table 1 of ANSI Z53.1-1967 or in Table 1 of ANSI Z535.1-2006(R2011), incorporated by reference in § 1910.6.
-(7)-(9) [Reserved]

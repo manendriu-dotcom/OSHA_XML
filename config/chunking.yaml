@@ -18,7 +18,7 @@ section:
   # Maximum words per chunk before sub-splitting.
   # XML produces clean paragraphs, so 512 is conservative — raise to 600 if
   # you want fewer chunks without losing context.
-  max_tokens_per_chunk: 32000
+  max_tokens_per_chunk: 8000
 
   # Overlap in words when a section must be sub-split.
   # XML paragraph-aware splitting (chunk_osha.py) uses this as a fallback;

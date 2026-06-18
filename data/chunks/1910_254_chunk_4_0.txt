@@ -1,6 +1,0 @@
-§ 1910.254 Arc welding and cutting.
-(7) Electrode holders. Electrode holders when not in use shall be so placed that they cannot make electrical contact with persons, conducting objects, fuel or compressed gas tanks.
-(8) Electric shock. Cables with splices within 10 feet (3 m) of the holder shall not be used. The welder should not coil or loop welding electrode cable around parts of his body.
-(9) Maintenance. (i) The operator should report any equipment defect or safety hazard to his supervisor and the use of the equipment shall be discontinued until its safety has been assured. Repairs shall be made only by qualified personnel.
-(ii) Machines which have become wet shall be thoroughly dried and tested before being used.
-(iii) Cables with damaged insulation or exposed bare conductors shall be replaced. Joining lengths of work and electrode cables shall be done by the use of connecting means specifically intended for the purpose. The connecting means shall have insulation adequate for the service conditions.

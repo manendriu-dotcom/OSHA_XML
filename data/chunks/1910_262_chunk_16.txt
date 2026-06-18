@@ -1,6 +1,0 @@
-§ 1910.262 Textiles.
-(ll) Open tanks and vats for mixing and storage of hot or corrosive liquids — Shutoff valves. Boiling tanks, caustic tanks, and hot liquid containers, so located that the operator cannot see the contents from the floor or working area, shall have emergency shutoff valves controlled from a point not subject to danger of splash. Valves shall conform to the ASME Pressure Vessel Code, section VIII, Unfired Pressure Vessels, 1968.
-(mm) Dye kettles and vats —Pipes or drains of sufficient capacity to carry the contents safely away from the working area shall be installed where there are dye kettles and vats which may at any time contain hot or corrosive liquids. These shall not empty directly onto the floor.
-(nn) Acid carboys. Carboys shall be provided with inclinators, or the acid shall be withdrawn from the carboys by means of pumping without pressure in the carboy, or by means of hand operated siphons.
-(oo) Handling caustic soda and caustic potash. Means shall be provided for handling and emptying caustic soda and caustic potash containers to prevent workers from coming in contact with the caustic (see paragraph (qq) of this section).
-(pp) First aid. Wherever acids or caustics are used, provision shall be made for a copious and flowing supply of fresh, clean water.

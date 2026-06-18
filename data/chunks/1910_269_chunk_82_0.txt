@@ -1,6 +1,0 @@
-§ 1910.269 Electric power generation, transmission, and distribution.
-(iv) The employer shall protect excavated areas with barricades.
-(v) The employer shall display warning lights prominently at night.
-(7) Backfeed. When there is a possibility of voltage backfeed from sources of cogeneration or from the secondary system (for example, backfeed from more than one energized phase feeding a common load), the requirements of paragraph (l) of this section apply if employees will work the lines or equipment as energized, and the requirements of paragraphs (m) and (n) of this section apply if employees will work the lines or equipment as deenergized.
-(8) Lasers. The employer shall install, adjust, and operate laser equipment in accordance with § 1926.54 of this chapter.
-(9) Hydraulic fluids. Hydraulic fluids used for the insulated sections of equipment shall provide insulation for the voltage involved.

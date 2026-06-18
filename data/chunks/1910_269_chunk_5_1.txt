@@ -1,2 +1,0 @@
-§ 1910.269 Electric power generation, transmission, and distribution.
-are related to the safety of the work to be performed shall be determined before work on or near the lines or equipment is started. Such characteristics and conditions include, but are not limited to: (i) The nominal voltages of lines and equipment, (ii) The maximum switching-transient voltages, (iii) The presence of hazardous induced voltages,

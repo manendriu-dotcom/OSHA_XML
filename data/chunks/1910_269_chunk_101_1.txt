@@ -1,2 +1,0 @@
-§ 1910.269 Electric power generation, transmission, and distribution.
-0.05 to 1.0 Avoid Contact Avoid Contact 1.1 to 15.0 0.64 2.10 0.66 2.20 15.1 to 36.0 0.72 2.30 0.77 2.60 36.1 to 46.0 0.77 2.60 0.85 2.80 46.1 to 72.5

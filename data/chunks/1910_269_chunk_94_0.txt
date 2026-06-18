@@ -1,9 +1,0 @@
-§ 1910.269 Electric power generation, transmission, and distribution.
-Note: Note to the definition of "communication lines": Telephone, telegraph, railroad signal, data, clock, fire, police alarm, cable television, and other systems conforming to this definition are included. Lines used for signaling purposes, but not included under this definition, are considered as electric supply lines of the same voltage.
-(2) Electric supply lines. Conductors used to transmit electric energy and their necessary supporting or containing structures. Signal lines of more than 400 volts are always supply lines within this section, and those of less than 400 volts are considered as supply lines, if so run and operated throughout.
-Manhole. A subsurface enclosure that personnel may enter and that is used for installing, operating, and maintaining submersible equipment or cable.
-Minimum approach distance. The closest distance an employee may approach an energized or a grounded object.
-Note: Note to the definition of "minimum approach distance": Paragraph (l)(3)(i) of this section requires employers to establish minimum approach distances.
-Personal fall arrest system. A system used to arrest an employee in a fall from a working level.
-Qualified employee (qualified person). An employee (person) knowledgeable in the construction and operation of the electric power generation, transmission, and distribution equipment involved, along with the associated hazards.
-Note: Note 1 to the definition of "qualified employee (qualified person)": An employee must have the training required by (a)(2)(ii) of this section to be a qualified employee.

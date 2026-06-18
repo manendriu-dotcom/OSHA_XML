@@ -1,9 +1,0 @@
-§ 1910.109 Explosives and blasting agents.
-(19) DOT specifications. Regulations of the Department of Transportation published in 49 CFR chapter I.
-(b) Miscellaneous provisions —(1) General hazard. No person shall store, handle, or transport explosives or blasting agents when such storage, handling, and transportation of explosives or blasting agents constitutes an undue hazard to life.
-(2) [Reserved]
-(c) Storage of explosives —(1) General provisions. (i) All Class A, Class B, Class C explosives, and special industrial explosives, and any newly developed and unclassified explosives, shall be kept in magazines which meet the requirements of this paragraph.
-(ii) Blasting caps, electric blasting caps, detonating primers, and primed cartridges shall not be stored in the same magazine with other explosives.
-(iii) Ground around magazines shall slope away for drainage. The land surrounding magazines shall be kept clear of brush, dried grass, leaves, and other materials for a distance of at least 25 feet.
-(iv) Magazines as required by this paragraph shall be of two classes; namely, Class I magazines, and Class II magazines.
-(v) Class I magazines shall be required where the quantity of explosives stored is more than 50 pounds. Class II magazines may be used where the quantity of explosives stored is 50 pounds or less.

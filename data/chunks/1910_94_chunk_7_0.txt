@@ -1,5 +1,0 @@
-§ 1910.94 Ventilation.
-(xvii) Velocity pressure (vp). The kinetic pressure in the direction of flow necessary to cause a fluid at rest to flow at a given velocity. It is usually expressed in inches of water gauge.
-(xviii) Vertical spindle disc grinder. A grinding machine having a vertical, rotatable power-driven spindle carrying a horizontal abrasive disc wheel.
-(2) Application. Wherever dry grinding, dry polishing or buffing is performed, and employee exposure, without regard to the use of respirators, exceeds the permissible exposure limits prescribed in § 1910.1000 or other sections of this part, a local exhaust ventilation system shall be provided and used to maintain employee exposures within the prescribed limits.
-(3) Hood and branch pipe requirements. (i) Hoods connected to exhaust systems shall be used, and such hoods shall be designed, located, and placed so that the dust or dirt particles shall fall or be projected into the hoods in the direction of the air flow. No wheels, discs, straps, or belts shall be operated in such manner and in such direction as to cause the dust and dirt particles to be thrown into the operator's breathing zone.

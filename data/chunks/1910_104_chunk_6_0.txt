@@ -1,8 +1,0 @@
-§ 1910.104 Oxygen.
-(v) Testing. After installation all field erected piping shall be tested and proved gas tight at maximum operating pressure. Any medium used for testing shall be oil free and nonflammable.
-(vi) Security. Storage containers, piping, valves, regulating equipment, and other accessories shall be protected against physical damage and against tampering.
-(vii) Venting. Any enclosure containing oxygen control or operating equipment shall be adequately vented.
-(viii) Placarding. The bulk oxygen storage location shall be permanently placarded to indicate: "OXYGEN—NO SMOKING—NO OPEN FLAMES", or an equivalent warning.
-(ix) Electrical wiring. Bulk oxygen installations are not hazardous locations as defined and covered in subpart S of this part. Therefore, general purpose or weatherproof types of electrical wiring and equipment are acceptable depending upon whether the installation is indoors or outdoors. Such equipment shall be installed in accordance with the applicable provisions of subpart S of this part.
-(9) Operating instructions. For installations which require any operation of equipment by the user, legible instructions shall be maintained at operating locations.
-(10) Maintenance. The equipment and functioning of each charged bulk oxygen system shall be maintained in a safe operating condition in accordance with the requirements of this section. Wood and long dry grass shall be cut back within 15 feet of any bulk oxygen storage container.

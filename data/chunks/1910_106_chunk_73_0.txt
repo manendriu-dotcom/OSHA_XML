@@ -1,9 +1,0 @@
-§ 1910.106 Flammable liquids.
-(3) Storage of flammable liquids on farms;
-(4) Liquids without flashpoints that may be flammable under some conditions, such as certain halogenated hydrocarbons and mixtures containing halogenated hydrocarbons;
-(5) Mists, sprays, or foams, except flammable aerosols covered in paragraph (d) of this section; or
-(6) Installations made in accordance with requirements of the following standards that are incorporated by reference as specified in § 1910.6:
-(i) National Fire Protection Association Standard for Drycleaning Plants, NFPA No. 32-1970;
-(ii) National Fire Protection Association Standard for the Manufacture of Organic Coatings, NFPA No. 35-1970;
-(iii) National Fire Protection Association Standard for Solvent Extraction Plants, NFPA No. 36-1967; or
-(iv) National Fire Protection Association Standard for the Installation and Use of Stationary Combustion Engines and Gas Turbines, NFPA No. 37-1970.

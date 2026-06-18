@@ -226,7 +226,7 @@ def split_on_paragraphs(text: str, max_tokens: int, overlap: int) -> list[tuple[
 
 _EMBEDDING_MODELS = {
     "all-minilm-l6-v2": ("all-MiniLM-L6-v2", 512),
-    "qwen3-embedding-4b": ("Qwen3-Embedding-4B", 32000),
+    "qwen3-embedding-0.6b": ("Qwen3-Embedding-0.6B", 8000),
 }
 
 
@@ -237,12 +237,12 @@ def choose_embedding_model(model_name: str | None = None) -> tuple[str, int]:
         key = normalized.lower()
         if key in _EMBEDDING_MODELS:
             return _EMBEDDING_MODELS[key]
-        if normalized in ("all-MiniLM-L6-v2", "Qwen3-Embedding-4B"):
+        if normalized in ("all-MiniLM-L6-v2", "Qwen3-Embedding-0.6B"):
             return _EMBEDDING_MODELS[normalized.lower()]
         log.error("Unsupported model '%s'. Valid choices: %s", normalized, ", ".join(_EMBEDDING_MODELS.keys()))
         sys.exit(1)
 
-    choices = ["all-MiniLM-L6-v2", "Qwen3-Embedding-4B"]
+    choices = ["all-MiniLM-L6-v2", "Qwen3-Embedding-0.6B"]
     print("Select embedding model:")
     for idx, name in enumerate(choices, start=1):
         print(f"  {idx}. {name}")
@@ -408,7 +408,7 @@ def main():
     )
     parser.add_argument(
         "--model",
-        choices=["all-MiniLM-L6-v2", "all-miniLM-L6-v2", "Qwen3-Embedding-4B"],
+        choices=["all-MiniLM-L6-v2", "Qwen3-Embedding-0.6B"],
         help="Embedding model choice for token limit and later embedding.",
     )
     args = parser.parse_args()

@@ -1,5 +1,0 @@
-§ 1910.164 Fire detection systems.
-(e) Response time. (1) The employer shall assure that fire detection systems installed for the purpose of actuating fire extinguishment or suppression systems shall be designed to operate in time to control or extinguish a fire.
-(2) The employer shall assure that fire detection systems installed for the purpose of employee alarm and evacuation be designed and installed to provide a warning for emergency action and safe escape of employees.
-(3) The employer shall not delay alarms or devices initiated by fire detector actuation for more than 30 seconds unless such delay is necessary for the immediate safety of employees. When such delay is necessary, it shall be addressed in an emergency action plan meeting the requirements of § 1910.38.
-(f) Number, location and spacing of detecting devices. The employer shall assure that the number, spacing and location of fire detectors is based upon design data obtained from field experience, or tests, engineering surveys, the manufacturer's recommendations, or a recognized testing laboratory listing.

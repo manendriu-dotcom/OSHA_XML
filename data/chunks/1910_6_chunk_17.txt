@@ -1,7 +1,0 @@
-§ 1910.6 Incorporation by reference.
-(1) ASME Boiler and Pressure Vessel Code, Sec. VIII, 1949, 1950, 1952, 1956, 1959, and 1962 Ed., IBR approved for §§ 1910.110 (b)(10)(iii) (Table H-26), (d)(2) (Table H-31); (e)(3)(i) (Table H-32), (h)(2) (Table H-34); and 1910.111(b)(2)(vi);
-(2) ASME Code for Pressure Vessels, 1968 Ed., IBR approved for §§ 1910.106(i)(3)(i); 1910.110(g)(2)(iii)( b )( 2 ); and 1910.217(b)(12);
-(3) ASME Boiler and Pressure Vessel Code, Sec. VIII, 1968, IBR approved for §§ 1910.103; 1910.104(b)(4)(ii); 1910.106 (b)(1)(iv)( b )( 2 ) and ( i )(3)(ii); 1910.107; 1910.110(b)(11) (i)( b ) and (iii)( a )( 1 ); 1910.111(b)(2) (i), (ii), and (iv); and 1910.169(a)(2) (i) and (ii);
-(4) ASME Boiler and Pressure Vessel Code, Sec. VIII, Paragraph UG-84, 1968, IBR approved for § 1910.104 (b)(4)(ii) and (b)(5)(iii);
-(5) ASME Boiler and Pressure Vessel Code, Sec. VIII, Unfired Pressure Vessels, Including Addenda (1969), IBR approved for §§ 1910.261; 1910.262; 1910.263(i)(24)(ii);
-(6) Code for Unfired Pressure Vessels for Petroleum Liquids and Gases of the API and the ASME, 1951 Ed., IBR approved for § 1910.110(b)(3)(iii); and

@@ -1,9 +1,0 @@
-§ 1910.147 The control of hazardous energy (lockout/tagout).
-(A) Primary responsibility is vested in an authorized employee for a set number of employees working under the protection of a group lockout or tagout device (such as an operations lock);
-(B) Provision for the authorized employee to ascertain the exposure status of individual group members with regard to the lockout or tagout of the machine or equipment and
-(C) When more than one crew, craft, department, etc. is involved, assignment of overall job-associated lockout or tagout control responsibility to an authorized employee designated to coordinate affected work forces and ensure continuity of protection; and
-(D) Each authorized employee shall affix a personal lockout or tagout device to the group lockout device, group lockbox, or comparable mechanism when he or she begins work, and shall remove those devices when he or she stops working on the machine or equipment being serviced or maintained.
-(4) Shift or personnel changes. Specific procedures shall be utilized during shift or personnel changes to ensure the continuity of lockout or tagout protection, including provision for the orderly transfer of lockout or tagout device protection between off-going and oncoming employees, to minimize exposure to hazards from the unexpected energization or start-up of the machine or equipment, or the release of stored energy.
-Note: Note: The following appendix to § 1910.147 services as a non-mandatory guideline to assist employers and employees in complying with the requirements of this section, as well as to provide other helpful information. Nothing in the appendix adds to or detracts from any of the requirements of this section.
-
-Subpart K—Medical and First Aid

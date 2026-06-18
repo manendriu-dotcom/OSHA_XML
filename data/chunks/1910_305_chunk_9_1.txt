@@ -1,2 +1,0 @@
-§ 1910.305 Wiring methods, components, and equipment for general use.
-of Type G-GC cables shall be No. 10. (2) Shielding. Cables operated at over 2,000 volts shall be shielded for the purpose of confining the voltage stresses to the insulation. (3) Equipment grounding conductors. Grounding conductors shall be provided. (4) Grounding shields. All shields shall be grounded.

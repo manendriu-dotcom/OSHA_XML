@@ -1,2 +1,0 @@
-§ 1910.269 Electric power generation, transmission, and distribution.
-insulating gloves 380 (15) NA Single conductors in air, work with live-line tools and live-line barehand work MAD − (2 x kV x 2.54) ( MAD − (2 x kV /10)) † NA Table 5—Selecting a Reasonable Arc Gap -------------------------------------- Class of equipment Single-phase arc mm (inches) Three-phase arc mm 1 (inches) ----------------------------------------------------------------------------- Cable NA 2 13 (0.5). Low voltage MCCs and panelboards NA 25 (1.0). Low-voltage switchgear

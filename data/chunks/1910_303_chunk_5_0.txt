@@ -1,6 +1,0 @@
-§ 1910.303 General.
-(A) Where the location permits a continuous and unobstructed way of exit travel, one means of exit is permitted; or
-(B) Where the working space required by paragraph (g)(1)(i) of this section is doubled, only one entrance to the working space is required; however, the entrance shall be located so that the edge of the entrance nearest the equipment is the minimum clear distance given in Table S-1 away from such equipment.
-(v) Illumination shall be provided for all working spaces about service equipment, switchboards, panelboards, and motor control centers installed indoors. Additional lighting fixtures are not required where the working space is illuminated by an adjacent light source. In electric equipment rooms, the illumination may not be controlled by automatic means only.
-(vi) The minimum headroom of working spaces about service equipment, switchboards, panelboards, or motor control centers shall be as follows:
-(A) For installations built before August 13, 2007, 1.91 m (6.25 ft); and

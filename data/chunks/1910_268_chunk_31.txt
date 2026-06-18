@@ -1,3 +1,0 @@
-§ 1910.268 Telecommunications.
-(44) Voltage of an effectively grounded circuit. The voltage between any conductor and ground unless otherwise indicated.
-(45) Voltage of a circuit not effectively grounded. The voltage between any two conductors. If one circuit is directly connected to and supplied from another circuit of higher voltage (as in the case of an autotransformer), both are considered as of the higher voltage, unless the circuit of lower voltage is effectively grounded, in which case its voltage is not determined by the circuit of higher voltage. Direct connection implies electric connection as distinguished from connection merely through electromagnetic or electrostatic induction.

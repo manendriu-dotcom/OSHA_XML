@@ -1,9 +1,0 @@
-§ 1910.106 Flammable liquids.
-(16) Institutional occupancy shall mean the occupancy or use of a building or structure or any portion thereof by persons harbored or detained to receive medical, charitable or other care or treatment, or by persons involuntarily detained.
-(17) Liquid shall mean, for the purpose of this section, any material which has a fluidity greater than that of 300 penetration asphalt when tested in accordance with ASTM Test for Penetration for Bituminous Materials, D-5-65, which is incorporated by reference as specified in § 1910.6.
-(18) [Reserved]
-(19) Flammable liquid means any liquid having a flashpoint at or below 199.4 degrees F (93 degrees C). Flammable liquids are divided into four categories as follows:
-(i) Category 1 shall include liquids having flashpoints below 73.4 degrees F (23 degrees C) and having a boiling point at or below 95 degrees F (35 degrees C).
-(ii) Category 2 shall include liquids having flashpoints below 73.4 degrees F (23 degrees C) and having a boiling point above 95 degrees F (35 degrees C).
-(iii) Category 3 shall include liquids having flashpoints at or above 73.4 degrees F (23 degrees C) and at or below 140 degrees F (60 degrees C). When a Category 3 liquid with a flashpoint at or above 100 degrees F (37.8 degrees C) is heated for use to within 30 degrees F (16.7 degrees C) of its flashpoint, it shall be handled in accordance with the requirements for a Category 3 liquid with a flashpoint below 100 degrees F (37.8 degrees C).
-(iv) Category 4 shall include liquids having flashpoints above 140 degrees F (60 degrees C) and at or below 199.4 degrees F (93 degrees C). When a Category 4 flammable liquid is heated for use to within 30 degrees F (16.7 degrees C) of its flashpoint, it shall be handled in accordance with the requirements for a Category 3 liquid with a flashpoint at or above 100 degrees F (37.8 degrees C).

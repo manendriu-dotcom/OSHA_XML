@@ -1,4 +1,0 @@
-§ 1910.306 Specific purpose equipment and installations.
-(ii) The disconnecting means shall be readily accessible to the operator, including when the ride is in operation.
-(iii) Where accessible to unqualified persons, the enclosure for the switch or circuit breaker shall be of the lockable type.
-(iv) A shunt trip device that opens the fused disconnect or circuit breaker when a switch located in the ride operator's console is closed is a permissible method of opening the circuit.

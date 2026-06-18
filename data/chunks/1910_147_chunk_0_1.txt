@@ -1,2 +1,0 @@
-§ 1910.147 The control of hazardous energy (lockout/tagout).
-(iii) This standard does not apply to the following. (A) Work on cord and plug connected electric equipment for which exposure to the hazards of unexpected energization or start up of the equipment is controlled by the unplugging of the equipment from the energy source and by the plug being under the exclusive control of the employee performing the servicing or maintenance.

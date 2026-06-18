@@ -1,2 +1,72 @@
 § 1910.134 Respiratory protection.
-(b) Definitions. The following definitions are important terms used in the respiratory protection standard in this section. Air-purifying respirator means a respirator with an air-purifying filter, cartridge, or canister that removes specific air contaminants by passing ambient air through the air-purifying element. Assigned protection factor (APF) means the workplace level of respiratory protection that a respirator or class of respirators is expected to provide to employees when the employer implements a continuing, effective respiratory protection program as specified by this section. Atmosphere-supplying respirator means a respirator that supplies the respirator user with breathing air from a source independent of the ambient atmosphere, and includes supplied-air respirators (SARs) and self-contained breathing apparatus (SCBA) units. Canister or cartridge means a container with a filter, sorbent, or catalyst, or combination of these items, which removes specific contaminants from the air passed through the container. Demand respirator means an atmosphere-supplying respirator that admits breathing air to the facepiece only when a negative pressure is created inside the facepiece by inhalation. Emergency situation means any occurrence such as, but not limited to, equipment failure, rupture of containers, or failure of control equipment that may or does result in an uncontrolled significant release of an airborne contaminant. Employee exposure means exposure to a concentration of an airborne contaminant that would occur if the employee were not using respiratory protection. End-of-service-life indicator (ESLI) means a system that warns the respirator user of the approach of the end of adequate respiratory protection, for example, that the sorbent is approaching saturation or is no longer effective. Escape-only respirator means a respirator intended to be used only for emergency exit. Filter or air purifying element means a component used in respirators to remove solid or liquid aerosols from the inspired air. Filtering facepiece (dust mask) means a negative pressure particulate respirator with a filter as an integral part of the facepiece or with the entire facepiece composed of the filtering medium. Fit factor means a quantitative estimate of the fit of a particular respirator to a specific individual, and typically estimates the ratio of the concentration of a substance in ambient air to its concentration inside the respirator when
+(1) The employer shall ensure that compressed air, compressed oxygen, liquid air, and liquid oxygen used for respiration accords with the following specifications:
+(i) Compressed and liquid oxygen shall meet the United States Pharmacopoeia requirements for medical or breathing oxygen; and
+(ii) Compressed breathing air shall meet at least the requirements for Grade D breathing air described in ANSI/Compressed Gas Association Commodity Specification for Air, G-7.1-1989, to include:
+(A) Oxygen content (v/v) of 19.5-23.5%;
+(B) Hydrocarbon (condensed) content of 5 milligrams per cubic meter of air or less;
+(C) Carbon monoxide (CO) content of 10 ppm or less;
+(D) Carbon dioxide content of 1,000 ppm or less; and
+(E) Lack of noticeable odor.
+(2) The employer shall ensure that compressed oxygen is not used in atmosphere-supplying respirators that have previously used compressed air.
+(3) The employer shall ensure that oxygen concentrations greater than 23.5% are used only in equipment designed for oxygen service or distribution.
+(4) The employer shall ensure that cylinders used to supply breathing air to respirators meet the following requirements:
+(i) Cylinders are tested and maintained as prescribed in the Shipping Container Specification Regulations of the Department of Transportation (49 CFR part 180);
+(ii) Cylinders of purchased breathing air have a certificate of analysis from the supplier that the breathing air meets the requirements for Grade D breathing air; and
+(iii) The moisture content in the cylinder does not exceed a dew point of −50 degrees F (−45.6 degrees C) at 1 atmosphere pressure.
+(5) The employer shall ensure that compressors used to supply breathing air to respirators are constructed and situated so as to:
+(i) Prevent entry of contaminated air into the air-supply system;
+(ii) Minimize moisture content so that the dew point at 1 atmosphere pressure is 10 degrees F (5.56 degrees C) below the ambient temperature;
+(iii) Have suitable in-line air-purifying sorbent beds and filters to further ensure breathing air quality. Sorbent beds and filters shall be maintained and replaced or refurbished periodically following the manufacturer's instructions.
+(iv) Have a tag containing the most recent change date and the signature of the person authorized by the employer to perform the change. The tag shall be maintained at the compressor.
+(6) For compressors that are not oil-lubricated, the employer shall ensure that carbon monoxide levels in the breathing air do not exceed 10 ppm.
+(7) For oil-lubricated compressors, the employer shall use a high-temperature or carbon monoxide alarm, or both, to monitor carbon monoxide levels. If only high-temperature alarms are used, the air supply shall be monitored at intervals sufficient to prevent carbon monoxide in the breathing air from exceeding 10 ppm.
+(8) The employer shall ensure that breathing air couplings are incompatible with outlets for nonrespirable worksite air or other gas systems. No asphyxiating substance shall be introduced into breathing air lines.
+(9) The employer shall use only the respirator manufacturer's NIOSH-approved breathing-gas containers, marked and maintained in accordance with the Quality Assurance provisions of the NIOSH approval for the SCBA as issued in accordance with the NIOSH respirator-certification standard at 42 CFR part 84.
+(j) Identification of filters, cartridges, and canisters. The employer shall ensure that all filters, cartridges and canisters used in the workplace are labeled and color coded with the NIOSH approval label and that the label is not removed and remains legible.
+(k) Training and information. This paragraph requires the employer to provide effective training to employees who are required to use respirators. The training must be comprehensive, understandable, and recur annually, and more often if necessary. This paragraph also requires the employer to provide the basic information on respirators in appendix D of this section to employees who wear respirators when not required by this section or by the employer to do so.
+(1) The employer shall ensure that each employee can demonstrate knowledge of at least the following:
+(i) Why the respirator is necessary and how improper fit, usage, or maintenance can compromise the protective effect of the respirator;
+(ii) What the limitations and capabilities of the respirator are;
+(iii) How to use the respirator effectively in emergency situations, including situations in which the respirator malfunctions;
+(iv) How to inspect, put on and remove, use, and check the seals of the respirator;
+(v) What the procedures are for maintenance and storage of the respirator;
+(vi) How to recognize medical signs and symptoms that may limit or prevent the effective use of respirators; and
+(vii) The general requirements of this section.
+(2) The training shall be conducted in a manner that is understandable to the employee.
+(3) The employer shall provide the training prior to requiring the employee to use a respirator in the workplace.
+(4) An employer who is able to demonstrate that a new employee has received training within the last 12 months that addresses the elements specified in paragraph (k)(1)(i) through (vii) is not required to repeat such training provided that, as required by paragraph (k)(1), the employee can demonstrate knowledge of those element(s). Previous training not repeated initially by the employer must be provided no later than 12 months from the date of the previous training.
+(5) Retraining shall be administered annually, and when the following situations occur:
+(i) Changes in the workplace or the type of respirator render previous training obsolete;
+(ii) Inadequacies in the employee's knowledge or use of the respirator indicate that the employee has not retained the requisite understanding or skill; or
+(iii) Any other situation arises in which retraining appears necessary to ensure safe respirator use.
+(6) The basic advisory information on respirators, as presented in appendix D of this section, shall be provided by the employer in any written or oral format, to employees who wear respirators when such use is not required by this section or by the employer.
+(l) Program evaluation. This section requires the employer to conduct evaluations of the workplace to ensure that the written respiratory protection program is being properly implemented, and to consult employees to ensure that they are using the respirators properly.
+(1) The employer shall conduct evaluations of the workplace as necessary to ensure that the provisions of the current written program are being effectively implemented and that it continues to be effective.
+(2) The employer shall regularly consult employees required to use respirators to assess the employees' views on program effectiveness and to identify any problems. Any problems that are identified during this assessment shall be corrected. Factors to be assessed include, but are not limited to:
+(i) Respirator fit (including the ability to use the respirator without interfering with effective workplace performance);
+(ii) Appropriate respirator selection for the hazards to which the employee is exposed;
+(iii) Proper respirator use under the workplace conditions the employee encounters; and
+(iv) Proper respirator maintenance.
+(m) Recordkeeping. This section requires the employer to establish and retain written information regarding medical evaluations, fit testing, and the respirator program. This information will facilitate employee involvement in the respirator program, assist the employer in auditing the adequacy of the program, and provide a record for compliance determinations by OSHA.
+(1) Medical evaluation. Records of medical evaluations required by this section must be retained and made available in accordance with 29 CFR 1910.1020.
+(2) Fit testing. (i) The employer shall establish a record of the qualitative and quantitative fit tests administered to an employee including:
+(A) The name or identification of the employee tested;
+(B) Type of fit test performed;
+(C) Specific make, model, style, and size of respirator tested;
+(D) Date of test; and
+(E) The pass/fail results for QLFTs or the fit factor and strip chart recording or other recording of the test results for QNFTs.
+(ii) Fit test records shall be retained for respirator users until the next fit test is administered.
+(3) A written copy of the current respirator program shall be retained by the employer.
+(4) Written materials required to be retained under this paragraph shall be made available upon request to affected employees and to the Assistant Secretary or designee for examination and copying.
+(n) Effective date. Paragraphs (d)(3)(i)(A) and (d)(3)(i)(B) of this section become effective November 22, 2006.
+(o) Appendices. Compliance with appendix A, appendix B-1, appendix B-2, appendix C, and appendix D to this section are mandatory.
+
+Table A-1—CNP REDON Quantitative Fit Testing Protocol
+-----------------------------------------------------
+Exercises 1 Exercise procedure Measurement procedure
+----------------------------------------------------
+Facing Forward Stand and breathe normally, without talking, for 30 seconds Face forward, while holding breath for 10 seconds.
+Bending Over Bend at the waist, as if going to touch his or her toes, for 30 seconds Face parallel to the floor, while holding breath for 10 seconds
+Head Shaking For about three seconds, shake head back and forth vigorously several times while shouting Face forward, while holding breath for 10 seconds
+REDON 1 Remove the respirator mask, loosen all facepiece straps, and then redon the respirator mask Face forward, while holding breath for 10 seconds.
+REDON 2 Remove the respirator mask, loosen all facepiece straps, and then redon the respirator mask again Face forward, while holding breath for 10 seconds.

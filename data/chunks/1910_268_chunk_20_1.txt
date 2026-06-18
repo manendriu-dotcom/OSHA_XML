@@ -1,2 +1,0 @@
-§ 1910.268 Telecommunications.
-waveguide which is connected to an energized source of microwave radiation. (2) Hazardous area. Accessible areas associated with microwave communication systems where the electromagnetic radiation level exceeds the radiation protection guide given in § 1910.97 shall be posted as described in that section. The lower half of the warning symbol shall include the following:

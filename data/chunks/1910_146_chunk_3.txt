@@ -1,7 +1,0 @@
-§ 1910.146 Permit-required confined spaces.
-(5) Any other atmospheric condition that is immediately dangerous to life or health.
-Note: Note: For air contaminants for which OSHA has not determined a dose or permissible exposure limit, other sources of information, such as Material Safety Data Sheets that comply with the Hazard Communication Standard, § 1910.1200 of this part, published information, and internal documents can provide guidance in establishing acceptable atmospheric conditions.
-Hot work permit means the employer's written authorization to perform operations (for example, riveting, welding, cutting, burning, and heating) capable of providing a source of ignition.
-Immediately dangerous to life or health (IDLH) means any condition that poses an immediate or delayed threat to life or that would cause irreversible adverse health effects or that would interfere with an individual's ability to escape unaided from a permit space.
-Note: Note: Some materials—hydrogen fluoride gas and cadmium vapor, for example—may produce immediate transient effects that, even if severe, may pass without medical attention, but are followed by sudden, possibly fatal collapse 12-72 hours after exposure. The victim "feels normal" from recovery from transient effects until collapse. Such materials in hazardous quantities are considered to be "immediately" dangerous to life or health.
-Inerting means the displacement of the atmosphere in a permit space by a noncombustible gas (such as nitrogen) to such an extent that the resulting atmosphere is noncombustible.

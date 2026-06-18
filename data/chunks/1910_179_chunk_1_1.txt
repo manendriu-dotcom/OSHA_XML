@@ -1,2 +1,0 @@
-§ 1910.179 Overhead and gantry cranes.
-of controlling crane motor speed when in an overhauling condition. (30) Countertorque means a method of control by which the power to the motor is reversed to develop torque in the opposite direction. (31) Dynamic means a method of controlling crane motor speeds when in the overhauling condition to provide a retarding force.

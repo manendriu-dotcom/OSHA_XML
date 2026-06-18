@@ -1,8 +1,0 @@
-§ 1910.213 Woodworking machinery requirements.
-(d) Hand-fed crosscut table saws. (1) Each circular crosscut table saw shall be guarded by a hood which shall meet all the requirements of paragraph (c)(1) of this section for hoods for circular ripsaws.
-(2) [Reserved]
-(e) Circular resaws. (1) Each circular resaw shall be guarded by a hood or shield of metal above the saw. This hood or shield shall be so designed as to guard against danger from flying splinters or broken saw teeth.
-(2) Each circular resaw (other than self-feed saws with a roller or wheel at back of the saw) shall be provided with a spreader fastened securely behind the saw. The spreader shall be slightly thinner than the saw kerf and slightly thicker than the saw disk.
-(f) Self-feed circular saws. (1) Feed rolls and saws shall be protected by a hood or guard to prevent the hands of the operator from coming in contact with the in-running rolls at any point. The guard shall be constructed of heavy material, preferably metal, and the bottom of the guard shall come down to within three-eighths inch of the plane formed by the bottom or working surfaces of the feed rolls. This distance (three-eighths inch) may be increased to three-fourths inch, provided the lead edge of the hood is extended to be not less than 5 1/2 inches in front of the nip point between the front roll and the work.
-(2) Each self-feed circular ripsaw shall be provided with sectional non-kickback fingers for the full width of the feed rolls. They shall be located in front of the saw and so arranged as to be in continual contact with the wood being fed.
-(g) Swing cutoff saws. The requirements of this paragraph are also applicable to sliding cutoff saws mounted above the table.

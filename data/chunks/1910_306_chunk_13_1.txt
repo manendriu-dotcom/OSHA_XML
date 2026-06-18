@@ -1,2 +1,0 @@
-§ 1910.306 Specific purpose equipment and installations.
-they shall be listed and of the locking type. Where paralleled sets of current-carrying single-pole separable connectors are provided as input devices, they shall be prominently labeled with a warning indicating the presence of internal parallel connections. The use of single-pole separable connectors shall comply with at least one of the following conditions:

@@ -1,2 +1,0 @@
-§ 1910.269 Electric power generation, transmission, and distribution.
-420.0 4.25 13.94 6.81 22.34 420.1 to 550.0 5.07 16.63 8.24 27.03 550.1 to 800.0 6.88 22.57 11.38 37.34 Table R-8—DC Live-Line Minimum Approach Distance with Overvoltage Factor 1

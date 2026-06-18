@@ -700,3 +700,74 @@ ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
 2026-06-18 15:30:33,907 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen3-Embedding-0.6B "HTTP/1.1 200 OK"
 2026-06-18 15:30:33,909 [INFO] sentence_transformers.base.model — Loaded 1 prompt with these keys: ['query']
 2026-06-18 15:30:33,909 [INFO] embed_chunks — Encoding 199 chunks in batches of 64 …
+2026-06-18 17:50:57,031 [INFO] chunk_osha — Selected embedding model: Qwen3-Embedding-4B
+2026-06-18 17:50:57,098 [INFO] chunk_osha — Using max_tokens_per_chunk=8000 based on model
+2026-06-18 17:50:57,098 [INFO] chunk_osha — Reading cleaned text: c:\Users\uduwe\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-18 17:50:57,145 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-18 17:50:57,224 [INFO] chunk_osha — Found 198 sections
+2026-06-18 17:51:29,753 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-18 17:51:29,865 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-18 17:51:29,967 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 17:51:30,024 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-18 17:51:30,087 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 17:51:30,145 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-18 17:51:37,452 [INFO] chunk_osha — Generated 230 chunks  (avg 2368 tokens)
+2026-06-18 18:00:12,000 [INFO] chunk_osha — Selected embedding model: Qwen3-Embedding-0.6B
+2026-06-18 18:00:12,003 [INFO] chunk_osha — Using max_tokens_per_chunk=8000 based on model
+2026-06-18 18:00:12,004 [INFO] chunk_osha — Reading cleaned text: c:\Users\uduwe\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-18 18:00:12,016 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-18 18:00:12,100 [INFO] chunk_osha — Found 198 sections
+2026-06-18 18:00:23,604 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-18 18:00:23,605 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-18 18:00:23,721 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-18 18:00:23,782 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 18:00:23,877 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-18 18:00:23,932 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 18:00:23,992 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-18 18:00:31,389 [INFO] chunk_osha — Generated 230 chunks  (avg 2368 tokens)
+2026-06-18 18:02:57,396 [INFO] embed_chunks — Using embedding model: Qwen/Qwen3-Embedding-0.6B
+2026-06-18 18:02:59,488 [INFO] embed_chunks — Loaded 230 chunks from manifest
+2026-06-18 18:03:11,532 [INFO] embed_chunks — Loading model: Qwen/Qwen3-Embedding-0.6B  (device=auto)
+2026-06-18 18:03:11,535 [INFO] sentence_transformers.base.model — No device provided, using cpu
+2026-06-18 18:03:12,140 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 18:03:12,155 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/modules.json "HTTP/1.1 200 OK"
+2026-06-18 18:03:12,268 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 18:03:12,269 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-18 18:03:12,290 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-06-18 18:03:12,306 [INFO] sentence_transformers.base.model — Loading SentenceTransformer model from Qwen/Qwen3-Embedding-0.6B.
+2026-06-18 18:03:12,481 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 18:03:12,495 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-06-18 18:03:12,674 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 18:03:12,691 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/README.md "HTTP/1.1 200 OK"
+2026-06-18 18:03:12,891 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 18:03:12,922 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/modules.json "HTTP/1.1 200 OK"
+2026-06-18 18:03:13,096 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_bert_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 18:03:13,198 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_roberta_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 18:03:13,301 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_distilbert_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 18:03:13,403 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_camembert_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 18:03:13,506 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_albert_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 18:03:13,608 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_xlm-roberta_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 18:03:13,667 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_xlnet_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 18:03:13,813 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 18:03:13,915 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 18:03:13,932 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config.json "HTTP/1.1 200 OK"
+2026-06-18 18:03:14,734 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 18:03:14,791 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 18:03:14,875 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 18:03:14,957 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 18:03:15,042 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 18:03:15,058 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-18 18:03:15,247 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 18:03:15,262 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config.json "HTTP/1.1 200 OK"
+2026-06-18 18:03:15,349 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 18:03:15,365 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config.json "HTTP/1.1 200 OK"
+2026-06-18 18:03:15,433 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 18:03:15,449 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-18 18:03:15,656 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen3-Embedding-0.6B/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-18 18:03:15,725 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen3-Embedding-0.6B/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-18 18:03:16,829 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen3-Embedding-0.6B "HTTP/1.1 200 OK"
+2026-06-18 18:03:17,462 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 18:03:17,487 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-06-18 18:03:17,704 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen3-Embedding-0.6B "HTTP/1.1 200 OK"
+2026-06-18 18:03:17,741 [INFO] sentence_transformers.base.model — Loaded 1 prompt with these keys: ['query']
+2026-06-18 18:03:17,744 [INFO] embed_chunks — Encoding 230 chunks in batches of 64 …

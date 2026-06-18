@@ -1,4 +1,0 @@
-§ 1910.269 Electric power generation, transmission, and distribution.
-1. Standard for Electrical Safety Requirements for Employee Workplaces, NFPA 70E-2012, Annex D, "Sample Calculation of Flash Protection Boundary."
-2. Doughty, T.E., Neal, T.E., and Floyd II, H.L., "Predicting Incident Energy to Better Manage the Electric Arc Hazard on 600 V Power Distribution Systems," Record of Conference Papers IEEE IAS 45th Annual Petroleum and Chemical Industry Conference, September 28-30, 1998.
-3. Guide for Performing Arc-Flash Hazard Calculations, IEEE Std 1584-2002, 1584a-2004 (Amendment 1 to IEEE Std 1584-2002), and 1584b-2011 (Amendment 2: Changes to Clause 4 of IEEE Std 1584-2002).*

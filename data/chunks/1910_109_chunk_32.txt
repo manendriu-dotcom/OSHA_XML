@@ -1,8 +1,0 @@
-§ 1910.109 Explosives and blasting agents.
-(ii)( a ) Bins shall be clean and free of materials which may contaminate ammonium nitrate.
-( b ) Due to the corrosive and reactive properties of ammonium nitrate, and to avoid contamination, galvanized iron, copper, lead, and zinc shall not be used in a bin construction unless suitably protected. Aluminum bins and wooden bins protected against impregnation by ammonium nitrate are permissible. The partitions dividing the ammonium nitrate storage from other products which would contaminate the ammonium nitrate shall be of tight construction.
-( c ) The ammonium nitrate storage bins or piles shall be clearly identified by signs reading "Ammonium Nitrate" with letters at least 2 inches high.
-(iii)( a ) Piles or bins shall be so sized and arranged that all material in the pile is moved out periodically in order to minimize possible caking of the stored ammonium nitrate.
-( b ) Height or depth of piles shall be limited by the pressure-setting tendency of the product. However, in no case shall the ammonium nitrate be piled higher at any point than 36 inches below the roof or supporting and spreader beams overhead.
-( c ) Ammonium nitrate shall not be accepted for storage when the temperature of the product exceeds 130 degrees F.
-( d ) Dynamite, other explosives, and blasting agents shall not be used to break up or loosen caked ammonium nitrate.

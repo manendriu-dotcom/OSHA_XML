@@ -1,8 +1,0 @@
-§ 1910.399 Definitions applicable to this subpart.
-Note: Note to the definition of "Class III, Division 1:" Such locations usually include some parts of rayon, cotton, and other textile mills; combustible fiber manufacturing and processing plants; cotton gins and cotton-seed mills; flax-processing plants; clothing manufacturing plants; woodworking plants, and establishments; and industries involving similar hazardous processes or conditions. Easily ignitable fibers and flyings include rayon, cotton (including cotton linters and cotton waste), sisal or henequen, istle, jute, hemp, tow, cocoa fiber, oakum, baled waste kapok, Spanish moss, excelsior, and other materials of similar nature.
-(2) Class III, Division 2. A Class III, Division 2 location is a location in which easily ignitable fibers are stored or handled, other than in the process of manufacture.
-Collector ring. An assembly of slip rings for transferring electric energy from a stationary to a rotating member.
-Competent Person. One who is capable of identifying existing and predictable hazards in the surroundings or working conditions that are unsanitary, hazardous, or dangerous to employees and who has authorization to take prompt corrective measures to eliminate them.
-Concealed. Rendered inaccessible by the structure or finish of the building. Wires in concealed raceways are considered concealed, even though they may become accessible by withdrawing them. (See Accessible. (As applied to wiring methods.))
-Conductor —(1) Bare. A conductor having no covering or electrical insulation whatsoever.
-(2) Covered. A conductor encased within material of composition or thickness that is not recognized by this subpart as electrical insulation.

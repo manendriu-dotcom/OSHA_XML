@@ -1,5 +1,0 @@
-§ 1910.19 Special provisions for air contaminants.
-(l) 1,3-Butadiene (BD). Section 1910.1051 shall apply to the exposure of every employee to BD in every employment and place of employment covered by § 1910.12, § 1910.13, § 1910.14, § 1910.15, or § 1910.16, in lieu of any different standard on exposure to BD which would otherwise be applicable by virtue of those sections.
-(m) Methylene chloride (MC). Section 1910.1052 shall apply to the exposure of every employee to MC in every employment and place of employment covered by § 1910.16 in lieu of any different standard on exposure to MC which would otherwise be applicable by virtue of that section when it is not present in sealed, intact containers.
-
-Subpart D—Walking-Working Surfaces

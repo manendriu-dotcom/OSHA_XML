@@ -1,2 +1,0 @@
-§ 1910.262 Textiles.
-shall conform to the ASME Code for Pressure Vessels, Section VIII, 1968, Unfired Pressure Vessels. (2) Vacuum collapse. If cans are not designed to prevent vacuum collapse, each can shall be equipped with one or more vacuum relief valves with openings of sufficient size to prevent the collapse of the can if vacuum occurs.

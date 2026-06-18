@@ -1,7 +1,0 @@
-§ 1910.305 Wiring methods, components, and equipment for general use.
-(C) Isolating or disconnecting switches (with no interrupting rating) shall be interlocked with the load interrupting device or shall be provided with prominently displayed caution signs to prevent switching load current; and
-(D) For series capacitors, the proper switching shall be assured by use of at least one of the following:
-( 1 ) Mechanically sequenced isolating and bypass switches;
-( 2 ) Interlocks; or
-( 3 ) Switching procedure prominently displayed at the switching location.
-(7) Storage Batteries. Provisions shall be made for sufficient diffusion and ventilation of gases from storage batteries to prevent the accumulation of explosive mixtures.

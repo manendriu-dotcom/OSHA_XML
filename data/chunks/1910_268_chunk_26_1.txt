@@ -1,2 +1,0 @@
-§ 1910.268 Telecommunications.
-the neutral point of transformer or generator windings) is intentionally grounded, either solidly or through a current-limiting device (not a current-interrupting device). (21) Grounding electrode conductor. (Grounding conductor). A conductor used to connect equipment or the grounded circuit of a wiring system to a grounding electrode.

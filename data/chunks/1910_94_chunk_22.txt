@@ -1,3 +1,0 @@
-§ 1910.94 Ventilation.
-( f ) Where ductwork passes through a combustible roof or wall, the roof or wall shall be protected at the point of penetration by open space or fire-resistive material between the duct and the roof or wall. When ducts pass through firewalls, they shall be provided with automatic fire dampers on both sides of the wall, except that three-eighth-inch steel plates may be used in lieu of automatic fire dampers for ducts not exceeding 18 inches in diameter.
-( g ) Ductwork used for ventilating any process covered in this standard shall not be connected to ducts ventilating any other process or any chimney or flue used for conveying any products of combustion.

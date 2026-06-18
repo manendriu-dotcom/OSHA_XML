@@ -1,2 +1,0 @@
-§ 1910.304 Wiring design and protection.
-separation of not less than 305 mm (1.0 ft) where not placed on racks or brackets. Conductors supported on poles shall provide a horizontal climbing space not less than the following: (i) Power conductors below communication conductors—762 mm (30 in.); (ii) Power conductors alone or above communication conductors:

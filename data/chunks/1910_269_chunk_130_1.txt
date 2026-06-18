@@ -1,2 +1,0 @@
-§ 1910.269 Electric power generation, transmission, and distribution.
-Floyd Y-C Y Y N N N N N N IEEE Std 1584b-2011 Y Y Y Y Y Y N N N ARCPRO Y N N Y N N Y Y 4 Y 4 Table 4—Selecting a Reasonable Distance From the Employee to the Electric Arc ----------------------------------------------------------------------------- Class of equipment Single-phase arc mm (inches) Three-phase arc mm (inches) --------------------------------------------------------------------------- Cable * NA 455 (18) Low voltage MCCs and panelboards NA 455 (18)

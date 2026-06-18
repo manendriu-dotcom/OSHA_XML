@@ -1,7 +1,74 @@
 § 1910.94 Ventilation.
-(xii) Abrasive blasting. The forcible application of an abrasive to a surface by pneumatic pressure, hydraulic pressure, or centrifugal force.
-(2) Dust hazards from abrasive blasting. (i) Abrasives and the surface coatings on the materials blasted are shattered and pulverized during blasting operations and the dust formed will contain particles of respirable size. The composition and toxicity of the dust from these sources shall be considered in making an evaluation of the potential health hazards.
-(ii) The concentration of respirable dust or fume in the breathing zone of the abrasive-blasting operator or any other worker shall be kept below the levels specified in § 1910.1000.
-(iii) Organic abrasives which are combustible shall be used only in automatic systems. Where flammable or explosive dust mixtures may be present, the construction of the equipment, including the exhaust system and all electric wiring, shall conform to the requirements of American National Standard Installation of Blower and Exhaust Systems for Dust, Stock, and Vapor Removal or Conveying, Z33.1-1961 (NFPA 91-1961), which is incorporated by reference as specified in § 1910.6, and subpart S of this part. The blast nozzle shall be bonded and grounded to prevent the build up of static charges. Where flammable or explosive dust mixtures may be present, the abrasive blasting enclosure, the ducts, and the dust collector shall be constructed with loose panels or explosion venting areas, located on sides away from any occupied area, to provide for pressure relief in case of explosion, following the principles set forth in the National Fire Protection Association Explosion Venting Guide, NFPA 68-1954, which is incorporated by reference as specified in § 1910.6.
-(3) Blast-cleaning enclosures. (i) Blast-cleaning enclosures shall be exhaust ventilated in such a way that a continuous inward flow of air will be maintained at all openings in the enclosure during the blasting operation.
-( a ) All air inlets and access openings shall be baffled or so arranged that by the combination of inward air flow and baffling the escape of abrasive or dust particules into an adjacent work area will be minimized and visible spurts of dust will not be observed.
+( c ) Longitudinal joints in sheet steel ductwork shall be either lock-seamed, riveted, or welded. For other than steel construction, equivalent securing of joints shall be provided.
+( d ) Circumferential joints in ductwork shall be substantially fastened together and lapped in the direction of airflow. At least every fourth joint shall be provided with connecting flanges, bolted together, or of equivalent fastening security.
+( e ) Inspection or clean-out doors shall be provided for every 9 to 12 feet of running length for ducts up to 12 inches in diameter, but the distance between cleanout doors may be greater for larger pipes. A clean-out door or doors shall be provided for servicing the fan, and where necessary, a drain shall be provided.
+( f ) Where ductwork passes through a combustible roof or wall, the roof or wall shall be protected at the point of penetration by open space or fire-resistive material between the duct and the roof or wall. When ducts pass through firewalls, they shall be provided with automatic fire dampers on both sides of the wall, except that three-eighth-inch steel plates may be used in lieu of automatic fire dampers for ducts not exceeding 18 inches in diameter.
+( g ) Ductwork used for ventilating any process covered in this standard shall not be connected to ducts ventilating any other process or any chimney or flue used for conveying any products of combustion.
+(6) Velocity and air flow requirements. (i) Except where a spray booth has an adequate air replacement system, the velocity of air into all openings of a spray booth shall be not less than that specified in Table G-10 for the operating conditions specified. An adequate air replacement system is one which introduces replacement air upstream or above the object being sprayed and is so designed that the velocity of air in the booth cross section is not less than that specified in Table G-10 when measured upstream or above the object being sprayed.
+
+Table G-10—Minimum Maintained Velocities Into Spray Booths
+----------------------------------------------------------
+Operating conditions for objects completely inside booth Crossdraft, f.p.m. Airflow velocities, f.p.m. Design Range
+--------------------------------------------------------------------------------
+Electrostatic and automatic airless operation contained in booth without operator Negligible 50 large booth 50-75
+ 100 small booth 75-125
+Air-operated guns, manual or automatic Up to 50 100 large booth 75-125
+ 150 small booth 125-175
+Air-operated guns, manual or automatic Up to 100 150 large booth 125-175
+ 200 small booth 150-250
+
+(ii) In addition to the requirements in paragraph (c)(6)(i) of this section the total air volume exhausted through a spray booth shall be such as to dilute solvent vapor to at least 25 percent of the lower explosive limit of the solvent being sprayed. An example of the method of calculating this volume is given below.
+Example: To determine the lower explosive limits of the most common solvents used in spray finishing, see Table G-11. Column 1 gives the number of cubic feet of vapor per gallon of solvent and column 2 gives the lower explosive limit (LEL) in percentage by volume of air. Note that the quantity of solvent will be diminished by the quantity of solids and nonflammables contained in the finish. To determine the volume of air in cubic feet necessary to dilute the vapor from 1 gallon of solvent to 25 percent of the lower explosive limit, apply the following formula: Dilution volume required per gallon of solvent = 4 (100−LEL) (cubic feet of vapor per gallon) ÷ LEL Using toluene as the solvent. (1) LEL of toluene from Table G-11, column 2, is 1.4 percent. (2) Cubic feet of vapor per gallon from Table G-11, column 1, is 30.4 cubic feet per gallon. (3) Dilution volume required= 4 (100−1.4) 30.4 ÷ 1.4 = 8,564 cubic feet. (4) To convert to cubic feet per minute of required ventilation, multiply the dilution volume required per gallon of solvent by the number of gallons of solvent evaporated per minute.
+
+Table G-11—Lower Explosive Limit of Some Commonly Used Solvents
+---------------------------------------------------------------
+Solvent Cubic feet per gallon of vapor of liquid at 70 degrees F. Lower explosive limit in percent by volume of air at 70 degrees F
+--------------------------------------------------------------------------------
+ Column 1 Column 2
+Acetone 44.0 2.6
+Amyl Acetate (iso) 21.6 1 1.0
+Amyl Alcohol (n) 29.6 1.2
+Amyl Alcohol (iso) 29.6 1.2
+Benzene 36.8 1 1.4
+Butyl Acetate (n) 24.8 1.7
+Butyl Alcohol (n) 35.2 1.4
+Butyl Cellosolve 24.8 1.1
+Cellosolve 33.6 1.8
+Cellosolve Acetate 23.2 1.7
+Cyclohexanone 31.2 1 1.1
+1,1 Dichloroethylene 42.4 5.9
+1,2 Dichloroethylene 42.4 9.7
+Ethyl Acetate 32.8 2.5
+Ethyl Alcohol 55.2 4.3
+Ethyl Lactate 28.0 1 1.5
+Methyl Acetate 40.0 3.1
+Methyl Alcohol 80.8 7.3
+Methyl Cellosolve 40.8 2.5
+Methyl Ethyl Ketone 36.0 1.8
+Methyl n-Propyl Ketone 30.4 1.5
+Naphtha (VM&P) (76 degrees Naphtha) 22.4 0.9
+Naphtha (100 degrees Flash) Safety Solvent—Stoddard Solvent 23.2 1.0
+Propyl Acetate (n) 27.2 2.8
+Propyl Acetate (iso) 28.0 1.1
+Propyl Alcohol (n) 44.8 2.1
+Propyl Alcohol (iso) 44.0 2.0
+Toluene 30.4 1.4
+Turpentine 20.8 0.8
+Xylene (o) 26.4 1.0
+
+(iii)( a ) When an operator is in a booth downstream from the object being sprayed, an air-supplied respirator or other type of respirator must be used by employees that has been approved by NIOSH under 42 CFR part 84 for the material being sprayed.
+( b ) Where downdraft booths are provided with doors, such doors shall be closed when spray painting.
+(7) Make-up air. (i) Clean fresh air, free of contamination from adjacent industrial exhaust systems, chimneys, stacks, or vents, shall be supplied to a spray booth or room in quantities equal to the volume of air exhausted through the spray booth.
+(ii) Where a spray booth or room receives make-up air through self-closing doors, dampers, or louvers, they shall be fully open at all times when the booth or room is in use for spraying. The velocity of air through such doors, dampers, or louvers shall not exceed 200 feet per minute. If the fan characteristics are such that the required air flow through the booth will be provided, higher velocities through the doors, dampers, or louvers may be used.
+(iii)( a ) Where the air supply to a spray booth or room is filtered, the fan static pressure shall be calculated on the assumption that the filters are dirty to the extent that they require cleaning or replacement.
+( b ) The rating of filters shall be governed by test data supplied by the manufacturer of the filter. A pressure gage shall be installed to show the pressure drop across the filters. This gage shall be marked to show the pressure drop at which the filters require cleaning or replacement. Filters shall be replaced or cleaned whenever the pressure drop across them becomes excessive or whenever the air flow through the face of the booth falls below that specified in Table G-10.
+(iv)( a ) Means for heating make-up air to any spray booth or room, before or at the time spraying is normally performed, shall be provided in all places where the outdoor temperature may be expected to remain below 55 degrees F. for appreciable periods of time during the operation of the booth except where adequate and safe means of radiant heating for all operating personnel affected is provided. The replacement air during the heating seasons shall be maintained at not less than 65 degrees F. at the point of entry into the spray booth or spray room. When otherwise unheated make-up air would be at a temperature of more than 10 degrees F. below room temperature, its temperature shall be regulated as provided in section 3.6.3 of ANSI Z9.2-1960.
+( b ) As an alternative to an air replacement system complying with the preceding section, general heating of the building in which the spray room or booth is located may be employed provided that all occupied parts of the building are maintained at not less than 65 degrees F. when the exhaust system is in operation or the general heating system supplemented by other sources of heat may be employed to meet this requirement.
+( c ) No means of heating make-up air shall be located in a spray booth.
+( d ) Where make-up air is heated by coal or oil, the products of combustion shall not be allowed to mix with the make-up air, and the products of combustion shall be conducted outside the building through a flue terminating at a point remote from all points where make-up air enters the building.
+( e ) Where make-up air is heated by gas, and the products of combustion are not mixed with the make-up air but are conducted through an independent flue to a point outside the building remote from all points where make-up air enters the building, it is not necessary to comply with paragraph (c)(7)(iv)( f ) of this section.
+( f ) Where make-up air to any manually operated spray booth or room is heated by gas and the products of combustion are allowed to mix with the supply air, the following precautions must be taken:
+( 1 ) The gas must have a distinctive and strong enough odor to warn workmen in a spray booth or room of its presence if in an unburned state in the make-up air.
+( 2 ) The maximum rate of gas supply to the make-up air heater burners must not exceed that which would yield in excess of 200 p.p.m. (parts per million) of carbon monoxide or 2,000 p.p.m. of total combustible gases in the mixture if the unburned gas upon the occurrence of flame failure were mixed with all of the make-up air supplied.
+( 3 ) A fan must be provided to deliver the mixture of heated air and products of combustion from the plenum chamber housing the gas burners to the spray booth or room.
+(8) Scope. Spray booths or spray rooms are to be used to enclose or confine all spray finishing operations covered by this paragraph (c). This paragraph does not apply to the spraying of the exteriors of buildings, fixed tanks, or similar structures, nor to small portable spraying apparatus not used repeatedly in the same location.

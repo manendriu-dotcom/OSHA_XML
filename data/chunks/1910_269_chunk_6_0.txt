@@ -1,14 +1,370 @@
 § 1910.269 Electric power generation, transmission, and distribution.
-(iii) The presence of hazardous induced voltages,
-(iv) The presence of protective grounds and equipment grounding conductors,
-(v) The locations of circuits and equipment, including electric supply lines, communication lines, and fire-protective signaling circuits,
-(vi) The condition of protective grounds and equipment grounding conductors,
-(vii) The condition of poles, and
-(viii) Environmental conditions relating to safety.
-(b) Medical services and first aid. The employer shall provide medical services and first aid as required in § 1910.151. In addition to the requirements of § 1910.151, the following requirements also apply:
-(1) First-aid training. When employees are performing work on, or associated with, exposed lines or equipment energized at 50 volts or more, persons with first-aid training shall be available as follows:
-(i) For field work involving two or more employees at a work location, at least two trained persons shall be available. However, for line-clearance tree trimming performed by line-clearance tree trimmers who are not qualified employees, only one trained person need be available if all new employees are trained in first aid within 3 months of their hiring dates.
-(ii) For fixed work locations such as substations, the number of trained persons available shall be sufficient to ensure that each employee exposed to electric shock can be reached within 4 minutes by a trained person. However, where the existing number of employees is insufficient to meet this requirement (at a remote substation, for example), each employee at the work location shall be a trained employee.
-(2) First-aid supplies. First-aid supplies required by § 1910.151(b) shall be placed in weatherproof containers if the supplies could be exposed to the weather.
-(3) First-aid kits. The employer shall maintain each first-aid kit, shall ensure that it is readily available for use, and shall inspect it frequently enough to ensure that expended items are replaced. The employer also shall inspect each first aid kit at least once per year.
-(c) Job briefing —(1) Before each job. (i) In assigning an employee or a group of employees to perform a job, the employer shall provide the employee in charge of the job with all available information that relates to the determination of existing characteristics and conditions required by paragraph (a)(4) of this section.
+4. Divide by 0.85 43.2 103.7 132.6 208.9
+5. Interpolate from Table 1 3 + (7.2/10)*1 14 + (8.7/9)*2 20 + (12.6/23)*5 35 + (16.9/26)*5
+Electrical component of MAD (cm) 3.72 15.93 22.74 38.25
+Table 3—Equations for Calculating the Surge Factor, a
+-----------------------------------------------------
+Phase-to-ground exposures
+V Peak = T L-G V L-G √2 635 kV or less 635.1 to 915 kV 915.1 to 1,050 kV
+a 0 ( V Peak - 635)/140,000 ( V Peak -645)/135,000
+V Peak = T L-G V L-G √2 More than 1,050 kV
+a ( V Peak -675)/125,000
+Phase-to-phase exposures 1
+V Peak = (1.35 T L-G + 0.45) V L-G √2 630 kV or less 630.1 to 848 kV 848.1 to 1,131 kV
+a 0 ( V Peak -630)/155,000 ( V Peak -633.6)/152,207
+V Peak = (1.35 T L-G + 0.45) V L-G √2 1,131.1 to 1,485 kV More than 1,485 kV
+a ( V Peak -628)/153,846 ( V Peak -350.5)/203,666
+Table 4—Ergonomic Component of Minimum Approach Distance
+--------------------------------------------------------
+Voltage range (kV) Distance m ft
+--------------------------------
+0.301 to 0.750 0.31 1.0
+0.751 to 72.5 0.61 2.0
+72.6 to 800 0.31 1.0
+Table 5—Magnitude of Typical Transient Overvoltages
+---------------------------------------------------
+Cause Magnitude (per unit)
+--------------------------
+Energized 200-mile line without closing resistors 3.5
+Energized 200-mile line with one-step closing resistor 2.1
+Energized 200-mile line with multistep resistor 2.5
+Reclosing with trapped charge one-step resistor 2.2
+Opening surge with single restrike 3.0
+Fault initiation unfaulted phase 2.1
+Fault initiation adjacent circuit 2.5
+Fault clearing 1.7 to 1.9
+
+Table 6—Minimum Approach Distances Until December 31, 2014
+----------------------------------------------------------
+Voltage range phase to phase (kV) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+--------------------------------------------------------------------------------
+0.05 to 1.0 Avoid Contact Avoid Contact
+1.1 to 15.0 0.64 2.10 0.66 2.20
+15.1 to 36.0 0.72 2.30 0.77 2.60
+36.1 to 46.0 0.77 2.60 0.85 2.80
+46.1 to 72.5 0.90 3.00 1.05 3.50
+72.6 to 121 0.95 3.20 1.29 4.30
+138 to 145 1.09 3.60 1.50 4.90
+161 to 169 1.22 4.00 1.71 5.70
+230 to 242 1.59 5.30 2.27 7.50
+345 to 362 2.59 8.50 3.80 12.50
+500 to 550 3.42 11.30 5.50 18.10
+765 to 800 4.53 14.90 7.91 26.00
+
+Table 7—Minimum Approach Distances Until March 31, 2015—72.6 to 121.0 kV With Overvoltage Factor
+--------------------------------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+2.0 0.74 2.42 1.09 3.58
+2.1 0.76 2.50 1.09 3.58
+2.2 0.79 2.58 1.12 3.67
+2.3 0.81 2.67 1.14 3.75
+2.4 0.84 2.75 1.17 3.83
+2.5 0.84 2.75 1.19 3.92
+2.6 0.86 2.83 1.22 4.00
+2.7 0.89 2.92 1.24 4.08
+2.8 0.91 3.00 1.24 4.08
+2.9 0.94 3.08 1.27 4.17
+3.0 0.97 3.17 1.30 4.25
+
+Table 8—Minimum Approach Distances Until March 31, 2015—121.1 to 145.0 kV With Overvoltage Factor
+--------------------------------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+2.0 0.84 2.75 1.24 4.08
+2.1 0.86 2.83 1.27 4.17
+2.2 0.89 2.92 1.30 4.25
+2.3 0.91 3.00 1.32 4.33
+2.4 0.94 3.08 1.35 4.42
+2.5 0.97 3.17 1.37 4.50
+2.6 0.99 3.25 1.40 4.58
+2.7 1.02 3.33 1.42 4.67
+2.8 1.04 3.42 1.45 4.75
+2.9 1.07 3.50 1.47 4.83
+3.0 1.09 3.58 1.50 4.92
+
+Table 9—Minimum Approach Distances Until March 31, 2015—145.1 to 169.0 kV With Overvoltage Factor
+--------------------------------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+2.0 0.91 3.00 1.42 4.67
+2.1 0.97 3.17 1.45 4.75
+2.2 0.99 3.25 1.47 4.83
+2.3 1.02 3.33 1.50 4.92
+2.4 1.04 3.42 1.52 5.00
+2.5 1.07 3.50 1.57 5.17
+2.6 1.12 3.67 1.60 5.25
+2.7 1.14 3.75 1.63 5.33
+2.8 1.17 3.83 1.65 5.42
+2.9 1.19 3.92 1.68 5.50
+3.0 1.22 4.00 1.73 5.67
+
+Table 10—Minimum Approach Distances Until March 31, 2015—169.1 to 242.0 kV With Overvoltage Factor
+--------------------------------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+2.0 1.17 3.83 1.85 6.08
+2.1 1.22 4.00 1.91 6.25
+2.2 1.24 4.08 1.93 6.33
+2.3 1.30 4.25 1.98 6.50
+2.4 1.35 4.42 2.01 6.58
+2.5 1.37 4.50 2.06 6.75
+2.6 1.42 4.67 2.11 6.92
+2.7 1.47 4.83 2.13 7.00
+2.8 1.50 4.92 2.18 7.17
+2.9 1.55 5.08 2.24 7.33
+3.0 1.60 5.25 2.29 7.50
+
+Table 11—Minimum Approach Distances Until March 31, 2015—242.1 to 362.0 kV With Overvoltage Factor
+--------------------------------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+2.0 1.60 5.25 2.62 8.58
+2.1 1.65 5.42 2.69 8.83
+2.2 1.75 5.75 2.79 9.17
+2.3 1.85 6.08 2.90 9.50
+2.4 1.93 6.33 3.02 9.92
+2.5 2.03 6.67 3.15 10.33
+2.6 2.16 7.08 3.28 10.75
+2.7 2.26 7.42 3.40 11.17
+2.8 2.36 7.75 3.53 11.58
+2.9 2.49 8.17 3.68 12.08
+3.0 2.59 8.50 3.81 12.50
+
+Table 12—Minimum Approach Distances Until March 31, 2015—362.1 to 552.0 kV With Overvoltage Factor
+--------------------------------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 1.83 6.00 2.24 7.33
+1.6 1.98 6.50 2.67 8.75
+1.7 2.13 7.00 3.10 10.17
+1.8 2.31 7.58 3.53 11.58
+1.9 2.46 8.08 4.01 13.17
+2.0 2.67 8.75 4.52 14.83
+2.1 2.84 9.33 4.75 15.58
+2.2 3.02 9.92 4.98 16.33
+2.3 3.20 10.50 5.23 17.17
+2.4 3.43 11.25 5.51 18.08
+
+Table 13—Minimum Approach Distances Until March 31, 2015—552.1 to 800.0 kV With Overvoltage Factor
+--------------------------------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 2.95 9.67 3.68 12.08
+1.6 3.25 10.67 4.42 14.50
+1.7 3.56 11.67 5.23 17.17
+1.8 3.86 12.67 6.07 19.92
+1.9 4.19 13.75 6.99 22.92
+2.0 4.55 14.92 7.92 26.00
+
+B. Alternative minimum approach distances. Employers may use the minimum approach distances in Table 14 through Table 21 provided that the employer follows the notes to those tables.
+
+Table 14—AC Minimum Approach Distances—72.6 to 121.0 kV
+-------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 0.67 2.2 0.84 2.8
+1.6 0.69 2.3 0.87 2.9
+1.7 0.71 2.3 0.90 3.0
+1.8 0.74 2.4 0.93 3.1
+1.9 0.76 2.5 0.96 3.1
+2.0 0.78 2.6 0.99 3.2
+2.1 0.81 2.7 1.01 3.3
+2.2 0.83 2.7 1.04 3.4
+2.3 0.85 2.8 1.07 3.5
+2.4 0.88 2.9 1.10 3.6
+2.5 0.90 3.0 1.13 3.7
+2.6 0.92 3.0 1.16 3.8
+2.7 0.95 3.1 1.19 3.9
+2.8 0.97 3.2 1.22 4.0
+2.9 0.99 3.2 1.24 4.1
+3.0 1.02 3.3 1.27 4.2
+3.1 1.04 3.4 1.30 4.3
+3.2 1.06 3.5 1.33 4.4
+3.3 1.09 3.6 1.36 4.5
+3.4 1.11 3.6 1.39 4.6
+3.5 1.13 3.7 1.42 4.7
+
+Table 15—AC Minimum Approach Distances—121.1 to 145.0 kV
+--------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 0.74 2.4 0.95 3.1
+1.6 0.76 2.5 0.98 3.2
+1.7 0.79 2.6 1.02 3.3
+1.8 0.82 2.7 1.05 3.4
+1.9 0.85 2.8 1.08 3.5
+2.0 0.88 2.9 1.12 3.7
+2.1 0.90 3.0 1.15 3.8
+2.2 0.93 3.1 1.19 3.9
+2.3 0.96 3.1 1.22 4.0
+2.4 0.99 3.2 1.26 4.1
+2.5 1.02 3.3 1.29 4.2
+2.6 1.04 3.4 1.33 4.4
+2.7 1.07 3.5 1.36 4.5
+2.8 1.10 3.6 1.39 4.6
+2.9 1.13 3.7 1.43 4.7
+3.0 1.16 3.8 1.46 4.8
+3.1 1.19 3.9 1.50 4.9
+3.2 1.21 4.0 1.53 5.0
+3.3 1.24 4.1 1.57 5.2
+3.4 1.27 4.2 1.60 5.2
+3.5 1.30 4.3 1.64 5.4
+
+Table 16—AC Minimum Approach Distances—145.1 to 169.0 kV
+--------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 0.81 2.7 1.05 3.4
+1.6 0.84 2.8 1.09 3.6
+1.7 0.87 2.9 1.13 3.7
+1.8 0.90 3.0 1.17 3.8
+1.9 0.94 3.1 1.21 4.0
+2.0 0.97 3.2 1.25 4.1
+2.1 1.00 3.3 1.29 4.2
+2.2 1.03 3.4 1.33 4.4
+2.3 1.07 3.5 1.37 4.5
+2.4 1.10 3.6 1.41 4.6
+2.5 1.13 3.7 1.45 4.8
+2.6 1.17 3.8 1.49 4.9
+2.7 1.20 3.9 1.53 5.0
+2.8 1.23 4.0 1.57 5.2
+2.9 1.26 4.1 1.61 5.3
+3.0 1.30 4.3 1.65 5.4
+3.1 1.33 4.4 1.70 5.6
+3.2 1.36 4.5 1.76 5.8
+3.3 1.39 4.6 1.82 6.0
+3.4 1.43 4.7 1.88 6.2
+3.5 1.46 4.8 1.94 6.4
+
+Table 17—AC Minimum Approach Distances—169.1 to 242.0 kV
+--------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 1.02 3.3 1.37 4.5
+1.6 1.06 3.5 1.43 4.7
+1.7 1.11 3.6 1.48 4.9
+1.8 1.16 3.8 1.54 5.1
+1.9 1.21 4.0 1.60 5.2
+2.0 1.25 4.1 1.66 5.4
+2.1 1.30 4.3 1.73 5.7
+2.2 1.35 4.4 1.81 5.9
+2.3 1.39 4.6 1.90 6.2
+2.4 1.44 4.7 1.99 6.5
+2.5 1.49 4.9 2.08 6.8
+2.6 1.53 5.0 2.17 7.1
+2.7 1.58 5.2 2.26 7.4
+2.8 1.63 5.3 2.36 7.7
+2.9 1.67 5.5 2.45 8.0
+3.0 1.72 5.6 2.55 8.4
+3.1 1.77 5.8 2.65 8.7
+3.2 1.81 5.9 2.76 9.1
+3.3 1.88 6.2 2.86 9.4
+3.4 1.95 6.4 2.97 9.7
+3.5 2.01 6.6 3.08 10.1
+
+Table 18—AC Minimum Approach Distances—242.1 to 362.0 kV
+--------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 1.37 4.5 1.99 6.5
+1.6 1.44 4.7 2.13 7.0
+1.7 1.51 5.0 2.27 7.4
+1.8 1.58 5.2 2.41 7.9
+1.9 1.65 5.4 2.56 8.4
+2.0 1.72 5.6 2.71 8.9
+2.1 1.79 5.9 2.87 9.4
+2.2 1.87 6.1 3.03 9.9
+2.3 1.97 6.5 3.20 10.5
+2.4 2.08 6.8 3.37 11.1
+2.5 2.19 7.2 3.55 11.6
+2.6 2.29 7.5 3.73 12.2
+2.7 2.41 7.9 3.91 12.8
+2.8 2.52 8.3 4.10 13.5
+2.9 2.64 8.7 4.29 14.1
+3.0 2.76 9.1 4.49 14.7
+3.1 2.88 9.4 4.69 15.4
+3.2 3.01 9.9 4.90 16.1
+3.3 3.14 10.3 5.11 16.8
+3.4 3.27 10.7 5.32 17.5
+3.5 3.41 11.2 5.52 18.1
+
+Table 19—AC Minimum Approach Distances—362.1 to 420.0 kV
+--------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 1.53 5.0 2.40 7.9
+1.6 1.62 5.3 2.58 8.5
+1.7 1.70 5.6 2.75 9.0
+1.8 1.78 5.8 2.94 9.6
+1.9 1.88 6.2 3.13 10.3
+2.0 1.99 6.5 3.33 10.9
+2.1 2.12 7.0 3.53 11.6
+2.2 2.24 7.3 3.74 12.3
+2.3 2.37 7.8 3.95 13.0
+2.4 2.50 8.2 4.17 13.7
+2.5 2.64 8.7 4.40 14.4
+2.6 2.78 9.1 4.63 15.2
+2.7 2.93 9.6 4.87 16.0
+2.8 3.07 10.1 5.11 16.8
+2.9 3.23 10.6 5.36 17.6
+3.0 3.38 11.1 5.59 18.3
+3.1 3.55 11.6 5.82 19.1
+3.2 3.72 12.2 6.07 19.9
+3.3 3.89 12.8 6.31 20.7
+3.4 4.07 13.4 6.56 21.5
+3.5 4.25 13.9 6.81 22.3
+
+Table 20—AC Minimum Approach Distances—420.1 to 550.0 kV
+--------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 1.95 6.4 3.46 11.4
+1.6 2.11 6.9 3.73 12.2
+1.7 2.28 7.5 4.02 13.2
+1.8 2.45 8.0 4.31 14.1
+1.9 2.62 8.6 4.61 15.1
+2.0 2.81 9.2 4.92 16.1
+2.1 3.00 9.8 5.25 17.2
+2.2 3.20 10.5 5.55 18.2
+2.3 3.40 11.2 5.86 19.2
+2.4 3.62 11.9 6.18 20.3
+2.5 3.84 12.6 6.50 21.3
+2.6 4.07 13.4 6.83 22.4
+2.7 4.31 14.1 7.18 23.6
+2.8 4.56 15.0 7.52 24.7
+2.9 4.81 15.8 7.88 25.9
+3.0 5.07 16.6 8.24 27.0
+
+Table 21—AC Minimum Approach Distances—550.1 to 800.0 kV
+--------------------------------------------------------
+T (p.u.) Phase-to-ground exposure m ft Phase-to-phase exposure m ft
+-------------------------------------------------------------------
+1.5 3.16 10.4 5.97 19.6
+1.6 3.46 11.4 6.43 21.1
+1.7 3.78 12.4 6.92 22.7
+1.8 4.12 13.5 7.42 24.3
+1.9 4.47 14.7 7.93 26.0
+2.0 4.83 15.8 8.47 27.8
+2.1 5.21 17.1 9.02 29.6
+2.2 5.61 18.4 9.58 31.4
+2.3 6.02 19.8 10.16 33.3
+2.4 6.44 21.1 10.76 35.3
+2.5 6.88 22.6 11.38 37.3
+
+Table 1—Example Assessments for Various Tasks
+---------------------------------------------
+Task Is employee exposed to flame or electric-arc hazard?
+Normal operation of enclosed equipment, such as closing or opening a switch The employer properly installs and maintains enclosed equipment, and there is no evidence of impending failure No.
+ There is evidence of arcing or overheating Yes.
+ Parts of the equipment are loose or sticking, or the equipment otherwise exhibits signs of lack of maintenance Yes.
+Servicing electric equipment, such as racking in a circuit breaker or replacing a switch Yes.
+Inspection of electric equipment with exposed energized parts. The employee is not holding conductive objects and remains outside the minimum approach distance established by the employer No.
+ The employee is holding a conductive object, such as a flashlight, that could fall or otherwise contact energized parts (irrespective of whether the employee maintains the minimum approach distance) Yes.
+ The employee is closer than the minimum approach distance established by the employer (for example, when wearing rubber insulating gloves or rubber insulating gloves and sleeves) Yes.
+Using open flames, for example, in wiping cable splice sleeves Yes.
+Table 2—Methods of Calculating Incident Heat Energy From an Electric Arc
+------------------------------------------------------------------------
+1. Standard for Electrical Safety Requirements for Employee Workplaces, NFPA 70E-2012, Annex D, "Sample Calculation of Flash Protection Boundary."
+2. Doughty, T.E., Neal, T.E., and Floyd II, H.L., "Predicting Incident Energy to Better Manage the Electric Arc Hazard on 600 V Power Distribution Systems," Record of Conference Papers IEEE IAS 45th Annual Petroleum and Chemical Industry Conference, September 28-30, 1998.
+3. Guide for Performing Arc-Flash Hazard Calculations, IEEE Std 1584-2002, 1584a-2004 (Amendment 1 to IEEE Std 1584-2002), and 1584b-2011 (Amendment 2: Changes to Clause 4 of IEEE Std 1584-2002).*

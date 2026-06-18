@@ -1,9 +1,0 @@
-§ 1910.211 Definitions.
-(7) Type 27A depressed center, cutting-off wheels mean wheels having diameter, thickness, and hole size dimensions. They are reinforced, organic bonded, offset hub type wheels, usually 16 inches diameter and larger, specially designed for use on cutting-off machines where mounting nut or outer flange interference cannot be tolerated.
-(8) Surface feet per minute (s.f.p.m.) means the distance in feet any one abrasive grain on the peripheral surface of a grinding wheel travels in 1 minute.
-Examples: (a) 24-inch diameter wheel, 1,000 revolutions per minute. Surface Feet per minute .262 x 24 x 1,000 = 6,288 s.f.p.m. (b) 12-inch diameter wheel, 1,000 revolutions per minute. Surface Feet per minute .262 x 12 x 1,000 = 3,144 s.f.p.m.
-(9) Flanges means collars, discs or plates between which wheels are mounted and are referred to as adaptor, sleeve, or back up type. See paragraph (c) of § 1910.215 for full description.
-(10) Snagging means grinding which removes relatively large amounts of material without regard to close tolerances or surface finish requirements.
-(11) Off-hand grinding means the grinding of any material or part which is held in the operator's hand.
-(12) Safety guard means an enclosure designed to restrain the pieces of the grinding wheel and furnish all possible protection in the event that the wheel is broken in operation. See paragraph (b) of § 1910.215.
-(13) Cutting off wheels means wheels having diameter thickness and hole size dimensions and are subject to all limitations of mounting and use listed for type 1 wheels, the definition in subparagraph (1) of this paragraph and paragraph (d) of § 1910.215. They may be steel centered, diamond abrasive or organic bonded abrasive of the plain or reinforced type.

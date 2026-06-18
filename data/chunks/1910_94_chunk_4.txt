@@ -1,9 +1,0 @@
-§ 1910.94 Ventilation.
-( b ) Dust-filter respirators shall not be used for continuous protection where silica sand is used as the blasting abrasive, or toxic materials are blasted.
-(iv) For employees who use respirators required by this section, the employer must implement a respiratory protection program in accordance with 29 CFR 1910.134.
-(v) Operators shall be equipped with heavy canvas or leather gloves and aprons or equivalent protection to protect them from the impact of abrasives. Safety shoes shall be worn to protect against foot injury where heavy pieces of work are handled.
-( a ) Protective footwear must comply with the requirements specified by 29 CFR 1910.136(b)(1).
-( b ) Equipment for protection of the eyes and face shall be supplied to the operator when the respirator design does not provide such protection and to any other personnel working in the vicinity of abrasive blasting operations. This equipment shall conform to the requirements of § 1910.133.
-(6) Air supply and air compressors. Air for abrasive-blasting respirators must be free of harmful quantities of dusts, mists, or noxious gases, and must meet the requirements for supplied-air quality and use specified in 29 CFR 1910.134(i).
-(7) Operational procedures and general safety. Dust shall not be permitted to accumulate on the floor or on ledges outside of an abrasive-blasting enclosure, and dust spills shall be cleaned up promptly. Aisles and walkways shall be kept clear of steel shot or similar abrasive which may create a slipping hazard.
-(8) Scope. This paragraph (a) applies to all operations where an abrasive is forcibly applied to a surface by pneumatic or hydraulic pressure, or by centrifugal force. It does not apply to steam blasting, or steam cleaning, or hydraulic cleaning methods where work is done without the aid of abrasives.

@@ -1,3 +1,0 @@
-§ 1910.399 Definitions applicable to this subpart.
-(2) General-use snap switch. A form of general-use switch constructed so that it can be installed in device boxes or on box covers, or otherwise used in conjunction with wiring systems recognized by this subpart.
-(3) Isolating switch. A switch intended for isolating an electric circuit from the source of power. It has no interrupting rating, and it is intended to be operated only after the circuit has been opened by some other means.

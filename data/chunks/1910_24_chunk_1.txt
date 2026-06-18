@@ -1,7 +1,0 @@
-§ 1910.24 Step bolts and manhole steps.
-(ii) Is constructed of, or coated with, material that protects against corrosion if the manhole step is located in an environment where corrosion may occur;
-(iii) Has a minimum clear step width of 10 inches (25 cm);
-(iv) Is uniformly spaced at a vertical distance not more than 16 inches (41 cm) apart, measured center to center between steps. The spacing from the entry and exit surface to the first manhole step may differ from the spacing between the other steps.
-(v) Has a minimum perpendicular distance between the centerline of the manhole step to the nearest permanent object in back of the step of at least 4.5 inches (11 cm); and
-(vi) Is designed, constructed, and maintained to prevent the employee's foot from slipping or sliding off the end.
-(3) The employer must ensure that each manhole step is inspected at the start of the work shift and maintained in accordance with § 1910.22.

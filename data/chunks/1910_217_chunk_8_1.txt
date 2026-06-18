@@ -1,2 +1,0 @@
-§ 1910.217 Mechanical power presses.
-hand control shall meet the construction requirements of paragraph (b)(7)(v) of this section. ( c ) The safety distance (D s ) between each two hand control device and the point of operation shall be greater than the distance determined by the following formula: D s = 63 inches/second x T s ;

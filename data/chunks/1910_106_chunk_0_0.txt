@@ -1,5 +1,4 @@
 § 1910.106 Flammable liquids.
-§ 1910.106 Flammable liquids.
 (a) Definitions. As used in this section:
 (1) Aerosol shall mean a material which is dispensed from its container as a mist, spray, or foam by a propellant under pressure.
 (2) Atmospheric tank shall mean a storage tank which has been designed to operate at pressures from atmospheric through 0.5 p.s.i.g.
@@ -9,3 +8,167 @@
 (6) Boilover shall mean the expulsion of crude oil (or certain other liquids) from a burning tank. The light fractions of the crude oil burnoff producing a heat wave in the residue, which on reaching a water strata may result in the expulsion of a portion of the contents of the tank in the form of froth.
 (7) Bulk plant shall mean that portion of a property where flammable liquids are received by tank vessel, pipelines, tank car, or tank vehicle, and are stored or blended in bulk for the purpose of distributing such liquids by tank vessel, pipeline, tank car, tank vehicle, or container.
 (8) Chemical plant shall mean a large integrated plant or that portion of such a plant other than a refinery or distillery where flammable liquids are produced by chemical reactions or used in chemical reactions.
+(9) Closed container shall mean a container as herein defined, so sealed by means of a lid or other device that neither liquid nor vapor will escape from it at ordinary temperatures.
+(10) Crude petroleum shall mean hydrocarbon mixtures that have a flash point below 150 degrees F. and which have not been processed in a refinery.
+(11) Distillery shall mean a plant or that portion of a plant where flammable liquids produced by fermentation are concentrated, and where the concentrated products may also be mixed, stored, or packaged.
+(12) Fire area shall mean an area of a building separated from the remainder of the building by construction having a fire resistance of at least 1 hour and having all communicating openings properly protected by an assembly having a fire resistance rating of at least 1 hour.
+(13) Flammable aerosol shall mean a flammable aerosol as defined by Appendix B to § 1910.1200—Physical Hazard Criteria. For the purposes of paragraph (d) of this section, such aerosols are considered Category 1 flammable liquids.
+(14) Flashpoint means the minimum temperature at which a liquid gives off vapor within a test vessel in sufficient concentration to form an ignitable mixture with air near the surface of the liquid, and shall be determined as follows:
+(i) For a liquid which has a viscosity of less than 45 SUS at 100 degrees F (37.8 degrees C), does not contain suspended solids, and does not have a tendency to form a surface film while under test, the procedure specified in the Standard Method of Test for Flashpoint by Tag Closed Tester (ASTM D-56-70), which is incorporated by reference as specified in § 1910.6, or an equivalent test method as defined in Appendix B to § 1910.1200—Physical Hazard Criteria, shall be used.
+(ii) For a liquid which has a viscosity of 45 SUS or more at 100 degrees F (37.8 degrees C), or contains suspended solids, or has a tendency to form a surface film while under test, the Standard Method of Test for Flashpoint by Pensky-Martens Closed Tester (ASTM D-93-71) or an equivalent method as defined by Appendix B to § 1910.1200—Physical Hazard Criteria, shall be used except that the methods specified in Note 1 to section 1.1 of ASTM D-93-71 may be used for the respective materials specified in the Note. The preceding ASTM standard is incorporated by reference as specified in § 1910.6.
+(iii) For a liquid that is a mixture of compounds that have different volatilities and flashpoints, its flashpoint shall be determined by using the procedure specified in paragraph (a)(14)(i) or (ii) of this section on the liquid in the form it is shipped.
+(iv) Organic peroxides, which undergo autoaccelerating thermal decomposition, are excluded from any of the flashpoint determination methods specified in this subparagraph.
+(15) Hotel shall mean buildings or groups of buildings under the same management in which there are sleeping accommodations for hire, primarily used by transients who are lodged with or without meals including but not limited to inns, clubs, motels, and apartment hotels.
+(16) Institutional occupancy shall mean the occupancy or use of a building or structure or any portion thereof by persons harbored or detained to receive medical, charitable or other care or treatment, or by persons involuntarily detained.
+(17) Liquid shall mean, for the purpose of this section, any material which has a fluidity greater than that of 300 penetration asphalt when tested in accordance with ASTM Test for Penetration for Bituminous Materials, D-5-65, which is incorporated by reference as specified in § 1910.6.
+(18) [Reserved]
+(19) Flammable liquid means any liquid having a flashpoint at or below 199.4 degrees F (93 degrees C). Flammable liquids are divided into four categories as follows:
+(i) Category 1 shall include liquids having flashpoints below 73.4 degrees F (23 degrees C) and having a boiling point at or below 95 degrees F (35 degrees C).
+(ii) Category 2 shall include liquids having flashpoints below 73.4 degrees F (23 degrees C) and having a boiling point above 95 degrees F (35 degrees C).
+(iii) Category 3 shall include liquids having flashpoints at or above 73.4 degrees F (23 degrees C) and at or below 140 degrees F (60 degrees C). When a Category 3 liquid with a flashpoint at or above 100 degrees F (37.8 degrees C) is heated for use to within 30 degrees F (16.7 degrees C) of its flashpoint, it shall be handled in accordance with the requirements for a Category 3 liquid with a flashpoint below 100 degrees F (37.8 degrees C).
+(iv) Category 4 shall include liquids having flashpoints above 140 degrees F (60 degrees C) and at or below 199.4 degrees F (93 degrees C). When a Category 4 flammable liquid is heated for use to within 30 degrees F (16.7 degrees C) of its flashpoint, it shall be handled in accordance with the requirements for a Category 3 liquid with a flashpoint at or above 100 degrees F (37.8 degrees C).
+(v) When liquid with a flashpoint greater than 199.4 degrees F (93 degrees C) is heated for use to within 30 degrees F (16.7 degrees C) of its flashpoint, it shall be handled in accordance with the requirements for a Category 4 flammable liquid.
+(20) Unstable (reactive) liquid shall mean a liquid which in the pure state or as commercially produced or transported will vigorously polymerize, decompose, condense, or will become self-reactive under conditions of shocks, pressure, or temperature.
+(21) Low-pressure tank shall mean a storage tank which has been designed to operate at pressures above 0.5 p.s.i.g. but not more than 15 p.s.i.g.
+(22) Marine service station shall mean that portion of a property where flammable liquids used as fuels are stored and dispensed from fixed equipment on shore, piers, wharves, or floating docks into the fuel tanks of self-propelled craft, and shall include all facilities used in connection therewith.
+(23) Mercantile occupancy shall mean the occupancy or use of a building or structure or any portion thereof for the displaying, selling, or buying of goods, wares, or merchandise.
+(24) Office occupancy shall mean the occupancy or use of a building or structure or any portion thereof for the transaction of business, or the rendering or receiving of professional services.
+(25) Portable tank shall mean a closed container having a liquid capacity over 60 U.S. gallons and not intended for fixed installation.
+(26) Pressure vessel shall mean a storage tank or vessel which has been designed to operate at pressures above 15 p.s.i.g.
+(27) Protection for exposure shall mean adequate fire protection for structures on property adjacent to tanks, where there are employees of the establishment.
+(28) Refinery shall mean a plant in which flammable liquids are produced on a commercial scale from crude petroleum, natural gasoline, or other hydrocarbon sources.
+(29) Safety can shall mean an approved container, of not more than 5 gallons capacity, having a spring-closing lid and spout cover and so designed that it will safely relieve internal pressure when subjected to fire exposure.
+(30) Vapor pressure shall mean the pressure, measured in pounds per square inch (absolute) exerted by a volatile liquid as determined by the "Standard Method of Test for Vapor Pressure of Petroleum Products (Reid Method)," American Society for Testing and Materials ASTM D323-68, which is incorporated by reference as specified in § 1910.6.
+(31) Ventilation as specified in this section is for the prevention of fire and explosion. It is considered adequate if it is sufficient to prevent accumulation of significant quantities of vapor-air mixtures in concentration over one-fourth of the lower flammable limit.
+(32) Storage: Flammable liquids shall be stored in a tank or in a container that complies with paragraph (d)(2) of this section.
+(33) Barrel shall mean a volume of 42 U.S. gallons.
+(34) Container shall mean any can, barrel, or drum.
+(35) Approved unless otherwise indicated, approved, or listed by a nationally recognized testing laboratory. Refer to § 1910.7 for definition of nationally recognized testing laboratory.
+(36) Listed see "approved" in § 1910.106(a)(35).
+(37) SUS means Saybolt Universal Seconds as determined by the Standard Method of Test for Saybolt Viscosity (ASTM D-88-56), and may be determined by use of the SUS conversion tables specified in ASTM Method D2161-66 following determination of viscosity in accordance with the procedures specified in the Standard Method of Test for Viscosity of Transparent and Opaque Liquids (ASTM D445-65).
+(38) Viscous means a viscosity of 45 SUS or more.
+(b) Tank storage —(1) Design and construction of tanks —(i) Materials. ( a ) Tanks shall be built of steel except as provided in paragraphs (b)(1)(i) ( b ) through ( e ) of this section.
+( b ) Tanks may be built of materials other than steel for installation underground or if required by the properties of the liquid stored. Tanks located above ground or inside buildings shall be of noncombustible construction.
+( c ) Tanks built of materials other than steel shall be designed to specifications embodying principles recognized as good engineering design for the material used.
+( d ) Unlined concrete tanks may be used for storing flammable liquids having a gravity of 40 degrees API or heavier. Concrete tanks with special lining may be used for other services provided the design is in accordance with sound engineering practice.
+( e ) [Reserved]
+( f ) Special engineering consideration shall be required if the specific gravity of the liquid to be stored exceeds that of water or if the tanks are designed to contain flammable liquids at a liquid temperature below 0 degrees F.
+(ii) Fabrication. ( a ) [Reserved]
+( b ) Metal tanks shall be welded, riveted, and caulked, brazed, or bolted, or constructed by use of a combination of these methods. Filler metal used in brazing shall be nonferrous metal or an alloy having a melting point above 1000 degrees F. and below that of the metal joined.
+(iii) Atmospheric tanks. ( a ) Atmospheric tanks shall be built in accordance with acceptable good standards of design. Atmospheric tanks may be built in accordance with the following consensus standards that are incorporated by reference as specified in § 1910.6:
+( 1 ) Underwriters' Laboratories, Inc., Subjects No. 142, Standard for Steel Aboveground Tanks for Flammable and Combustible Liquids, 1968; No. 58, Standard for Steel Underground Tanks for Flammable and Combustible Liquids, Fifth Edition, December 1961; or No. 80, Standard for Steel Inside Tanks for Oil-Burner Fuel, September 1963.
+( 2 ) American Petroleum Institute Standards No. 650, Welded Steel Tanks for Oil Storage, Third Edition, 1966.
+( 3 ) American Petroleum Institute Standards No. 12B, Specification for Bolted Production Tanks, Eleventh Edition, May 1958, and Supplement 1, March 1962; No. 12D, Specification for Large Welded Production Tanks, Seventh Edition, August 1957; or No. 12F, Specification for Small Welded Production Tanks, Fifth Edition, March 1961. Tanks built in accordance with these standards shall be used only as production tanks for storage of crude petroleum in oil-producing areas.
+( b ) Tanks designed for underground service not exceeding 2,500 gallons capacity may be used aboveground.
+( c ) Low-pressure tanks and pressure vessels may be used as atmospheric tanks.
+( d ) Atmospheric tanks shall not be used for the storage of a flammable liquid at a temperature at or above its boiling point.
+(iv) Low pressure tanks. ( a ) The normal operating pressure of the tank shall not exceed the design pressure of the tank.
+( b ) Low-pressure tanks shall be built in accordance with acceptable standards of design. Low-pressure tanks may be built in accordance with the following consensus standards that are incorporated by reference as specified in § 1910.6:
+( 1 ) American Petroleum Institute Standard No. 620. Recommended Rules for the Design and Construction of Large, Welded, Low-Pressure Storage Tanks, Third Edition, 1966.
+( 2 ) The principles of the Code for Unfired Pressure Vessels, Section VIII of the ASME Boiler and Pressure Vessels Code, 1968.
+( c ) Atmospheric tanks built according to Underwriters' Laboratories, Inc., requirements in subdivision (iii)( a ) of and shall be limited to 2.5 p.s.i.g. under emergency venting conditions.
+This paragraph may be used for operating pressures not exceeding 1 p.s.i.g.
+( d ) Pressure vessels may be used as low-pressure tanks.
+(v) Pressure vessels. ( a ) The normal operating pressure of the vessel shall not exceed the design pressure of the vessel.
+( b ) Pressure vessels shall be built in accordance with the Code for Unfired Pressure Vessels, Section VIII of the ASME Boiler and Pressure Vessel Code 1968.
+(vi) Provisions for internal corrosion. When tanks are not designed in accordance with the American Petroleum Institute, American Society of Mechanical Engineers, or the Underwriters' Laboratories, Inc.'s, standards, or if corrosion is anticipated beyond that provided for in the design formulas used, additional metal thickness or suitable protective coatings or linings shall be provided to compensate for the corrosion loss expected during the design life of the tank.
+(2) Installation of outside aboveground tanks.
+(i) [Reserved]
+(ii) Spacing (shell-to-shell) between aboveground tanks. ( a ) The distance between any two flammable liquid storage tanks shall not be less than 3 feet.
+( b ) Except as provided in paragraph (b)(2)(ii)( c ) of this section, the distance between any two adjacent tanks shall not be less than one-sixth the sum of their diameters. When the diameter of one tank is less than one-half the diameter of the adjacent tank, the distance between the two tanks shall not be less than one-half the diameter of the smaller tank.
+( c ) Where crude petroleum in conjunction with production facilities are located in noncongested areas and have capacities not exceeding 126,000 gallons (3,000 barrels), the distance between such tanks shall not be less than 3 feet.
+( d ) Where unstable flammable liquids are stored, the distance between such tanks shall not be less than one-half the sum of their diameters.
+( e ) When tanks are compacted in three or more rows or in an irregular pattern, greater spacing or other means shall be provided so that inside tanks are accessible for firefighting purposes.
+( f ) The minimum separation between a liquefied petroleum gas container and a flammable liquid storage tank shall be 20 feet, except in the case of flammable liquid tanks operating at pressures exceeding 2.5 p.s.i.g. or equipped with emergency venting which will permit pressures to exceed 2.5 p.s.i.g. in which case the provisions of subdivisions ( a ) and ( b ) of this subdivision shall apply. Suitable means shall be taken to prevent the accumulation of flammable liquids under adjacent liquefied petroleum gas containers such as by diversion curbs or grading. When flammable liquid storage tanks are within a diked area, the liquefied petroleum gas containers shall be outside the diked area and at least 10 feet away from the centerline of the wall of the diked area. The foregoing provisions shall not apply when liquefied petroleum gas containers of 125 gallons or less capacity are installed adjacent to fuel oil supply tanks of 550 gallons or less capacity.
+(iii) [Reserved]
+(iv) Normal venting for aboveground tanks. ( a ) Atmospheric storage tanks shall be adequately vented to prevent the development of vacuum or pressure sufficient to distort the roof of a cone roof tank or exceeding the design pressure in the case of other atmospheric tanks, as a result of filling or emptying, and atmospheric temperature changes.
+( b ) Normal vents shall be sized either in accordance with: ( 1 ) The American Petroleum Institute Standard 2000 (1968), Venting Atmospheric and Low-Pressure Storage Tanks, which is incorporated by reference as specified in § 1910.6; or ( 2 ) other accepted standard; or ( 3 ) shall be at least as large as the filling or withdrawal connection, whichever is larger but in no case less than 1 1/4 inch nominal inside diameter.
+( c ) Low-pressure tanks and pressure vessels shall be adequately vented to prevent development of pressure or vacuum, as a result of filling or emptying and atmospheric temperature changes, from exceeding the design pressure of the tank or vessel. Protection shall also be provided to prevent overpressure from any pump discharging into the tank or vessel when the pump discharge pressure can exceed the design pressure of the tank or vessel.
+( d ) If any tank or pressure vessel has more than one fill or withdrawal connection and simultaneous filling or withdrawal can be made, the vent size shall be based on the maximum anticipated simultaneous flow.
+( e ) Unless the vent is designed to limit the internal pressure 2.5 p.s.i. or less, the outlet of vents and vent drains shall be arranged to discharge in such a manner as to prevent localized overheating of any part of the tank in the event vapors from such vents are ignited.
+( f )( 1 ) Tanks and pressure vessels storing Category 1 flammable liquids shall be equipped with venting devices which shall be normally closed except when venting to pressure or vacuum conditions. Tanks and pressure vessels storing Category 2 flammable liquids and Category 3 flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C) shall be equipped with venting devices which shall be normally closed except when venting under pressure or vacuum conditions, or with approved flame arresters.
+( 2 ) Exemption: Tanks of 3,000 bbls (barrels). capacity or less containing crude petroleum in crude-producing areas and outside aboveground atmospheric tanks under 1,000 gallons capacity containing other than Category 1 flammable liquids may have open vents. ( See paragraph (b)(2)(vi)( b ) of this section.)
+( g ) Flame arresters or venting devices required in paragraph (b)(2)(iv)( f ) of this section may be omitted for Category 2 flammable liquids and Category 3 flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C) where conditions are such that their use may, in case of obstruction, result in tank damage.
+(v) Emergency relief venting for fire exposure for aboveground tanks. ( a ) Every aboveground storage tank shall have some form of construction or device that will relieve excessive internal pressure caused by exposure fires.
+( b ) In a vertical tank the construction referred to in subdivision ( a ) of this subdivision may take the form of a floating roof, lifter roof, a weak roof-to-shell seam, or other approved pressure relieving construction. The weak roof-to-shell seam shall be constructed to fail preferential to any other seam.
+( c ) Where entire dependence for emergency relief is placed upon pressure relieving devices, the total venting capacity of both normal and emergency vents shall be enough to prevent rupture of the shell or bottom of the tank if vertical, or of the shell or heads if horizontal. If unstable liquids are stored, the effects of heat or gas resulting from polymerization, decomposition, condensation, or self-reactivity shall be taken into account. The total capacity of both normal and emergency venting devices shall be not less than that derived from Table H-10 except as provided in subdivision ( e ) or ( f ) of this subdivision. Such device may be a self-closing manhole cover, or one using long bolts that permit the cover to lift under internal pressure, or an additional or larger relief valve or valves. The wetted area of the tank shall be calculated on the basis of 55 percent of the total exposed area of a sphere or spheroid, 75 percent of the total exposed area of a horizontal tank and the first 30 feet above grade of the exposed shell area of a vertical tank.
+
+Table H-10—Wetted Area Versus Cubic Feet Free Air Per Hour
+----------------------------------------------------------
+Square feet CFH Square feet CFH Square feet CFH
+-----------------------------------------------
+20 21,100 200 211,000 1,000 524,000
+30 31,600 250 239,000 1,200 557,000
+40 42,100 300 265,000 1,400 587,000
+50 52,700 350 288,000 1,600 614,000
+60 63,200 400 312,000 1,800 639,000
+70 73,700 500 354,000 2,000 662,000
+80 84,200 600 392,000 2,400 704,000
+90 94,800 700 428,000 2,800 742,000
+100 105,000 800 462,000 and
+120 126,000 900 493,000 over
+140 147,000 1,000 524,000
+160 168,000
+180 190,000
+200 211,000
+
+( d ) For tanks and storage vessels designed for pressure over 1 p.s.i.g., the total rate of venting shall be determined in accordance with Table H-10, except that when the exposed wetted area of the surface is greater than 2,800 square feet, the total rate of venting shall be calculated by the following formula:
+CFH = 1,107A 0.82
+Note: Note: The foregoing formula is based on Q = 21,000A 0.82 .
+( e ) The total emergency relief venting capacity for any specific stable liquid may be determined by the following formula:
+V = 1337 ÷ L√M
+( f ) The required airflow rate of subdivision ( c ) or ( e ) of this subdivision may be multiplied by the appropriate factor listed in the following schedule when protection is provided as indicated. Only one factor may be used for any one tank.
+( g ) The outlet of all vents and vent drains on tanks equipped with emergency venting to permit pressures exceeding 2.5 p.s.i.g. shall be arranged to discharge in such a way as to prevent localized overheating of any part of the tank, in the event vapors from such vents are ignited.
+( h ) Each commercial tank venting device shall have stamped on it the opening pressure, the pressure at which the valve reaches the full open position, and the flow capacity at the latter pressure, expressed in cubic feet per hour of air at 60 degrees F. and at a pressure of 14.7 p.s.i.a.
+( i ) The flow capacity of tank venting devices 12 inches and smaller in nominal pipe size shall be determined by actual test of each type and size of vent. These flow tests may be conducted by the manufacturer if certified by a qualified impartial observer, or may be conducted by an outside agency. The flow capacity of tank venting devices larger than 12 inches nominal pipe size, including manhole covers with long bolts or equivalent, may be calculated provided that the opening pressure is actually measured, the rating pressure and corresponding free orifice area are stated, the word "calculated" appears on the nameplate, and the computation is based on a flow coefficient of 0.5 applied to the rated orifice area.
+(vi) Vent piping for aboveground tanks. ( a ) Vent piping shall be constructed in accordance with paragraph (c) of this section.
+( b ) Where vent pipe outlets for tanks storing Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C), are adjacent to buildings or public ways, they shall be located so that the vapors are released at a safe point outside of buildings and not less than 12 feet above the adjacent ground level. In order to aid their dispersion, vapors shall be discharged upward or horizontally away from closely adjacent walls. Vent outlets shall be located so that flammable vapors will not be trapped by eaves or other obstructions and shall be at least five feet from building openings.
+( c ) When tank vent piping is manifolded, pipe sizes shall be such as to discharge, within the pressure limitations of the system, the vapors they may be required to handle when manifolded tanks are subject to the same fire exposure.
+(vii) Drainage, dikes, and walls for aboveground tanks—(a) Drainage and diked areas. The area surrounding a tank or a group of tanks shall be provided with drainage as in subdivision ( b ) of this subdivision, or shall be diked as provided in subdivision ( c ) of this subdivision, to prevent accidental discharge of liquid from endangering adjoining property or reaching waterways.
+( b) Drainage. Where protection of adjoining property or waterways is by means of a natural or manmade drainage system, such systems shall comply with the following:
+( 1 ) [Reserved]
+( 2 ) The drainage system shall terminate in vacant land or other area or in an impounding basin having a capacity not smaller than that of the largest tank served. This termination area and the route of the drainage system shall be so located that, if the flammable liquids in the drainage system are ignited, the fire will not seriously expose tanks or adjoining property.
+( c ) Diked areas. Where protection of adjoining property or waterways is accomplished by retaining the liquid around the tank by means of a dike, the volume of the diked area shall comply with the following requirements:
+( 1 ) Except as provided in subdivision ( 2 ) of this subdivision, the volumetric capacity of the diked area shall not be less than the greatest amount of liquid that can be released from the largest tank within the diked area, assuming a full tank. The capacity of the diked area enclosing more than one tank shall be calculated by deducting the volume of the tanks other than the largest tank below the height of the dike.
+( 2 ) For a tank or group of tanks with fixed roofs containing crude petroleum with boilover characteristics, the volumetric capacity of the diked area shall be not less than the capacity of the largest tank served by the enclosure, assuming a full tank. The capacity of the diked enclosure shall be calculated by deducting the volume below the height of the dike of all tanks within the enclosure.
+( 3 ) Walls of the diked area shall be of earth, steel, concrete or solid masonry designed to be liquidtight and to withstand a full hydrostatic head. Earthen walls 3 feet or more in height shall have a flat section at the top not less than 2 feet wide. The slope of an earthen wall shall be consistent with the angle of repose of the material of which the wall is constructed.
+( 4 ) The walls of the diked area shall be restricted to an average height of 6 feet above interior grade.
+( 5 ) [Reserved]
+( 6 ) No loose combustible material, empty or full drum or barrel, shall be permitted within the diked area.
+(viii) Tank openings other than vents for aboveground tanks.
+( a )-( c ) [Reserved]
+( d ) Openings for gaging shall be provided with a vaportight cap or cover.
+( e ) For Category 2 flammable liquids and Category 3 flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C), other than crude oils, gasolines, and asphalts, the fill pipe shall be so designed and installed as to minimize the possibility of generating static electricity. A fill pipe entering the top of a tank shall terminate within 6 inches of the bottom of the tank and shall be installed to avoid excessive vibration.
+( f ) Filling and emptying connections which are made and broken shall be located outside of buildings at a location free from any source of ignition and not less than 5 feet away from any building opening. Such connection shall be closed and liquidtight when not in use. The connection shall be properly identified.
+(3) Installation of underground tanks — (i) Location. Excavation for underground storage tanks shall be made with due care to avoid undermining of foundations of existing structures. Underground tanks or tanks under buildings shall be so located with respect to existing building foundations and supports that the loads carried by the latter cannot be transmitted to the tank. The distance from any part of a tank storing Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C), to the nearest wall of any basement or pit shall be not less than 1 foot, and to any property line that may be built upon, not less than 3 feet. The distance from any part of a tank storing Category 3 flammable liquids with a flashpoint at or above 100 degrees F (37.8 degrees C) or Category 4 flammable liquids to the nearest wall of any basement, pit or property line shall be not less than 1 foot.
+(ii) Depth and cover. Underground tanks shall be set on firm foundations and surrounded with at least 6 inches of noncorrosive, inert materials such as clean sand, earth, or gravel well tamped in place. The tank shall be placed in the hole with care since dropping or rolling the tank into the hole can break a weld, puncture or damage the tank, or scrape off the protective coating of coated tanks. Tanks shall be covered with a minimum of 2 feet of earth, or shall be covered with not less than 1 foot of earth, on top of which shall be placed a slab of reinforced concrete not less than 4 inches thick. When underground tanks are, or are likely to be, subject to traffic, they shall be protected against damage from vehicles passing over them by at least 3 feet of earth cover, or 18 inches of well-tamped earth, plus 6 inches of reinforced concrete or 8 inches of asphaltic concrete. When asphaltic or reinforced concrete paving is used as part of the protection, it shall extend at least 1 foot horizontally beyond the outline of the tank in all directions.
+(iii) Corrosion protection. Corrosion protection for the tank and its piping shall be provided by one or more of the following methods:
+( a ) Use of protective coatings or wrappings;
+( b ) Cathodic protection; or,
+( c ) Corrosion resistant materials of construction.
+(iv) Vents. ( a ) Location and arrangement of vents for Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C). Vent pipes from tanks storing Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C), shall be so located that the discharge point is outside of buildings, higher than the fill pipe opening, and not less than 12 feet above the adjacent ground level. Vent pipes shall discharge only upward in order to disperse vapors. Vent pipes 2 inches or less in nominal inside diameter shall not be obstructed by devices that will cause excessive back pressure. Vent pipe outlets shall be so located that flammable vapors will not enter building openings, or be trapped under eaves or other obstructions. If the vent pipe is less than 10 feet in length, or greater than 2 inches in nominal inside diameter, the outlet shall be provided with a vacuum and pressure relief device or there shall be an approved flame arrester located in the vent line at the outlet or within the approved distance from the outlet.
+( b ) Size of vents. Each tank shall be vented through piping adequate in size to prevent blow-back of vapor or liquid at the fill opening while the tank is being filled. Vent pipes shall be not less than 1 1/4 inch nominal inside diameter.
+
+Table H-11—Vent Line Diameters
+------------------------------
+Maximum flow GPM Pipe length 1 50 feet 100 feet 200 feet
+--------------------------------------------------------
+ Inches Inches Inches
+100 1 1/4 1 1/4 1 1/4
+200 1 1/4 1 1/4 1 1/4
+300 1 1/4 1 1/4 1 1/2
+400 1 1/4 1 1/2 2
+500 1 1/2 1 1/2 2
+600 1 1/2 2 2
+700 2 2 2
+800 2 2 3
+900 2 2 3
+1,000 2 2 3
+
+( c ) Location and arrangement of vents for Category 3 flammable liquids with a flashpoint at or above 100 degrees F (37.8 degrees C) or Category 4 flammable liquids. Vent pipes from tanks storing Category 3 flammable liquids with a flashpoint at or above 100 degrees F (37.8 degrees C) or Category 4 flammable liquids shall terminate outside of the building and higher than the fill pipe opening. Vent outlets shall be above normal snow level. They may be fitted with return bends, coarse screens or other devices to minimize ingress of foreign material.
+( d ) Vent piping shall be constructed in accordance with paragraph ( c ) of this section. Vent pipes shall be so laid as to drain toward the tank without sags or traps in which liquid can collect. They shall be located so that they will not be subjected to physical damage. The tank end of the vent pipe shall enter the tank through the top.
+( e ) When tank vent piping is manifolded, pipe sizes shall be such as to discharge, within the pressure limitations of the system, the vapors they may be required to handle when manifolded tanks are filled simultaneously.
+(v) Tank openings other than vents. ( a ) Connections for all tank openings shall be vapor or liquid tight.
+( b ) Openings for manual gaging, if independent of the fill pipe, shall be provided with a liquid-tight cap or cover. If inside a building, each such opening shall be protected against liquid overflow and possible vapor release by means of a spring loaded check valve or other approved device.
+( c ) Fill and discharge lines shall enter tanks only through the top. Fill lines shall be sloped toward the tank.
+( d ) For Category 2 flammable liquids and Category 3 flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C), other than crude oils, gasolines, and asphalts, the fill pipe shall be so designed and installed as to minimize the possibility of generating static electricity by terminating within 6 inches of the bottom of the tank.
