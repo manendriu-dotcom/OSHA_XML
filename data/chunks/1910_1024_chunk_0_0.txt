@@ -1,0 +1,12 @@
+§ 1910.1024 Beryllium.
+(a) Scope and application. (1) This standard applies to occupational exposure to beryllium in all forms, compounds, and mixtures in general industry, except those articles and materials exempted by paragraphs (a)(2) and (a)(3) of this standard.
+(2) This standard does not apply to articles, as defined in the Hazard Communication standard (HCS) (§ 1910.1200(c)), that contain beryllium and that the employer does not process.
+(3) This standard does not apply to materials containing less than 0.1% beryllium by weight where the employer has objective data demonstrating that employee exposure to beryllium will remain below the action level as an 8-hour TWA under any foreseeable conditions.
+(b) Definitions. As used in this standard:
+Action level means a concentration of airborne beryllium of 0.1 micrograms per cubic meter of air (µg/m 3 ) calculated as an 8-hour time-weighted average (TWA).
+Airborne exposure and airborne exposure to beryllium mean the exposure to airborne beryllium that would occur if the employee were not using a respirator.
+Assistant Secretary means the Assistant Secretary of Labor for Occupational Safety and Health, United States Department of Labor, or designee.
+Beryllium lymphocyte proliferation test (BeLPT) means the measurement of blood lymphocyte proliferation in a laboratory test when lymphocytes are challenged with a soluble beryllium salt.
+Beryllium sensitization means a response in the immune system of a specific individual who has been exposed to beryllium. There are no associated physical or clinical symptoms and no illness or disability with beryllium sensitization alone, but the response that occurs through beryllium sensitization can enable the immune system to recognize and react to beryllium. While not every beryllium-sensitized person will develop chronic beryllium disease (CBD), beryllium sensitization is essential for development of CBD.
+Beryllium work area means any work area where materials that contain at least 0.1 percent beryllium by weight are processed either:
+(1) During any of the operations listed in Appendix A of this standard; or

@@ -1,0 +1,20 @@
+§ 1910.146 Permit-required confined spaces.
+(iii) Inform the host employer of the permit space program that the contractor will follow and of any hazards confronted or created in permit spaces, either through a debriefing or during the entry operation.
+(d) Permit-required confined space program (permit space program). Under the permit space program required by paragraph (c)(4) of this section, the employer shall:
+(1) Implement the measures necessary to prevent unauthorized entry;
+(2) Identify and evaluate the hazards of permit spaces before employees enter them;
+(3) Develop and implement the means, procedures, and practices necessary for safe permit space entry operations, including, but not limited to, the following:
+(i) Specifying acceptable entry conditions;
+(ii) Providing each authorized entrant or that employee's authorized representative with the opportunity to observe any monitoring or testing of permit spaces;
+(iii) Isolating the permit space;
+(iv) Purging, inerting, flushing, or ventilating the permit space as necessary to eliminate or control atmospheric hazards;
+(v) Providing pedestrian, vehicle, or other barriers as necessary to protect entrants from external hazards; and
+(vi) Verifying that conditions in the permit space are acceptable for entry throughout the duration of an authorized entry.
+(4) Provide the following equipment (specified in paragraphs (d)(4)(i) through (d)(4)(ix) of this section) at no cost to employees, maintain that equipment properly, and ensure that employees use that equipment properly:
+(i) Testing and monitoring equipment needed to comply with paragraph (d)(5) of this section;
+(ii) Ventilating equipment needed to obtain acceptable entry conditions;
+(iii) Communications equipment necessary for compliance with paragraphs (h)(3) and (i)(5) of this section;
+(iv) Personal protective equipment insofar as feasible engineering and work practice controls do not adequately protect employees;
+(v) Lighting equipment needed to enable employees to see well enough to work safely and to exit the space quickly in an emergency;
+(vi) Barriers and shields as required by paragraph (d)(3)(v) of this section.
+(vii) Equipment, such as ladders, needed for safe ingress and egress by authorized entrants;

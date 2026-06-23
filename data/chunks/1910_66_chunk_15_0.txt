@@ -1,0 +1,15 @@
+§ 1910.66 Powered platforms for building maintenance.
+( 3 ) Means shall be provided to lock the davit to its socket or base before it is used to suspend the platform.
+(4) Hoisting machines. (i) Raising and lowering of suspended or supported equipment shall be performed only by a hoisting machine.
+(ii) Each hoisting machine shall be capable of arresting any overspeed descent of the load.
+(iii) Each hoisting machine shall be powered only by air, electric or hydraulic sources.
+(iv) Flammable liquids shall not be carried on the working platform.
+(v) Each hoisting machine shall be capable of raising or lowering 125 percent of the rated load of the hoist.
+(vi) Moving parts of a hoisting machine shall be enclosed or guarded in compliance with paragraphs (a)(1) and (2) of § 1910.212 of this part.
+(vii) Winding drums, traction drums and sheaves and directional sheaves used in conjunction with hoisting machines shall be compatible with, and sized for, the wire rope used.
+(viii) Each winding drum shall be provided with a positive means of attaching the wire rope to the drum. The attachment shall be capable of developing at least four times the rated load of the hoist.
+(ix) Each hoisting machine shall be provided with a primary brake and at least one independent secondary brake, each capable of stopping and holding not less than 125 percent of the lifting capacity of the hoist.
+(A) The primary brake shall be directly connected to the drive train of the hoisting machine, and shall not be connected through belts, chains, clutches, or set screw type devices. The brake shall automatically set when power to the prime mover is interrupted.
+(B)( 1 ) The secondary brake shall be an automatic emergency type of brake that, if actuated during each stopping cycle, shall not engage before the hoist is stopped by the primary brake.
+( 2 ) When a secondary brake is actuated, it shall stop and hold the platform within a vertical distance of 24 inches (609.6 mm).
+(x) Any component of a hoisting machine which requires lubrication for its protection and proper functioning shall be provided with a means for that lubrication to be applied.

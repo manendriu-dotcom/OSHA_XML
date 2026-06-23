@@ -1,0 +1,12 @@
+§ 1910.1200 Hazard communication.
+(a) at least in one tested animal, effects on the cornea, iris or conjunctiva that are not expected to reverse or have not fully reversed within an observation period of normally 21 days; and/or
+(b) at least in 2 of 3 tested animals, a positive response of:
+(i) corneal opacity >=3; and/or
+(ii) iritis >1.5;
+calculated as the mean scores following grading at 24, 48 and 72 hours after instillation of the substance.
+Table A.3.2—Reversible Eye Effects
+----------------------------------
+A substance is classified as Eye irritant Category 2A (irritating to eyes) when it produces in at least in 2 of 3 tested animals a positive response of:
+(i) corneal opacity >=1; and/or
+(ii) iritis >=1; and/or
+(iii) conjunctival redness >=2; and/or

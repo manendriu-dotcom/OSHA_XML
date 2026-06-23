@@ -1,0 +1,13 @@
+§ 1910.66 Powered platforms for building maintenance.
+(G) Evidence of core failure (a lengthening of rope lay, protrusion of the rope core and a reduction in rope diameter suggests core failure); or
+(H) More than one valley break (broken wire).
+(I) Outer wire wear exceeds one-third of the original outer wire diameter.
+(J) Any other condition which the competent person determines has significantly affected the integrity of the rope.
+(v) The building owner shall keep a certification record of each monthly inspection of a suspension wire rope as required in paragraph (g)(5)(iii) of this section. The record shall include the date of the inspection, the signature of the person who performed the inspection, and a number, or other identifier, of the wire rope which was inspected. This record of inspection shall be made available for review by the Assistant Secretary of Labor or the Assistant Secretary's representative and by the employer.
+(6) Hoist inspection. Before lowering personnel below the top elevation of the building, the hoist shall be tested each day in the lifting direction with the intended load to make certain it has sufficient capacity to raise the personnel back to the boarding level.
+(h) Maintenance —(1) General maintenance. All parts of the equipment affecting safe operation shall be maintained in proper working order so that they may perform the functions for which they were intended. The equipment shall be taken out of service when it is not in proper working order.
+(2) Cleaning. (i) Control or power contactors and relays shall be kept clean.
+(ii) All other parts shall be kept clean if their proper functioning would be affected by the presence of dirt or other contaminants.
+(3) Periodic resocketing of wire rope fastenings. (i) Hoisting ropes utilizing poured socket fastenings shall be resocketed at the non-drum ends at intervals not exceeding 24 months. In resocketing the ropes, a sufficient length shall be cut from the end of the rope to remove damaged or fatigued portions.
+(ii) Resocketed ropes shall conform to the requirements of paragraph (f)(7) of this section.
+(iii) Limit switches affected by the resocketed ropes shall be reset, if necessary.

@@ -1,0 +1,16 @@
+§ 1910.103 Hydrogen.
+(iii) Handling of liquefied hydrogen inside buildings other than separate buildings and special rooms. Portable liquefied hydrogen containers of 50 gallons or less capacity as permitted in Table H-3 and in compliance with subdivision (i)(f) of this subparagraph when housed inside buildings not located in a special room and exposed to other occupancies shall comply with the following minimum requirements:
+( a ) Be located 20 feet from flammable liquids and readily combustible materials such as excelsior or paper.
+( b ) Be located 25 feet from ordinary electrical equipment and other sources of ignition including process or analytical equipment.
+( c ) Be located 25 feet from concentrations of people.
+( d ) Be located 50 feet from intakes of ventilation and air-conditioning equipment or intakes of compressors.
+( e ) Be located 50 feet from storage of other flammable-gases or storage of oxidizing gases.
+( f ) Containers shall be protected against damage or injury due to falling objects or work activity in the area.
+( g ) Containers shall be firmly secured and stored in an upright position.
+( h ) Welding or cutting operations, and smoking shall be prohibited while hydrogen is in the room.
+( i ) The area shall be adequately ventilated. Safety relief devices on the containers shall be vented directly outdoors or to a suitable hood. See paragraphs (c)(1)(iv)(b) and (c)(2)(i)(f) of this section.
+(3) Design considerations at specific locations —(i) Outdoor locations. ( a ) Outdoor location shall mean outside of any building or structure, and includes locations under a weather shelter or canopy provided such locations are not enclosed by more than two walls set at right angles and are provided with vent-space between the walls and vented roof or canopy.
+( b ) Roadways and yard surfaces located below liquefied hydrogen piping, from which liquid air may drip, shall be constructed of noncombustible materials.
+( c ) If protective walls are provided, they shall be constructed of noncombustible materials and in accordance with the provisions of paragraph (c)(3)(i)( a ) of this section.
+( d ) Electrical wiring and equipment shall comply with paragraph (c)(1)(ix) ( a ) and ( b ) of this section.
+( e ) Adequate lighting shall be provided for nighttime transfer operation.

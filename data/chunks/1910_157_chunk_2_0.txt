@@ -1,0 +1,12 @@
+§ 1910.157 Portable fire extinguishers.
+(6) The employer shall distribute portable fire extinguishers or other containers of Class D extinguishing agent for use by employees so that the travel distance from the combustible metal working area to any extinguishing agent is 75 feet (22.9 m) or less. Portable fire extinguishers for Class D hazards are required in those combustible metal working areas where combustible metal powders, flakes, shavings, or similarly sized products are generated at least once every two weeks.
+(e) Inspection, maintenance and testing. (1) The employer shall be responsible for the inspection, maintenance and testing of all portable fire extinguishers in the workplace.
+(2) Portable extinguishers or hose used in lieu thereof under paragraph (d)(3) of this section shall be visually inspected monthly.
+(3) The employer shall assure that portable fire extinguishers are subjected to an annual maintenance check. Stored pressure extinguishers do not require an internal examination. The employer shall record the annual maintenance date and retain this record for one year after the last entry or the life of the shell, whichever is less. The record shall be available to the Assistant Secretary upon request.
+(4) The employer shall assure that stored pressure dry chemical extinguishers that require a 12-year hydrostatic test are emptied and subjected to applicable maintenance procedures every 6 years. Dry chemical extinguishers having non-refillable disposable containers are exempt from this requirement. When recharging or hydrostatic testing is performed, the 6-year requirement begins from that date.
+(5) The employer shall assure that alternate equivalent protection is provided when portable fire extinguishers are removed from service for maintenance and recharging.
+(f) Hydrostatic testing. (1) The employer shall assure that hydrostatic testing is performed by trained persons with suitable testing equipment and facilities.
+(2) The employer shall assure that portable extinguishers are hydrostatically tested at the intervals listed in Table L-1 of this section, except under any of the following conditions:
+(i) When the unit has been repaired by soldering, welding, brazing, or use of patching compounds;
+(ii) When the cylinder or shell threads are damaged;
+(iii) When there is corrosion that has caused pitting, including corrosion under removable name plate assemblies;

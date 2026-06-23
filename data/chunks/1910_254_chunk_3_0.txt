@@ -1,0 +1,11 @@
+§ 1910.254 Arc welding and cutting.
+(ii) For individual welding machines, the rated current-carrying capacity of the supply conductors shall be not less than the rated primary current of the welding machines.
+(iii) For groups of welding machines, the rated current-carrying capacity of conductors may be less than the sum of the rated primary currents of the welding machines supplied. The conductor rating shall be determined in each case according to the machine loading based on the use to be made of each welding machine and the allowance permissible in the event that all the welding machines supplied by the conductors will not be in use at the same time.
+(iv) In operations involving several welders on one structure, d.c. welding process requirements may require the use of both polarities; or supply circuit limitations for a.c. welding may require distribution of machines among the phases of the supply circuit. In such cases no load voltages between electrode holders will be 2 times normal in d.c. or 1, 1.41, 1.73, or 2 times normal on a.c. machines. Similar voltage differences will exist if both a.c. and d.c. welding are done on the same structure.
+(A) All d.c. machines shall be connected with the same polarity.
+(B) All a.c. machines shall be connected to the same phase of the supply circuit and with the same instantaneous polarity.
+(d) Operation and maintenance —(1) General. Workers assigned to operate or maintain arc welding equipment shall be acquainted with the requirements of this section and with 1910.252 (a), (b), and (c) of this part.
+(2) Machine hook up. Before starting operations all connections to the machine shall be checked to make certain they are properly made. The work lead shall be firmly attached to the work; magnetic work clamps shall be freed from adherent metal particles of spatter on contact surfaces. Coiled welding cable shall be spread out before use to avoid serious overheating and damage to insulation.
+(3) Grounding. Grounding of the welding machine frame shall be checked. Special attention shall be given to safety ground connections of portable machines.
+(4) Leaks. There shall be no leaks of cooling water, shielding gas or engine fuel.
+(5) Switches. It shall be determined that proper switching equipment for shutting down the machine is provided.

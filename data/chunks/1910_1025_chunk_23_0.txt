@@ -1,0 +1,19 @@
+§ 1910.1025 Lead.
+(C) Record the results obtained or receive copies of the results when returned by the laboratory.
+(p) Appendices. The information contained in the appendices to this section is not intended by itself, to create any additional obligations not otherwise imposed by this standard nor detract from any existing obligation.
+
+Removal blood lead (µg/100 g) Air lead (µg/m 3 ) Return blood lead (µg/100 g)
+-----------------------------------------------------------------------------
+After Mar. 1, 1980 70 and above 50 and above At or below 50.
+After Mar. 1, 1981 60 and above 30 and above At or below 40.
+After Mar. 1, 1983 50 and above averaged over six months 30 and above Do.
+
+Table 1
+-------
+Permissible airborne lead levels by industry (µg/m 3 ) 1 Effective date Mar. 1, 1979 Mar. 1, 1980 Mar. 1, 1981 Mar. 1, 1982 Mar. 1, 1984 Mar. 1, 1989 (final)
+--------------------------------------------------------------------------------
+1. Primary lead production 200 200 200 100 100 50
+2. Secondary lead production 200 200 200 100 50 50
+3. Lead-acid battery manufacturing 200 200 100 100 50 50
+4. Nonferrous foundries 200 100 100 100 50 50
+5. Lead pigment manufacturing 200 200 200 100 50 50

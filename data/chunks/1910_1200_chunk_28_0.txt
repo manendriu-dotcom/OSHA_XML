@@ -1,0 +1,2 @@
+§ 1910.1200 Hazard communication.
+Acid with pH =1% Category 1. Base with pH >=11.5 >=1% Category 1. Other corrosive (Category 1) ingredients for which additivity does not apply >=1% Category 1. Other irritant (Category 2) ingredients for which additivity does not apply, including acids and bases >=3% Category 2. Table A.3.1—Irreversible Eye Effects ------------------------------------ A substance is classified as Serious Eye Damage Category 1 (irreversible effects on the eye) when it produces:

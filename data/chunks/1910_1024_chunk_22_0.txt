@@ -1,0 +1,23 @@
+§ 1910.1024 Beryllium.
+(ii) Sign specification. (A) The employer must ensure that the warning signs required by paragraph (m)(2)(i) of this standard are legible and readily visible.
+(B) The employer must ensure each warning sign required by paragraph (m)(2)(i) of this standard bears the following legend:
+(3) Warning labels. Consistent with the HCS (§ 1910.1200), the employer must label each immediate container of clothing, equipment, and materials contaminated with beryllium, and must, at a minimum, include the following on the label:
+DANGER
+CONTAINS BERYLLIUM
+MAY CAUSE CANCER
+CAUSES DAMAGE TO LUNGS
+AVOID CREATING DUST
+DO NOT GET ON SKIN
+(4) Employee information and training. (i) For each employee who has, or can reasonably be expected to have, airborne exposure to or dermal contact with beryllium:
+(A) The employer must provide information and training in accordance with the HCS (§ 1910.1200(h));
+(B) The employer must provide initial training to each employee by the time of initial assignment; and
+(C) The employer must repeat the training required under this standard annually for each employee.
+(ii) The employer must ensure that each employee who is, or can reasonably be expected to be, exposed to airborne beryllium can demonstrate knowledge and understanding of the following:
+(A) The health hazards associated with airborne exposure to and dermal contact with beryllium, including the signs and symptoms of CBD;
+(B) The written exposure control plan, with emphasis on the location(s) of beryllium work areas, including any regulated areas, and the specific nature of operations that could result in airborne exposure, especially airborne exposure above the TWA PEL or STEL;
+(C) The purpose, proper selection, fitting, proper use, and limitations of personal protective clothing and equipment, including respirators;
+(D) Applicable emergency procedures;
+(E) Measures employees can take to protect themselves from airborne exposure to and dermal contact with beryllium, including personal hygiene practices;
+(F) The purpose and a description of the medical surveillance program required by paragraph (k) of this standard including risks and benefits of each test to be offered;
+(G) The purpose and a description of the medical removal protection provided under paragraph (l) of this standard;
+(H) The contents of the standard; and

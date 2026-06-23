@@ -1,0 +1,13 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+(i) The employer shall ensure that no employee is under a tower or structure while work is in progress, except when the employer can demonstrate that such a working position is necessary to assist employees working above.
+(ii) The employer shall ensure that employees use tag lines or other similar devices to maintain control of tower sections being raised or positioned, unless the employer can demonstrate that the use of such devices would create a greater hazard to employees.
+(iii) The employer shall ensure that employees do not detach the loadline from a member or section until they safely secure the load.
+(iv) The employer shall ensure that, except during emergency restoration procedures, employees discontinue work when adverse weather conditions would make the work hazardous in spite of the work practices required by this section.
+Note: Note to paragraph ( q )(4)( iv ): Thunderstorms in the vicinity, high winds, snow storms, and ice storms are examples of adverse weather conditions that make this work too hazardous to perform even after the employer implements the work practices required by this section.
+(r) Line-clearance tree trimming. This paragraph provides additional requirements for line-clearance tree trimming and for equipment used in this type of work.
+(1) Electrical hazards. This paragraph does not apply to qualified employees.
+(i) Before an employee climbs, enters, or works around any tree, a determination shall be made of the nominal voltage of electric power lines posing a hazard to employees. However, a determination of the maximum nominal voltage to which an employee will be exposed may be made instead, if all lines are considered as energized at this maximum voltage.
+(ii) There shall be a second line-clearance tree trimmer within normal (that is, unassisted) voice communication under any of the following conditions:
+(A) If a line-clearance tree trimmer is to approach more closely than 3.05 meters (10 feet) to any conductor or electric apparatus energized at more than 750 volts or
+(B) If branches or limbs being removed are closer to lines energized at more than 750 volts than the distances listed in Table R-5, Table R-6, Table R-7, and Table R-8 or
+(C) If roping is necessary to remove branches or limbs from such conductors or apparatus.

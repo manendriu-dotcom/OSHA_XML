@@ -1,0 +1,16 @@
+§ 1910.1025 Lead.
+(ii) Written plans for these compliance programs shall include at least the following:
+(A) A description of each operation in which lead is emitted; e.g. machinery used, material processed, controls in place, crew size, employee job responsibilities, operating procedures and maintenance practices;
+(B) A description of the specific means that will be employed to achieve compliance, including engineering plans and studies used to determine methods selected for controlling exposure to lead;
+(C) A report of the technology considered in meeting the permissible exposure limit;
+(D) Air monitoring data which documents the source of lead emissions;
+(E) A detailed schedule for implementation of the program, including documentation such as copies of purchase orders for equipment, construction contracts, etc.;
+(F) A work practice program which includes items required under paragraphs (g), (h) and (i) of this regulation;
+(G) An administrative control schedule required by paragraph (e)(5) of this section, if applicable;
+(H) Other relevant information.
+(iii) Written programs shall be submitted upon request to the Assistant Secretary and the Director, and shall be available at the worksite for examination and copying by the Assistant Secretary, Director, any affected employee or authorized employee representatives.
+(iv) Written programs must be revised and updated at least annually to reflect the current status of the program.
+(4) Mechanical ventilation. (i) When ventilation is used to control exposure, measurements which demonstrate the effectiveness of the system in controlling exposure, such as capture velocity, duct velocity, or static pressure shall be made at least every 3 months. Measurements of the system's effectiveness in controlling exposure shall be made within 5 days of any change in production, process, or control which might result in a change in employee exposure to lead.
+(ii) Recirculation of air. If air from exhaust ventilation is recirculated into the workplace, the employer shall assure that (A) the system has a high efficiency filter with reliable back-up filter; and (B) controls to monitor the concentration of lead in the return air and to bypass the recirculation system automatically if it fails are installed, operating, and maintained.
+(5) Administrative controls. If administrative controls are used as a means of reducing employees TWA exposure to lead, the employer shall establish and implement a job rotation schedule which includes:
+(i) Name or identification number of each affected employee;

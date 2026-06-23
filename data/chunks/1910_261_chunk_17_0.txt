@@ -1,0 +1,12 @@
+§ 1910.261 Pulp, paper, and paperboard mills.
+(j) Stock preparation —(1) Pulp shredders. (i) Cutting heads shall be completely enclosed except for an opening at the feed side sufficient to permit only entry of stock. The enclosure shall be bolted or locked in place. The enclosure shall be of solid material or with mesh or other openings not exceeding one-half inch.
+(ii) Either a slanting feed table with its outer edge not less than 36 inches from the cutting head or an automatic feeding device shall be provided.
+(iii) Repairs for cleaning of blockage shall be done only when the shredder is shutdown and control devices locked.
+(2) Pulp conveyors. Pulp conveyors and conveyor drive belts and pulleys shall be fully enclosed, or if open and within 7 feet of the floor, shall be constructed and guarded in accordance with American National Standard B20.1—1957.
+(3) [Reserved]
+(4) Beaters. (i) Beater rolls shall be provided with covers.
+(ii) When cleaning, inspecting, or other work requires that persons enter the beaters, all control devices shall be locked or tagged out, in accordance with paragraph (b)(4) of this section.
+(iii) When beaters are fed from the floor above, the chute opening, if less than 42 inches (1.06 m) from the floor, shall be provided with a guardrail system that meets the requirements in subpart D of this part, or other equivalent enclosures. Openings for manual feeding shall be sufficient only for entry of stock, and shall be provided with at least two permanently secured crossrails or other fall protection system that meet the requirements in subpart D.
+(iv) [Reserved]
+(v) Floors around beaters shall be provided with sufficient drainage to remove wastes.
+(5) Pulpers. (i) All pulpers having the top or any other opening of a vessel less than 42 inches (107 cm) from the floor or work platform shall have such openings guarded by guardrail systems that meet the requirements in subpart D of this part, or other equivalent enclosures. For manual changing, openings shall be sufficient only to permit the entry of stock, and shall be provided with at least two permanently secured crossrails, or other fall protection systems that meet the requirements in subpart D.

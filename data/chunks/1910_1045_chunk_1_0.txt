@@ -1,0 +1,12 @@
+§ 1910.1045 Acrylonitrile.
+(3) An employer relying upon exemption under paragraph (a)(2)(ii) shall maintain records of the objective data supporting that exemption, and of the basis of the employer's reliance on the data, as provided in paragraph (q) of this section.
+(b) Definitions. Acrylonitrile or AN means acrylonitrile monomer, chemical formula CH 2 = CHCN.
+Action level means a concentration of AN of 1 ppm as an eight (8)-hour time-weighted average.
+Assistant Secretary means the Assistant Secretary of Labor for Occupational Safety and Health, U.S. Department of Labor, or designee.
+Authorized person means any person specifically authorized by the employer whose duties require the person to enter a regulated area, or any person entering such an area as a designated representative of employees for the purpose of exercising the opportunity to observe monitoring procedures under paragraph (r) of this section.
+Decontamination means treatment of materials and surfaces by water washdown, ventilation, or other means, to assure that the materials will not expose employees to airborne concentrations of AN above 1 means the Director, National Institute for Occupational Safety and Health, U.S. Department of Health and Human Services, or designee.
+Emergency means any occurrence such as, but not limited to, equipment failure, rupture of containers, or failure of control equipment, which results in an unexpected massive release of AN.
+Liquid AN means AN monomer in liquid form, and liquid or semiliquid polymer intermediates, including slurries, suspensions, emulsions, and solutions, produced during the polymerization of AN.
+OSHA Area Office means the Area Office of the Occupational Safety and Health Administration having jurisdiction over the geographic area where the affected workplace is located.
+(c) Permissible exposure limits —(1) Inhalation. (i) Time weighted average limit (TWA). The employer shall assure that no employee is exposed to an airborne concentration of acrylonitrile in excess of two (2) parts acrylonitrile per million parts of air (2 ppm) as an eight (8)-hour time-weighted average.
+(ii) Ceiling limit. The employer shall assure that no employee is exposed to an airborne concentration of acrylonitrile in excess of ten (10) ppm as averaged over any fifteen (15)-minute period during the work day.

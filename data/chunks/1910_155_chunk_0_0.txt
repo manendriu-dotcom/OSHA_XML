@@ -1,0 +1,12 @@
+§ 1910.155 Scope, application and definitions applicable to this subpart.
+(a) Scope. This subpart contains requirements for fire brigades, and all portable and fixed fire suppression equipment, fire detection systems, and fire or employee alarm systems installed to meet the fire protection requirements of 29 CFR part 1910.
+(b) Application. This subpart applies to all employments except for maritime, construction, and agriculture.
+(c) Definitions applicable to this subpart —(1) After-flame means the time a test specimen continues to flame after the flame source has been removed.
+(2) Aqueous film forming foam (AFFF) means a fluorinated surfactant with a foam stabilizer which is diluted with water to act as a temporary barrier to exclude air from mixing with the fuel vapor by developing an aqueous film on the fuel surface of some hydrocarbons which is capable of suppressing the generation of fuel vapors.
+(3) Approved means acceptable to the Assistant Secretary under the following criteria:
+(i) If it is accepted, or certified, or listed, or labeled or otherwise determined to be safe by a nationally recognized testing laboratory; or
+(ii) With respect to an installation or equipment of a kind which no nationally recognized testing laboratory accepts, certifies, lists, labels, or determines to be safe, if it is inspected or tested by another Federal agency and found in compliance with the provisions of the applicable National Fire Protection Association Fire Code; or
+(iii) With respect to custom-made equipment or related installations which are designed, fabricated for, and intended for use by its manufacturer on the basis of test data which the employer keeps and makes available for inspection to the Assistant Secretary.
+(iv) For the purposes of paragraph (c)(3) of this section:
+(A) Equipment is listed if it is of a kind mentioned in a list which is published by a nationally recognized testing laboratory which makes periodic inspections of the production of such equipment and which states that such equipment meets nationally recognized standards or has been tested and found safe for use in a specified manner;
+(B) Equipment is labeled if there is attached to it a label, symbol, or other identifying mark of a nationally recognized testing laboratory which makes periodic inspections of the production of such equipment, and whose labeling indicates compliance with nationally recognized standards or tests to determine safe use in a specified manner;

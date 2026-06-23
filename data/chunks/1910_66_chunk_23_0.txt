@@ -1,0 +1,14 @@
+§ 1910.66 Powered platforms for building maintenance.
+(vii) A new tag shall be installed at each rope renewal.
+(viii) The original tag shall be stamped with the date of the resocketing, or the original tag shall be retained and a supplemental tag shall be provided when ropes are resocketed. The supplemental tag shall show the date of resocketing and the name of the person or company that resocketed the rope.
+(ix) Winding drum type hoists shall contain at least three wraps of the suspension wire rope on the drum when the suspended unit has reached the lowest possible point of its vertical travel.
+(x) Traction drum and sheave type hoists shall be provided with a wire rope of sufficient length to reach the lowest possible point of vertical travel of the suspended unit, and an additional length of the wire rope of at least four feet (1.2 m).
+(xi) The lengthening or repairing of suspension wire ropes is prohibited.
+(xii) Babbitted fastenings for suspension wire rope are prohibited.
+(8) Control circuits, power circuits and their components. (i) Electrical wiring and equipment shall comply with subpart S of this part, except as otherwise required by this section.
+(ii) Electrical runway conductor systems shall be of a type designed for use in exterior locations, and shall be located so that they do not come into contact with accumulated snow or water.
+(iii) Cables shall be protected against damage resulting from overtensioning or from other causes.
+(iv) Devices shall be included in the control system for the equipment which will provide protection against electrical overloads, three phase reversal and phase failure. The control system shall have a separate method, independent of the direction control circuit, for breaking the power circuit in case of an emergency or malfunction.
+(v) Suspended or supported equipment shall have a control system which will require the operator of the equipment to follow predetermined procedures.
+(vi) The following requirements shall apply to electrical protection devices:
+(A) On installations where the carriage does not have a stability factor of at least four against overturning, electrical contact(s) shall be provided and so connected that the operating devices for the suspended or supported equipment shall be operative only when the carriage is located and mechanically retained at an established operating point.

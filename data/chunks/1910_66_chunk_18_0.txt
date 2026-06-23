@@ -1,0 +1,11 @@
+§ 1910.66 Powered platforms for building maintenance.
+(B) The flooring shall be of a slip-resistant type and shall contain no opening that would allow the passage of life lines, cables and other potential falling objects. If a larger opening is provided, it shall be protected by placing a material under the opening which shall prevent the passage of life lines, cables and potential falling objects.
+(C) The working platfrom shall be provided with a means of suspension that will restrict the platform's inboard to outboard roll about its longitudinal axis to a maximum of 15 degrees from a horizontal plane when moving the live load from the inboard to the outboard side of the platform.
+(D) Any cable suspended from above the platform shall be provided with a means for storage to prevent accumulation of the cable on the floor of the platform.
+(E) All operating controls for the vertical travel of the platform shall be of the continuous-pressure type, and shall be located on the platform.
+(F) Each operating station of every working platform shall be provided with a means of interrupting the power supply to all hoist motors to stop any further powered ascent or descent of the platform.
+(G) The maximum rated speed of the platform shall not exceed 50 feet per minute (0.3 ms) with single speed hoists, nor 75 feet per minute (0.4 ms) with multi-speed hoists.
+(H) Provisions shall be made for securing all tools, water tanks, and other accessories to prevent their movement or accumulation on the floor of the platform.
+(I) Portable fire extinguishers conforming to the provisions of §§ 1910.155 and 1910.157 of this part shall be provided and securely attached on all working platforms.
+(J) Access to and egress from a working platfrom, except for those that land directly on a safe surface, shall be provided by stairs, ladders, platforms and runways conforming to the provisions of subpart D of this part. Access gates shall be self-closing and self-latching.
+(K) Means of access to or egress from a working platform which is 48 inches (1.2 m) or more above a safe surface shall be provided with a guardrail system or ladder handrails that conform to the provisions of subpart D of this part.

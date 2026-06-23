@@ -1,0 +1,12 @@
+§ 1910.219 Mechanical power-transmission apparatus.
+(iv) [Reserved]
+(v) The route followed by the oiler is protected in such manner as to prevent accident.
+(d) Pulleys —(1) Guarding. Pulleys, any parts of which are seven (7) feet or less from the floor or working platform, shall be guarded in accordance with the standards specified in paragraphs (m) and (o) of this section. Pulleys serving as balance wheels (e.g., punch presses) on which the point of contact between belt and pulley is more than six feet six inches (6 ft. 6 in.) from the floor or platform may be guarded with a disk covering the spokes.
+(2) Location of pulleys. (i) Unless the distance to the nearest fixed pulley, clutch, or hanger exceeds the width of the belt used, a guide shall be provided to prevent the belt from leaving the pulley on the side where insufficient clearance exists.
+(ii) [Reserved]
+(3) Broken pulleys. Pulleys with cracks, or pieces broken out of rims, shall not be used.
+(4) Pulley speeds. Pulleys intended to operate at rim speed in excess of manufacturers normal recommendations shall be specially designed and carefully balanced for the speed at which they are to operate.
+(e) Belt, rope, and chain drives —(1) Horizontal belts and ropes. (i) Where both runs of horizontal belts are seven (7) feet or less from the floor level, the guard shall extend to at least fifteen (15) inches above the belt or to a standard height except that where both runs of a horizontal belt are 42 inches or less from the floor, the belt shall be fully enclosed in accordance with paragraphs (m) and (o) of this section.
+(ii) In powerplants or power-development rooms, a guardrail may be used in lieu of the guard required by subdivision (i) of this subparagraph.
+(2) Overhead horizontal belts. (i) Overhead horizontal belts, with lower parts seven (7) feet or less from the floor or platform, shall be guarded on sides and bottom in accordance with paragraph (o)(3) of this section.
+(ii) Horizontal overhead belts more than seven (7) feet above floor or platform shall be guarded for their entire length under the following conditions:

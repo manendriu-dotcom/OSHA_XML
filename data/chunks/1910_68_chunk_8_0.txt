@@ -1,0 +1,15 @@
+§ 1910.68 Manlifts.
+(v) Type. All handholds shall be of the closed type.
+(5) Up limit stops —(i) Requirements. Two separate automatic stop devices shall be provided to cut off the power and apply the brake when a loaded step passes the upper terminal landing. One of these shall consist of a split-rail switch mechanically operated by the step roller and located not more than 6 inches above the top terminal landing. The second automatic stop device may consist of any of the following:
+( a ) Any split-rail switch placed 6 inches above and on the side opposite the first limit switch.
+( b ) An electronic device.
+( c ) A switch actuated by a lever, rod, or plate, the latter to be placed on the "up" side of the head pulley so as to just clear a passing step.
+(ii) Manual reset location. After the manlift has been stopped by a stop device it shall be necessary to reset the automatic stop manually. The device shall be so located that a person resetting it shall have a clear view of both the "up" and "down" runs of the manlift. It shall not be possible to reset the device from any step or platform.
+(iii) Cut-off point. The initial limit stop device shall function so that the manlift will be stopped before the loaded step has reached a point 24 inches above the top terminal landing.
+(iv) Electrical requirements. ( a ) Where such switches open the main motor circuit directly they shall be of the multipole type.
+( b ) Where electronic devices are used they shall be so designed and installed that failure will result in shutting off the power to the driving motor.
+( c ) Where flammable vapors or combustible dusts may be present, electrical installations shall be in accordance with the requirements of subpart S of this part for such locations.
+( d ) Unless of the oil-immersed type controller contacts carrying the main motor current shall be copper to carbon or equal, except where the circuit is broken at two or more points simultaneously.
+(6) Emergency stop —(i) General. An emergency stop means shall be provided.
+(ii) Location. This stop means shall be within easy reach of the ascending and descending runs of the belt.
+(iii) Operation. This stop means shall be so connected with the control lever or operating mechanism that it will cut off the power and apply the brake when pulled in the direction of travel.

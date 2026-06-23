@@ -1,0 +1,19 @@
+§ 1910.1029 Coke oven emissions.
+( 3 ) The oven charged in accordance with the following sequence of requirements:
+( i ) The aspiration system turned on;
+( ii ) Coal charged through the outermost hoppers, either individually or together depending on the capacity of the aspiration system to collect the gases involved;
+( iii ) The charging holes used under paragraph (f)(3)(i)( b )( 3 )( ii ) of this section relidded or otherwise sealed off to prevent leakage of coke oven emissions;
+( iv ) If four hoppers are used, the third hopper discharged and relidded or otherwise sealed off to prevent leakage of coke oven emissions;
+( v ) The final hopper discharged until the gas channel at the top of the oven is blocked and then the chuck door opened and the coal leveled;
+( vi ) When the coal from the final hopper is discharged and the leveling operation complete, the charging hole relidded or otherwise sealed off to prevent leakage of coke oven emissions; and
+( vii ) The aspiration system turned off only after the charging holes have been closed.
+( c ) Establishment and implementation of a detailed written charging procedure, designed and operated to eliminate emissions during charging of each pipeline or enclosed charged battery.
+(ii) Coking. The employer shall operate existing coke oven batteries pursuant to a detailed written procedure established and implemented for the control of coke oven emissions during coking, consisting of at least the following elements:
+( a ) Checking oven back pressure controls to maintain uniform pressure conditions in the collecting main;
+( b ) Repair, replacement and adjustment of oven doors and chuck doors and replacement of door jambs so as to provide a continuous metal-to-metal fit;
+( c ) Cleaning of oven doors, chuck doors and door jambs each coking cycle so as to provide an effective seal;
+( d ) An inspection system and corrective action program to control door emissions to the maximum extent possible; and
+( e ) Luting of doors that are sealed by luting each coking cycle and reluting, replacing or adjusting as necessary to control leakage.
+(iii) Pushing. The employer shall operate existing coke oven batteries with the following work practices to control coke oven emissions during pushing operations:
+( a ) Coke and coal spillage quenched as soon as practicable and not shoveled into a heated oven; and
+( b ) A detailed written procedure for each battery established and implemented for the control of emissions during pushing consisting of the following elements:

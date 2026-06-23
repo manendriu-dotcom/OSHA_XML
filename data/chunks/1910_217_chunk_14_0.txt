@@ -1,0 +1,24 @@
+§ 1910.217 Mechanical power presses.
+(3) Work area. The employer shall provide clearance between machines so that movement of one operator will not interfere with the work of another. Ample room for cleaning machines, handling material, work pieces, and scrap shall also be provided. All surrounding floors shall be kept in good condition and free from obstructions, grease, oil, and water.
+(4) Overloading. The employer shall operate his presses within the tonnage and attachment weight ratings specified by the manufacturer.
+EC27OC91.076
+
+Table O-10
+----------
+Distance of opening from point of operation hazard Maximum width of opening
+---------------------------------------------------------------------------
+1/2 to 1 1/2 1/4
+1 1/2 to 2 1/2 3/8
+2 1/2 to 3 1/2 1/2
+3 1/2 to 5 1/2 5/8
+5 1/2 to 6 1/2 3/4
+6 1/2 to 7 1/2 7/8
+7 1/2 to 12 1/2 1 1/4
+12 1/2 to 15 1/2 1 1/2
+15 1/2 to 17 1/2 1 7/8
+17 1/2 to 31 1/2 2 1/8
+
+(g) Reports of injuries to employees operating mechanical power presses. (1) The employer shall report, within 30 days of the occurrence, all point-of-operation injuries to operators or other employees to either the Director of the Directorate of Standards and Guidance at OSHA, U.S. Department of Labor, Washington, DC 20210 or electronically at http://www.osha.gov/pls/oshaweb/mechanical.html; or to the State Agency administering a plan approved by the Assistant Secretary of Labor for Occupational Safety and Health.
+(2) The report shall include the following information:
+(i) Employer's name, address and location of the workplace (establishment).
+(ii) Employee's name, injury sustained, and the task being performed (operation, set-up, maintenance, or other).

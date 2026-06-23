@@ -1,0 +1,17 @@
+§ 1910.179 Overhead and gantry cranes.
+(v) All foot-brake pedals shall be constructed so that the operator's foot will not easily slip off the pedal.
+(vi) Foot-operated brakes shall be equipped with automatic means for positive release when pressure is released from the pedal.
+(vii) Brakes for stopping the motion of the trolley or bridge shall be of sufficient size to stop the trolley or bridge within a distance in feet equal to 10 percent of full load speed in feet per minute when traveling at full speed with full load.
+(viii) If holding brakes are provided on the bridge or trolleys, they shall not prohibit the use of a drift point in the control circuit.
+(ix) Brakes on trolleys and bridges shall have ample thermal capacity for the frequency of operation required by the service to prevent impairment of functions from overheating.
+(5) Application of trolley brakes. (i) On cab-operated cranes with cab on trolley, a trolley brake shall be required as specified under paragraph (f)(4) of this section.
+(ii) A drag brake may be applied to hold the trolley in a desired position on the bridge and to eliminate creep with the power off.
+(6) Application of bridge brakes. (i) On cab-operated cranes with cab on bridge, a bridge brake is required as specified under paragraph (f)(4) of this section.
+(ii) On cab-operated cranes with cab on trolley, a bridge brake of the holding type shall be required.
+(iii) On all floor, remote and pulpit-operated crane bridge drives, a brake of noncoasting mechanical drive shall be provided.
+(g) Electric equipment —(1) General. (i) Wiring and equipment shall comply with subpart S of this part.
+(ii) The control circuit voltage shall not exceed 600 volts for a.c. or d.c. current.
+(iii) The voltage at pendant push-buttons shall not exceed 150 volts for a.c. and 300 volts for d.c.
+(iv) Where multiple conductor cable is used with a suspended pushbutton station, the station must be supported in some satisfactory manner that will protect the electrical conductors against strain.
+(v) Pendant control boxes shall be constructed to prevent electrical shock and shall be clearly marked for identification of functions.
+(2) Equipment. (i) Electrical equipment shall be so located or enclosed that live parts will not be exposed to accidental contact under normal operating conditions.

@@ -1,77 +1,18 @@
 § 1910.265 Sawmills.
-( e ) Log haul controls shall be located and identified to operate from a position where the operator will, at all times, be in the clear of logs, machinery, lines, and rigging. In operations where control is by lever exposed to incoming logs, the lever shall be arranged to operate the log haul only when moved toward the log slip or toward the log pond.
-( f ) A positive stop shall be installed on all log hauls to prevent logs from traveling too far ahead in the mill.
-( g ) Overhead protection shall be provided for employees working below logs being moved to the log deck.
-( h ) Log wells shall be provided with safeguards to minimize the possibility of logs rolling back into well from log deck.
-(3) Log decks —(i) Access. Safe access to the head rig shall be provided.
-(ii) Stops. Log decks shall be provided with adequate stops, chains, or other safeguards to prevent logs from rolling down the deck onto the carriage or its runway.
-(iii) Barricade. A barricade or other positive stop of sufficient strength to stop any log shall be erected between the sawyer's stand and the log deck.
-(iv) Loose chains. Loose chains from overhead canting devices or other equipment shall not be allowed to hang over the log deck in such manner as to strike employees.
-(v) Swing saws. Swing saws on log decks shall be equipped with a barricade and stops for protection of employees who may be on the opposite side of the log haul chute.
-(vi) Drag saws. Where reciprocating log cutoff saws (drag saws) are provided, they shall not project into walkway or aisle.
-(vii) Circular cutoff saws. Circular log bucking or cutoff saws shall be so located and guarded as to allow safe entrance to and exit from the building.
-(viii) Entrance doorway. Where the cutoff saw partially blocks the entrance from the log haul runway, the entrance shall be guarded.
-(4) Mechanical barkers —(i) Rotary barkers. Rotary barking devices shall be so guarded as to protect employees from flying chips, bark, or other extraneous material.
-(ii) Elevating ramp. If an elevating ramp or gate is used, it shall be provided with a safety chain, hook, or other means of suspension while employees are underneath.
-(iii) Area around barkers. The hazardous area around ring barkers and their conveyors shall be fenced off or posted as a prohibited area for unauthorized persons.
-(iv) Enclosing hydraulic barkers. Hydraulic barkers shall be enclosed with strong baffles at the inlet and outlet. The operator shall be protected by adequate safety glass or equivalent.
-(v) Holddown rolls. Holddown rolls shall be installed at the infeed and outfeed sections of mechanical ring barkers to control the movement of logs.
-(e) Log breakdown and related machinery and facilities —(1) Log carriages and carriage runways —(i) Bumpers. A substantial stop or bumper with adequate shock-absorptive qualities shall be installed at each end of the carriage runway.
-(ii) Footing. Rider-type carriages shall be floored to provide secure footing and a firm working platform for the block setter.
-(iii) Sheave housing. Sheaves on rope-driven carriages shall be guarded at floor line with substantial housings.
-(iv) Carriage control. A positive means shall be provided to prevent unintended movement of the carriage. This may involve a control locking device, a carriage tie-down, or both.
-(v) Barriers and warning signs. A barrier shall be provided to prevent employees from entering the space necessary for travel of the carriage, with headblocks fully receded, for the full length and extreme ends of carriage runways. Warning signs shall be posted at possible entry points to this area.
-(vi) Overhead clearance. For a rider-type carriage adequate overhead clear space above the carriage deck shall be provided for the full carriage runway length.
-(vii) Sweeping devices. Carriage track sweeping devices shall be used to keep track rails clear of debris.
-(viii) Dogs. Dogging devices shall be adequate to secure logs, cants, or boards, during sawing operations.
-(2) Head saws —(i) Band head saws. ( a ) Band head saws shall not be operated at speeds in excess of those recommended by the manufacturer
-( b ) Band head saws shall be thoroughly inspected for cracks, splits, broken teeth, and other defects. A bandsaw with a crack greater than one-tenth the width of the saw shall not be placed in service until width of saw is reduced to eliminate crack, until cracked section is removed, or crack development is stopped.
-( c ) Provisions shall be made for alerting and warning employees before starting band head saws, and measures shall be taken to insure that all persons are in the clear.
-(ii) Bandsaw wheels. ( a ) No bandsaw wheel shall be run at a peripheral speed in excess of that recommended by the manufacturer. The manufacturer's recommended maximum speed shall be stamped in plainly legible figures on some portion of the wheel.
-( b ) Band head saw wheels shall be subjected to monthly inspections. Hubs, spokes, rims, bolts, and rivets shall be thoroughly examined in the course of such inspections. A loose or damaged hub, a rim crack, or loose spokes shall make the wheel unfit for service.
-( c ) Band wheels shall be completely encased or guarded, except for a portion of the upper wheel immediately around the point where the blade leaves the wheel, to permit operator to observe movement of equipment. Necessary ventilating and observation ports may be permitted. Substantial doors or gates are allowed for repair, lubrication, and saw changes; such doors or gates shall be closed securely during operation. Band head rigs shall be equipped with a saw catcher or guard of substantial construction.
-(iii) Single circular head saws. ( a ) Circular head saws shall not be operated at speeds in excess of those specified by the manufacturer. Maximum speed shall be etched on the saw.
-( b ) Circular head saws shall be equipped with safety guides which can be readily adjusted without use of hand tools.
-( c ) The upper saw of a double circular mill shall be provided with a substantial hood or guard. A screen or other suitable device shall be placed so as to protect the sawyer from flying particles.
-( d ) All circular sawmills where live rolls are not used behind the head saw shall be equipped with a spreader wheel or splitter.
-(iv) Twin circular head saws. Twin circular head saws rigs such as scrag saws shall meet the specifications for single circular head saws in paragraph (e)(2)(iii) of this section where applicable.
-(v) Whole-log sash gang saws (Swedish gangs). ( a ) Cranks, pitman rods, and other moving parts shall be adequately guarded.
-( b ) Feed rolls shall be enclosed by a cover over the top, front, and open ends except where guarded by location. Drive mechanism to feed rolls shall be enclosed.
-( c ) Carriage cradles of whole-log sash gang saws (Swedish gangs), shall be of adequate height to prevent logs from kicking out while being loaded.
-(3) Resaws —(i) Band resaws. Band resaws shall meet the specifications for band head saws as required by paragraph (e)(2)(i) of this section.
-(ii) Circular gang resaws. ( a ) Banks of circular gang resaws shall be guarded by a hood.
-( b ) Circular gang resaws shall be provided with safety fingers or other antikickback devices.
-( c ) Circular gang resaws shall not be operated at speeds exceeding those recommended by the manufacturer.
-( d ) [Reserved]
-( e ) Feed rolls shall be guarded.
-( f ) Each circular gang resaw, except self-feed saws with a live roll or wheel at back of saw, shall be provided with spreaders.
-(iii) Sash gang resaws. Sash gang resaws shall meet the safety specifications of whole-log sash gang saws in accordance with the requirements of paragraph (e)(2)(v) of this section.
-(4) Trimmer saws —(i) Maximum speed. Trimmer saws shall not be run at peripheral speeds in excess of those recommended by the manufacturer.
-(ii) Guards. ( a ) Trimmer saws shall be guarded in front by adequate baffles to protect against flying debris and they shall be securely bolted to a substantial frame. These guards for a series of saws shall be set as close to the top of the trimmer table as is practical.
-( b ) The end saws on trimmer shall be guarded.
-( c ) The rear of trimmer saws shall have a guard the full width of the saws and as much wider as practical.
-(iii) Safety stops. Automatic trimmer saws shall be provided with safety stops or hangers to prevent saws from dropping on table.
-(5) Edgers —(i) Location. ( a ) Where vertical arbor edger saws are located ahead of the main saw, they shall be so guarded that an employee cannot contact any part of the edger saw from his normal position.
-( b ) Edgers shall not be located in the main roll case behind the head saws.
-(ii) Guards. ( a ) The top and the openings in end and side frames of edgers shall be adequately guarded and gears and chains shall be fully housed. Guards may be hinged or otherwise arranged to permit oiling and the removal of saws.
-( b ) All edgers shall be equipped with pressure feed rolls.
-( c ) Pressure feed rolls on edgers shall be guarded against accidental contact.
-(iii) Antikickback devices. ( a ) Edgers shall be provided with safety fingers or other approved methods of preventing kickbacks or guarding against them. A barricade in line with the edger, if properly fenced off, may be used if safety fingers are not feasible to install.
-( b ) A controlling device shall be installed and located so that the operator can stop the feed mechanism without releasing the tension of the pressure rolls.
-(iv) Operating speed of live rolls. Live rolls and tailing devices in back of edger shall operate at a speed not less than the speed of the edger feed rolls.
-(6) Planers —(i) Guards. ( a ) All cutting heads shall be guarded.
-( b ) Side head hoods shall be of sufficient height to safeguard the head setscrew.
-( c ) Pressure feed rolls and "pineapples" shall be guarded.
-( d ) Levers or controls shall be so arranged or guarded as to reduce the possibility of accidental operation.
-(f) Dry kilns and facilities —(1) Kiln foundations. Dry kilns shall be constructed upon solid foundations to prevent tracks from sagging
-(2) Passageways. A passageway shall be provided to give adequate clearance on at least one side or in the center of end-piled kilns and on two sides of cross-piled kilns.
-(3) Doors —(i) Main kiln doors. ( a ) Main kiln doors shall be provided with a method of holding them open while kiln is being loaded.
-( b ) Counterweights on vertical lift doors shall be boxed or otherwise guarded.
-( c ) Adequate means shall be provided to firmly secure main doors, when they are disengaged from carriers and hangers, to prevent toppling.
-(ii) Escape doors. ( a ) If operating procedures require access to kilns, kilns shall be provided with escape doors that operate easily from the inside, swing in the direction of exit, and are located in or near the main door at the end of the passageway.
-( b ) Escape doors shall be of adequate height and width to accommodate an average size man.
-(4) Pits. Pits shall be well ventilated, drained, and lighted, and shall be large enough to safely accommodate the kiln operator together with operating devices such as valves, dampers, damper rods, and traps.
-(5) Steam mains. All high-pressure steam mains located in or adjacent to an operating pit shall be covered with heat-insulating material.
-(6) Ladders. A fixed ladder complying with the requirements of subpart D of this part, or other adequate means, shall be provided to permit access to the roof. Where controls and machinery are mounted on the roof, a permanent stairway with standard handrail shall be installed in accordance with the requirements in subpart D.
-(7) Chocks. A means shall be provided for chocking or blocking cars.
-(8) Kiln tender room. A warm room shall be provided for kiln employees to stay in during cold weather after leaving a hot kiln.
+(13) Crotch lines. The term crotch lines means two short lines attached to a hoisting line by a ring or shackle, the lower ends being attached to loading hooks.
+(14) Dog (carriage dog). The term dog means a steel tooth, one or more of which are attached to each carriage knee to hold log firmly in place on carriage.
+(15) Drag saw. The term drag saw means a power-driven, reciprocating crosscut saw mounted on suitable frame and used for bucking logs.
+(16) Head block. The term head block means that part of a carriage which holds the log and upon which it rests. It generally consists of base, knee, taper set, and mechanism.
+(17) Head rig. The term head rig means a combination of head saw and log carriage used for the initial breakdown of logs into timbers, cants, and boards.
+(18) Hog. The term hog means a machine for cutting or grinding slabs and other coarse residue from the mill.
+(19) Husk. The term husk means a head saw framework on a circular mill.
+(20) Industrial truck. The term industrial truck means a mobile powerdriven truck or tractor.
+(21) Kiln tender. The term kiln tender means the operator of a kiln.
+(22) Lift truck. The term lift truck means an industrial truck used for lateral transportation and equipped with a power-operated lifting device, usually in the form of forks, for piling or unpiling lumber units or packages.
+(23) Live rolls. The term live rolls means cylinders of wood or metal mounted on horizontal axes and rotated by power, which are used to convey slabs, lumber, and other wood products.
+(24) Loading boom. The term loading boom means any structure projecting from a pivot point to guide a log when lifted.
+(25) Log deck. The term Log deck means a platform in the sawmill on which the logs remain until needed for sawing.
+(26) Lumber hauling truck. The term lumber hauling truck means an industrial truck, other than a lift truck or a carrier, used for the transport of lumber.
+(27) Log haul. The term log haul means a conveyor for transferring logs to mill.
+(28) Package. The term package means a unit of lumber.
+(29) Peavy. The term peavy means a stout wooden handle fitted with a spike and hook and used for rolling logs.

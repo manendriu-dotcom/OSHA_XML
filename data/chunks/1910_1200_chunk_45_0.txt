@@ -1,0 +1,6 @@
+§ 1910.1200 Hazard communication.
+(a) reliable and good quality evidence from human cases or epidemiological studies; or,
+(b) observations from appropriate studies in experimental animals in which significant and/or severe toxic effects, of relevance to human health, were produced at generally low exposure concentrations. Guidance dose/concentration values are provided below (See A.9.2.9) to be used as part of weight-of-evidence evaluation.
+CATEGORY 2: Substances that, on the basis of evidence from studies in experimental animals can be presumed to have the potential to be harmful to human health following repeated or prolonged exposure
+Substances are classified in Category 2 for specific target organ toxicity (repeated exposure) on the basis of observations from appropriate studies in experimental animals in which significant toxic effects, of relevance to human health, were produced at generally moderate exposure concentrations. Guidance dose/concentration values are provided below (See A.9.2.9) in order to help in classification.
+In exceptional cases human evidence can also be used to place a substance in Category 2 (See A.9.2.6).

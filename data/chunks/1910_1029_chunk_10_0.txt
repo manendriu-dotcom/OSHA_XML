@@ -1,0 +1,17 @@
+§ 1910.1029 Coke oven emissions.
+( c ) An adequate number of spare doors available for replacement purposes;
+( d ) Chuck door gaskets to control chuck door emissions until such door is repaired, or replaced; and
+( e ) Heat shields on door machines.
+(3) Work practice controls —(i) Charging. The employer shall operate existing coke oven batteries with all of the following work practices to control coke oven emissions during the charging operation:
+( a ) Establishment and implementation of a detailed, written inspection and cleaning procedure for each battery consisting of at least the following elements:
+( 1 ) Prompt and effective repair or replacement of all engineering controls;
+( 2 ) Inspection and cleaning of goosenecks and standpipes prior to each charge to a specified minimum diameter sufficient to effectively move the evolved gases from the oven to the collector mains;
+( 3 ) Inspection for roof carbon build-up prior to each charge and removal of roof carbon as necessary to provide an adequate gas channel so that the gases are effectively moved from the oven into the collector mains;
+( 4 ) Inspection of the steam aspiration system prior to each charge so that sufficient pressure and volume is maintained to effectively move the gases from the oven to the collector mains;
+( 5 ) Inspection of steam nozzles and liquor sprays prior to each charge and cleaning as necessary so that the steam nozzles and liquor sprays are clean;
+( 6 ) Inspection of standpipe caps prior to each charge and cleaning and luting or both as necessary so that the gases are effectively moved from the oven to the collector mains; and
+( 7 ) Inspection of charging holes and lids for cracks, warpage and other defects prior to each charge and removal of carbon to prevent emissions, and application of luting material to standpipe and charging hole lids where necessary to obtain a proper seal.
+( b ) Establishment and implementation of a detailed written charging procedure, designed and operated to eliminate emissions during charging for each battery, consisting of at least the following elements:
+( 1 ) Larry car hoppers filled with coal to a predetermined level in accordance with the mechanical volumetric controls required under paragraph (f)(2)(i)( d ) of this section so as to maintain a sufficient gas passage in the oven to be charged;
+( 2 ) The larry car aligned over the oven to be charged, so that the drop sleeves fit tightly over the charging holes; and
+( 3 ) The oven charged in accordance with the following sequence of requirements:

@@ -1,0 +1,21 @@
+§ 1910.137 Electrical protective equipment.
+(a) Design requirements for specific types of electrical protective equipment. Rubber insulating blankets, rubber insulating matting, rubber insulating covers, rubber insulating line hose, rubber insulating gloves, and rubber insulating sleeves shall meet the following requirements:
+(1) Manufacture and marking of rubber insulating equipment. (i) Blankets, gloves, and sleeves shall be produced by a seamless process.
+(ii) Each item shall be clearly marked as follows:
+(A) Class 00 equipment shall be marked Class 00.
+(B) Class 0 equipment shall be marked Class 0.
+(C) Class 1 equipment shall be marked Class 1.
+(D) Class 2 equipment shall be marked Class 2.
+(E) Class 3 equipment shall be marked Class 3.
+(F) Class 4 equipment shall be marked Class 4.
+(G) Nonozone-resistant equipment shall be marked Type I.
+(H) Ozone-resistant equipment shall be marked Type II.
+(I) Other relevant markings, such as the manufacturer's identification and the size of the equipment, may also be provided.
+(iii) Markings shall be nonconducting and shall be applied in such a manner as not to impair the insulating qualities of the equipment.
+(iv) Markings on gloves shall be confined to the cuff portion of the glove.
+(2) Electrical requirements. (i) Equipment shall be capable of withstanding the ac proof-test voltage specified in Table I-1 or the dc proof-test voltage specified in Table I-2.
+(A) The proof test shall reliably indicate that the equipment can withstand the voltage involved.
+(B) The test voltage shall be applied continuously for 3 minutes for equipment other than matting and shall be applied continuously for 1 minute for matting.
+(C) Gloves shall also be capable of separately withstanding the ac proof-test voltage specified in Table I-1 after a 16-hour water soak. (See the note following paragraph (a)(3)(ii)(B) of this section.)
+(ii) When the ac proof test is used on gloves, the 60-hertz proof-test current may not exceed the values specified in Table I-1 at any time during the test period.
+(A) If the ac proof test is made at a frequency other than 60 hertz, the permissible proof-test current shall be computed from the direct ratio of the frequencies.

@@ -1,0 +1,12 @@
+§ 1910.1044 1,2-dibromo-3-chloropropane.
+(ii) In classifying the hazards of DBCP at least the following hazards are to be addressed: Cancer; reproductive effects; liver effects; kidney effects; central nervous system effects; skin, eye and respiratory tract irritation; and acute toxicity effects.
+(iii) Employers shall include DBCP in the hazard communication program established to comply with the HCS (§ 1910.1200). Employers shall ensure that each employee has access to labels on containers of DBCP and to safety data sheets, and is trained in accordance with the requirements of HCS and paragraph (n) of this section.
+(iv) The employer shall ensure that no statement appears on or near any sign or label required by this paragraph (o) which contradicts or detracts from the meaning of the required sign or label.
+(2) Signs. (i) The employer shall post signs to clearly indicate all regulated areas. These signs shall bear the legend:
+(ii) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (o)(2) of this section:
+(3) Labels. (i) Where DBCP or products containing DBCP are sold, distributed or otherwise leave the employer's workplace bearing appropriate labels required by EPA under the regulations in 40 CFR Part 162, the labels required by this paragraph (o)(3) need not be affixed.
+(ii) The employer shall ensure that the precautionary labels required by this paragraph (o)(3) are readily visible and legible.
+(iii) Prior to June 1, 2015, employers may include the following information on containers of DBCP or products containing DBCP, DBCP-contaminated protective devices or work clothing or DBCP-contaminated portable vacuums in lieu of the labeling requirements in paragraphs (j)(2)(v), (k)(l)(iii)(b) and (o)(1)(i) of this section:
+(p) Recordkeeping —(1) Exposure monitoring. (i) The employer shall establish and maintain an accurate record of all monitoring required by paragraph (f) of this section.
+(ii) This record shall include:
+( a ) The dates, number, duration and results of each of the samples taken, including a description of the sampling procedure used to determine representative employee exposure;

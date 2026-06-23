@@ -1,0 +1,11 @@
+§ 1910.1000 Air contaminants.
+(2)(i) In case of a mixture of air contaminants an employer shall compute the equivalent exposure as follows:
+E m = (C 1 ÷ L 1 + C 2 ÷ L 2 ) + . . .(C n ÷ L n )
+(ii) To illustrate the formula prescribed in paragraph (d)(2)(i) of this section, consider the following exposures:
+
+Substance Actual concentration of 8-hour exposure (ppm) 8-hour TWA PEL (ppm)
+----------------------------------------------------------------------------
+B 500 1,000
+C 45 200
+D 40 200
+

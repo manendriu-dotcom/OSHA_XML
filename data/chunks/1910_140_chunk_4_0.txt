@@ -1,0 +1,15 @@
+§ 1910.140 Personal fall protection systems.
+(5) Self-retracting lifelines and lanyards that automatically limit free fall distance to 2 feet (0.61 m) or less must have components capable of sustaining a minimum tensile load of 3,000 pounds (13.3 kN) applied to the device with the lifeline or lanyard in the fully extended position.
+(6) A competent person or qualified person must inspect each knot in a lanyard or vertical lifeline to ensure that it meets the requirements of paragraphs (c)(4) and (5) of this section before any employee uses the lanyard or lifeline.
+(7) D-rings, snaphooks, and carabiners must be capable of sustaining a minimum tensile load of 5,000 pounds (22.2 kN).
+(8) D-rings, snaphooks, and carabiners must be proof tested to a minimum tensile load of 3,600 pounds (16 kN) without cracking, breaking, or incurring permanent deformation. The gate strength of snaphooks and carabiners must be capable of withstanding a minimum load of 3,600 pounds (16 kN) without the gate separating from the nose of the snaphook or carabiner body by more than 0.125 inches (3.175 mm).
+(9) Snaphooks and carabiners must be the automatic locking type that require at least two separate, consecutive movements to open.
+(10) Snaphooks and carabiners must not be connected to any of the following unless they are designed for such connections:
+(i) Directly to webbing, rope, or wire rope;
+(ii) To each other;
+(iii) To a D-ring to which another snaphook, carabiner, or connector is attached;
+(iv) To a horizontal life line; or
+(v) To any object that is incompatibly shaped or dimensioned in relation to the snaphook or carabiner such that unintentional disengagement could occur when the connected object depresses the snaphook or carabiner gate, allowing the components to separate.
+(11) The employer must ensure that each horizontal lifeline:
+(i) Is designed, installed, and used under the supervision of a qualified person; and
+(ii) Is part of a complete personal fall arrest system that maintains a safety factor of at least two.

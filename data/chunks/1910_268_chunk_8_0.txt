@@ -1,0 +1,9 @@
+§ 1910.268 Telecommunications.
+(4) Torches. Torches may be used on aerial splicing platforms or in buckets enclosed by tents provided the tent material is constructed of fire resistant material and the torch is turned off when not in actual use. Aerial tents shall be adequately ventilated while the torch is in operation.
+(5) Portable power equipment. Nominal 120V, or less, portable generators used for providing power at work locations do not require grounding if the output circuit is completely isolated from the frame of the unit.
+(6) Vehicle-mounted utility generators. Vehicle-mounted utility generators used for providing nominal 240V AC or less for powering portable tools and equipment need not be grounded to earth if all of the following conditions are met:
+(i) One side of the voltage source is solidly strapped to the metallic structure of the vehicle;
+(ii) Grounding-type outlets are used, with a "grounding" conductor between the outlet grounding terminal and the side of the voltage source that is strapped to the vehicle;
+(iii) All metallic encased tools and equipment that are powered from this system are equipped with three-wire cords and grounding-type attachment plugs, except as designated in paragraph (i)(7) of this section.
+(7) Portable lights, tools, and appliances. Portable lights, tools, and appliances having noncurrent-carrying external metal housing may be used with power equipment described in paragraph (i)(5) of this section without an equipment grounding conductor. When operated from commercial power such metal parts of these devices shall be grounded, unless these tools or appliances are protected by a system of double insulation, or its equivalent. Where such a system is employed, the equipment shall be distinctively marked to indicate double insulation.
+(8) Soldering devices. Grounding shall be omitted when using soldering irons, guns or wire-wrap tools on telecommunications circuits.

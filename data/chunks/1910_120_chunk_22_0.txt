@@ -1,0 +1,16 @@
+§ 1910.120 Hazardous waste operations and emergency response.
+(iv) PPE maintenance and storage,
+(v) PPE decontamination and disposal,
+(vi) PPE training and proper fitting,
+(vii) PPE donning and doffing procedures,
+(viii) PPE inspection procedures prior to, during, and after use,
+(ix) Evaluation of the effectiveness of the PPE program, and
+(x) Limitations during temperature extremes, heat stress, and other appropriate medical considerations.
+(h) Monitoring —(1) General. (i) Monitoring shall be performed in accordance with this paragraph where there may be a question of employee exposure to hazardous concentrations of hazardous substances in order to assure proper selection of engineering controls, work practices and personal protective equipment so that employees are not exposed to levels which exceed permissible exposure limits, or published exposure levels if there are no permissible exposure limits, for hazardous substances.
+(ii) Air monitoring shall be used to identify and quantify airborne levels of hazardous substances and safety and health hazards in order to determine the appropriate level of employee protection needed on site.
+(2) Initial entry. Upon initial entry, representative air monitoring shall be conducted to identify any IDLH condition, exposure over permissible exposure limits or published exposure levels, exposure over a radioactive material's dose limits or other dangerous condition such as the presence of flammable atmospheres or oxygen-deficient environments.
+(3) Periodic monitoring. Periodic monitoring shall be conducted when the possibility of an IDLH condition or flammable atmosphere has developed or when there is indication that exposures may have risen over permissible exposure limits or published exposure levels since prior monitoring. Situations where it shall be considered whether the possibility that exposures have risen are as follows:
+(i) When work begins on a different portion of the site.
+(ii) When contaminants other than those previously identified are being handled.
+(iii) When a different type of operation is initiated (e.g., drum opening as opposed to exploratory well drilling).
+(iv) When employees are handling leaking drums or containers or working in areas with obvious liquid contamination (e.g., a spill or lagoon).

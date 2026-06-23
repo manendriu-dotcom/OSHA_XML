@@ -1,0 +1,14 @@
+§ 1910.218 Forging machines.
+(a) General requirements —(1) Use of lead. The safety requirements of this subparagraph apply to lead casts or other use of lead in the forge shop or die shop.
+(i) Thermostatic control of heating elements shall be provided to maintain proper melting temperature and prevent overheating.
+(ii) Fixed or permanent lead pot installations shall be exhausted.
+(iii) Portable units shall be used only in areas where good, general room ventilation is provided.
+(iv) Personal protective equipment (gloves, goggles, aprons, and other items) shall be worn.
+(v) A covered container shall be provided to store dross skimmings.
+(vi) Equipment shall be kept clean, particularly from accumulations of yellow lead oxide.
+(2) Inspection and maintenance. It shall be the responsibility of the employer to maintain all forge shop equipment in a condition which will insure continued safe operation. This responsibility includes:
+(i) Establishing periodic and regular maintenance safety checks and keeping certification records of these inspections which include the date of inspection, the signature of the person who performed the inspection and the serial number, or other identifier, for the forging machine which was inspected.
+(ii) Scheduling and recording the inspection of guards and point of operation protection devices at frequent and regular intervals. Recording of inspections shall be in the form of a certification record which includes the date the inspection was performed, the signature of the person who performed the inspection and the serial number, or other identifier, of the equipment inspected.
+(iii) Training personnel for the proper inspection and maintenance of forging machinery and equipment.
+(iv) All overhead parts shall be fastened or protected in such a manner that they will not fly off or fall in event of failure.
+(3) Hammers and presses. (i) All hammers shall be positioned or installed in such a manner that they remain on or are anchored to foundations sufficient to support them according to applicable engineering standards.

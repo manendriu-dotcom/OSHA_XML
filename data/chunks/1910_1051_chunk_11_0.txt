@@ -1,0 +1,13 @@
+§ 1910.1051 1,3-Butadiene.
+ (b) Any powered air-purifying respirator equipped with approved BD or organic vapor cartridges. PAPR cartridges shall be replaced every 2 hours.
+ (c) Continuous flow supplied air respirator equipped with a hood or helmet.
+Less than or equal to 50 ppm (50 times PEL) (a) Air-purifying full facepiece respirator equipped with approved BD or organic vapor cartridges or canisters. Cartridges or canisters shall be replaced every (1) hour.
+ (b) Powered air-purifying respirator equipped with a tight-fitting facepiece and an approved BD or organic vapor cartridges. PAPR cartridges shall be replaced every (1) hour.
+Less than or equal to 1,000 ppm (1,000 times PEL) (a) Supplied air respirator equipped with a half mask of full facepiece and operated in a pressure demand or other positive pressure mode.
+Greater than 1000 ppm unknown concentration, or firefighting (a) Self-contained breathing apparatus equipped with a full facepiece and operated in a pressure demand or other positive pressure mode.
+ (b) Any supplied air respirator equipped with a full facepiece and operated in a pressure demand or other positive pressure mode in combination with an auxiliary self-contained breathing apparatus operated in a pressure demand or other positive pressure mode.
+Escape from IDLH conditions (a) Any positive pressure self-contained breathing apparatus with an appropriate service life.
+ (b) A air-purifying full facepiece respirator equipped with a front or back mounted BD or organic vapor canister.
+
+(ii) Air-purifying respirators must have filter elements approved by NIOSH for organic vapors or BD.
+(iii) When an employee whose job requires the use of a respirator cannot use a negative-pressure respirator, the employer must provide the employee with a respirator that has less breathing resistance than the negative-pressure respirator, such as a powered air- purifying respirator or supplied-air respirator, when the employee is able to use it and if it provides the employee adequate protection.

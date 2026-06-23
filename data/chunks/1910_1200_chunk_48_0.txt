@@ -1,0 +1,2 @@
+§ 1910.1200 Hazard communication.
+regarded as if they cause human aspiration toxicity hazard A substance shall be classified in Category 1: (a) If reliable and good quality human evidence indicates that it causes aspiration toxicity (See note); or (b) If it is a hydrocarbon and has a kinematic viscosity <=20.5 mm 2 /s, measured at 40 degrees C. Table B.2.1—Criteria for Flammable Gases ---------------------------------------- Category Criteria ----------------- 1 Gases, which at 20 degrees C (68 degrees F) and a standard pressure of 101.3 kPa (14.7 psi):

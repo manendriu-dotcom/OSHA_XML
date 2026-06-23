@@ -1,0 +1,4 @@
+§ 1910.211 Definitions.
+(8) Point of operation means that point at which cutting, shaping, or forming is accomplished upon the stock and shall include such other points as may offer a hazard to the operator in inserting or manipulating the stock in the operation of the machine.
+(9) Prime movers include steam, gas, oil, and air engines, motors, steam and hydraulic turbines, and other equipment used as a source of power.
+(10) Sheaves mean grooved pulleys, and shall be so classified unless used as flywheels.

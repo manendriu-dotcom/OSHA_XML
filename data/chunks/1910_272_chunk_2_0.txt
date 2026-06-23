@@ -1,0 +1,12 @@
+§ 1910.272 Grain handling facilities.
+(i) General safety precautions associated with the facility, including recognition and preventive measures for the hazards related to dust accumulations and common ignition sources such as smoking; and,
+(ii) Specific procedures and safety practices applicable to their job tasks including but not limited to, cleaning procedures for grinding equipment, clearing procedures for choked legs, housekeeping procedures, hot work procedures, preventive maintenance procedures and lock-out/tag-out procedures.
+(2) Employees assigned special tasks, such as bin entry and handling of flammable or toxic substances, shall be provided training to perform these tasks safely.
+Note: Note to paragraph ( e )(2): Training for an employee who enters grain storage structures includes training about engulfment and mechanical hazards and how to avoid them.
+(f) Hot work permit. (1) The employer shall issue a permit for all hot work, with the following exceptions:
+(i) Where the employer or the employer's representative (who would otherwise authorize the permit) is present while the hot work is being performed;
+(ii) In welding shops authorized by the employer;
+(iii) In hot work areas authorized by the employer which are located outside of the grain handling structure.
+(2) The permit shall certify that the requirements contained in § 1910.252(a) have been implemented prior to beginning the hot work operations. The permit shall be kept on file until completion of the hot work operations.
+(g) Entry into grain storage structures. This paragraph applies to employee entry into bins, silos , tanks, and other grain storage structures. Exception: Entry through unrestricted ground level openings into flat storage structures in which there are no toxicity, flammability, oxygen-deficiency, or other atmospheric hazards is covered by paragraph (h) of this section. For the purposes of this paragraph (g), the term "grain" includes raw and processed grain and grain products in facilities within the scope of paragraph (b)(1) of this section.
+(1) The following actions shall be taken before employees enter bins, silos, or tanks:

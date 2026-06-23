@@ -1,0 +1,15 @@
+§ 1910.211 Definitions.
+(a) As used in §§ 1910.213 and 1910.214 unless the context clearly requires otherwise, the following woodworking machinery terms shall have the meaning prescribed in this paragraph.
+(1) Point of operations means that point at which cutting, shaping, boring, or forming is accomplished upon the stock.
+(2) Push stick means a narrow strip of wood or other soft material with a notch cut into one end and which is used to push short pieces of material through saws.
+(3) Block means a short block of wood, provided with a handle similar to that of a plane and a shoulder at the rear end, which is used for pushing short stock over revolving cutters.
+(b) As used in § 1910.215 unless the context clearly requires otherwise, the following abrasive wheel machinery terms shall have the meanings prescribed in this paragraph.
+(1) Type 1 straight wheels means wheels having diameter, thickness, and hole size dimensions, and they should be used only on the periphery. Type 1 wheels shall be mounted between flanges.
+Figure No. 0-1—Type 1 Straight Wheels EC27OC91.052 Type 1—Straight Wheel
+Peripheral grinding wheel having a diameter, thickness and hole.
+(2) Type 2 cylinder wheels means wheels having diameter, wheel thickness, and rim thickness dimensions. Grinding is performed on the rim face only, dimension W. Cylinder wheels may be plain, plate mounted, inserted nut, or of the projecting stud type.
+Figure No. 0-2—Type 2 Cylinder Wheels EC27OC91.053 Type 2—Cylinder Wheel
+(3) Type 6 straight cup wheels means wheels having diameter, thickness, hole size, rim thickness, and back thickness dimensions. Grinding is always performed on rim face, W dimension.
+Figure No. 0-3—Type 6 Straight Cup Wheels EC27OC91.054 Type 6—Straight-cup Wheel
+(4) Type 11 flaring cup wheels mean wheels having double diameter dimensions D and J, and in addition have thickness, hole size, rim and back thickness dimensions. Grinding is always performed on rim face, W dimension. Type 11 wheels are subject to all limitations of use and mounting listed for type 6 straight sided cup wheels definition.
+Figure No. 0-4—Type 11 Flaring Cup Wheels EC27OC91.055 Type 11—Flaring-cup Wheel

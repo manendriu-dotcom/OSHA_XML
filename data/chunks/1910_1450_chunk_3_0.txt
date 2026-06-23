@@ -1,0 +1,12 @@
+§ 1910.1450 Occupational exposure to hazardous chemicals in laboratories.
+(i) Chemical manipulations are carried out on a "laboratory scale;"
+(ii) Multiple chemical procedures or chemicals are used;
+(iii) The procedures involved are not part of a production process, nor in any way simulate a production process; and
+(iv) "Protective laboratory practices and equipment" are available and in common use to minimize the potential for employee exposure to hazardous chemicals.
+Medical consultation means a consultation which takes place between an employee and a licensed physician for the purpose of determining what medical examinations or procedures, if any, are appropriate in cases where a significant exposure to a hazardous chemical may have taken place.
+Mutagen means chemicals that cause permanent changes in the amount or structure of the genetic material in a cell. Chemicals classified as mutagens in accordance with the Hazard Communication Standard (§ 1910.1200) shall be considered mutagens for purposes of this section.
+Physical hazard means a chemical that is classified as posing one of the following hazardous effects: Explosive; flammable (gases, aerosols, liquids, or solids); oxidizer (liquid, solid, or gas); self reactive; pyrophoric (gas, liquid or solid); self-heating; organic peroxide; corrosive to metal; gas under pressure; in contact with water emits flammable gas; or combustible dust. The criteria for determining whether a chemical is classified as a physical hazard are in appendix B of the Hazard Communication Standard (§ 1910.1200) and § 1910.1200(c) (definitions of "combustible dust" and "pyrophoric gas").
+Protective laboratory practices and equipment means those laboratory procedures, practices and equipment accepted by laboratory health and safety experts as effective, or that the employer can show to be effective, in minimizing the potential for employee exposure to hazardous chemicals.
+Reproductive toxins mean chemicals that affect the reproductive capabilities including adverse effects on sexual function and fertility in adult males and females, as well as adverse effects on the development of the offspring. Chemicals classified as reproductive toxins in accordance with the Hazard Communication Standard (§ 1910.1200) shall be considered reproductive toxins for purposes of this section.
+Select carcinogen means any substance which meets one of the following criteria:
+(i) It is regulated by OSHA as a carcinogen; or

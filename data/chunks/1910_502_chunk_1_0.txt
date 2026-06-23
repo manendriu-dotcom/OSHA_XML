@@ -1,0 +1,6 @@
+§ 1910.502 Healthcare.
+(3)(i) Where a healthcare setting is embedded within a non-healthcare setting ( e.g., medical clinic in a manufacturing facility, walk-in clinic in a retail setting), this section applies only to the embedded healthcare setting and not to the remainder of the physical location.
+(ii) Where emergency responders or other licensed healthcare providers enter a non-healthcare setting to provide healthcare services, this section applies only to the provision of the healthcare services by that employee.
+(4) In well-defined areas where there is no reasonable expectation that any person with suspected or confirmed COVID-19 will be present, paragraphs (f), (h), and (i) of this section do not apply to employees who are fully vaccinated.
+Note: Note 1 to paragraph ( a ): Nothing in this section is intended to limit state or local government mandates or guidance ( e.g., executive order, health department order) that go beyond the requirements of and are not inconsistent with this section.
+Note: Note 2 to paragraph ( a ): Employers are encouraged to follow public health guidance from the Centers for Disease Control and Prevention (CDC) even when not required by this section.

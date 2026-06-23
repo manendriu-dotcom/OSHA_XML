@@ -1,0 +1,13 @@
+§ 1910.106 Flammable liquids.
+( o ) Where tanks are situated on exposed points or bends in a shoreline where swift currents in flood waters will be present, the structures shall be designed to withstand a unit force of not less than 50 pounds per square foot.
+( p ) The filling of a tank to be protected by water loading shall be started as soon as flood waters reach a dangerous flood stage. The rate of filling shall be at least equal to the rate of rise of the floodwaters (or the established average potential rate of rise).
+( q ) Sufficient fuel to operate the water pumps shall be available at all times to insure adequate power to fill all tankage with water.
+( r ) All valves on connecting pipelines shall be closed and locked in closed position when water loading has been completed.
+( s ) Where structural guides are provided for the protection of floating tanks, all rigid connections between tanks and pipelines shall be disconnected and blanked off or blinded before the floodwaters reach the bottom of the tank, unless control valves and their connections to the tank are of a type designed to prevent breakage between the valve and the tank shell.
+( t ) All valves attached to tanks other than those used in connection with water loading operations shall be closed and locked.
+( u ) If a tank is equipped with a swing line, the swing pipe shall be raised to and secured at its highest position.
+( v ) Inspections. The Assistant Secretary or his designated representative shall make periodic inspections of all plants where the storage of flammable liquids is such as to require compliance with the foregoing requirements, in order to assure the following:
+( 1 ) That all flammable liquid storage tanks are in compliance with these requirements and so maintained.
+( 2 ) That detailed printed instructions of what to do in flood emergencies are properly posted.
+( 3 ) That station operators and other employees depended upon to carry out such instructions are thoroughly informed as to the location and operation of such valves and other equipment necessary to effect these requirements.
+(vii) Earthquake areas. In areas subject to earthquakes, the tank supports and connections shall be designed to resist damage as a result of such shocks.

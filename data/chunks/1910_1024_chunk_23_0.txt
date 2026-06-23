@@ -1,0 +1,22 @@
+§ 1910.1024 Beryllium.
+(H) The contents of the standard; and
+(I) The employee's right of access to records under the Records Access standard (§ 1910.1020).
+(iii) When a workplace change (such as modification of equipment, tasks, or procedures) results in new or increased airborne exposure that exceeds, or can reasonably be expected to exceed, either the TWA PEL or the STEL, the employer must provide additional training to those employees affected by the change in airborne exposure.
+(iv) Employee information. The employer must make a copy of this standard and its appendices readily available at no cost to each employee and designated employee representative(s).
+(n) Recordkeeping —(1) Air monitoring data. (i) The employer must make and maintain a record of all exposure measurements taken to assess airborne exposure as prescribed in paragraph (d) of this standard.
+(ii) This record must include at least the following information:
+(A) The date of measurement for each sample taken;
+(B) The task that is being monitored;
+(C) The sampling and analytical methods used and evidence of their accuracy;
+(D) The number, duration, and results of samples taken;
+(E) The type of personal protective clothing and equipment, including respirators, worn by monitored employees at the time of monitoring; and
+(F) The name and job classification of each employee represented by the monitoring, indicating which employees were actually monitored.
+(iii) The employer must ensure that exposure records are maintained and made available in accordance with the Records Access standard (§ 1910.1020).
+(2) Objective data. (i) Where an employer uses objective data to satisfy the exposure assessment requirements under paragraph (d)(2) of this standard, the employer must make and maintain a record of the objective data relied upon.
+(ii) This record must include at least the following information:
+(A) The data relied upon;
+(B) The beryllium-containing material in question;
+(C) The source of the objective data;
+(D) A description of the process, task, or activity on which the objective data were based; and
+(E) Other data relevant to the process, task, activity, material, or airborne exposure on which the objective data were based.
+(iii) The employer must ensure that objective data are maintained and made available in accordance with the Records Access standard (§ 1910.1020).

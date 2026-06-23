@@ -1,0 +1,13 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+(15) [Reserved]
+(16) Lighting. Electrical equipment and installations shall conform to paragraphs (b) (17) and (18) of this section.
+(17) Vaporizers for internal combustion engines. The provisions of paragraph (e)(8) of this section shall apply.
+(18) Gas regulating and mixing equipment for internal combustion engines. The provisions of paragraph (e)(9) of this section shall apply.
+(e) Liquefied petroleum gas as a motor fuel —(1) Application. (i) This paragraph applies to internal combustion engines, fuel containers, and pertinent equipment for the use of liquefied petroleum gases as a motor fuel on easily movable, readily portable units including self-propelled vehicles.
+(ii) Fuel containers and pertinent equipment for internal combustion engines using liquefied petroleum gas where installation is of the stationary type are covered by paragraph (d) of this section. This paragraph does not apply to containers for transportation of liquefied petroleum gases nor to marine fuel use. All requirements of paragraph (b) of this section apply to this paragraph, unless otherwise noted in paragraph (b) of this section.
+(2) General. (i) Fuel may be used from the cargo tank of a truck while in transit, but not from cargo tanks on trailers or semitrailers. The use of fuel from the cargo tanks to operate stationary engines is permitted providing wheels are securely blocked.
+(ii) Passenger-carrying vehicles shall not be fueled while passengers are on board.
+(iii) Industrial trucks (including lift trucks) equipped with permanently mounted fuel containers shall be charged outdoors. Charging equipment shall comply with the provisions of paragraph (h) of this section.
+(iv) LP-Gas fueled industrial trucks shall comply with the Standard for Type Designations, Areas of Use, Maintenance and Operation of Powered Industrial Trucks, NFPA 505-1969, which is incorporated by reference as specified in § 1910.6.
+(v) Engines on vehicles shall be shut down while fueling if the fueling operation involves venting to the atmosphere.
+(3) Design pressure and classification of fuel containers. (i) Except as covered in paragraphs (e)(3) (ii) and (iii) of this section, containers shall be in accordance with Table H-32.

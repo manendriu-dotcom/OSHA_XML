@@ -1,0 +1,13 @@
+§ 1910.1050 Methylenedianiline.
+(2) Compliance program. (i) The employer shall establish and implement a written program to reduce employee exposure to or below the PELs by means of engineering and work practice controls, as required by paragraph (g)(1) of this section, and by use of respiratory protection where permitted under this section. The program shall include a schedule for periodic maintenance (e.g., leak detection) and shall include the written plan for emergency situations as specified in paragraph (d) of this section.
+(ii) Upon request this written program shall be furnished for examination and copying to the Assistant Secretary, the Director, affected employees, and designated employee representatives. The employer shall review and, as necessary, update such plans at least once every 12 months to make certain they reflect the current status of the program.
+(3) Employee rotation. Employee rotation shall not be permitted as a means of reducing exposure.
+(h) Respiratory protection —(1) General. For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(i) Periods necessary to install or implement feasible engineering and work-practice controls.
+(ii) Work operations for which the employer establishes that engineering and work-practice controls are not feasible.
+(iii) Work operations for which feasible engineering and work-practice controls are not yet sufficient to reduce employee exposure to or below the PEL.
+(iv) Emergencies.
+(2) Respirator program. The employer must implement a respiratory protection program in accordance with § 1910.134 (b) through (d) (except (d)(1)(iii)), and (f) through (m), which covers each employee required by this section to use a respirator.
+(3) Respirator selection. (i) Employers must:
+(A) Select, and provide to employees, the appropriate respirators specified in paragraph (d)(3)(i)(A) of 29 CFR 1910.134.
+(B) Provide HEPA filters for powered and non-powered air-purifying respirators.

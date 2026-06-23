@@ -1,0 +1,24 @@
+§ 1910.1200 Hazard communication.
+ (a) High pressure liquefied gas: A gas with a critical temperature 1 between −50 degrees C (−58 degrees F) and + 65 degrees C (149 degrees F); and
+ (b) Low pressure liquefied gas: A gas with a critical temperature 1 above + 65 degrees C (149 degrees F).
+Refrigerated liquefied gas A gas which is made partially liquid because of its low temperature.
+Dissolved gas A gas which when under pressure is dissolved in a liquid phase solvent.
+Table B.6.1—Criteria for Flammable Liquids
+------------------------------------------
+Category Criteria
+-----------------
+1 Flash point <23 degrees C (73.4 degrees F) and initial boiling point <=35 degrees C (95 degrees F).
+2 Flash point 35 degrees C (95 degrees F).
+3 Flash point >=23 degrees C (73.4 degrees F) and 60 degrees C (140 degrees F) and <=93 degrees C (199.4 degrees F).
+Table B.7.1—Criteria for Flammable Solids
+-----------------------------------------
+Category Criteria
+-----------------
+1 Burning rate test:
+ Chemicals other than metal powders:
+ (a) Wetted zone does not stop fire; and
+ (b) Burning time 2.2 mm/s.
+ Metal powders: Burning time <=5 min.
+2 Burning rate test:
+ Chemicals other than metal powders:
+ (a) Wetted zone stops the fire for at least 4 min; and

@@ -1,0 +1,13 @@
+§ 1910.140 Personal fall protection systems.
+(a) Scope and application. This section establishes performance, care, and use criteria for all personal fall protection systems. The employer must ensure that each personal fall protection system used to comply with this part must meet the requirements of this section.
+(b) Definitions. The following definitions apply to this section:
+Anchorage means a secure point of attachment for equipment such as lifelines, lanyards, or deceleration devices.
+Belt terminal means an end attachment of a window cleaner's positioning system used for securing the belt or harness to a window cleaner's belt anchor.
+Body belt means a strap with means both for securing about the waist and for attaching to other components such as a lanyard used with positioning systems, travel restraint systems, or ladder safety systems.
+Body harness means straps that secure about the employee in a manner to distribute the fall arrest forces over at least the thighs, pelvis, waist, chest, and shoulders, with a means for attaching the harness to other components of a personal fall protection system.
+Carabiner means a connector generally comprised of a trapezoidal or oval shaped body with a closed gate or similar arrangement that may be opened to attach another object and, when released, automatically closes to retain the object.
+Competent person means a person who is capable of identifying existing and predictable hazards in any personal fall protection system or any component of it, as well as in their application and uses with related equipment, and who has authorization to take prompt, corrective action to eliminate the identified hazards.
+Connector means a device used to couple (connect) parts of the fall protection system together.
+D-ring means a connector used:
+(i) In a harness as an integral attachment element or fall arrest attachment;
+(ii) In a lanyard, energy absorber, lifeline, or anchorage connector as an integral connector; or

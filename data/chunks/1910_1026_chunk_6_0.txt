@@ -1,0 +1,12 @@
+§ 1910.1026 Chromium (VI).
+(ii) Where painting of aircraft or large aircraft parts is performed in the aerospace industry, the employer shall use engineering and work practice controls to reduce and maintain employee exposure to chromium (VI) to or below 25 µgm/m 3 unless the employer can demonstrate that such controls are not feasible. The employer shall supplement such engineering and work practice controls with the use of respiratory protection that complies with the requirements of paragraph (g) of this section to achieve the PEL.
+(iii) Where the employer can demonstrate that a process or task does not result in any employee exposure to chromium (VI) above the PEL for 30 or more days per year (12 consecutive months), the requirement to implement engineering and work practice controls to achieve the PEL does not apply to that process or task.
+(2) Prohibition of rotation. The employer shall not rotate employees to different jobs to achieve compliance with the PEL.
+(g) Respiratory protection —(1) General. Where respiratory protection is required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respiratory protection is required during:
+(i) Periods necessary to install or implement feasible engineering and work practice controls;
+(ii) Work operations, such as maintenance and repair activities, for which engineering and work practice controls are not feasible;
+(iii) Work operations for which an employer has implemented all feasible engineering and work practice controls and such controls are not sufficient to reduce exposures to or below the PEL;
+(iv) Work operations where employees are exposed above the PEL for fewer than 30 days per year, and the employer has elected not to implement engineering and work practice controls to achieve the PEL; or
+(v) Emergencies.
+(2) Respiratory protection program. Where respirator use is required by this section, the employer shall institute a respiratory protection program in accordance with § 1910.134, which covers each employee required to use a respirator.
+(h) Protective work clothing and equipment —(1) Provision and use. Where a hazard is present or is likely to be present from skin or eye contact with chromium (VI), the employer shall provide appropriate personal protective clothing and equipment at no cost to employees, and shall ensure that employees use such clothing and equipment.

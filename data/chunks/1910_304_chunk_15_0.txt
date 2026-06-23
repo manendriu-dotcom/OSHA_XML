@@ -1,0 +1,21 @@
+§ 1910.304 Wiring design and protection.
+(iv) AC systems of 50 volts to 1000 volts shall be grounded under any of the following conditions, unless exempted by paragraph (g)(1)(v) of this section:
+(A) If the system can be so grounded that the maximum voltage to ground on the ungrounded conductors does not exceed 150 volts;
+(B) If the system is nominally rated three-phase, four-wire wye connected in which the neutral is used as a circuit conductor;
+(C) If the system is nominally rated three-phase, four-wire delta connected in which the midpoint of one phase is used as a circuit conductor; or
+(D) If a service conductor is uninsulated;
+(v) AC systems of 50 volts to 1000 volts are not required to be grounded under any of the following conditions:
+(A) If the system is used exclusively to supply industrial electric furnaces for melting, refining, tempering, and the like;
+(B) If the system is separately derived and is used exclusively for rectifiers supplying only adjustable speed industrial drives;
+(C) If the system is separately derived and is supplied by a transformer that has a primary voltage rating less than 1000 volts, provided all of the following conditions are met:
+( 1 ) The system is used exclusively for control circuits;
+( 2 ) The conditions of maintenance and supervision ensure that only qualified persons will service the installation;
+( 3 ) Continuity of control power is required; and
+( 4 ) Ground detectors are installed on the control system;
+(D) If the system is an isolated power system that supplies circuits in health care facilities; or
+(E) If the system is a high-impedance grounded neutral system in which a grounding impedance, usually a resistor, limits the ground-fault current to a low value for 3-phase ac systems of 480 volts to 1000 volts provided all of the following conditions are met:
+( 1 ) The conditions of maintenance and supervision ensure that only qualified persons will service the installation;
+( 2 ) Continuity of power is required;
+( 3 ) Ground detectors are installed on the system; and
+( 4 ) Line-to-neutral loads are not served.
+(2) Conductor to be grounded. The conductor to be grounded for ac premises wiring systems required to be grounded by paragraph (g)(1) of this section shall be as follows:

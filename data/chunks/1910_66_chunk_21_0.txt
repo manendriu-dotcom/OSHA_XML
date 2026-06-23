@@ -1,0 +1,13 @@
+§ 1910.66 Powered platforms for building maintenance.
+(H) The platform-mounted equipment and its suspension wire ropes shall not be physically damaged by the loads from the stabilizer tie or its building anchor. The platform, platform mounted equipment and wire ropes shall be able to withstand a load that is at least twice the ultimate strength of the stabilizer tie.
+Note: Note: See figure II in appendix B of this section for a description of a typical intermittent stabilization system.
+(vi) Button-guide stabilized platforms. (A) The platform shall comply with paragraphs (f)(5)(ii) (A) through (M) of this section.
+(B) Each guide track on the platform shall engage a minimum of two guide buttons during any vertical travel of the platform following the initial button engagement.
+(C) Each guide track on a platform that is part of a roof rigged system shall be provided with a storage position on the platform.
+(D) Each guide track on the platform shall be sufficiently maneuverable by platform occupants to permit easy engagement of the guide buttons, and easy movement into and out of its storage position on the platform.
+(E) Two guide tracks shall be mounted on the platform and shall provide continuous contact with the building face.
+(F) The load carrying components of the button guide stabilization system which transmit the load into the platform shall be capable of supporting the weight of the platform, or provision shall be made in the guide track connectors or platform attachments to prevent the weight of the platform from being transmitted to the platform attachments.
+Note: Note: See figure III in appendix B of this section for a description of a typical button guide stabilization system.
+(6) Supported equipment. (i) Supported equipment shall maintain a vertical position in respect to the face of the building by means other than friction.
+(ii) Cog wheels or equivalent means shall be incorporated to provide climbing traction between the supported equipment and the building guides. Additional guide wheels or shoes shall be incorporated as may be necessary to ensure that the drive wheels are continuously held in positive engagement with the building guides.
+(iii) Launch guide mullions indexed to the building guides and retained in alignment with the building guides shall be used to align drive wheels entering the building guides.

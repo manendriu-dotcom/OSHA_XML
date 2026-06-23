@@ -1,0 +1,13 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+(v) The employer shall conduct a periodic inspection of the energy control procedure at least annually to ensure that the procedure and the provisions of paragraph (d) of this section are being followed.
+(A) The periodic inspection shall be performed by an authorized employee who is not using the energy control procedure being inspected.
+(B) The periodic inspection shall be designed to identify and correct any deviations or inadequacies.
+(C) If lockout is used for energy control, the periodic inspection shall include a review, between the inspector and each authorized employee, of that employee's responsibilities under the energy control procedure being inspected.
+(D) Where tagout is used for energy control, the periodic inspection shall include a review, between the inspector and each authorized and affected employee, of that employee's responsibilities under the energy control procedure being inspected, and the elements set forth in paragraph (d)(2)(vii) of this section.
+(E) The employer shall certify that the inspections required by paragraph (d)(2)(v) of this section have been accomplished. The certification shall identify the machine or equipment on which the energy control procedure was being used, the date of the inspection, the employees included in the inspection, and the person performing the inspection.
+Note: Note to paragraph ( d )(2)( v )(E): If normal work schedule and operation records demonstrate adequate inspection activity and contain the required information, no additional certification is required.
+(vi) The employer shall provide training to ensure that the purpose and function of the energy control program are understood by employees and that the knowledge and skills required for the safe application, usage, and removal of energy controls are acquired by employees. The training shall include the following:
+(A) Each authorized employee shall receive training in the recognition of applicable hazardous energy sources, the type and magnitude of energy available in the workplace, and in the methods and means necessary for energy isolation and control.
+(B) Each affected employee shall be instructed in the purpose and use of the energy control procedure.
+(C) All other employees whose work operations are or may be in an area where energy control procedures may be used shall be instructed about the procedures and about the prohibition relating to attempts to restart or reenergize machines or equipment that are locked out or tagged out.
+(vii) When tagout systems are used, employees shall also be trained in the following limitations of tags:

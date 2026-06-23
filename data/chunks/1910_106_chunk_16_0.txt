@@ -1,0 +1,12 @@
+§ 1910.106 Flammable liquids.
+( c ) Diked areas. Where protection of adjoining property or waterways is accomplished by retaining the liquid around the tank by means of a dike, the volume of the diked area shall comply with the following requirements:
+( 1 ) Except as provided in subdivision ( 2 ) of this subdivision, the volumetric capacity of the diked area shall not be less than the greatest amount of liquid that can be released from the largest tank within the diked area, assuming a full tank. The capacity of the diked area enclosing more than one tank shall be calculated by deducting the volume of the tanks other than the largest tank below the height of the dike.
+( 2 ) For a tank or group of tanks with fixed roofs containing crude petroleum with boilover characteristics, the volumetric capacity of the diked area shall be not less than the capacity of the largest tank served by the enclosure, assuming a full tank. The capacity of the diked enclosure shall be calculated by deducting the volume below the height of the dike of all tanks within the enclosure.
+( 3 ) Walls of the diked area shall be of earth, steel, concrete or solid masonry designed to be liquidtight and to withstand a full hydrostatic head. Earthen walls 3 feet or more in height shall have a flat section at the top not less than 2 feet wide. The slope of an earthen wall shall be consistent with the angle of repose of the material of which the wall is constructed.
+( 4 ) The walls of the diked area shall be restricted to an average height of 6 feet above interior grade.
+( 5 ) [Reserved]
+( 6 ) No loose combustible material, empty or full drum or barrel, shall be permitted within the diked area.
+(viii) Tank openings other than vents for aboveground tanks.
+( a )-( c ) [Reserved]
+( d ) Openings for gaging shall be provided with a vaportight cap or cover.
+( e ) For Category 2 flammable liquids and Category 3 flammable liquids with a flashpoint below 100 degrees F (37.8 degrees C), other than crude oils, gasolines, and asphalts, the fill pipe shall be so designed and installed as to minimize the possibility of generating static electricity. A fill pipe entering the top of a tank shall terminate within 6 inches of the bottom of the tank and shall be installed to avoid excessive vibration.

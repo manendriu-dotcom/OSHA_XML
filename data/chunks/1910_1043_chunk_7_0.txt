@@ -1,0 +1,13 @@
+§ 1910.1043 Cotton dust.
+(v) Written programs shall be submitted, upon request, to the Assistant Secretary and the Director, and shall be available at the worksite for examination and copying by the Assistant Secretary, the Director, and any affected employee or their designated representatives.
+(vi) The written program required under paragraph (e)(3) of this section shall be revised and updated when necessary to reflect the current status of the program and current exposure levels.
+(4) Mechanical ventilation. When mechanical ventilation is used to control exposure, measurements which demonstrate the effectiveness of the system to control exposure, such as capture velocity, duct velocity, or static pressure shall be made at reasonable intervals.
+(f) Respiratory protection —(1) General. For employees who are required to use respirators by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(i) Periods necessary to install or implement feasible engineering and work-practice controls.
+(ii) Maintenance and repair activities for which engineering and work-practice controls are not feasible.
+(iii) Work operations for which feasible engineering and work-practice controls are not yet sufficient to reduce employee exposure to or below the permissible exposure limits.
+(iv) Work operations specified under paragraph (g)(1) of this section.
+(v) Periods for which an employee requests a respirator.
+(2) Respirator program. (i) The employer must implement a respiratory protection program in accordance with § 1910.134(b) through (d) (except (d)(1)(iii)), and (f) through (m), which covers each employee required by this section to use a respirator.
+(ii) Whenever a physician determines that an employee who works in an area in which the cotton-dust concentration exceeds the PEL is unable to use a respirator, including a powered air-purifying respirator, the employee must be given the opportunity to transfer to an available position, or to a position that becomes available later, that has a cotton-dust concentration at or below the PEL. The employer must ensure that such employees retain their current wage rate or other benefits as a result of the transfer.
+(3) Respirator selection. (i) Employers must:

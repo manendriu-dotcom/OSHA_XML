@@ -1,0 +1,24 @@
+§ 1910.94 Ventilation.
+(v) Grinding wheels or discs for horizontal double-spindle disc grinders shall have a hood enclosing the grinding chamber and the hood shall be connected to one or more branch pipes having exhaust volumes as shown in Table G-7.
+
+Table G-7—Horizontal Double-Spindle Disc Grinder
+------------------------------------------------
+Disc diameter (inches) Exhaust volume (ft. 3 /min.)
+---------------------------------------------------
+Up to 19 610
+Over 19 to 25 880
+Over 25 to 30 1,200
+Over 30 to 53 1,770
+Over 53 to 72 6,280
+
+(vi) Grinding wheels or discs for vertical single-spindle disc grinders shall be encircled with hoods to remove the dust generated in the operation. The hoods shall be connected to one or more branch pipes having exhaust volumes as shown in Table G-8.
+
+Table G-8—Vertical Spindle Disc Grinder
+---------------------------------------
+Disc diameter (inches) One-half or more of disc covered Number 1 Exhaust foot 3 /min.) Disc not covered Number 1 Exhaust foot 3 /min.
+--------------------------------------------------------------------------------
+Up to 20 1 500 2 780
+Over 20 to 30 2 780 2 1,480
+Over 30 to 53 2 1,770 4 3,530
+Over 53 to 72 2 3,140 5 6,010
+

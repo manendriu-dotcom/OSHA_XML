@@ -1,76 +1,10 @@
 § 1910.261 Pulp, paper, and paperboard mills.
-(ii) When cleaning, inspecting, or other work requires that persons enter the pulpers, they shall be equipped with safety belt and lifeline, and one person shall be stationed outside at a position to observe and assist in case of emergency.
-(iii) When cleaning, inspecting, or other work requires that persons enter pulpers, all steam, water, or other control devices shall be locked or tagged out. Blank flanging and tagging of pipe lines is acceptable in place of closed and locked or tagged valves. Blank flanging of steam and water lines shall be acceptable in place of valve locks.
-(6) Stock chests. (i) All control devices shall be locked or tagged out when persons enter stock chests, in accordance with paragraph (b)(4) of this section.
-(ii) When cleaning, inspecting, or other work requires that persons enter stock chests, they shall be provided with a low-voltage extension light.
-(k) Machine room —(1) Emergency stops. Paper machines shall be equipped with devices that will stop the machine quickly in an emergency. The devices shall consist of push buttons for electric motive power (or electrically operated engine stops), pull cords connected directly to the prime mover, control clutches, or other devices, interlocked with adequate braking action. The devices shall be tested periodically by making use of them when stopping the machine and shall be so located that any person working on the machine can quickly disconnect the machine from the source of power in case of emergency.
-(2) Drives. (i) All drives shall be provided with lockout devices at the power switch which interrupts the flow of current to the unit.
-(ii) All ends of rotating shafts including dryer drum shafts shall be completely guarded.
-(iii) All accessible disengaged doctor blades should be covered.
-(iv) All exposed shafts shall be guarded. Crossovers shall be provided.
-(v) Oil cups and grease fittings shall be placed in a safe area remote from nip and heat hazards.
-(3) Protective equipment. Face shields, aprons, and rubber gloves shall be provided for workmen handling acids in accordance with paragraphs (b)(2) and (d)(1) of this section.
-(4)-(5) [Reserved]
-(6) Steps. Steps of uniform rise and tread with nonslip surfaces that meet the requirements in subpart D of this part shall be provided at each press.
-(7) Plank walkways. A removable plank shall be provided along each press, with standard guardrails installed. The planks shall have nonslip surfaces in accordance with paragraph (b)(3) of this section.
-(8) Dryer lubrication. If a gear bearing must be oiled while the machine is in operation, an automatic oiling device to protect the oiler shall be provided, or oil cups and grease fittings shall be placed along the walkways out of reach of hot pipes and dryer gears.
-(9) Levers. All levers carrying weights shall be constructed so that weights will not slip or fall off.
-(10) First dryer. Either a permanent guardrail or apron guard or both shall be installed in front of the first dryer in each section in accordance with paragraph (b)(1) of this section.
-(11) Steam and hot-water pipes. All exposed steam and hot-water pipes within 7 feet of the floor or working platform or within 15 inches measured horizontally from stairways, ramps, or fixed ladders shall be covered with an insulating material, or guarded in such manner as to prevent contact.
-(12) Dryer gears. Dryer gears shall be guarded excepting where the oilers' walkway is removed out of reach of the gears' nips and spokes and hot pipes in accordance with American National Standard B15.1—1953 (reaffirmed 1958).
-(i) A guardrail shall be provided at broke holes in accordance with § 1910.23.
-(13) Broke hole. (i) A guardrail that complies with subpart D of this part shall be provided at broke holes.
-(ii) Where pulpers are located directly below the broke hole on a paper machine and where the broke hole opening is large enough to permit a worker to fall through, any employee pushing broke down the hole shall wear a safety belt attached to a safety belt line. The safety belt line shall be fastened in such a manner that it is impossible for the person to fall into the pulper.
-(iii) An alarm bell or a flashing light shall be actuated before dropping material through the broke hole.
-(14) Feeder belt. A feeder belt or other effective device shall be provided for starting paper through the calender stack.
-(15) Steps. Steps or ladders that comply with subpart D of this part and tread with nonslip surfaces shall be provided at each calendar stack. Handrails and hand grips complying with subpart D shall be provided at each calendar stack.
-(16) [Reserved]
-(17) Sole plates. All exposed sole plates between dryers, calenders, reels, and rewinders shall have a nonskid surface.
-(18) Nip points. The hazard of the nip points on all calender rolls shall be eliminated or minimized by means of an effective barrier device, or by feeding the paper into the rolls by means of a rope carrier, air jets, or hand feeding devices.
-(19) Platforms. [Reserved]
-(20) Scrapers. Alloy steel scrapers with pullthrough blades approximately 3 by 5 inches in size shall be used to remove "scabs" from calender rolls.
-(21) Illumination. Permanent lighting shall be installed in all areas where employees are required to make machine adjustments and sheet transfers in accordance with the American National Standard A11.1—1965 (R 1970).
-(22) Control panels. All control panel handles and buttons shall be protected from accidental contact.
-(23) [Reserved]
-(24) Lifting reels. (i) The reels shall stop rotating before being lifted from bearings.
-(ii) All lifting equipment (clamps, cables, and slings) shall be maintained in a safe condition and inspected regularly.
-(iii) Reel shafts with square block ends shall be guarded.
-(25) Feeder belts. Feeder belts, carrier ropes, air carriage, or other equally effective means shall be provided for starting paper into the nip or drum-type reels.
-(26) Inrunning nip. (i) Where the nipping points of all drum winders and rewinders is on the operator's side, it shall be guarded by barrier guards interlocked with the drive mechanism.
-(ii) [Reserved]
-(27) Core collars. Set screws for securing core collars to winding and unwinding shafts shall not protrude above the face of the collar. All edges of the collar with which an operator's hand comes in contact shall be beveled to remove all sharp corners.
-(28) Slitter knives. Slitter knives shall be guarded so as to prevent accidental contact. Carriers shall be provided and used for transportation of slitter knives.
-(29) Winder shaft. The winder shall have a guide rail to align the shaft for easy entrance into the opened rewind shaft bearing housings.
-(30) Core shaft. When the core shaft weighs in excess of the safe standard, a mechanical device such as a dolly shall be provided for carrying all or part of the weight when it is being removed from the set of paper and placed in the dressing brackets on the winder.
-(31) Winder area. A nonskid surface shall be provided in the front vicinity of the winder to prevent accidental slipping.
-(32) Radiation. Special standards regarding the use of radiation equipment shall be posted and followed as required by § 1910.96.
-(l) Finishing room —(1) Cleaning rolls. Rolls shall be cleaned only on the outrunning side.
-(2) Emergency stops. Electrically or manually operated quick power disconnecting devices, interlocked with braking action, shall be provided on all operating sides of the machine within easy reach of all employees. These devices shall be tested by making use of them when stopping the machine.
-(3) Core collars. The requirements of paragraph (k)(27) of this section and the American National Standard B15.1—1953 (reaffirmed 1958) shall apply.
-(4) Elevators. These shall be in accordance with American National Standard A17.1—1965.
-(5) Control panels. The requirements of paragraph (k)(22) of this section shall apply.
-(6) Guillotine-type cutters. (i) Each guillotine-type cutter shall be equipped with a control which requires the operator and his helper, if any, to use both hands to engage the clutch.
-(ii) Each guillotine-type cutter shall be equipped with a nonrepeat device.
-(iii) Carriers shall be provided and used for transportation of guillotine-type cutter knives.
-(7) Rotary cutter. (i) On single-knife machines a guard shall be provided at a point of contact to the knife.
-(ii) On duplex cutters the protection required for single-knife machines shall be provided for the first knife, and a hood shall be provided for the second knife.
-(iii) Safe access shall be provided to the knives of a rotary cutter by means of catwalks with nonslip surfaces, railings, and toeboards in accordance with paragraph (b)(3) of this section.
-(iv) A guard shall be provided for the spreader or squeeze roll at the nip side on sheet cutters.
-(v) Electrically or manually operated quick power disconnecting devices with adequate braking action shall be provided on all operating sides of the machine within easy reach of all operators.
-(vi) The outside slitters shall be guarded.
-(8) Platers. (i) A guard shall be arranged across the face of the rolls to serve as a warning that the operator's hand is approaching the danger zone.
-(ii) A quick power disconnecting device shall be installed on each machine within easy reach of the operator.
-(9) Finishing room rewinders. (i) The nipping points of all drum winders and rewinders located on the operator's side shall be guarded by either automatic or manually operated barrier guards of sufficient height to protect fully anyone working around them. The barrier guard shall be interlocked with the drive mechanism to prevent operating above jog speed without the guard in place.
-A zero speed switch should be installed to prevent the guard from being raised while the roll is turning.
-(ii) A nonskid surface shall be provided in front of the rewinder to prevent an employee from slipping in accordance with paragraph (b)(3) of this section.
-(iii) Mechanical lifting devices shall be provided for placing and removing rolls from the machine.
-(10) Control panels. The requirements of paragraph (k)(22) of this section shall apply.
-(11) Roll-type embosser. The nipping point located on the operator's side shall be guarded by either automatic or manually operated barrier guards interlocked with the drive.
-(12) Sorting and counting tables. (i) Tables shall be smooth and free from splinters, with edges and corners rounded.
-(ii) Paddles shall be smooth and free from splinters.
-(13) Roll splitters. The nip point and cutter knife shall be guarded by either automatic or manually operated barrier guards.
-(m) Materials handling —(1) Hand trucks. No person shall be permitted to ride on a powered hand truck unless it is so designed by the manufacturer. A limit switch shall be on operating handle—30 degrees each way from a 45-degree angle up and down.
-(2) [Reserved]
-(3) Cartons. The carton-stitching machine shall be guarded to prevent the operator from coming in contact with the stitching head.
-(4) [Reserved]
-(5) Unloading cars. Flag signals, derails, or other protective devices shall be used to protect men during switching operations. The blue flag policy shall be invoked according to paragraph (c)(9)(i) of this section.
+(i) ASME Boiler and Pressure Vessel Code, Section VIII, Unfired Pressure Vessels, including addenda 1969.
+(ii) Building Exits Code for Life Safety from Fire, NFPA 101—1970.
+(iii) Safety in the Handling and Use of Explosives, IME Pamphlet No. 17, July 1960, Institute of Makers of Explosives.
+(b) Safe practices —(1) Lockouts. Devices such as padlocks shall be provided for locking out the source of power at the main disconnect switch. Before any maintenance, inspection, cleaning, adjusting, or servicing of equipment (electrical, mechanical, or other) that requires entrance into or close contact with the machinery or equipment, the main power disconnect switch or valve, or both, controlling its source of power or flow of material, shall be locked out or blocked off with padlock, blank flange, or similar device.
+(2) Emergency lighting. Emergency lighting shall be provided wherever it is necessary for employees to remain at their machines or stations to shut down equipment in case of power failure. Emergency lighting shall be provided at stairways and passageways or aisleways used by employees for emergency exit in case of power failure. Emergency lighting shall be provided in all plant first aid and medical facilities.
+(c) Handling and storage of pulpwood and pulp chips —(1) Handling pulpwood with forklift trucks. Where large forklift trucks, or lift trucks with clam-jaws, are used in the yard, the operator's enclosed cab shall be provided with an escape hatch, whenever the hydraulic arm blocks escape through the side doors.
+(2) Handling pulpwood with cranes or stackers. (i) Where locomotive cranes are used for loading or unloading pulpwood, the pulpwood shall be piled so as to allow a clearance of not less than 24 inches between the pile and the end of the cab of any locomotive crane in use, when the cab is turned in any working position.
+(ii) The minimum distance of the pulpwood pile from the centerline of a standard-gage track shall be maintained at not less than 8 1/2 feet.
+(iii) Logs shall be piled in an orderly and stable manner, with no projection into walkways or roadways.

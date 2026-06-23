@@ -1,0 +1,17 @@
+§ 1910.1200 Hazard communication.
+(A) The properties and effects of the chemical;
+(B) Measures for controlling workers' exposure to the chemical;
+(C) Methods of monitoring and analyzing worker exposure to the chemical; and,
+(D) Methods of diagnosing and treating harmful exposures to the chemical;
+(iv) The request includes a description of the procedures to be used to maintain the confidentiality of the disclosed information; and,
+(v) The health professional, and the employer or contractor of the services of the health professional ( i.e. , downstream employer, labor organization, or individual employee), employee, or designated representative, agree in a written confidentiality agreement that the health professional, employee, or designated representative, will not use the trade secret information for any purpose other than the health need(s) asserted and agree not to release the information under any circumstances other than to OSHA, as provided in paragraph (i)(6) of this section, except as authorized by the terms of the agreement or by the chemical manufacturer, importer, or employer.
+(4) The confidentiality agreement authorized by paragraph (i)(3)(iv) of this section:
+(i) May restrict the use of the information to the health purposes indicated in the written statement of need;
+(ii) May provide for appropriate legal remedies in the event of a breach of the agreement, including stipulation of a reasonable pre-estimate of likely damages; and,
+(iii) May not include requirements for the posting of a penalty bond.
+(5) Nothing in this standard is meant to preclude the parties from pursuing non-contractual remedies to the extent permitted by law.
+(6) If the health professional, employee, or designated representative receiving the trade secret information decides that there is a need to disclose it to OSHA, the chemical manufacturer, importer, or employer who provided the information shall be informed by the health professional, employee, or designated representative prior to, or at the same time as, such disclosure.
+(7) If the chemical manufacturer, importer, or employer denies a written request for disclosure of a specific chemical identity or percentage composition, the denial must:
+(i) Be provided to the health professional, employee, or designated representative, within thirty days of the request;
+(ii) Be in writing;
+(iii) Include evidence to support the claim that the specific chemical identity or percent of composition is a trade secret;

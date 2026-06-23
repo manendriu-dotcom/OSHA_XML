@@ -1,0 +1,15 @@
+§ 1910.124 General requirements for dipping and coating operations.
+(2) You must ensure that any exhaust air re-circulated from a dipping or coating operation using flammable liquids or liquids with flashpoints greater than 199.4 degrees F (93 degrees C) is:
+(i) Free of any solid particulate that poses a health or safety hazard for employees; and
+(ii) Monitored by approved equipment.
+(3) You must have a system that sounds an alarm and automatically shuts down the operation when the vapor concentration for any substance in the exhaust airstream exceeds 25% of its LFL.
+(d) What must I do when I use an exhaust hood? You must:
+(1) Provide each room having exhaust hoods with a volume of outside air that is at least 90 percent of the volume of the exhaust air; and
+(2) Ensure that the outside air supply does not damage exhaust hoods.
+(e) What requirements must I follow when an employee enters a dip tank? When an employee enters a dip tank, you must meet the entry requirements of § 1910.146, OSHA's standard for Permit-Required Confined Spaces, as applicable.
+(f) What first-aid procedures must my employees know? Your employees must know the first-aid procedures that are appropriate to the dipping or coating hazards to which they are exposed.
+(g) What hygiene facilities must I provide? When your employees work with liquids that may burn, irritate, or otherwise harm their skin, you must provide:
+(1) Locker space or other storage space to prevent contamination of the employee's street clothes;
+(2) An emergency shower and eye-wash station close to the dipping or coating operation. In place of this equipment, you may use a water hose that is at least 4 feet (1.22 m) long and at least 3/4 of an inch (18 mm) thick with a quick-opening valve and carrying a pressure of 25 pounds per square inch (1.62 k/cm 2 ) or less; and
+(3) At least one basin with a hot-water faucet for every 10 employees who work with such liquids. (See paragraph (d) of § 1910.141.)
+(h) What treatment and first aid must I provide? When your employees work with liquids that may burn, irritate, or otherwise harm their skin, you must provide:

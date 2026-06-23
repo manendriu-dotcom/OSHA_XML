@@ -1,0 +1,14 @@
+§ 1910.109 Explosives and blasting agents.
+(iv) No holes shall be loaded except those to be fired in the next round of blasting. After loading, all remaining explosives shall be immediately returned to an authorized magazine.
+(v) Drilling shall not be started until all remaining butts of old holes are examined with a wooden stick for unexploded charges, and if any are found, they shall be refired before work proceeds.
+(vi) No person shall be allowed to deepen drill holes which have contained explosives.
+(vii) After loading for a blast is completed, all excess blasting caps or electric blasting caps and other explosives shall immediately be returned to their separate storage magazines.
+(4) Initiation of explosive charges.
+(i) [Reserved]
+(ii) When fuse is used, the blasting cap shall be securely attached to the safety fuse with a standard-ring type cap crimper. All primers shall be assembled at least 50 feet from any magazine.
+(iii) Primers shall be made up only as required for each round of blasting.
+(iv) No blasting cap shall be inserted in the explosives without first making a hole in the cartridge for the cap with a wooden punch of proper size or standard cap crimper.
+(v) Explosives shall not be extracted from a hole that has once been charged or has misfired unless it is impossible to detonate the unexploded charge by insertion of a fresh additional primer.
+(vi) If there are any misfires while using cap and fuse, all persons shall be required to remain away from the charge for at least 1 hour. If electric blasting caps are used and a misfire occurs, this waiting period may be reduced to 30 minutes. Misfires shall be handled under the direction of the person in charge of the blasting and all wires shall be carefully traced and search made for unexploded charges.
+(vii) Blasters, when testing circuits to charged holes, shall use only blasting galvanometers designed for this purpose.
+(viii) Only the employee making leading wire connections in electrical firing shall be allowed to fire the shot. Leading wires shall remain shorted and not be connected to the blasting machine or other source of current until the charge is to be fired.

@@ -1,0 +1,18 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+Note: Note to the definition of "cable sheath": A cable sheath may consist of multiple layers one or more of which is conductive.
+Circuit. A conductor or system of conductors through which an electric current is intended to flow.
+Clearance (between objects). The clear distance between two objects measured surface to surface.
+Clearance (for work). Authorization to perform specified work or permission to enter a restricted area.
+Communication lines. (See Lines; (1) Communication lines. )
+Conductor. A material, usually in the form of a wire, cable, or bus bar, used for carrying an electric current.
+Contract employer. An employer, other than a host employer, that performs work covered by this section under contract.
+Covered conductor. A conductor covered with a dielectric having no rated insulating strength or having a rated insulating strength less than the voltage of the circuit in which the conductor is used.
+Current-carrying part. A conducting part intended to be connected in an electric circuit to a source of voltage. Non-current-carrying parts are those not intended to be so connected.
+Deenergized. Free from any electrical connection to a source of potential difference and from electric charge; not having a potential that is different from the potential of the earth.
+Note: Note to the definition of "deenergized": The term applies only to current-carrying parts, which are sometimes energized (alive).
+Designated employee (designated person). An employee (or person) who is assigned by the employer to perform specific duties under the terms of this section and who has sufficient knowledge of the construction and operation of the equipment, and the hazards involved, to perform his or her duties safely.
+Electric line truck. A truck used to transport personnel, tools, and material for electric supply line work.
+Electric supply equipment. Equipment that produces, modifies, regulates, controls, or safeguards a supply of electric energy.
+Electric supply lines. (See Lines; (2) Electric supply lines. )
+Electric utility. An organization responsible for the installation, operation, or maintenance of an electric supply system.
+Enclosed space. A working space, such as a manhole, vault, tunnel, or shaft, that has a limited means of egress or entry, that is designed for periodic employee entry under normal operating conditions, and that, under normal conditions, does not contain a hazardous atmosphere, but may contain a hazardous atmosphere under abnormal conditions.

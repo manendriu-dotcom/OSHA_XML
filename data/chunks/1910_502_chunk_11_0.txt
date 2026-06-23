@@ -1,0 +1,10 @@
+§ 1910.502 Healthcare.
+Note: Note to paragraph ( f )(1)( iii )( F ): With respect to paragraphs (f)(1)(iii)(D) through (F) of this section, the employer may determine that the use of face shields, without facemasks, in certain settings is not appropriate due to other infection control concerns.
+(iv) Where a face shield is required to comply with this paragraph or is otherwise required by the employer, the employer must ensure that face shields are cleaned at least daily and are not damaged. When an employee provides a face shield that meets the definition in paragraph (b) of this section, the employer may allow the employee to use it and is not required to reimburse the employee for that face shield.
+(2) Respirators and other PPE for exposure to people with suspected or confirmed COVID-19. When employees have exposure to a person with suspected or confirmed COVID-19, the employer must provide:
+(i) A respirator to each employee and ensure that it is provided and used in accordance with § 1910.134 and
+(ii) Gloves, an isolation gown or protective clothing, and eye protection to each employee and ensure that the PPE is used in accordance with subpart I of this part.
+Note: Note to paragraph ( f )(2): When there is a limited supply of filtering facepiece respirators, employers may follow the CDC's "Strategies for Optimizing the Supply of N95 Respirators" (available at: https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirators-strategy/index.html ). Where possible, employers are encouraged to select elastomeric respirators or PAPRs instead of filtering facepiece respirators to prevent shortages and supply chain disruption.
+(3) Respirators and other PPE during aerosol-generating procedures. For aerosol-generating procedures performed on a person with suspected or confirmed COVID-19, the employer must provide:
+(i) A respirator to each employee and ensure that it is provided and used in accordance with § 1910.134; and
+(ii) Gloves, an isolation gown or protective clothing, and eye protection to each employee and ensure that the PPE is used in accordance with subpart I of this part.

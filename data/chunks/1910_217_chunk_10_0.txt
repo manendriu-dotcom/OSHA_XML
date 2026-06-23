@@ -1,0 +1,10 @@
+§ 1910.217 Mechanical power presses.
+( d ) Two hand trips shall be fixed in position so that only a supervisor or safety engineer is capable of relocating the controls.
+(4) Hand feeding tools. Hand feeding tools are intended for placing and removing materials in and from the press. Hand feeding tools are not a point of operation guard or protection device and shall not be used in lieu of the "guards" or devices required in this section.
+(5) Additional requirements for safe-guarding. Where the operator feeds or removes parts by placing one or both hands in the point of operation, and a two hand control, presence sensing device, Type B gate or movable barrier (on a part revolution clutch) is used for safeguarding:
+(i) The employer shall use a control system and a brake monitor which comply with paragraphs (b) (13) and (14) of this section;
+(ii) The exception in paragraph (b)(7)(v)( d ) of this section for two hand controls manufactured and installed before August 31, 1971 is not applicable under this paragraph (c)(5);
+(iii) The control of air clutch machines shall be designed to prevent a significant increase in the normal stopping time due to a failure within the operating valve mechanism, and to inhibit further operation if such failure does occur, where a part revolution clutch is employed. The exception in paragraph (b)(7)(xi) of this section for controls manufactured and installed before August 31, 1971, is not applicable under this paragraph (c)(5).
+(d) Design, construction, setting and feeding of dies —(1) General requirements. The employer shall: (i) Use dies and operating methods designed to control or eliminate hazards to operating personnel, and (ii) furnish and enforce the use of hand tools for freeing and removing stuck work or scrap pieces from the die, so that no employee need reach into the point of operation for such purposes.
+(2) [Reserved]
+(3) Scrap handling. The employer shall provide means for handling scrap from roll feed or random length stock operations. Scrap cutters used in conjunction with scrap handling systems shall be safeguarded in accordance with paragraph (c) of this section and with § 1910.219.

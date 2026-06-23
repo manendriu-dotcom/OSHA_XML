@@ -1,0 +1,18 @@
+§ 1910.333 Selection and use of work practices.
+(B) The energized part is insulated both from all other conductive objects at a different potential and from the person, or
+(C) The person is insulated from all conductive objects at a potential different from that of the energized part.
+
+Table S-5—Approach Distances for Qualified Employees—Alternating Current
+------------------------------------------------------------------------
+Voltage range (phase to phase) Minimum approach distance
+--------------------------------------------------------
+300V and less Avoid contact.
+Over 300V, not over 750V 1 ft. 0 in. (30.5 cm).
+Over 750V, not over 2kV l ft. 6 in. (46 cm).
+Over 2kV, not over 15kV 2 ft. 0 in. (61 cm).
+Over 15kV, not over 37kV 3 ft. 0 in. (91 cm).
+Over 37kV, not over 87.5kV 3 ft. 6 in. (107 cm).
+Over 87.5kV, not over 121kV 4 ft. 0 in. (122 cm).
+Over 121kV, not over 140kV 4 ft. 6 in. (137 cm).
+
+(iii) Vehicular and mechanical equipment. (A) Any vehicle or mechanical equipment capable of having parts of its structure elevated near energized overhead lines shall be operated so that a clearance of 10 ft. (305 cm) is maintained. If the voltage is higher than 50kV, the clearance shall be increased 4 in. (10 cm) for every 10kV over that voltage. However, under any of the following conditions, the clearance may be reduced:

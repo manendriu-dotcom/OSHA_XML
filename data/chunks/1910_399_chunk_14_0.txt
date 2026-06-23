@@ -1,0 +1,13 @@
+§ 1910.399 Definitions applicable to this subpart.
+Note: Note to the definition of "fountain:" This definition does not include drinking fountains.
+Fuse. (Over 600 volts, nominal.) An overcurrent protective device with a circuit opening fusible part that is heated and severed by the passage of overcurrent through it. A fuse comprises all the parts that form a unit capable of performing the prescribed functions. It may or may not be the complete device necessary to connect it into an electrical circuit.
+Ground. A conducting connection, whether intentional or accidental, between an electric circuit or equipment and the earth, or to some conducting body that serves in place of the earth.
+Grounded. Connected to the earth or to some conducting body that serves in place of the earth.
+Grounded, effectively. Intentionally connected to earth through a ground connection or connections of sufficiently low impedance and having sufficient current-carrying capacity to prevent the buildup of voltages that may result in undue hazards to connected equipment or to persons.
+Grounded conductor. A system or circuit conductor that is intentionally grounded.
+Grounding conductor. A conductor used to connect equipment or the grounded circuit of a wiring system to a grounding electrode or electrodes.
+Grounding conductor, equipment. The conductor used to connect the noncurrent-carrying metal parts of equipment, raceways, and other enclosures to the system grounded conductor, the grounding electrode conductor, or both, at the service equipment or at the source of a separately derived system.
+Grounding electrode conductor. The conductor used to connect the grounding electrode to the equipment grounding conductor, to the grounded conductor, or to both, of the circuits at the service equipment or at the source of a separately derived system.
+Ground-fault circuit-interrupter. A device intended for the protection of personnel that functions to deenergize a circuit or a portion of a circuit within an established period of time when a current to ground exceeds some predetermined value that is less than that required to operate the overcurrent protective device of the supply circuit.
+Guarded. Covered, shielded, fenced, enclosed, or otherwise protected by means of suitable covers, casings, barriers, rails, screens, mats, or platforms to remove the likelihood of approach to a point of danger or contact by persons or objects.
+Health care facilities. Buildings or portions of buildings in which medical, dental, psychiatric, nursing, obstetrical, or surgical care are provided.

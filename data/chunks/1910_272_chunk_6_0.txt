@@ -1,0 +1,16 @@
+§ 1910.272 Grain handling facilities.
+(A) Floor areas within 35 feet (10.7 m) of inside bucket elevators;
+(B) Floors of enclosed areas containing grinding equipment;
+(C) Floors of enclosed areas containing grain dryers located inside the facility.
+(ii) The employer shall immediately remove any fugitive grain dust accumulations whenever they exceed 1/8 inch (.32 cm) at priority housekeeping areas, pursuant to the housekeeping program, or shall demonstrate and assure, through the development and implementation of the housekeeping program, that equivalent protection is provided.
+(3) The use of compressed air to blow dust from ledges, walls, and other areas shall only be permitted when all machinery that presents an ignition source in the area is shut-down, and all other known potential ignition sources in the area are removed or controlled.
+(4) Grain and product spills shall not be considered fugitive grain dust accumulations. However, the housekeeping program shall address the procedures for removing such spills from the work area.
+(k) Grate openings. Receiving-pit feed openings, such as truck or railcar receiving-pits, shall be covered by grates. The width of openings in the grates shall be a maximum of 2 1/2 inches (6.35 cm).
+(l) Filter collectors. (1) All fabric dust filter collectors which are a part of a pneumatic dust collection system shall be equipped with a monitoring device that will indicate a pressure drop across the surface of the filter.
+(2) Filter collectors installed after March 30, 1988 shall be:
+(i) Located outside the facility; or
+(ii) Located in an area inside the facility protected by an explosion suppression system; or
+(iii) Located in an area inside the facility that is separated from other areas of the facility by construction having at least a one hour fire-resistance rating, and which is adjacent to an exterior wall and vented to the outside. The vent and ductwork shall be designed to resist rupture due to deflagration.
+(m) Preventive maintenance. (1) The employer shall implement preventive maintenance procedures consisting of:
+(i) Regularly scheduled inspections of at least the mechanical and safety control equipment associated with dryers, grain stream processing equipment, dust collection equipment including filter collectors, and bucket elevators;
+(ii) Lubrication and other appropriate maintenance in accordance with manufacturers' recommendations, or as determined necessary by prior operating records.

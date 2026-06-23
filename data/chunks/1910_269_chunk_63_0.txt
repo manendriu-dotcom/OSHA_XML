@@ -1,0 +1,13 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+(viii) The employer shall ensure that, before the employee contacts the energized part, the employee bonds the conductive bucket liner or other conductive device to the energized conductor by means of a positive connection. This connection shall remain attached to the energized conductor until the employee completes the work on the energized circuit.
+(ix) Aerial lifts used for live-line barehand work shall have dual controls (lower and upper) as follows:
+(A) The upper controls shall be within easy reach of the employee in the bucket. On a two-bucket-type lift, access to the controls shall be within easy reach of both buckets.
+(B) The lower set of controls shall be near the base of the boom and shall be designed so that they can override operation of the equipment at any time.
+(x) Lower (ground-level) lift controls may not be operated with an employee in the lift except in case of emergency.
+(xi) The employer shall ensure that, before employees elevate an aerial lift into the work position, the employees check all controls (ground level and bucket) to determine that they are in proper working condition.
+(xii) The employer shall ensure that, before employees elevate the boom of an aerial lift, the employees ground the body of the truck or barricade the body of the truck and treat it as energized.
+(xiii) The employer shall ensure that employees perform a boom-current test before starting work each day, each time during the day when they encounter a higher voltage, and when changed conditions indicate a need for an additional test.
+(A) This test shall consist of placing the bucket in contact with an energized source equal to the voltage to be encountered for a minimum of 3 minutes.
+(B) The leakage current may not exceed 1 microampere per kilovolt of nominal phase-to-ground voltage.
+(C) The employer shall immediately suspend work from the aerial lift when there is any indication of a malfunction in the equipment.
+(xiv) The employer shall ensure that employees maintain the minimum approach distances, established by the employer under paragraph (l)(3)(i) of this section, from all grounded objects and from lines and equipment at a potential different from that to which the live-line barehand equipment is bonded, unless insulating guards cover such grounded objects and other lines and equipment.

@@ -1,0 +1,15 @@
+§ 1910.146 Permit-required confined spaces.
+(3) Has an internal configuration such that an entrant could be trapped or asphyxiated by inwardly converging walls or by a floor which slopes downward and tapers to a smaller cross- section; or
+(4) Contains any other recognized serious safety or health hazard.
+Permit-required confined space program (permit space program) means the employer's overall program for controlling, and, where appropriate, for protecting employees from, permit space hazards and for regulating employee entry into permit spaces.
+Permit system means the employer's written procedure for preparing and issuing permits for entry and for returning the permit space to service following termination of entry.
+Prohibited condition means any condition in a permit space that is not allowed by the permit during the period when entry is authorized.
+Rescue service means the personnel designated to rescue employees from permit spaces.
+Retrieval system means the equipment (including a retrieval line, chest or full-body harness, wristlets, if appropriate, and a lifting device or anchor) used for non-entry rescue of persons from permit spaces.
+Testing means the process by which the hazards that may confront entrants of a permit space are identified and evaluated. Testing includes specifying the tests that are to be performed in the permit space.
+Note: Note: Testing enables employers both to devise and implement adequate control measures for the protection of authorized entrants and to determine if acceptable entry conditions are present immediately prior to, and during, entry.
+(c) General requirements. (1) The employer shall evaluate the workplace to determine if any spaces are permit- required confined spaces.
+Note: Note: Proper application of the decision flow chart in appendix A to § 1910.146 would facilitate compliance with this requirement.
+(2) If the workplace contains permit spaces, the employer shall inform exposed employees, by posting danger signs or by any other equally effective means, of the existence and location of and the danger posed by the permit spaces.
+Note: Note: A sign reading "DANGER—PERMIT-REQUIRED CONFINED SPACE, DO NOT ENTER" or using other similar language would satisfy the requirement for a sign.
+(3) If the employer decides that its employees will not enter permit spaces, the employer shall take effective measures to prevent its employees from entering the permit spaces and shall comply with paragraphs (c)(1), (c)(2), (c)(6), and (c)(8) of this section.

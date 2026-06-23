@@ -1,0 +1,15 @@
+§ 1910.217 Mechanical power presses.
+(3) Point of operation devices. (i) Point of operation devices shall protect the operator by:
+( a ) Preventing and/or stopping normal stroking of the press if the operator's hands are inadvertently placed in the point of operation; or
+( b ) Preventing the operator from inadvertently reaching into the point of operation, or withdrawing his hands if they are inadvertently located in the point of operation, as the dies close; or
+( c ) Preventing the operator from inadvertently reaching into the point of operation at all times; or
+( d ) [Reserved]
+( e ) Requiring application of both of the operator's hands to machine operating controls and locating such controls at such a safety distance from the point of operation that the slide completes the downward travel or stops before the operator can reach into the point of operation with his hands; or
+( f ) Enclosing the point of operation before a press stroke can be initiated, and maintaining this closed condition until the motion of the slide had ceased; or
+( g ) Enclosing the point of operation before a press stroke can be initiated, so as to prevent an operator from reaching into the point of operation prior to die closure or prior to cessation of slide motion during the downward stroke.
+(ii) A gate or movable barrier device shall protect the operator as follows:
+( a ) A Type A gate or movable barrier device shall protect the operator in the manner specified in paragraph (c)(3)(i)( f ) of this section, and
+( b ) A Type B gate or movable barrier device shall protect the operator in the manner specified in paragraph (c)(3)(i)( g ) of this section.
+(iii) A presence sensing point of operation device shall protect the operator as provided in paragraph (c)(3)(i)( a ) of this section, and shall be interlocked into the control circuit to prevent or stop slide motion if the operator's hand or other part of his body is within the sensing field of the device during the downstroke of the press slide.
+( a ) The device may not be used on machines using full revolution clutches.
+( b ) The device may not be used as a tripping means to initiate slide motion, except when used in total conformance with paragraph (h) of this section.

@@ -1,0 +1,12 @@
+§ 1910.67 Vehicle-mounted elevating and rotating work platforms.
+(ix) Articulating boom and extensible boom platforms, primarily designed as personnel carriers, shall have both platform (upper) and lower controls. Upper controls shall be in or beside the platform within easy reach of the operator. Lower controls shall provide for overriding the upper controls. Controls shall be plainly marked as to their function. Lower level controls shall not be operated unless permission has been obtained from the employee in the lift, except in case of emergency.
+(x) Climbers shall not be worn while performing work from an aerial lift.
+(xi) The insulated portion of an aerial lift shall not be altered in any manner that might reduce its insulating value.
+(xii) Before moving an aerial lift for travel, the boom(s) shall be inspected to see that it is properly cradled and outriggers are in stowed position, except as provided in paragraph (c)(2)(viii) of this section.
+(3) Electrical tests. Electrical tests shall be made in conformance with the requirements of ANSI A92.2—1969, Section 5. However, equivalent DC voltage tests may be used in lieu of the AC voltage test specified in A92.2—1969. DC voltage tests which are approved by the equipment manufacturer or equivalent entity shall be considered an equivalent test for the purpose of this paragraph (c)(3).
+(4) Bursting safety factor. All critical hydraulic and pneumatic components shall comply with the provisions of the American National Standards Institute standard, ANSI A92.2—1969, Section 4.9 Bursting Safety Factor. Critical components are those in which a failure would result in a free fall or free rotation of the boom. All noncritical components shall have a bursting safety factor of at least two to one.
+(5) " Welding standards." All welding shall conform to the following American Welding Society (AWS) Standards which are incorporated by reference as specified in § 1910.6, as applicable:
+(i) Standard Qualification Procedure, AWS B3.0—41.
+(ii) Recommended Practices for Automotive Welding Design, AWS D8.4-61.
+(iii) Standard Qualification of Welding Procedures and Welders for Piping and Tubing, AWS D10.9-69.
+(iv) Specifications for Welding Highway and Railway Bridges, AWS D2.0-69.

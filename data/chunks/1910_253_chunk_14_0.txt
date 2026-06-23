@@ -1,0 +1,12 @@
+§ 1910.253 Oxygen-fuel gas welding and cutting.
+(ix) When flammable gas lines or other parts of equipment are being purged of air or gas, open lights or other sources of ignition shall not be permitted near uncapped openings.
+(x) No welding or cutting shall be performed on an acetylene or oxygen pipeline, including the attachment of hangers or supports, until the line has been purged. Only oil-free air, oil-free nitrogen, or oil-free carbon dioxide shall be used to purge oxygen lines.
+(4) Painting and signs. (i) Underground pipe and tubing and outdoor ferrous pipe and tubing shall be covered or painted with a suitable material for protection against corrosion.
+(ii) Aboveground piping systems shall be marked in accordance with the American National Standard Scheme for the Identification of Piping Systems, ANSI A13.1−1956, which is incorporated by reference as specified in § 1910.6.
+(iii) Station outlets shall be marked to indicate the name of the gas.
+(5) Testing. (i) Piping systems shall be tested and proved gastight at 1 1/2 times the maximum operating pressure, and shall be thoroughly purged of air before being placed in service. The material used for testing oxygen lines shall be oil free and noncombustible. Flames shall not be used to detect leaks.
+(ii) When flammable gas lines or other parts of equipment are being purged of air or gas, sources of ignition shall not be permitted near uncapped openings.
+(e) Protective equipment, hose, and regulators —(1) General. Equipment shall be installed and used only in the service for which it is approved and as recommended by the manufacturer.
+(2) Pressure relief devices. Service piping systems shall be protected by pressure relief devices set to function at not more than the design pressure of the systems and discharging upwards to a safe location.
+(3) Piping protective equipment. (i) The fuel-gas and oxygen piping systems, including portable outlet headers shall incorporate the protective equipment shown in Figures Q-1, Q-2, and Q-3. When only a portion of a fuel-gas system is to be used with oxygen, only that portion need comply with this paragraph (e)(3)(i).
+EC27OC91.084

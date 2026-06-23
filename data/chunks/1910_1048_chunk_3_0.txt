@@ -1,0 +1,11 @@
+§ 1910.1048 Formaldehyde.
+(2) The employer shall limit access to regulated areas to authorized persons who have been trained to recognize the hazards of formaldehyde.
+(3) An employer at a multiemployer worksite who establishes a regulated area shall communicate the access restrictions and locations of these areas to other employers with work operations at that worksite.
+(f) Methods of compliance —(1) Engineering controls and work practices. The employer shall institute engineering and work practice controls to reduce and maintain employee exposures to formaldehyde at or below the TWA and the STEL.
+(2) Exception. Whenever the employer has established that feasible engineering and work practice controls cannot reduce employee exposure to or below either of the PELs, the employer shall apply these controls to reduce employee exposures to the extent feasible and shall supplement them with respirators which satisfy this standard.
+(g) Respiratory protection —(1) General. For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(i) Periods necessary to install or implement feasible engineering and work-practice controls.
+(ii) Work operations, such as maintenance and repair activities or vessel cleaning, for which the employer establishes that engineering and work-practice controls are not feasible.
+(iii) Work operations for which feasible engineering and work-practice controls are not yet sufficient to reduce employee exposure to or below the PELs.
+(iv) Emergencies.
+(2) Respirator program. (i) The employer must implement a respiratory protection program in accordance with § 1910.134(b) through (d) (except (d)(1)(iii), (d)(3)(iii)(b)(1), and (2)), and (f) through (m), which covers each employee required by this section to use a respirator.

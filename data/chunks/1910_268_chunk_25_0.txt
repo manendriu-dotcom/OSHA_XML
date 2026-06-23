@@ -1,0 +1,15 @@
+§ 1910.268 Telecommunications.
+(vi) Rubber footwear, including lineman's overshoes, shall not be considered as providing any measure of safety from electrical hazards.
+(vii) Ladders, platforms, and aerial devices, including insulated aerial devices, may not be brought in contact with an electrical conductor. Reliance shall not be placed on their dielectric capabilities.
+(viii) When an aerial lift device contacts an electrical conductor, the truck supporting the aerial lift device shall be considered as energized.
+(3) Storm work and emergency conditions. (i) Since storm work and emergency conditions create special hazards, only authorized representatives of the electric utility system operator/owner and not telecommunication workers may perform tree work in these situations where energized electrical power conductors are involved.
+(ii) When an emergency condition develops due to tree operations, work shall be suspended and the system operator/owner shall be notified immediately.
+(r) Buried facilities—Communications lines and power lines in the same trench. [Reserved]
+(s) Definitions —(1) Aerial lifts. Aerial lifts include the following types of vehicle-mounted aerial devices used to elevate personnel to jobsites above ground:
+(i) Extensible boom platforms,
+(ii) Aerial ladders,
+(iii) Articulating boom platforms,
+(iv) Vertical towers,
+(v) A combination of any of the above defined in ANSI A92.2-1969, which is incorporated by reference as specified in § 1910.6. These devices are made of metal, wood, fiberglass reinforced plastic (FRP), or other material; are powered or manually operated; and are deemed to be aerial lifts whether or not they are capable of rotating about a substantially vertical axis.
+(2) Aerial splicing platform. This consists of a platform, approximately 3 ft. x 4 ft., used to perform aerial cable work. It is furnished with fiber or synthetic ropes for supporting the platform from aerial strand, detachable guy ropes for anchoring it, and a device for raising and lowering it with a handline.
+(3) Aerial tent. A small tent usually constructed of vinyl coated canvas which is usually supported by light metal or plastic tubing. It is designed to protect employees in inclement weather while working on ladders, aerial splicing platforms, or aerial devices.

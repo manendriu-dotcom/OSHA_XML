@@ -1,0 +1,17 @@
+§ 1910.215 Abrasive wheel machinery.
+(5) Recess and undercut. (i) Straight relieved flanges made according to Table O-6 and Figure O-32 shall be recessed at least one-sixteenth inch on the side next to the wheel for a distance as specified in Table O-6.
+(ii) Straight flanges of the adaptor or sleeve type (Table O-7 and Figures O-33 and O-34) shall be undercut so that there will be no bearing on the sides of the wheel within one-eighth inch of the arbor hole.
+(6) Blotters. (i) Blotters (compressible washers) shall always be used between flanges and abrasive wheel surfaces to insure uniform distribution of flange pressure. (See paragraph (d)(5) of this section.)
+(ii) Exception:
+( a ) Mounted wheels.
+( b ) Abrasive discs (inserted nut, inserted washer, and projecting stud type).
+( c ) Plate mounted wheels.
+( d ) Cylinders, cups, or segmental wheels that are mounted in chucks.
+( e ) Types 27 and 28 wheels.
+( f ) Certain Type 1 and Type 27A cutting-off wheels.
+( g ) Certain internal wheels.
+( h ) Type 4 tapered wheels.
+( i ) Diamond wheels, except certain vitrified diamond wheels.
+( j ) Modified Types 6 and 11 wheel (terrazzo)—blotters applied flat side of wheel only.
+(7) Driving flange. The driving flange shall be securely fastened to the spindle and the bearing surface shall run true. When more than one wheel is mounted between a single set of flanges, wheels may be cemented together or separated by specially designed spacers. Spacers shall be equal in diameter to the mounting flanges and have equal bearing surfaces. (See paragraph (d)(6) of this section.)
+(8) Dimensions. (i) Tables O-4 and O-6 and Figures O-30 and O-32 show minimum dimensions for straight relieved and unrelieved flanges for use with wheels with small holes that fit directly on the machine spindle. Dimensions of such flanges shall never be less than indicated.

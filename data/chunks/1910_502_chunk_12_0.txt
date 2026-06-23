@@ -1,0 +1,11 @@
+§ 1910.502 Healthcare.
+(ii) Gloves, an isolation gown or protective clothing, and eye protection to each employee and ensure that the PPE is used in accordance with subpart I of this part.
+Note: Note 1 to paragraph ( f )(3): For aerosol-generating procedures on a person suspected or confirmed with COVID-19, employers are encouraged to select elastomeric respirators or PAPRs instead of filtering facepiece respirators.
+Note: Note 2 to paragraph ( f )(3): Additional requirements specific to aerosol-generating procedures on people with suspected or confirmed COVID-19 are contained in paragraph (g) of this section.
+(4) Use of respirators when not required. (i) The employer may provide a respirator to the employee instead of a facemask as required by paragraph (f)(1) of this section. In such circumstances, the employer must comply with § 1910.504.
+(ii) Where the employer provides the employee with a facemask as required by paragraph (f)(1) of this section, the employer must permit the employee to wear their own respirator instead of a facemask. In such circumstances, the employer must also comply with § 1910.504.
+(5) Respirators and other PPE based on Standard and Transmission-Based Precautions. The employer must provide protective clothing and equipment ( e.g., respirators, gloves, gowns, goggles, face shields) to each employee in accordance with Standard and Transmission-Based Precautions in healthcare settings in accordance with CDC's "Guidelines for Isolation Precautions" (incorporated by reference, § 1910.509) and ensure that the protective clothing and equipment is used in accordance with subpart I of this part.
+(g) Aerosol-generating procedures on a person with suspected or confirmed COVID-19. When an aerosol-generating procedure is performed on a person with suspected or confirmed COVID-19:
+(1) The employer must limit the number of employees present during the procedure to only those essential for patient care and procedure support.
+(2) The employer must ensure that the procedure is performed in an existing AIIR, if available.
+(3) After the procedure is completed, the employer must clean and disinfect the surfaces and equipment in the room or area where the procedure was performed.

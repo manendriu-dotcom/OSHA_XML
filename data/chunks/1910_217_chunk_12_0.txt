@@ -1,0 +1,11 @@
+§ 1910.217 Mechanical power presses.
+(v) The employer shall provide brushes, swabs, lubricating rolls, and automatic or manual pressure guns so that operators and diesetters shall not be required to reach into the point of operation or other hazard areas to lubricate material, punches or dies.
+(e) Inspection, maintenance, and modification of presses —(1) Inspection and maintenance records. The employer shall establish and follow an inspection program having a general component and a directed component.
+(i) Under the general component of the inspection program, the employer shall:
+(A) Conduct periodic and regular inspections of each power press to ensure that all of its parts, auxiliary equipment, and safeguards, including the clutch/brake mechanism, antirepeat feature, and single-stroke mechanism, are in a safe operating condition and adjustment;
+(B) Perform and complete necessary maintenance or repair, or both, before operating the press; and
+(C) Maintain a certification record of each inspection, and each maintenance and repair task performed, under the general component of the inspection program that includes the date of the inspection, maintenance, or repair work, the signature of the person who performed the inspection, maintenance, or repair work, and the serial number, or other identifier, of the power press inspected, maintained, and repaired.
+(ii) Under the directed component of the inspection program, the employer shall:
+(A) Inspect and test each press on a regular basis at least once a week to determine the condition of the clutch/brake mechanism, antirepeat feature, and single-stroke mechanism;
+(B) Perform and complete necessary maintenance or repair, or both, on the clutch/brake mechanism, antirepeat feature, and single-stroke mechanism before operating the press; and
+(C) Maintain a certification record of each maintenance task performed under the directed component of the inspection program that includes the date of the maintenance task, the signature of the person who performed the maintenance task, and the serial number, or other identifier, of the power press maintained.

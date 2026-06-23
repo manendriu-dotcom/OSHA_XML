@@ -1,0 +1,10 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+( 1 ) Where tagout devices are used with energy isolating devices designed with the capability of being locked out, the tag attachment shall be fastened at the same point at which the lock would have been attached.
+( 2 ) Where a tag cannot be affixed directly to the energy isolating device, the tag shall be located as close as safely possible to the device, in a position that will be immediately obvious to anyone attempting to operate the device.
+(v) Following the application of lockout or tagout devices to energy isolating devices, all potentially hazardous stored or residual energy shall be relieved, disconnected, restrained, or otherwise rendered safe.
+(vi) If there is a possibility of reaccumulation of stored energy to a hazardous level, verification of isolation shall be continued until the servicing or maintenance is completed or until the possibility of such accumulation no longer exists.
+(vii) Before starting work on machines or equipment that have been locked out or tagged out, the authorized employee shall verify that isolation and deenergizing of the machine or equipment have been accomplished. If normally energized parts will be exposed to contact by an employee while the machine or equipment is deenergized, a test shall be performed to ensure that these parts are deenergized.
+(7) Release from lockout/tagout. Before lockout or tagout devices are removed and energy is restored to the machine or equipment, procedures shall be followed and actions taken by the authorized employees to ensure the following:
+(i) The work area shall be inspected to ensure that nonessential items have been removed and that machine or equipment components are operationally intact.
+(ii) The work area shall be checked to ensure that all employees have been safely positioned or removed.
+(iii) After lockout or tagout devices have been removed and before a machine or equipment is started, affected employees shall be notified that the lockout or tagout devices have been removed.

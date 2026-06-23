@@ -1,0 +1,9 @@
+§ 1910.211 Definitions.
+(4) Type 11 flaring cup wheels mean wheels having double diameter dimensions D and J, and in addition have thickness, hole size, rim and back thickness dimensions. Grinding is always performed on rim face, W dimension. Type 11 wheels are subject to all limitations of use and mounting listed for type 6 straight sided cup wheels definition.
+Figure No. 0-4—Type 11 Flaring Cup Wheels EC27OC91.055 Type 11—Flaring-cup Wheel
+(5) Modified types 6 and 11 wheels (terrazzo) mean some type 6 and 11 cup wheels used in the terrazzo trade having tapered K dimensions to match a special tapered flange furnished by the machine builder.
+Figure No. 0-5 EC27OC91.056 Typical examples of modified types 6 and 11 wheels (terrazzo) showing tapered K dimensions.
+(6) Types 27 and 28 depressed center wheels mean wheels having diameter, thickness, and hole size dimensions. Both types are reinforced, organic bonded wheels having offset hubs which permit side and peripheral grinding operations without interference with the mounting. Type 27 wheels are manufactured with flat grinding rims permitting notching and cutting operations. Type 28 wheels have saucer shaped grinding rims.
+(i) Limitations: Special supporting, back adapter and inside flange nuts are required for the proper mounting of these types of wheels subject to limitations of § 1910.215(c)(4) (i) and (ii).
+(ii) Mounts which are affixed to the wheel by the manufacturer may not require an inside nut and shall not be reused.
+(7) Type 27A depressed center, cutting-off wheels mean wheels having diameter, thickness, and hole size dimensions. They are reinforced, organic bonded, offset hub type wheels, usually 16 inches diameter and larger, specially designed for use on cutting-off machines where mounting nut or outer flange interference cannot be tolerated.

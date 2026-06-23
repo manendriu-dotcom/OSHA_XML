@@ -1,0 +1,10 @@
+§ 1910.261 Pulp, paper, and paperboard mills.
+(2) Shredders, cutters, and dusters. (i) Rotating heads or cylinders shall be completely enclosed except for an opening at the feed side sufficient to permit only the entry of stock. The enclosure shall extend over the top of the feed rolls. It shall be constructed either of solid material or with mesh or openings not exceeding one-half inch and substantial enough to contain flying particles and prevent accidental contact with moving parts. The enclosure shall be bolted or locked into place.
+(ii) A smooth-pivoted idler roll resting on the stock or feed table shall be provided in front of feed rolls except when arrangements prevent the operator from standing closer than 36 inches to any part of the feed rolls.
+(iii) Any manually fed cutter, shredder, or duster shall be provided with an idler roll as per subdivision (ii) of this subparagraph or the operator shall use special hand-feeding tools.
+(iv) Hoods of cutters, shredders, and dusters shall have exhaust ventilation, in accordance with American National Standard Z9.2—1960.
+(3) Blowers. (i) Blowers used for transporting rags shall be provided with feed hoppers having outer edges located not less than 48 inches from the fan.
+(ii) The arrangement of the blower discharge outlets and work areas shall be such as to prevent material from falling on workers.
+(4) Conveyors. Conveyors and conveyor drive belts and pulleys shall be fully enclosed or, if open and within 7 feet of the floor, shall be constructed and guarded in accordance with paragraph (c)(15) of this section and American National Standards B15.1—1953 (Reaffirmed 1958) and B20.1—1957.
+(5) Dust. Measures for the control of dust shall be provided, in accordance with American National Standards Z33.1—1961, Z87.1—1968, and Z88.2—1969.
+(6) Rag cookers. (i) When cleaning, inspection, or other work requires that persons enter rag cookers, all steam and water valves, or other control devices, shall be locked and tagged in the closed or "off" position. Blank flanging of pipelines is acceptable in place of closed and locked valves.

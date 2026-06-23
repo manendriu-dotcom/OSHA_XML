@@ -1,0 +1,22 @@
+§ 1910.268 Telecommunications.
+(iii) During all tree working operations aloft where an electrical hazard of more than 750V exists, there shall be a second employee or trainee qualified in line clearance tree trimming within normal voice communication.
+(iv) Where tree work is performed by employees qualified in line-clearance tree trimming and trainees qualified in line-clearance tree trimming, the clearances from energized conductors given in Table R-3 shall apply.
+
+Table R-3—Minimum Working Distances From Energized Conductors for Line-Clearance Tree Trimmers and Line-Clearance Tree-Trimmer Trainees
+--------------------------------------------------------------------------------
+Voltage range (phase to phase) (kilovolts) Minimum working distance
+-------------------------------------------------------------------
+2.1 to 15.0 2 ft. 0 in.
+15.1 to 35.0 2 ft. 4 in.
+35.1 to 46.0 2 ft. 6 in.
+46.1 to 72.5 3 ft. 0 in.
+72.6 to 121.0 3 ft. 4 in.
+138.0 to 145.0 3 ft. 6 in.
+161.0 to 169.0 3 ft. 8 in.
+230.0 to 242.0 5 ft. 0 in.
+345.0 to 362.0 7 ft. 0 in.
+500.0 to 552.0 11 ft. 0 in.
+700.0 to 765.0 15 ft. 0 in.
+
+(v) Branches hanging on an energized conductor may only be removed using appropriately insulated equipment.
+(vi) Rubber footwear, including lineman's overshoes, shall not be considered as providing any measure of safety from electrical hazards.

@@ -1,0 +1,31 @@
+§ 1910.1200 Hazard communication.
+ (h) Evaporation rate;
+ (i) Flammability (solid, gas);
+ (j) Upper/lower flammability or explosive limits;
+ (k) Vapor pressure;
+ (l) Vapor density;
+ (m) Relative density;
+ (n) Solubility(ies);
+ (o) Partition coefficient: n-octanol/water;
+ (p) Auto-ignition temperature;
+ (q) Decomposition temperature;
+ (r) Viscosity.
+10. Stability and reactivity (a) Reactivity;
+ (b) Chemical stability;
+ (c) Possibility of hazardous reactions;
+ (d) Conditions to avoid (e.g., static discharge, shock, or vibration);
+ (e) Incompatible materials;
+ (f) Hazardous decomposition products.
+11. Toxicological information Description of the various toxicological (health) effects and the available data used to identify those effects, including:
+ (a) Information on the likely routes of exposure (inhalation, ingestion, skin and eye contact);
+ (b) Symptoms related to the physical, chemical and toxicological characteristics;
+ (c) Delayed and immediate effects and also chronic effects from short- and long-term exposure;
+ (d) Numerical measures of toxicity (such as acute toxicity estimates).
+ (e) Whether the hazardous chemical is listed in the National Toxicology Program (NTP) Report on Carcinogens (latest edition) or has been found to be a potential carcinogen in the International Agency for Research on Cancer (IARC) Monographs (latest edition), or by OSHA.
+12. Ecological information (Non-mandatory) (a) Ecotoxicity (aquatic and terrestrial, where available); (b) Persistence and degradability; (c) Bioaccumulative potential; (d) Mobility in soil; (e) Other adverse effects (such as hazardous to the ozone layer).
+13. Disposal considerations (Non-mandatory) Description of waste residues and information on their safe handling and methods of disposal, including the disposal of any contaminated packaging.
+14. Transport information (Non-mandatory) (a) UN number;
+ (b) UN proper shipping name;
+ (c) Transport hazard class(es);
+ (d) Packing group, if applicable;
+ (e) Environmental hazards (e.g., Marine pollutant (Yes/No));

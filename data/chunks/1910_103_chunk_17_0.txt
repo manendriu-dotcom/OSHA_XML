@@ -1,0 +1,10 @@
+§ 1910.103 Hydrogen.
+( c ) Explosion venting shall be provided in exterior walls or roof only. The venting area shall be equal to not less than 1 square foot per 30 cubic feet of room volume and may consist of any one or any combination of the following: Walls of light noncombustible material; lightly fastened hatch covers; lightly fastened swinging doors opening outward in exterior walls; lightly fastened walls or roofs designed to relieve at a maximum pressure of 25 pounds per square foot.
+( d ) There shall be no sources of ignition.
+( e ) Electrical wiring and equipment shall comply with paragraph (c)(1)(ix) ( a ) and ( b ) of this section except that the provision of paragraph (c)(1)(ix)( b ) of this section shall apply to all electrical wiring and equipment in the special room.
+( f ) Heating, if provided, shall be steam, hot water, or by other indirect means.
+(4) Operating instructions —(i) Written instructions. For installation which require any operation of equipment by the user, legible instructions shall be maintained at operating locations.
+(ii) Attendant. A qualified person shall be in attendance at all times while the mobile hydrogen supply unit is being unloaded.
+(iii) Security. Each mobile liquefied hydrogen supply unit used as part of a hydrogen system shall be adequately secured to prevent movement.
+(iv) Grounding. The mobile liquefied hydrogen supply unit shall be grounded for static electricity.
+(5) Maintenance. The equipment and functioning of each charged liquefied hydrogen system shall be maintained in a safe operating condition in accordance with the requirements of this section. Weeds or similar combustibles shall not be permitted within 25 feet of any liquefied hydrogen equipment.

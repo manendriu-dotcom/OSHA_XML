@@ -1,0 +1,17 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+(h) Liquefied petroleum gas service stations —(1) Application. This paragraph applies to storage containers, and dispensing devices, and pertinent equipment in service stations where LP-Gas is stored and is dispensed into fuel tanks of motor vehicles. See paragraph (e) of this section for requirements covering use of LP-Gas as a motor fuel. All requirements of paragraph (b) of this section apply to this paragraph unless otherwise noted.
+(2) Design pressure and classification of storage containers. Storage containers shall be designed and classified in accordance with Table H-34.
+
+Table H-34
+----------
+Container type For gases with vapor press. Not to exceed lb. per sq. in. gage at 100 degrees F. (37.8 degrees C.) Minimum design pressure of container, lb. per sq. in. gage 1949 and earlier editions of ASME Code (Par. U-68, U-69) 1949 edition of ASME Code (Par. U-200, U-201); 1950, 1952, 1956, 1959, 1962, 1965, and 1968 (Division 1) editions of ASME Code; All editions of API-ASME Code 2
+--------------------------------------------------------------------------------
+1 200 215 200 250
+
+(3) Container valves and accessories. (i) A filling connection on the container shall be fitted with one of the following:
+( a ) A combination back-pressure check and excess flow valve.
+( b ) One double or two single back-pressure valves.
+( c ) A positive shutoff valve, in conjunction with either,
+( 1 ) An internal back-pressure valve, or
+( 2 ) On internal excess flow valve.
+In lieu of an excess flow valve, filling connections may be fitted with a quick-closing internal valve, which shall remain closed except during operating periods. The mechanism for such valves may be provided with a secondary control which will cause it to close automatically in case of fire. When a fusible plug is used its melting point shall not exceed 220 degrees F.

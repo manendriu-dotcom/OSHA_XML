@@ -1,0 +1,18 @@
+§ 1910.134 Respiratory protection.
+(B) An air-purifying respirator equipped with a filter certified by NIOSH under 30 CFR part 11 as a high efficiency particulate air (HEPA) filter, or an air-purifying respirator equipped with a filter certified for particulates by NIOSH under 42 CFR part 84; or
+(C) For contaminants consisting primarily of particles with mass median aerodynamic diameters (MMAD) of at least 2 micrometers, an air-purifying respirator equipped with any filter certified for particulates by NIOSH.
+Table I—Assigned Protection Factors [Reserved]
+
+Table II
+--------
+Altitude (ft.) Oxygen deficient Atmospheres (% 0 2 ) for which the employer may rely on atmosphere-supplying respirators
+--------------------------------------------------------------------------------
+Less than 3,001 16.0-19.5
+3,001-4,000 16.4-19.5
+4,001-5,000 17.1-19.5
+5,001-6,000 17.8-19.5
+6,001-7,000 18.5-19.5
+7,001-8,000 1 19.3-19.5.
+
+(e) Medical evaluation. Using a respirator may place a physiological burden on employees that varies with the type of respirator worn, the job and workplace conditions in which the respirator is used, and the medical status of the employee. Accordingly, this paragraph specifies the minimum requirements for medical evaluation that employers must implement to determine the employee's ability to use a respirator.
+(1) General. The employer shall provide a medical evaluation to determine the employee's ability to use a respirator, before the employee is fit tested or required to use the respirator in the workplace. The employer may discontinue an employee's medical evaluations when the employee is no longer required to use a respirator.

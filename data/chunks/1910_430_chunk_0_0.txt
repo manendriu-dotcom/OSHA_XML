@@ -1,0 +1,23 @@
+§ 1910.430 Equipment.
+(a) General. (1) All employers shall comply with the following requirements, unless otherwise specified.
+(2) Each equipment modification, repair, test, calibration or maintenance service shall be recorded by means of a tagging or logging system, and include the date and nature of work performed, and the name or initials of the person performing the work.
+(b) Air compressor system. (1) Compressors used to supply air to the diver shall be equipped with a volume tank with a check valve on the inlet side, a pressure gauge, a relief valve, and a drain valve.
+(2) Air compressor intakes shall be located away from areas containing exhaust or other contaminants.
+(3) Respirable air supplied to a diver shall not contain:
+(i) A level of carbon monoxide (CO) greater than 20 p/m;
+(ii) A level of carbon dioxide (CO 2 ) greater than 1,000 p/m;
+(iii) A level of oil mist greater than 5 milligrams per cubic meter; or
+(iv) A noxious or pronounced odor.
+(4) The output of air compressor systems shall be tested for air purity every 6 months by means of samples taken at the connection to the distribution system, except that non-oil lubricated compressors need not be tested for oil mist.
+(c) Breathing gas supply hoses. (1) Breathing gas supply hoses shall:
+(i) Have a working pressure at least equal to the working pressure of the total breathing gas system;
+(ii) Have a rated bursting pressure at least equal to 4 times the working pressure;
+(iii) Be tested at least annually to 1.5 times their working pressure; and
+(iv) Have their open ends taped, capped or plugged when not in use.
+(2) Breathing gas supply hose connectors shall:
+(i) Be made of corrosion-resistant materials;
+(ii) Have a working pressure at least equal to the working pressure of the hose to which they are attached; and
+(iii) Be resistant to accidental disengagement.
+(3) Umbilicals shall:
+(i) Be marked in 10-ft. increments to 100 feet beginning at the diver's end, and in 50 ft. increments thereafter;
+(ii) Be made of kink-resistant materials; and

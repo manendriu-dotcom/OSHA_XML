@@ -1,0 +1,13 @@
+§ 1910.502 Healthcare.
+(iv) All air filters are maintained and replaced as necessary to ensure the proper function and performance of the HVAC system(s); and
+(v) All intake ports that provide outside air to the HVAC system(s) are cleaned, maintained, and cleared of any debris that may affect the function and performance of the HVAC system(s).
+(2) Where the employer has an existing AIIR, the employer must maintain and operate it in accordance with its design and construction criteria.
+Note: Note 1 to paragraph ( k ): This section does not require installation of new HVAC systems or AIIRs to replace or augment functioning systems.
+Note: Note 2 to paragraph ( k ): In addition to the requirements for existing HVAC systems and AIIRs, all employers should also consider other measures to improve ventilation in accordance with "CDC's Ventilation Guidance," (available at www.cdc.gov/coronavirus/2019-ncov/community/ventilation.html ) ( e.g., opening windows and doors). This could include maximizing ventilation in buildings without HVAC systems or in vehicles.
+(l) Health screening and medical management —(1) Screening. (i) The employer must screen each employee before each work day and each shift. Screening may be conducted by asking employees to self-monitor before reporting to work or may be conducted in-person by the employer.
+(ii) If a COVID-19 test is required by the employer for screening purposes, the employer must provide the test to each employee at no cost to the employee.
+(2) Employee notification to employer of COVID-19 illness or symptoms. The employer must require each employee to promptly notify the employer when the employee:
+(i) Is COVID-19 positive ( i.e., confirmed positive test for, or has been diagnosed by a licensed healthcare provider with, COVID-19); or
+(ii) Has been told by a licensed healthcare provider that they are suspected to have COVID-19; or
+(iii) Is experiencing recent loss of taste and/or smell with no other explanation; or
+(iv) Is experiencing both fever (>=100.4 degrees F) and new unexplained cough associated with shortness of breath.

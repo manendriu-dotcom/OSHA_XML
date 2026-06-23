@@ -1,0 +1,11 @@
+§ 1910.1027 Cadmium.
+(vii) Emergencies.
+(2) Respirator program. (i) The employer must implement a respiratory protection program in accordance with § 1910.134(b) through (d) (except (d)(1)(iii)), and (f) through (m), which covers each employee required by this section to use a respirator.
+(ii) No employees must use a respirator if, based on their most recent medical examination, the examining physician determines that they will be unable to continue to function normally while using a respirator. If the physician determines that the employee must be limited in, or removed from, their current job because of their inability to use a respirator, the limitation or removal must be in accordance with paragraphs (l) (11) and (12) of this section.
+(iii) If an employee has breathing difficulty during fit testing or respirator use, the employer must provide the employee with a medical examination in accordance with paragraph (l)(6)(ii) of this section to determine if the employee can use a respirator while performing the required duties.
+(3) Respirator selection. (i) Employers must:
+(A) Select, and provide to employees, the appropriate respirators specified in paragraph (d)(3)(i)(A) of 29 CFR 1910.134.
+(B) Provide employees with full facepiece respirators when they experience eye irritation.
+(C) Provide HEPA filters for powered and non-powered air-purifying respirators.
+(ii) The employer must provide an employee with a powered air-purifying respirator instead of a negative-pressure respirator when an employee who is entitled to a respirator chooses to use this type of respirator and such a respirator provides adequate protection to the employee.
+(h) Emergency situations. The employer shall develop and implement a written plan for dealing with emergency situations involving substantial releases of airborne cadmium. The plan shall include provisions for the use of appropriate respirators and personal protective equipment. In addition, employees not essential to correcting the emergency situation shall be restricted from the area and normal operations halted in that area until the emergency is abated.

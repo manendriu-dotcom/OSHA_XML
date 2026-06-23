@@ -1,0 +1,16 @@
+§ 1910.261 Pulp, paper, and paperboard mills.
+(4) Elevators. These shall be in accordance with American National Standard A17.1—1965.
+(5) Control panels. The requirements of paragraph (k)(22) of this section shall apply.
+(6) Guillotine-type cutters. (i) Each guillotine-type cutter shall be equipped with a control which requires the operator and his helper, if any, to use both hands to engage the clutch.
+(ii) Each guillotine-type cutter shall be equipped with a nonrepeat device.
+(iii) Carriers shall be provided and used for transportation of guillotine-type cutter knives.
+(7) Rotary cutter. (i) On single-knife machines a guard shall be provided at a point of contact to the knife.
+(ii) On duplex cutters the protection required for single-knife machines shall be provided for the first knife, and a hood shall be provided for the second knife.
+(iii) Safe access shall be provided to the knives of a rotary cutter by means of catwalks with nonslip surfaces, railings, and toeboards in accordance with paragraph (b)(3) of this section.
+(iv) A guard shall be provided for the spreader or squeeze roll at the nip side on sheet cutters.
+(v) Electrically or manually operated quick power disconnecting devices with adequate braking action shall be provided on all operating sides of the machine within easy reach of all operators.
+(vi) The outside slitters shall be guarded.
+(8) Platers. (i) A guard shall be arranged across the face of the rolls to serve as a warning that the operator's hand is approaching the danger zone.
+(ii) A quick power disconnecting device shall be installed on each machine within easy reach of the operator.
+(9) Finishing room rewinders. (i) The nipping points of all drum winders and rewinders located on the operator's side shall be guarded by either automatic or manually operated barrier guards of sufficient height to protect fully anyone working around them. The barrier guard shall be interlocked with the drive mechanism to prevent operating above jog speed without the guard in place.
+A zero speed switch should be installed to prevent the guard from being raised while the roll is turning.

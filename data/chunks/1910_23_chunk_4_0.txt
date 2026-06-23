@@ -1,0 +1,13 @@
+§ 1910.23 Ladders.
+(i) A clear width of at least 15 inches (38 cm) on each side of the ladder centerline to the nearest permanent object; and
+(ii) A minimum perpendicular distance of 30 inches (76 cm) from the centerline of the steps or rungs to the nearest object on the climbing side. When unavoidable obstructions are encountered, the minimum clearance at the obstruction may be reduced to 24 inches (61 cm), provided deflector plates are installed (see Figure D-5 of this section).
+Note: Note to paragraph ( d ): Section 1910.28 establishes the employer's duty to provide fall protection for employees on fixed ladders, and § 1910.29 specifies the criteria for fall protection systems for fixed ladders.
+ER18NO16.347
+ER18NO16.348
+(e) Mobile ladder stands and mobile ladder stand platforms —(1) General requirements. The employer must ensure:
+(i) Mobile ladder stands and platforms have a step width of at least 16 inches (41 cm);
+(ii) The steps and platforms of mobile ladder stands and platforms are slip resistant. Slip-resistant surfaces must be either an integral part of the design and construction of the mobile ladder stand and platform, or provided as a secondary process or operation, such as dimpling, knurling, shotblasting, coating, spraying, or applying durable slip-resistant tapes;
+(iii) Mobile ladder stands and platforms are capable of supporting at least four times their maximum intended load;
+(iv) Wheels or casters under load are capable of supporting their proportional share of four times the maximum intended load, plus their proportional share of the unit's weight;
+(v) Unless otherwise specified in this section, mobile ladder stands and platforms with a top step height of 4 feet (1.2 m) or above have handrails with a vertical height of 29.5 inches (75 cm) to 37 inches (94 cm), measured from the front edge of a step. Removable gates or non-rigid members, such as chains, may be used instead of handrails in special-use applications;
+(vi) The maximum work-surface height of mobile ladder stands and platforms does not exceed four times the shortest base dimension, without additional support. For greater heights, outriggers, counterweights, or comparable means that stabilize the mobile ladder stands and platforms and prevent overturning must be used;

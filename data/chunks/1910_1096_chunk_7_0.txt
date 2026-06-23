@@ -1,0 +1,12 @@
+§ 1910.1096 Ionizing radiation.
+(iii) High radiation area means any area, accessible to personnel, in which there exists radiation at such levels that a major portion of the body could receive in any one hour a dose in excess of 100 millirem.
+(e) Caution signs, labels, and signals —(1) General. (i) Symbols prescribed by this paragraph shall use the conventional radiation caution colors (magenta or purple on yellow background). The symbol prescribed by this paragraph is the conventional three-bladed design:
+EC28OC91.041 Figure G-10
+(ii) [Reserved]
+(2) Radiation area. Each radiation area shall be conspicuously posted with a sign or signs bearing the radiation caution symbol described in subparagraph (1) of this paragraph and the words:
+(3) High radiation area. (i) Each high radiation area shall be conspicuously posted with a sign or signs bearing the radiation caution symbol and the words:
+(ii) Each high radiation area shall be equipped with a control device which shall either cause the level of radiation to be reduced below that at which an individual might receive a dose of 100 millirems in 1 hour upon entry into the area or shall energize a conspicuous visible or audible alarm signal in such a manner that the individual entering and the employer or a supervisor of the activity are made aware of the entry. In the case of a high radiation area established for a period of 30 days or less, such control device is not required.
+(4) Airborne radioactivity area. (i) As used in the provisions of this section, airborne radioactivity area means:
+( a ) Any room, enclosure, or operating area in which airborne radioactive materials, composed wholly or partly of radioactive material, exist in concentrations in excess of the amounts specified in column 1 of Table 1 of appendix B to 10 CFR part 20 or
+( b ) Any room, enclosure, or operating area in which airborne radioactive materials exist in concentrations which, averaged over the number of hours in any week during which individuals are in the area, exceed 25 percent of the amounts specified in column 1 of Table 1 of appendix B to 10 CFR part 20.
+(ii) Each airborne radioactivity area shall be conspicuously posted with a sign or signs bearing the radiation caution symbol described in paragraph (e)(1) of this section and the words:

@@ -1,0 +1,10 @@
+§ 1910.66 Powered platforms for building maintenance.
+(3) Roof guarding. (i) Employees working on roofs while performing building maintenance shall be protected by a perimeter guarding system which meets the requirements of paragraph (c)(1) of § 1910.23 of this part.
+(ii) The perimeter guard shall not be more than six inches (152 mm) inboard of the inside face of a barrier, i.e. the parapet wall, or roof edge curb of the building being serviced; however, the perimeter guard location shall not exceed an 18 inch (457 mm) setback from the exterior building face.
+(4) Equipment stops. Operational areas for trackless type equipment shall be provided with structural stops, such as curbs, to prevent equipment from traveling outside its intended travel areas and to prevent a crushing or shearing hazard.
+(5) Maintenance access. Means shall be provided to traverse all carriages and their suspended equipment to a safe area for maintenance and storage.
+(6) Elevated track. (i) An elevated track system which is located four feet (1.2 m) or more above a safe surface, and traversed by carriage supported equipment, shall be provided with a walkway and guardrail system; or
+(ii) The working platform shall be capable of being lowered, as part of its normal operation, to the lower safe surface for access and egress of the personnel and shall be provided with a safe means of access and egress to the lower safe surface.
+(7) Tie-down anchors. Imbedded tie-down anchors, fasteners, and affected structures shall be resistant to corrosion.
+(8) Cable stabilization. (i) Hanging lifelines and all cables not in tension shall be stabilized at each 200 foot (61 m) interval of vertical travel of the working platform beyond an initial 200 foot (61 m) distance.
+(ii) Hanging cables, other than suspended wire ropes, which are in constant tension shall be stabilized when the vertical travel exceeds an initial 600 foot (183 m) distance, and at further intervals of 600 feet (183 m) or less.

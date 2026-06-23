@@ -1,0 +1,15 @@
+§ 1910.1043 Cotton dust.
+(e) Methods of compliance —(1) Engineering and work practice controls. The employer shall institute engineering and work practice controls to reduce and maintain employee exposure to cotton dust at or below the permissible exposure limit specified in paragraph (c) of this section, except to the extent that the employer can establish that such controls are not feasible.
+(2) Whenever feasible engineering and work practice controls are not sufficient to reduce employee exposure to or below the permissible exposure limit, the employer shall nonetheless institute these controls to reduce exposure to the lowest feasible level, and shall supplement these controls with the use of respirators which shall comply with the provisions of paragraph (f) of this section.
+(3) Compliance program. (i) Where the most recent exposure monitoring data indicates that any employee is exposed to cotton dust levels greater than the permissible exposure limit, the employer shall establish and implement a written program sufficient to reduce exposures to or below the permissible exposure limit solely by means of engineering controls and work practices as required by paragraph (e)(1) of this section.
+(ii) The written program shall include at least the following:
+(A) A description of each operation or process resulting in employee exposure to cotton dust at levels greater than the PEL;
+(B) Engineering plans and other studies used to determine the controls for each process;
+(C) A report of the technology considered in meeting the permissible exposure limit;
+(D) Monitoring data obtained in accordance with paragraph (d) of this section;
+(E) A detailed schedule for development and implementation of engineering and work practice controls, including exposure levels projected to be achieved by such controls;
+(F) Work practice program; and
+(G) Other relevant information.
+(iii) The employer's schedule as set forth in the compliance program, shall project completion of the implementation of the compliance program no later than March 27, 1984 or as soon as possible if monitoring after March 27, 1984 reveals exposures over the PEL, except as provided in paragraph (m)(2)(ii)(B) of this section.
+(iv) The employer shall complete the steps set forth in his program by the dates in the schedule.
+(v) Written programs shall be submitted, upon request, to the Assistant Secretary and the Director, and shall be available at the worksite for examination and copying by the Assistant Secretary, the Director, and any affected employee or their designated representatives.

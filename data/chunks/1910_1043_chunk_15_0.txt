@@ -1,0 +1,9 @@
+§ 1910.1043 Cotton dust.
+(C) For low-temperature processing, at a temperature of no less than 60 degrees C with a water-to-fiber ratio of no less than 40:1; or, for high-temperature processing, at a temperature of no less than 93 degrees C with a water-to-fiber ratio of no less than 15:1;
+(D) With a minimum of one wash cycle followed by two rinse cycles for each batch, using fresh water in each cycle, and
+(E) With bacterial levels in the wash water controlled to limit bacterial contamination of the cotton.
+(5) Lower grade washed cotton. The handling and processing of cotton of grades lower than "low middling light spotted," that has been washed as specified in paragraph (n)(4) of this section and has also been bleached, shall be exempt from all provisions of the standard except the requirements of paragraphs (c)(1)(ii) Permissible Exposure Limit, (d) Exposure Monitoring, (h) Medical Surveillance, (k) Recordkeeping, and Appendices B, C and D of this section.
+(6) Mixed grades of washed cotton. If more than one grade of washed cotton is being handled or processed together, the requirements of the grade with the most stringent exposure limit, medical and monitoring requirements shall be followed.
+(n) Appendices. (1) Appendices B and D of this section are incorporated as part of this section and the contents of these appendices are mandatory.
+(2) Appendix A of this section contains information which is not intended to create any additional obligations not otherwise imposed or to detract from any existing obligations.
+(3) Appendix E of this section is a protocol which may be followed in the validation of alternative measuring devices as equivalent to the vertical elutriator cotton dust sampler. Other protocols may be used if it is demonstrated that they are statistically valid, meet the requirements in paragraph (d)(l)(iii) of this section, and are appropriate for demonstrating equivalency.

@@ -1,0 +1,14 @@
+§ 1910.104 Oxygen.
+(ii) DOT containers. Bulk oxygen storage containers designed and constructed in accordance with DOT specification shall be equipped with safety relief devices as required thereby.
+(iii) ASME containers. Bulk oxygen storage containers designed and constructed in accordance with the ASME Boiler and Pressure Vessel Code, section VIII—Unfired Pressure Vessel—1968 shall be equipped with safety relief devices meeting the provisions of the Compressed Gas Association Pamphlet "Safety Relief Device Standards for Compressed Gas Storage Containers," S-1, part 3, which is incorporated by reference as specified in § 1910.6.
+(iv) Insulation. Insulation casings on liquid oxygen containers shall be equipped with suitable safety relief devices.
+(v) Reliability. All safety relief devices shall be so designed or located that moisture cannot collect and freeze in a manner which would interfere with proper operation of the device.
+(7) Liquid oxygen vaporizers —(i) Mounts and couplings. The vaporizer shall be anchored and its connecting piping be sufficiently flexible to provide for the effect of expansion and contraction due to temperature changes.
+(ii) Relief devices. The vaporizer and its piping shall be adequately protected on the oxygen and heating medium sections with safety relief devices.
+(iii) Heating. Heat used in an oxygen vaporizer shall be indirectly supplied only through media such as steam, air, water, or water solutions which do not react with oxygen.
+(iv) Grounding. If electric heaters are used to provide the primary source of heat, the vaporizing system shall be electrically grounded.
+(8) Equipment assembly and installation —(i) Cleaning. Equipment making up a bulk oxygen system shall be cleaned in order to remove oil, grease or other readily oxidizable materials before placing the system in service.
+(ii) Joints. Joints in piping and tubing may be made by welding or by use of flanged, threaded, slip, or compression fittings. Gaskets or thread sealants shall be suitable for oxygen service.
+(iii) Accessories. Valves, gages, regulators, and other accessories shall be suitable for oxygen service.
+(iv) Installation. Installation of bulk oxygen systems shall be supervised by personnel familiar with proper practices with reference to their construction and use.
+(v) Testing. After installation all field erected piping shall be tested and proved gas tight at maximum operating pressure. Any medium used for testing shall be oil free and nonflammable.

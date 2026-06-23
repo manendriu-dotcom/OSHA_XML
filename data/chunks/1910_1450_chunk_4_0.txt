@@ -1,0 +1,13 @@
+§ 1910.1450 Occupational exposure to hazardous chemicals in laboratories.
+(i) It is regulated by OSHA as a carcinogen; or
+(ii) It is listed under the category, "known to be carcinogens," in the Annual Report on Carcinogens published by the National Toxicology Program (NTP) (latest edition); or
+(iii) It is listed under Group 1 ("carcinogenic to humans") by the International Agency for Research on Cancer Monographs (IARC) (latest editions); or
+(iv) It is listed in either Group 2A or 2B by IARC or under the category, "reasonably anticipated to be carcinogens" by NTP, and causes statistically significant tumor incidence in experimental animals in accordance with any of the following criteria:
+(A) After inhalation exposure of 6-7 hours per day, 5 days per week, for a significant portion of a lifetime to dosages of less than 10 mg/m 3 ;
+(B) After repeated skin application of less than 300 (mg/kg of body weight) per week; or
+(C) After oral dosages of less than 50 mg/kg of body weight per day.
+(c) Permissible exposure limits. For laboratory uses of OSHA regulated substances, the employer shall assure that laboratory employees' exposures to such substances do not exceed the permissible exposure limits specified in 29 CFR part 1910, subpart Z.
+(d) Employee exposure determination —(1) Initial monitoring. The employer shall measure the employee's exposure to any substance regulated by a standard which requires monitoring if there is reason to believe that exposure levels for that substance routinely exceed the action level (or in the absence of an action level, the PEL).
+(2) Periodic monitoring. If the initial monitoring prescribed by paragraph (d)(1) of this section discloses employee exposure over the action level (or in the absence of an action level, the PEL), the employer shall immediately comply with the exposure monitoring provisions of the relevant standard.
+(3) Termination of monitoring. Monitoring may be terminated in accordance with the relevant standard.
+(4) Employee notification of monitoring results. The employer shall, within 15 working days after the receipt of any monitoring results, notify the employee of these results in writing either individually or by posting results in an appropriate location that is accessible to employees.

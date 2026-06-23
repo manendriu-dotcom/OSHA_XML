@@ -1,0 +1,13 @@
+§ 1910.1025 Lead.
+(d) Exposure monitoring —(1) General. (i) For the purposes of paragraph (d), employee exposure is that exposure which would occur if the employee were not using a respirator.
+(ii) With the exception of monitoring under paragraph (d)(3), the employer shall collect full shift (for at least 7 continuous hours) personal samples including at least one sample for each shift for each job classification in each work area.
+(iii) Full shift personal samples shall be representative of the monitored employee's regular, daily exposure to lead.
+(2) Initial determination. Each employer who has a workplace or work operation covered by this standard shall determine if any exployee may be exposed to lead at or above the action level.
+(3) Basis of initial determination. (i) The employer shall monitor employee exposures and shall base initial determinations on the employee exposure monitoring results and any of the following, relevant considerations:
+(A) Any information, observations, or calculations which would indicate employee exposure to lead;
+(B) Any previous measurements of airborne lead; and
+(C) Any employee complaints of symptoms which may be attributable to exposure to lead.
+(ii) Monitoring for the initial determination may be limited to a representative sample of the exposed employees who the employer reasonably believes are exposed to the greatest airborne concentrations of lead in the workplace.
+(iii) Measurements of airborne lead made in the preceding 12 months may be used to satisfy the requirement to monitor under paragraph (d)(3)(i) if the sampling and analytical methods used meet the accuracy and confidence levels of paragraph (d)(9) of this section.
+(4) Positive initial determination and initial monitoring. (i) Where a determination conducted under paragraphs (d) (2) and (3) of this section shows the possibility of any employee exposure at or above the action level, the employer shall conduct monitoring which is representative of the exposure for each employee in the workplace who is exposed to lead.
+(ii) Measurements of airborne lead made in the preceding 12 months may be used to satisfy this requirement if the sampling and analytical methods used meet the accuracy and confidence levels of paragraph (d)(9) of this section.

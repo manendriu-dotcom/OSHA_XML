@@ -1,0 +1,11 @@
+§ 1910.504 Mini Respiratory Protection Program.
+(c) Respirators provided by employees. Where employees provide and use their own respirators, the employer must provide each employee with the following notice: Respirators can be an effective method of protection against COVID-19 hazards when properly selected and worn. Respirator use is encouraged to provide an additional level of comfort and protection for workers even in circumstances that do not require a respirator to be used. However, if a respirator is used improperly or not kept clean, the respirator itself can become a hazard to the worker. If your employer allows you to provide and use your own respirator, you need to take certain precautions to be sure that the respirator itself does not present a hazard. You should do the following:
+(1) Read and follow all instructions provided by the manufacturer on use, maintenance, cleaning and care, and warnings regarding the respirator's limitations.
+(2) Keep track of your respirator so that you do not mistakenly use someone else's respirator.
+(3) Do not wear your respirator where other workplace hazards ( e.g., chemical exposures) require use of a respirator. In such cases, your employer must provide you with a respirator that is used in accordance with OSHA's respiratory protection standard (29 CFR 1910.134). For more information about using a respirator, see OSHA's respiratory protection safety and health topics page ( https://www.osha.gov/respiratory-protection ).
+(d) Respirators provided by employers. Where employers provide respirators to their employees, the employer must comply with the following requirements:
+(1) Training. The employer must ensure that each employee wearing a respirator receives training prior to first use and if they change the type of respirator, in a language and at a literacy level the employee understands, and comprehends at least the following:
+(i) How to inspect, put on and remove, and use a respirator;
+(ii) The limitations and capabilities of the respirator, particularly when the respirator has not been fit tested;
+(iii) Procedures and schedules for storing, maintaining, and inspecting respirators;
+(iv) How to perform a user seal check as described in paragraph (d)(2) of this section; and

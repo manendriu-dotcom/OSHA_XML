@@ -1,0 +1,21 @@
+§ 1910.1050 Methylenedianiline.
+(D) A description of the operation exempted and how the data support the exemption (e.g., are the monitoring data representative of the conditions at the affected facility); and
+(E) Other data relevant to the operations, materials, processing, or employee exposures covered by the exemption.
+(iii) The employer shall maintain this record for the duration of the employer's reliance upon such objective data.
+(2) Objective data for exempted employers. (i) Where the processing, use, or handling of products made from or containing MDA are exempted from other requirements of this section under paragraph (a) of this section, the employer shall establish and maintain an accurate record of objective data relied upon in support of the exemption.
+(ii) This record shall include at least the following information:
+(A) The product qualifying for exemption;
+(B) The source of the objective data;
+(C) The testing protocol, results of testing, and/or analysis of the material for the release of MDA;
+(D) A description of the operation exempted and how the data support the exemption; and
+(E) Other data relevant to the operations, materials, processing, or employee exposures covered by the exemption.
+(iii) The employer shall maintain this record for the duration of the employer's reliance upon such objective data.
+(3) Exposure measurements. (i) The employer shall establish and maintain an accurate record of all measurements required by paragraph (e) of this section, in accordance with 29 CFR 1910.1020.
+(ii) This record shall include:
+(A) The dates, number, duration, and results of each of the samples taken, including a description of the procedure used to determine representative employee exposures;
+(B) Identification of the sampling and analytical methods used;
+(C) A description of the type of respiratory protective devices worn, if any; and
+(D) The name, job classification and exposure levels of the employee monitored and all other employees whose exposure the measurement is intended to represent.
+(iii) The employer shall maintain this record for at least 30 years, in accordance with 29 CFR 1910.1020.
+(4) Medical surveillance. (i) The employer shall establish and maintain an accurate record for each employee subject to medical surveillance required by paragraph (m) of this section, in accordance with 29 CFR 1910.1020.
+(ii) This record shall include:

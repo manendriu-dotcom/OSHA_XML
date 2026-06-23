@@ -1,23 +1,19 @@
 § 1910.179 Overhead and gantry cranes.
-(ii) Before starting to hoist the following conditions shall be noted:
-( a ) Hoist rope shall not be kinked.
-( b ) Multiple part lines shall not be twisted around each other.
-( c ) The hook shall be brought over the load in such a manner as to prevent swinging.
-(iii) During hoisting care shall be taken that:
-( a ) There is no sudden acceleration or deceleration of the moving load.
-( b ) The load does not contact any obstructions.
-(iv) Cranes shall not be used for side pulls except when specifically authorized by a responsible person who has determined that the stability of the crane is not thereby endangered and that various parts of the crane will not be overstressed.
-(v) While any employee is on the load or hook, there shall be no hoisting, lowering, or traveling.
-(vi) The employer shall require that the operator avoid carrying loads over people.
-(vii) The operator shall test the brakes each time a load approaching the rated load is handled. The brakes shall be tested by raising the load a few inches and applying the brakes.
-(viii) The load shall not be lowered below the point where less than two full wraps of rope remain on the hoisting drum.
-(ix) When two or more cranes are used to lift a load one qualified responsible person shall be in charge of the operation. He shall analyze the operation and instruct all personnel involved in the proper positioning, rigging of the load, and the movements to be made.
-(x) The employer shall insure that the operator does not leave his position at the controls while the load is suspended.
-(xi) When starting the bridge and when the load or hook approaches near or over personnel, the warning signal shall be sounded.
-(4) Hoist limit switch. (i) At the beginning of each operator's shift, the upper limit switch of each hoist shall be tried out under no load. Extreme care shall be exercised; the block shall be "inched" into the limit or run in at slow speed. If the switch does not operate properly, the appointed person shall be immediately notified.
-(ii) The hoist limit switch which controls the upper limit of travel of the load block shall never be used as an operating control.
-(o) Other requirements, general —(1) Ladders. (i) The employer shall insure that hands are free from encumbrances while personnel are using ladders.
-(ii) Articles which are too large to be carried in pockets or belts shall be lifted and lowered by hand line.
-(2) Cabs. (i) Necessary clothing and personal belongings shall be stored in such a manner as not to interfere with access or operation.
-(ii) Tools, oil cans, waste, extra fuses, and other necessary articles shall be stored in the tool box, and shall not be permitted to lie loose in or about the cab.
-(3) Fire extinguishers. The employer shall insure that operators are familiar with the operation and care of fire extinguishers provided.
+(13) Storage bridge crane means a gantry type crane of long span usually used for bulk storage of material; the bridge girders or trusses are rigidly or nonrigidly supported on one or more legs. It may have one or more fixed or hinged cantilever ends.
+(14) Wall crane means a crane having a jib with or without trolley and supported from a side wall or line of columns of a building. It is a traveling type and operates on a runway attached to the side wall or columns.
+(15) Appointed means assigned specific responsibilities by the employer or the employer's representative.
+(16) ANSI means the American National Standards Institute.
+(17) An auxiliary hoist is a supplemental hoisting unit of lighter capacity and usually higher speed than provided for the main hoist.
+(18) A brake is a device used for retarding or stopping motion by friction or power means.
+(19) A drag brake is a brake which provides retarding force without external control.
+(20) A holding brake is a brake that automatically prevents motion when power is off.
+(21) Bridge means that part of a crane consisting of girders, trucks, end ties, footwalks, and drive mechanism which carries the trolley or trolleys.
+(22) Bridge travel means the crane movement in a direction parallel to the crane runway.
+(23) A bumper (buffer) is an energy absorbing device for reducing impact when a moving crane or trolley reaches the end of its permitted travel; or when two moving cranes or trolleys come in contact.
+(24) The cab is the operator's compartment on a crane.
+(25) Clearance means the distance from any part of the crane to a point of the nearest obstruction.
+(26) Collectors current are contacting devices for collecting current from runway or bridge conductors.
+(27) Conductors, bridge are the electrical conductors located along the bridge structure of a crane to provide power to the trolley.
+(28) Conductors, runway (main) are the electrical conductors located along a crane runway to provide power to the crane.
+(29) The control braking means is a method of controlling crane motor speed when in an overhauling condition.
+(30) Countertorque means a method of control by which the power to the motor is reversed to develop torque in the opposite direction.

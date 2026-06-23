@@ -1,0 +1,24 @@
+§ 1910.1051 1,3-Butadiene.
+(A) The product or activity qualifying for exemption;
+(B) The source of the objective data;
+(C) The testing protocol, results of testing, and analysis of the material for the release of BD;
+(D) A description of the operation exempted and how the data support the exemption; and
+(E) Other data relevant to the operations, materials, processing, or employee exposures covered by the exemption.
+(iii) The employer shall maintain this record for the duration of the employer's reliance upon such objective data.
+(2) Exposure measurements. (i) The employer shall establish and maintain an accurate record of all measurements taken to monitor employee exposure to BD as prescribed in paragraph (d) of this section.
+(ii) The record shall include at least the following information:
+(A) The date of measurement;
+(B) The operation involving exposure to BD which is being monitored;
+(C) Sampling and analytical methods used and evidence of their accuracy;
+(D) Number, duration, and results of samples taken;
+(E) Type of protective devices worn, if any; and
+(F) Name and exposure of the employees whose exposures are represented.
+(G) The written corrective action and the schedule for completion of this action required by paragraph (d)(7)(ii) of this section.
+(iii) The employer shall maintain this record for at least 30 years in accordance with 29 CFR 1910.1020.
+(3) [Reserved]
+(4) Medical screening and surveillance. (i) The employer shall establish and maintain an accurate record for each employee subject to medical screening and surveillance under this section.
+(ii) The record shall include at least the following information:
+(A) The name of the employee;
+(B) Physician's or other licensed health care professional's written opinions as described in paragraph (k)(7) of this section;
+(C) A copy of the information provided to the physician or other licensed health care professional as required by paragraphs (k)(7)(ii)-(iv) of this section.
+(iii) Medical screening and surveillance records shall be maintained for each employee for the duration of employment plus 30 years, in accordance with 29 CFR 1910.1020.

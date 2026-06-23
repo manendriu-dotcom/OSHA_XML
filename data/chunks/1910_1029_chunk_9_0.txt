@@ -1,0 +1,15 @@
+§ 1910.1029 Coke oven emissions.
+( 2 ) Sequential charging as described in paragraph (f)(3)(i)( b ) of this section except that paragraph (f)(3)(i)( b )( 3 )( iv ) of this section does not apply to sequential charging; or
+( 3 ) Pipeline charging or other forms of enclosed charging in accordance with paragraph (f)(2)(i) of this section, except that paragraphs (f)(2)(i)( b ), ( d ), ( e ), ( f ) and ( h ) of this section do not apply;
+( b ) Drafting from two or more points in the oven being charged, through the use of double collector mains, or a fixed or moveable jumper pipe system to another oven, to effectively remove the gases from the oven to the collector mains;
+( c ) Aspiration systems designed and operated to provide sufficient negative pressure and flow volume to effectively move the gases evolved during charging into the collector mains, including sufficient steam pressure, and steam jets of sufficient diameter;
+( d ) Mechanical volumetric controls on each larry car hopper to provide the proper amount of coal to be charged through each charging hole so that the tunnel head will be sufficient to permit the gases to move from the oven into the collector mains;
+( e ) Devices to facilitate the rapid and continuous flow of coal into the oven being charged, such as stainless steel liners, coal vibrators or pneumatic shells;
+( f ) Individually operated larry car drop sleeves and slide gates designed and maintained so that the gases are effectively removed from the oven into the collector mains;
+( g ) Mechanized gooseneck and standpipe cleaners;
+( h ) Air seals on the pusher machine leveler bars to control air infiltration during charging; and
+( i ) Roof carbon cutters or a compressed air system or both on the pusher machine rams to remove roof carbon.
+(ii) Coking. The employer shall equip and operate existing coke oven batteries with all of the following engineering controls to control coke oven emissions during coking operations;
+( a ) A pressure control system on each battery to obtain uniform collector main pressure;
+( b ) Ready access to door repair facilities capable of prompt and efficient repair of doors, door sealing edges and all door parts;
+( c ) An adequate number of spare doors available for replacement purposes;

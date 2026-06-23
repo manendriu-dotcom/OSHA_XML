@@ -1,0 +1,14 @@
+§ 1910.1018 Inorganic arsenic.
+(a) Scope and application. This section applies to all occupational exposures to inorganic arsenic except that this section does not apply to employee exposures in agriculture or resulting from pesticide application, the treatment of wood with preservatives or the utilization of arsenically preserved wood.
+(b) Definitions. Action level means a concentration of inorganic arsenic of 5 micrograms per cubic meter of air (5 µg/m 3 ) averaged over any eight (8) hour period.
+Assistant Secretary means the Assistant Secretary of Labor for Occupational Safety and Health, U.S. Department of Labor, or designee.
+Authorized person means any person specifically authorized by the employer whose duties require the person to enter a regulated area, or any person entering such an area as a designated representative of employees for the purpose of exercising the right to observe monitoring and measuring procedures under paragraph (e) of this section.
+Director means the Director, National Institute for Occupational Safety and Health, U.S. Department of Health and Human Services, or designee.
+Inorganic arsenic means copper aceto- arsenite and all inorganic compounds containing arsenic except arsine, measured as arsenic (As).
+(c) Permissible exposure limit. The employer shall assure that no employee is exposed to inorganic arsenic at concentrations greater than 10 micrograms per cubic meter of air (10 µg/m 3 ), averaged over any 8-hour period.
+(d) [Reserved]
+(e) Exposure monitoring —(1) General. (i) Determinations of airborne exposure levels shall be made from air samples that are representative of each employee's exposure to inorganic arsenic over an eight (8) hour period.
+(ii) For the purposes of this section, employee exposure is that exposure which would occur if the employee were not using a respirator.
+(iii) The employer shall collect full shift (for at least 7 continuous hours) personal samples including at least one sample for each shift for each job classification in each work area.
+(2) Initial monitoring. Each employer who has a workplace or work operation covered by this standard shall monitor each such workplace and work operation to accurately determine the airborne concentration of inorganic arsenic to which employees may be exposed.
+(3) Frequency. (i) If the initial monitoring reveals employee exposure to be below the action level the measurements need not be repeated except as otherwise provided in paragraph (e)(4) of this section.

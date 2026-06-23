@@ -1,0 +1,9 @@
+§ 1910.1048 Formaldehyde.
+(2) Respirator program. (i) The employer must implement a respiratory protection program in accordance with § 1910.134(b) through (d) (except (d)(1)(iii), (d)(3)(iii)(b)(1), and (2)), and (f) through (m), which covers each employee required by this section to use a respirator.
+(ii) When employees use air-purifying respirators with chemical cartridges or canisters that do not contain end-of-service-life indicators approved by the National Institute for Occupational Safety and Health, employers must replace these cartridges or canisters as specified by paragraphs (d)(3)(iii)(B)(1) and (B)(2) of 29 CFR 1910.134, or at the end of the workshift, whichever condition occurs first.
+(3) Respirator selection. (i) Employers must:
+(A) Select, and provide to employees, the appropriate respirators specified in paragraph (d)(3)(i)(A) of 29 CFR 1910.134.
+(B) Equip each air-purifying, full facepiece respirator with a canister or cartridge approved for protection against formaldehyde.
+(C) For escape, provide employees with one of the following respirator options: A self-contained breathing apparatus operated in the demand or pressure-demand mode; or a full facepiece respirator having a chin-style, or a front-or back-mounted industrial-size, canister or cartridge approved for protection against formaldehyde.
+(ii) Employers may substitute an air-purifying, half mask respirator for an air-purifying, full facepiece respirator when they equip the half mask respirator with a cartridge approved for protection against formaldehyde and provide the affected employee with effective gas-proof goggles.
+(iii) Employers must provide employees who have difficulty using negative pressure respirators with powered air-purifying respirators permitted for use under paragraph (g)(3)(i)(A) of this standard and that affords adequate protection against formaldehyde exposures.

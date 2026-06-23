@@ -1,0 +1,13 @@
+§ 1910.1052 Methylene chloride.
+(c) Permissible exposure limits (PELs) —(1) Eight-hour time-weighted average (TWA) PEL. The employer shall ensure that no employee is exposed to an airborne concentration of MC in excess of twenty-five parts of MC per million parts of air (25 ppm) as an 8-hour TWA.
+(2) Short-term exposure limit (STEL). The employer shall ensure that no employee is exposed to an airborne concentration of MC in excess of one hundred and twenty-five parts of MC per million parts of air (125 ppm) as determined over a sampling period of fifteen minutes.
+(d) Exposure monitoring —(1) Characterization of employee exposure. (i) Where MC is present in the workplace, the employer shall determine each employee's exposure by either:
+(A) Taking a personal breathing zone air sample of each employee's exposure; or
+(B) Taking personal breathing zone air samples that are representative of each employee's exposure.
+(ii) Representative samples. The employer may consider personal breathing zone air samples to be representative of employee exposures when they are taken as follows:
+(A) 8-hour TWA PEL. The employer has taken one or more personal breathing zone air samples for at least one employee in each job classification in a work area during every work shift, and the employee sampled is expected to have the highest MC exposure.
+(B) Short-term exposure limits. The employer has taken one or more personal breathing zone air samples which indicate the highest likely 15-minute exposures during such operations for at least one employee in each job classification in the work area during every work shift, and the employee sampled is expected to have the highest MC exposure.
+(C) Exception. Personal breathing zone air samples taken during one work shift may be used to represent employee exposures on other work shifts where the employer can document that the tasks performed and conditions in the workplace are similar across shifts.
+(iii) Accuracy of monitoring. The employer shall ensure that the methods used to perform exposure monitoring produce results that are accurate to a confidence level of 95 percent, and are:
+(A) Within plus or minus 25 percent for airborne concentrations of MC above the 8-hour TWA PEL or the STEL; or
+(B) Within plus or minus 35 percent for airborne concentrations of MC at or above the action level but at or below the 8-hour TWA PEL.

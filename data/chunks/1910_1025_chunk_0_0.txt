@@ -1,0 +1,12 @@
+§ 1910.1025 Lead.
+(a) Scope and application. (1) This section applies to all occupational exposure to lead, except as provided in paragraph (a)(2).
+(2) This section does not apply to the construction industry or to agricultural operations covered by 29 CFR part 1928.
+(b) Definitions. Action level means employee exposure, without regard to the use of respirators, to an airborne concentration of lead of 30 micrograms per cubic meter of air (30 µg/m 3 ) averaged over an 8-hour period.
+Assistant Secretary means the Assistant Secretary of Labor for Occupational Safety and Health, U.S. Department of Labor, or designee.
+Director means the Director, National Institute for Occupational Safety and Health (NIOSH), U.S. Department of Health, Education, and Welfare, or designee.
+Lead means metallic lead, all inorganic lead compounds, and organic lead soaps. Excluded from this definition are all other organic lead compounds.
+(c) Permissible exposure limit (PEL). (1) The employer shall assure that no employee is exposed to lead at concentrations greater than fifty micrograms per cubic meter of air (50 µg/m 3 ) averaged over an 8-hour period.
+(2) If an employee is exposed to lead for more than 8 hours in any work day, the permissible exposure limit, as a time weighted average (TWA) for that day, shall be reduced according to the following formula:
+Maximum permissible limit (in µg/m 3 ) = 400 ÷ hours worked in the day.
+(3) When respirators are used to supplement engineering and work practice controls to comply with the PEL and all the requirements of paragraph (f) have been met, employee exposure, for the purpose of determining whether the employer has complied with the PEL, may be considered to be at the level provided by the protection factor of the respirator for those periods the respirator is worn. Those periods may be averaged with exposure levels during periods when respirators are not worn to determine the employee's daily TWA exposure.
+(d) Exposure monitoring —(1) General. (i) For the purposes of paragraph (d), employee exposure is that exposure which would occur if the employee were not using a respirator.

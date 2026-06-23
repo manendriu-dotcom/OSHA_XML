@@ -1,0 +1,13 @@
+§ 1910.263 Bakery equipment.
+(i)-(ii) [Reserved]
+(iii) Electrical heaters on wrappers shall be protected by a cover plate properly separated or insulated from the heaters in order that accidental contact with this cover plate will not cause a burn to the operator.
+(k) Biscuit and cracker equipment —(1) Meal, peanut, and fig grinders. (i) If the hopper is removable it shall be provided with an electric interlock so that the machine cannot be put in operation when the hopper is removed.
+(ii) Where grid guards cannot be used, feed conveyors to hoppers, or baffle-type hoppers, shall be provided. Hoppers in such cases shall be enclosed and provided with hinged covers, and equipped with electric interlock to prevent operation of the machine with the cover open.
+(2) Sugar and spice pulverizers. (i) All drive belts used in connection with sugar and spice pulverizers shall be grounded by means of metal combs or other effective means of removing static electricity. All pulverizing of sugar or spice grinding shall be done in accordance with NFPA 62—1967 (Standard for Dust Hazards of Sugar and Cocoa) and NFPA 656—1959 (Standard for Dust Hazards in Spice Grinding Plants), which are incorporated by reference as specified in § 1910.6.
+(ii) Magnetic separators shall be provided to reduce fire and explosion hazards.
+(3) Cheese, fruit, and food cutters. These machines shall be protected in accordance with the requirements of paragraph (k)(1) of this section.
+(4) [Reserved]
+(5) Reversible dough brakes. Reversible brakes shall be provided with a guard or tripping mechanism on each side of the rolls. These guards shall be so arranged as to stop the machine or reverse the direction of the rolls so that they are outrunning if the guard is moved by contact of the operator.
+(6) Cross-roll brakes. Cross-roll brakes shall be provided with guards that are similar in number and equal in effectiveness to guards on hand-fed brakes.
+(7) Box- and roll-type dough sheeters.
+(i) [Reserved]

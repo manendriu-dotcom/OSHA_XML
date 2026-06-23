@@ -1,0 +1,18 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+Note: Note to paragraphs ( g )(2)( iii )(G)( 1 ) and ( g )(2)( iii )(G)( 2 ): Positioning straps that pass direct-current tests at equivalent voltages are considered as meeting this requirement.
+( 3 ) Tension tests of 20 kilonewtons (4,500 pounds-force) for sections free of buckle holes and of 15 kilonewtons (3,500 pounds-force) for sections with buckle holes;
+( 4 ) A buckle-tear test with a load of 4.4 kilonewtons (1,000 pounds-force); and
+( 5 ) A flammability test in accordance with Table R-2.
+
+Table R-2—Flammability Test
+---------------------------
+Test method Criteria for passing the test
+-----------------------------------------
+Vertically suspend a 500-mm (19.7-inch) length of strapping supporting a 100-kg (220.5-lb) weight Use a butane or propane burner with a 76-mm (3-inch) flame. Any flames on the positioning strap shall self extinguish. The positioning strap shall continue to support the 100-kg (220.5-lb) mass.
+Direct the flame to an edge of the strapping at a distance of 25 mm (1 inch)
+Remove the flame after 5 seconds
+Wait for any flames on the positioning strap to stop burning
+
+(H) The cushion part of the body belt shall contain no exposed rivets on the inside and shall be at least 76 millimeters (3 inches) in width.
+(I) Tool loops shall be situated on the body of a body belt so that the 100 millimeters (4 inches) of the body belt that is in the center of the back, measuring from D ring to D ring, is free of tool loops and any other attachments.
+(J) Copper, steel, or equivalent liners shall be used around the bars of D rings to prevent wear between these members and the leather or fabric enclosing them.

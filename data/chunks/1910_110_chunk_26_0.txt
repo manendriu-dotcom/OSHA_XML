@@ -1,0 +1,19 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+( h ) No direct fired tank heater shall raise the product pressure within the storage container over 75 percent of the pressure set out in the second column of Table H-31.
+(v) The vaporizer section of vaporizer-burners used for dehydrators or dryers shall be located outside of buildings; they shall be constructed and installed as follows:
+( a ) Vaporizer-burners shall have a minimum design pressure of 250 p.s.i.g. with a factor of safety of five.
+( b ) Manually operated positive shut-off valves shall be located at the containers to shut off all flow to the vaporizer-burners.
+( c ) Minimum distances between storage containers and vaporizer-burners shall be as follows:
+
+Water capacity per container (gallons) Minimum distances (feet)
+---------------------------------------------------------------
+Less than 501 10
+501 to 2,000 25
+Over 2,000 50
+
+( d ) The vaporizer section of vaporizer-burners shall be protected by a hydrostatic relief valve. The relief valve shall be located so as not to be subjected to temperatures in excess of 140 degrees F. The start-to-discharge pressure setting shall be such as to protect the components involved, but not less than 250 p.s.i.g. The discharge shall be directed upward and away from component parts of the equipment and away from operating personnel.
+( e ) Vaporizer-burners shall be provided with means for manually turning off the gas to the main burner and pilot.
+( f ) Vaporizer-burners shall be equipped with automatic safety devices to shut off the flow of gas to the main burner and pilot in the event the pilot is extinguished.
+( g ) Pressure regulating and control equipment shall be located or protected so that the temperatures surrounding this equipment shall not exceed 140 degrees F. except that equipment components may be used at higher temperatures if designed to withstand such temperatures.
+( h ) Pressure regulating and control equipment when located downstream of the vaporizer shall be designed to withstand the maximum discharge temperature of the vapor.
+( i ) The vaporizer section of vaporizer-burners shall not be provided with fusible plugs.

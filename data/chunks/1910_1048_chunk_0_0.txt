@@ -1,0 +1,13 @@
+§ 1910.1048 Formaldehyde.
+(a) Scope and application. This standard applies to all occupational exposures to formaldehyde, i.e. from formaldehyde gas, its solutions, and materials that release formaldehyde.
+(b) Definitions. For purposes of this standard, the following definitions shall apply:
+Action level means a concentration of 0.5 part formaldehyde per million parts of air (0.5 ppm) calculated as an eight (8)-hour time-weighted average (TWA) concentration.
+Assistant Secretary means the Assistant Secretary of Labor for the Occupational Safety and Health Administration, U.S. Department of Labor, or designee.
+Authorized person means any person required by work duties to be present in regulated areas, or authorized to do so by the employer, by this section, or by the OSH Act of 1970.
+Director means the Director of the National Institute for Occupational Safety and Health, U.S. Department of Health and Human Services, or designee.
+Emergency is any occurrence, such as but not limited to equipment failure, rupture of containers, or failure of control equipment that results in an uncontrolled release of a significant amount of formaldehyde.
+Employee exposure means the exposure to airborne formaldehyde which would occur without corrections for protection provided by any respirator that is in use.
+Formaldehyde means the chemical substance, HCHO, Chemical Abstracts Service Registry No. 50-00-0.
+(c) Permissible Exposure Limit (PEL) —(1) TWA: The employer shall assure that no employee is exposed to an airborne concentration of formaldehyde which exceeds 0.75 parts formaldehyde per million parts of air (0.75 ppm) as an 8-hour TWA.
+(2) Short Term Exposure Limit (STEL): The employer shall assure that no employee is exposed to an airborne concentration of formaldehyde which exceeds two parts formaldehyde per million parts of air (2 ppm) as a 15-minute STEL.
+(d) Exposure monitoring —(1) General. (i) Each employer who has a workplace covered by this standard shall monitor employees to determine their exposure to formaldehyde.

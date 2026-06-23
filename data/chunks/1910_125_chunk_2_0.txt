@@ -1,0 +1,16 @@
+§ 1910.125 Additional requirements for dipping and coating operations that use flammable liquids or liquids with flashpoints greater than 199.4 degrees F (93 degrees C).
+(iii) Waste can contents are properly disposed of at the end of each shift.
+(5) You must prohibit smoking in a vapor area and must post a readily visible "No Smoking" sign near each dip tank.
+(f) What fire protection must I provide? (1) You must provide the fire protection required by this paragraph (f) for:
+(i) Any dip tank having a capacity of at least 150 gallons (568 L) or a liquid surface area of at least 4 feet 2 (0.38 m 1 ); and
+(ii) Any hardening or tempering tank having a capacity of at least 500 gallons (1893 L) or a liquid surface area of at least 25 feet 2 (2.37 m 2 ).
+(2) For every vapor area, you must provide:
+(i) Manual fire extinguishers that are suitable for flammable and combustible liquid fires and that conform to the requirements of § 1910.157; and
+(ii) An automatic fire-extinguishing system that conforms to the requirements of subpart L of this part.
+(3) You may substitute a cover that is closed by an approved automatic device for the automatic fire-extinguishing system if the cover:
+(i) Can also be activated manually;
+(ii) Is noncombustible or tin-clad, with the enclosing metal applied with locked joints; and
+(iii) Is kept closed when the dip tank is not in use.
+(g) To what temperature may I heat a liquid in a dip tank? You must maintain the temperature of the liquid in a dip tank:
+(1) Below the liquid's boiling point; and
+(2) At least 100 degrees F (37.8 degrees C) below the liquid's autoignition temperature.

@@ -1,115 +1,13 @@
 § 1910.269 Electric power generation, transmission, and distribution.
-3. Guide for Performing Arc-Flash Hazard Calculations, IEEE Std 1584-2002, 1584a-2004 (Amendment 1 to IEEE Std 1584-2002), and 1584b-2011 (Amendment 2: Changes to Clause 4 of IEEE Std 1584-2002).*
-4. ARCPRO, a commercially available software program developed by Kinectrics, Toronto, ON, CA.
-Table 3—Selecting a Reasonable Incident-Energy Calculation Method 1
--------------------------------------------------------------------
-Incident-energy calculation method 600 V and Less 2 1Φ 3Φa 3Φb 601 V to 15 kV 2 1Φ 3Φa 3Φb More than 15 kV 1Φ 3Φa 3Φb
---------------------------------------------------------------------------------
-NFPA 70E-2012 Annex D (Lee equation) Y-C Y N Y-C Y-C N N 3 N 3 N 3
-Doughty, Neal, and Floyd Y-C Y Y N N N N N N
-IEEE Std 1584b-2011 Y Y Y Y Y Y N N N
-ARCPRO Y N N Y N N Y Y 4 Y 4
-Table 4—Selecting a Reasonable Distance From the Employee to the Electric Arc
------------------------------------------------------------------------------
-Class of equipment Single-phase arc mm (inches) Three-phase arc mm (inches)
----------------------------------------------------------------------------
-Cable * NA 455 (18)
-Low voltage MCCs and panelboards NA 455 (18)
-Low-voltage switchgear NA 610 (24)
-5-kV switchgear NA 910 (36)
-15-kV switchgear NA 910 (36)
-Single conductors in air (up to 46 kilovolts), work with rubber insulating gloves 380 (15) NA
-Single conductors in air, work with live-line tools and live-line barehand work MAD − (2 x kV x 2.54) ( MAD − (2 x kV /10)) † NA
-Table 5—Selecting a Reasonable Arc Gap
---------------------------------------
-Class of equipment Single-phase arc mm (inches) Three-phase arc mm 1 (inches)
------------------------------------------------------------------------------
-Cable NA 2 13 (0.5).
-Low voltage MCCs and panelboards NA 25 (1.0).
-Low-voltage switchgear NA 32 (1.25).
-5-kV switchgear NA 104 (4.0).
-15-kV switchgear NA 152 (6.0).
-Single conductors in air, 15 kV and less. 51 (2.0) Phase conductor spacing.
-Single conductor in air, more than 15 kV Voltage in kV x 2.54 (Voltage in kV x 0.1), but no less than 51 mm (2 inches) Phase conductor spacing.
-Table 6—Incident Heat Energy for Various Fault Currents, Clearing Times, and Voltages of 4.0 to 46.0 kV: Rubber Insulating Glove Exposures Involving Phase-to-Ground Arcs in Open Air Only * † ‡
---------------------------------------------------------------------------------
-Voltage range (kV) ** Fault current (kA) Maximum clearing time (cycles) 4 cal/cm 2 5 cal/cm 2 8 cal/cm 2 12 cal/cm 2
---------------------------------------------------------------------------------
-4.0 to 15.0 5 46 58 92 138
- 10 18 22 36 54
- 15 10 12 20 30
- 20 6 8 13 19
-15.1 to 25.0 5 28 34 55 83
- 10 11 14 23 34
- 15 7 8 13 20
- 20 4 5 9 13
-25.1 to 36.0 5 21 26 42 62
- 10 9 11 18 26
- 15 5 6 10 16
- 20 4 4 7 11
-36.1 to 46.0 5 16 20 32 48
- 10 7 9 14 21
- 15 4 5 8 13
- 20 3 4 6 9
-Table 7—Incident Heat Energy for Various Fault Currents, Clearing Times, and Voltages: Live-Line Tool Exposures Involving Phase-to-Ground Arcs in Open Air Only * † ‡  #
---------------------------------------------------------------------------------
-Voltage range (kV) ** Fault current (kA) Maximum clearing time (cycles) 4 cal/cm 2 5 cal/cm 2 8 cal/cm 2 12 cal/cm 2
---------------------------------------------------------------------------------
-4.0 to 15.0 5 197 246 394 591
- 10 73 92 147 220
- 15 39 49 78 117
- 20 24 31 49 73
-15.1 to 25.0 5 197 246 394 591
- 10 75 94 150 225
- 15 41 51 82 122
- 20 26 33 52 78
-25.1 to 36.0 5 138 172 275 413
- 10 53 66 106 159
- 15 30 37 59 89
- 20 19 24 38 58
-36.1 to 46.0 5 129 161 257 386
- 10 51 64 102 154
- 15 29 36 58 87
- 20 19 24 38 57
-46.1 to 72.5 20 18 23 36 55
- 30 10 13 20 30
- 40 6 8 13 19
- 50 4 6 9 13
-72.6 to 121.0 20 10 12 20 30
- 30 6 7 11 17
- 40 4 5 7 11
- 50 3 3 5 8
-121.1 to 145.0 20 12 15 24 35
- 30 7 9 15 22
- 40 5 6 10 15
- 50 4 5 8 11
-145.1 to 169.0 20 12 15 24 36
- 30 7 9 15 22
- 40 5 7 10 16
- 50 4 5 8 12
-169.1 to 242.0 20 13 17 27 40
- 30 8 10 17 25
- 40 6 7 12 17
- 50 4 5 9 13
-242.1 to 362.0 20 25 32 51 76
- 30 16 19 31 47
- 40 11 14 22 33
- 50 8 10 16 25
-362.1 to 420.0 20 12 15 25 37
- 30 8 10 15 23
- 40 5 7 11 16
- 50 4 5 8 12
-420.1 to 550.0 20 23 29 47 70
- 30 14 18 29 43
- 40 10 13 20 30
- 50 8 9 15 23
-550.1 to 800.0 20 25 31 50 75
- 30 15 19 31 46
- 40 11 13 21 32
- 50 8 10 16 24
-For any estimated incident heat energy When the employee is wearing rubber insulating gloves with protectors.
-If the estimated incident heat energy does not exceed 14 cal/cm 2 When the employee is wearing heavy-duty leather work gloves with a weight of at least 407 gm/m 2 (12 oz/yd 2 ).
-Exposure Minimum head and face protection None * Arc-rated faceshield with a minimum rating of 8 cal/cm 2 * Arc-rated hood or faceshield with balaclava
---------------------------------------------------------------------------------
-Single-phase, open air 2-8 cal/cm 2 9-12 cal/cm 2 13 cal/cm 2 or higher †.
-Three-phase 2-4 cal/cm 2 5-8 cal/cm 2 9 cal/cm 2 or higher ‡.
+(2) First-aid supplies. First-aid supplies required by § 1910.151(b) shall be placed in weatherproof containers if the supplies could be exposed to the weather.
+(3) First-aid kits. The employer shall maintain each first-aid kit, shall ensure that it is readily available for use, and shall inspect it frequently enough to ensure that expended items are replaced. The employer also shall inspect each first aid kit at least once per year.
+(c) Job briefing —(1) Before each job. (i) In assigning an employee or a group of employees to perform a job, the employer shall provide the employee in charge of the job with all available information that relates to the determination of existing characteristics and conditions required by paragraph (a)(4) of this section.
+(ii) The employer shall ensure that the employee in charge conducts a job briefing that meets paragraphs (c)(2), (c)(3), and (c)(4) of this section with the employees involved before they start each job.
+(2) Subjects to be covered. The briefing shall cover at least the following subjects: hazards associated with the job, work procedures involved, special precautions, energy-source controls, and personal protective equipment requirements.
+(3) Number of briefings. (i) If the work or operations to be performed during the work day or shift are repetitive and similar, at least one job briefing shall be conducted before the start of the first job of each day or shift.
+(ii) Additional job briefings shall be held if significant changes, which might affect the safety of the employees, occur during the course of the work.
+(4) Extent of briefing. (i) A brief discussion is satisfactory if the work involved is routine and if the employees, by virtue of training and experience, can reasonably be expected to recognize and avoid the hazards involved in the job.
+(ii) A more extensive discussion shall be conducted:
+(A) If the work is complicated or particularly hazardous, or
+(B) If the employee cannot be expected to recognize and avoid the hazards involved in the job.
+Note: Note to paragraph ( c )(4): The briefing must address all the subjects listed in paragraph (c)(2) of this section.

@@ -1,0 +1,13 @@
+§ 1910.1001 Asbestos.
+(6) Method of monitoring. (i) All samples taken to satisfy the monitoring requirements of paragraph (d) of this section shall be personal samples collected following the procedures specified in appendix A.
+(ii) All samples taken to satisfy the monitoring requirements of paragraph (d) of this section shall be evaluated using the OSHA Reference Method (ORM) specified in appendix A of this section, or an equivalent counting method.
+(iii) If an equivalent method to the ORM is used, the employer shall ensure that the method meets the following criteria:
+(A) Replicate exposure data used to establish equivalency are collected in side-by-side field and laboratory comparisons; and
+(B) The comparison indicates that 90% of the samples collected in the range 0.5 to 2.0 times the permissible limit have an accuracy range of plus or minus 25 percent of the ORM results at a 95% confidence level as demonstrated by a statistically valid protocol; and
+(C) The equivalent method is documented and the results of the comparison testing are maintained.
+(iv) To satisfy the monitoring requirements of paragraph (d) of this section, employers must use the results of monitoring analysis performed by laboratories which have instituted quality assurance programs that include the elements as prescribed in appendix A of this section.
+(7) Employee notification of monitoring results. (i) The employer must, within 15 working days after the receipt of the results of any monitoring performed under this sections, notify each affected employee of these results either individually in writing or by posting the results in an appropriate location that is accessible to affected employees.
+(ii) The written notification required by paragraph (d)(7)(i) of this section shall contain the corrective action being taken by the employer to reduce employee exposure to or below the TWA and/or excursion limit, wherever monitoring results indicated that the TWA and/or excursion limit had been exceeded.
+(e) Regulated Areas —(1) Establishment. The employer shall establish regulated areas wherever airborne concentrations of asbestos and/or PACM are in excess of the TWA and/or excursion limit prescribed in paragraph (c) of this section.
+(2) Demarcation. Regulated areas shall be demarcated from the rest of the workplace in any manner that minimizes the number of persons who will be exposed to asbestos.
+(3) Access. Access to regulated areas shall be limited to authorized persons or to persons authorized by the Act or regulations issued pursuant thereto.

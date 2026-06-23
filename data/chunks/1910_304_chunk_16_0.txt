@@ -1,0 +1,16 @@
+§ 1910.304 Wiring design and protection.
+(2) Conductor to be grounded. The conductor to be grounded for ac premises wiring systems required to be grounded by paragraph (g)(1) of this section shall be as follows:
+(i) One conductor of a single-phase, two-wire system shall be grounded;
+(ii) The neutral conductor of a single-phase, three-wire system shall be grounded;
+(iii) The common conductor of a multiphase system having one wire common to all phases shall be grounded;
+(iv) One phase conductor of a multiphase system where one phase is grounded shall be grounded; and
+(v) The neutral conductor of a multiphase system in which one phase is used as a neutral conductor shall be grounded.
+(3) Portable and vehicle-mounted generators. (i) The frame of a portable generator need not be grounded and may serve as the grounding electrode for a system supplied by the generator under the following conditions:
+(A) The generator supplies only equipment mounted on the generator or cord- and plug-connected equipment through receptacles mounted on the generator, or both; and
+(B) The noncurrent-carrying metal parts of equipment and the equipment grounding conductor terminals of the receptacles are bonded to the generator frame.
+(ii) The frame of a vehicle need not be grounded and may serve as the grounding electrode for a system supplied by a generator located on the vehicle under the following conditions:
+(A) The frame of the generator is bonded to the vehicle frame;
+(B) The generator supplies only equipment located on the vehicle and cord- and plug-connected equipment through receptacles mounted on the vehicle;
+(C) The noncurrent-carrying metal parts of equipment and the equipment grounding conductor terminals of the receptacles are bonded to the generator frame; and
+(D) The system complies with all other provisions of paragraph (g) of this section.
+(iii) A system conductor that is required to be grounded by the provisions of paragraph (g)(2) of this section shall be bonded to the generator frame where the generator is a component of a separately derived system.

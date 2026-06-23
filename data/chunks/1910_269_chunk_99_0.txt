@@ -1,0 +1,38 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+ (v)(1), (v)(2), and (v)(6) through (v)(12).
+ (w)(2) through (w)(6), (w)(8), and (w)(9).
+
+ER05OC15.000
+ER11AP14.022
+ER05OC15.001
+
+Table 1—Sparkover Distance for Rod-to-Rod Gap
+---------------------------------------------
+60 Hz Rod-to-Rod sparkover (kV peak) Gap spacing from IEEE Std 4-1995 (cm)
+--------------------------------------------------------------------------
+25 2
+36 3
+46 4
+53 5
+60 6
+70 8
+79 10
+86 12
+95 14
+104 16
+112 18
+120 20
+143 25
+167 30
+192 35
+218 40
+243 45
+270 50
+322 60
+Table 2—Calculating the Electrical Component of MAD 751 V to 72.5 kV
+--------------------------------------------------------------------
+Step Maximum system phase-to-phase voltage (kV) 15 36 46 72.5
+-------------------------------------------------------------
+1. Divide by √3 8.7 20.8 26.6 41.9
+2. Multiply by √2 12.2 29.4 37.6 59.2
+3. Multiply by 3.0 36.7 88.2 112.7 177.6

@@ -1,0 +1,17 @@
+§ 1910.263 Bakery equipment.
+(23) Open fat kettles. (i) The floor around kettles shall be maintained in nonslip condition.
+(ii)-(iii) [Reserved]
+(iv) The top of the kettle shall be not less than 36 inches above floor or working level.
+(24) Steam kettles. (i) Positive locking devices shall be provided to hold kettles in the desired position.
+(ii) Kettles with steam jackets shall be provided with safety valves in accordance with the ASME Pressure Vessel Code, Section VIII, Unfired Pressure Vessels, 1968, which is incorporated by reference as specified in § 1910.6.
+(j) Slicers and wrappers —(1) Slicers.
+(i)-(ii) [Reserved]
+(iii) The cover over the knife head of reciprocating-blade slicers shall be provided with an interlocking arrangement so that the machine cannot operate unless the cover is in place.
+(iv) On slicers with endless band knives, each motor shall be equipped with a magnet brake which operates whenever the motor is not energized. Each door, panel, or other point of access to the cutting blades shall be arranged by means of mechanical or electric interlocks so that the motor will be deenergized if all such access doors, panels, or access points are not closed.
+(v) When it is necessary to sharpen slicer blades on the machine, a barrier shall be provided leaving only sufficient opening for the sharpening stone to reach the knife blades.
+(vi) [Reserved]
+(vii) Slicer wrapper conditions.
+( a )-( b ) [Reserved]
+( c ) Mechanical control levers for starting and stopping both slicing machine conveyors and wrapping machines shall be extended or so located that an operator in one location can control both machines. Such levers should be provided wherever necessary, but these should be so arranged that there is only one station capable of starting the wrapping machine and conveyor assembly, and this starting station should be so arranged or guarded as to prevent accidental starting. The electric control station for starting and stopping the electric motor driving the wrapping machine and conveyor should be located near the clutch starting lever.
+(2) Wrappers.
+(i)-(ii) [Reserved]

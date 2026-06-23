@@ -1,0 +1,14 @@
+§ 1910.263 Bakery equipment.
+( b ) [Reserved]
+( c ) Combustion safeguards used in connection with electric ignition systems on ovens shall be so designed as to prevent an explosive mixture from accumulating inside the oven before ignition has taken place.
+(v) When fuel is supplied and used at line pressure, safety shutoff valves shall be provided in the fuel line leading to the burner.
+( a ) When fuel is supplied in excess of line pressure, safety shutoff valves shall be provided in the fuel line leading to the burners, unless the fuel supply lines are equipped with other automatic valves which will prevent the flow of fuel when the compressing equipment is stopped.
+( b ) The safety shutoff valve shall be positively tight and shall be tested at least twice monthly.
+( c )-( d ) [Reserved]
+( e ) A safety shutoff valve shall require manual operation for reopening after it has closed, or the electric circuit shall be so arranged that it will require a manual operation for reopening the safety shutoff valve.
+( f ) Manual reset-type safety shutoff valves shall be so arranged that they cannot be locked in an open position by external means.
+( g ) Where blowers are used for supplying the air for combustion the safety shutoff valve shall be interlocked so that it will close in case of air failure.
+( h ) Where gas or electric ignition is used, the safety shutoff valve shall close in case of ignition failure. On burners equipped with combustion safeguards, the valve shall close in case of burner flame failure.
+(vi) One main, manually operated, fuel shutoff valve shall be provided on each oven, and shall be located ahead of all other valves in the system.
+(vii) All individual gas or oil burners with a heating capacity over 150,000 B.t.u. per hour shall be protected by a safeguard which is actuated by the flame and which will react to flame failure in a time interval not to exceed 2 seconds. All safeguards, once having shut down a gas or oil burner, shall require manual resetting and starting of the burner or burners.
+(viii) Any space in an oven (except direct fired ovens) which could be filled with an explosive mixture shall be protected by explosion vents. Explosion vents shall be made of minimum weight consistent with adequate insulation.

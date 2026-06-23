@@ -1,0 +1,10 @@
+§ 1910.6 Incorporation by reference.
+(77) ANSI Z87.1-1968 Practice of Occupational and Educational Eye and Face Protection; IBR approved for § 1910.261(a)(3)(xxv), (d)(1)(ii), (f)(5), (g)(1), (g)(15)(v), (g)(18)(ii), and (i)(4).
+(78) ANSI Z89.1-1969 Safety Requirements for Industrial Head Protection; IBR approved for § 1910.261(a)(3)(xxvii), (b)(2), (g)(15)(v), and (i)(4).
+(79) ANSI Z89.2-1971 Safety Requirements for Industrial Protective Helmets for Electrical Workers, Class B; IBR approved for § 1910.268(i)(1).
+(f) The following material is available for purchase from the American Petroleum Institute (API), 1220 L Street NW, Washington DC 20005:
+(1) [Reserved]
+(2) API 12B (May 1958) Specification for Bolted Production Tanks, 11th Ed., With Supplement No. 1, Mar. 1962, IBR approved for § 1910.106(b)(1)(i)( a )( 3 ).
+(3) API 12D (Aug. 1957) Specification for Large Welded Production Tanks, 7th Ed., IBR approved for § 1910.106(b)(1)(i)( a )( 3 ).
+(4) API 12F (Mar. 1961) Specification for Small Welded Production Tanks, 5th Ed., IBR approved for § 1910.106(b)(1)(i)( a )( 3 ).
+(5) API 620, Fourth Ed. (1970) Including appendix R, Recommended Rules for Design and Construction of Large Welded Low Pressure Storage Tanks, IBR approved for §§ 1910.103(c)(1)(i)( a ); 1910.106(b)(1)(iv)(b)(1); and 1910.111( d )( 1 ) (ii) and (iii).

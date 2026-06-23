@@ -1,0 +1,20 @@
+§ 1910.119 Process safety management of highly hazardous chemicals.
+(iii) The contract employer shall document that each contract employee has received and understood the training required by this paragraph. The contract employer shall prepare a record which contains the identity of the contract employee, the date of training, and the means used to verify that the employee understood the training.
+(iv) The contract employer shall assure that each contract employee follows the safety rules of the facility including the safe work practices required by paragraph (f)(4) of this section.
+(v) The contract employer shall advise the employer of any unique hazards presented by the contract employer's work, or of any hazards found by the contract employer's work.
+(i) Pre-startup safety review. (1) The employer shall perform a pre-startup safety review for new facilities and for modified facilities when the modification is significant enough to require a change in the process safety information.
+(2) The pre-startup safety review shall confirm that prior to the introduction of highly hazardous chemicals to a process:
+(i) Construction and equipment is in accordance with design specifications;
+(ii) Safety, operating, maintenance, and emergency procedures are in place and are adequate;
+(iii) For new facilities, a process hazard analysis has been performed and recommendations have been resolved or implemented before startup; and modified facilities meet the requirements contained in management of change, paragraph (l).
+(iv) Training of each employee involved in operating a process has been completed.
+(j) Mechanical integrity —(1) Application. Paragraphs (j)(2) through (j)(6) of this section apply to the following process equipment:
+(i) Pressure vessels and storage tanks;
+(ii) Piping systems (including piping components such as valves);
+(iii) Relief and vent systems and devices;
+(iv) Emergency shutdown systems;
+(v) Controls (including monitoring devices and sensors, alarms, and interlocks) and,
+(vi) Pumps.
+(2) Written procedures. The employer shall establish and implement written procedures to maintain the on-going integrity of process equipment.
+(3) Training for process maintenance activities. The employer shall train each employee involved in maintaining the on-going integrity of process equipment in an overview of that process and its hazards and in the procedures applicable to the employee's job tasks to assure that the employee can perform the job tasks in a safe manner.
+(4) Inspection and testing. (i) Inspections and tests shall be performed on process equipment.

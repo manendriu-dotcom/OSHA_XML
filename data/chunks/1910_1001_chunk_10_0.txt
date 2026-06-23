@@ -1,0 +1,11 @@
+§ 1910.1001 Asbestos.
+(2) Respirator program. (i) The employer must implement a respiratory protection program in accordance with 29 CFR 134 (b) through (d) (except (d)(1)(iii)), and (f) through (m), which covers each employee required by this section to use a respirator.
+(ii) Employers must provide an employee with a tight-fitting, powered air-purifying respirator (PAPR) instead of a negative pressure respirator selected according to paragraph (g)(3) of this standard when the employee chooses to use a PAPR and it provides adequate protection to the employee.
+(iii) No employee must be assigned to tasks requiring the use of respirators if, based on their most recent medical examination, the examining physician determines that the employee will be unable to function normally using a respirator, or that the safety or health of the employee or other employees will be impaired by the use of a respirator. Such employees must be assigned to another job or given the opportunity to transfer to a different position, the duties of which they can perform. If such a transfer position is available, the position must be with the same employer, in the same geographical area, and with the same seniority, status, and rate of pay the employee had just prior to such transfer.
+(3) Respirator selection. Employers must:
+(i) Select, and provide to employees, the appropriate respirators specified in paragraph (d)(3)(i)(A) of 29 CFR 1910.134; however, employers must not select or use filtering facepiece respirators for protection against asbestos fibers.
+(ii) Provide HEPA filters for powered and non-powered air-purifying respirators.
+(h) Protective work clothing and equipment —(1) Provision and use. If an employee is exposed to asbestos above the TWA and/or excursion limit, or where the possibility of eye irritation exists, the employer shall provide at no cost to the employee and ensure that the employee uses appropriate protective work clothing and equipment such as, but not limited to:
+(i) Coveralls or similar full-body work clothing;
+(ii) Gloves, head coverings, and foot coverings; and
+(iii) Face shields, vented goggles, or other appropriate protective equipment which complies with 1910.133 of this part.

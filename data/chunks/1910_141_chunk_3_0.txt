@@ -1,0 +1,21 @@
+§ 1910.141 Sanitation.
+(iii) Nonpotable water shall not be used for washing any portion of the person, cooking or eating utensils, or clothing. Nonpotable water may be used for cleaning work premises, other than food processing and preparation premises and personal service rooms: Provided, That this nonpotable water does not contain concentrations of chemicals, fecal coliform, or other substances which could create insanitary conditions or be harmful to employees.
+(c) Toilet facilities —(1) General. (i) Except as otherwise indicated in this paragraph (c)(1)(i), toilet facilities, in toilet rooms separate for each sex, shall be provided in all places of employment in accordance with table J-1 of this section. The number of facilities to be provided for each sex shall be based on the number of employees of that sex for whom the facilities are furnished. Where toilet rooms will be occupied by no more than one person at a time, can be locked from the inside, and contain at least one water closet, separate toilet rooms for each sex need not be provided. Where such single-occupancy rooms have more than one toilet facility, only one such facility in each toilet room shall be counted for the purpose of table J-1.
+
+Table J-1
+---------
+Number of employees Minimum number of water closets 1
+-----------------------------------------------------
+1 to 15 1
+16 to 35 2
+36 to 55 3
+56 to 80 4
+81 to 110 5.
+111 to 150 6
+Over 150 ( 2 )
+
+(ii) The requirements of paragraph (c)(1)(i) of this section do not apply to mobile crews or to normally unattended work locations so long as employees working at these locations have transportation immediately available to nearby toilet facilities which meet the other requirements of this subparagraph.
+(iii) The sewage disposal method shall not endanger the health of employees.
+(2) Construction of toilet rooms. (i) Each water closet shall occupy a separate compartment with a door and walls or partitions between fixtures sufficiently high to assure privacy.
+(ii) [Reserved]
+(d) Washing facilities —(1) General. Washing facilities shall be maintained in a sanitary condition.

@@ -1,0 +1,13 @@
+§ 1910.261 Pulp, paper, and paperboard mills.
+(ii) All safety devices shall conform to Paragraph U-2 in the ASME Boiler and Pressure Vessel Code, Section VIII, Unfired Pressure Vessels—1968, with Addenda.
+(18) Miscellaneous. Insofar as the processes of the sulfate and soda operations are similar to those of the sulfite processes, the standard of paragraphs (g) (1) through (17) of this section shall apply.
+(i) Quick operating showers, bubblers, etc., shall be available for emergency use in case of caustic soda burns.
+(ii) Rotary tenders, smelter operators, and those cleaning smelt spouts shall be provided with eye protection equipment (fitted with lenses that filter out the harmful rays emanating from the light source) when actively engaged in their duties, in accordance with American National Standard Z87.1—1968.
+(iii) Heavy-duty pipe, valves, and fittings shall be used between digester and blow pit. These shall be inspected at least semiannually to determine the degree of deterioration and repaired or replaced when necessary, in accordance with American National Standards B31.1—1955, B31.1a—1963, B31.1.0—1967, and B31.2—1968.
+(iv) Smelt-dissolving tanks shall be covered and the cover kept closed, except when samples are being taken.
+(v) Smelt tanks shall be provided with vent stacks and explosion doors, in accordance with American National Standard Z9.1—1951.
+(19) Blow lines.
+(i)-(ii) [Reserved]
+(iii) When blow lines from more than one digester lead into one pipe, the cock or valve of the blow line from the tank being inspected or repaired shall be locked or tagged out, or the line shall be disconnected and blocked off.
+(20) Furnace room. Exhaust ventilation shall be provided where niter cake is fed into a rotary furnace and shall be so designed and maintained as to keep the concentration of hydrogen sulfide gas below the parts per million listed in § 1910.1000.
+(21) Inspection and repair of tanks. All piping leading to tanks shall be blanked off or valved and locked or tagged. Any lines to sewers shall be blanked off to protect workers from air contaminants.

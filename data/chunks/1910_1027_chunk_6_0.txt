@@ -1,0 +1,15 @@
+§ 1910.1027 Cadmium.
+(iii) The written compliance programs shall be reviewed and updated at least annually, or more often if necessary, to reflect significant changes in the employer's compliance status.
+(iv) Written compliance programs shall be provided upon request for examination and copying to affected employees, designated employee representatives as well as to the Assistant Secretary, and the Director.
+(3) Mechanical ventilation. (i) When ventilation is used to control exposure, measurements that demonstrate the effectiveness of the system in controlling exposure, such as capture velocity, duct velocity, or static pressure shall be made as necessary to maintain its effectiveness.
+(ii) Measurements of the system's effectiveness in controlling exposure shall be made as necessary within five working days of any change in production, process, or control that might result in a significant increase in employee exposure to cadmium.
+(iii) Recirculation of air. If air from exhaust ventilation is recirculated into the workplace, the system shall have a high efficiency filter and be monitored to assure effectiveness.
+(iv) Procedures shall be developed and implemented to minimize employee exposure to cadmium when maintenance of ventilation systems and changing of filters is being conducted.
+(g) Respiratory protection —(1) General. For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(i) Periods necessary to install or implement feasible engineering and work-practice controls when employee exposure levels exceed the PEL.
+(ii) Maintenance and repair activities, and brief or intermittent operations, for which employee exposures exceed the PEL and engineering and work-practice controls are not feasible or are not required.
+(iii) Activities in regulated areas specified in paragraph (e) of this section.
+(iv) Work operations for which the employer has implemented all feasible engineering and work-practice controls and such controls are not sufficient to reduce employee exposures to or below the PEL.
+(v) Work operations for which an employee is exposed to cadmium at or above the action level, and the employee requests a respirator.
+(vi) Work operations for which an employee is exposed to cadmium above the PEL and engineering controls are not required by paragraph (f)(1)(ii) of this section.
+(vii) Emergencies.

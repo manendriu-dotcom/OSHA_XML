@@ -1,0 +1,31 @@
+§ 1910.1051 1,3-Butadiene.
+(o) Appendices. (1) appendix E to this section is mandatory.
+(2) Appendices A, B, C, D, and F to this section are informational and are not intended to create any additional obligations not otherwise imposed or to detract from any existing obligations.
+
+Table 1—Five Exposure Scenarios and Their Associated Monitoring Frequencies
+---------------------------------------------------------------------------
+Action level 8-hr TWA STEL Required monitoring activity
+-------------------------------------------------------
+−* − − No 8-hr TWA or STEL monitoring required.
++ * − − No STEL monitoring required. Monitor 8-hr TWA annually.
++ + − No STEL monitoring required. Periodic monitoring 8-hr TWA, in accordance with (d)(3)(ii).**
++ + + Periodic monitoring 8-hr TWA, in accordance with (d)(3)(ii)**. Periodic monitoring STEL, in accordance with (d)(3)(iii).
++ − + Periodic monitoring STEL, in accordance with (d)(3)(iii). Monitor 8-hr TWA, annually.
+
+ER14MY19.066
+ER14MY19.067
+ER14MY19.068
+ER14MY19.069
+ER14MY19.070
+ER14MY19.071
+ER14MY19.072
+ER14MY19.073
+ER14MY19.074
+ER14MY19.075
+ER14MY19.077
+ER14MY19.078
+ER14MY19.079
+ER14MY19.080
+ER14MY19.081
+ER14MY19.082
+ER14MY19.083

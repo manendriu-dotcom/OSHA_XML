@@ -1,0 +1,17 @@
+§ 1910.1020 Access to employee exposure and medical records.
+(9) Health Professional means a physician, occupational health nurse, industrial hygienist, toxicologist, or epidemiologist, providing medical or other occupational health services to exposed employees.
+(10) Record means any item, collection, or grouping of information regardless of the form or process by which it is maintained (e.g., paper document, microfiche, microfilm, X-ray film, or automated data processing).
+(11) Specific chemical identity means the chemical name, Chemical Abstracts Service (CAS) Registry Number, or any other information that reveals the precise chemical designation of the substance.
+(12)(i) Specific written consent means a written authorization containing the following:
+(A) The name and signature of the employee authorizing the release of medical information,
+(B) The date of the written authorization,
+(C) The name of the individual or organization that is authorized to release the medical information,
+(D) The name of the designated representative (individual or organization) that is authorized to receive the released information,
+(E) A general description of the medical information that is authorized to be released,
+(F) A general description of the purpose for the release of the medical information, and
+(G) A date or condition upon which the written authorization will expire (if less than one year).
+(ii) A written authorization does not operate to authorize the release of medical information not in existence on the date of written authorization, unless the release of future information is expressly authorized, and does not operate for more than one year from the date of written authorization.
+(iii) A written authorization may be revoked in writing prospectively at any time.
+(13) Toxic substance or harmful physical agent means any chemical substance, biological agent (bacteria, virus, fungus, etc.), or physical stress (noise, heat, cold, vibration, repetitive motion, ionizing and non-ionizing radiation, hypo-or hyperbaric pressure, etc.) which:
+(i) Is listed in the latest printed edition of the National Institute for Occupational Safety and Health (NIOSH) Registry of Toxic Effects of Chemical Substances (RTECS), which is incorporated by reference as specified in § 1910.6; or
+(ii) Has yielded positive evidence of an acute or chronic health hazard in testing conducted by, or known to, the employer; or

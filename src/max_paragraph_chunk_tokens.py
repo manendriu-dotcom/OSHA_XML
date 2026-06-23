@@ -88,9 +88,18 @@ def main():
     if not cfg_path.exists():
         raise SystemExit(f"Config not found: {cfg_path}")
     cfg = yaml.safe_load(cfg_path.read_text(encoding="utf-8"))
-    sec_cfg = cfg["section"]
-    max_tokens = sec_cfg["max_tokens_per_chunk"]
-    overlap = sec_cfg["overlap_tokens"]
+    models_cfg = cfg.get("models")
+    if not models_cfg:
+        raise SystemExit(
+            f"Config is missing the 'models' block with chunking parameters: {cfg_path}"
+        )
+
+    # Use the first configured model so paragraph analysis stays deterministic
+    # even when the user selects a different embedding model at runtime.
+    default_model = next(iter(models_cfg))
+    model_cfg = models_cfg[default_model]
+    max_tokens = model_cfg["max_tokens_per_chunk"]
+    overlap = model_cfg["overlap_tokens"]
 
     in_path = base / "data" / "cleaned" / "osha_1910_cleaned.txt"
     if not in_path.exists():
@@ -115,7 +124,16 @@ def main():
     max_info = None
     total_par_chunks = 0
 
+    max_section_tokens = 0
+    longest_section = None
+
     for sec_id, sec_title, body in sections:
+        # Section-level token count (entire section body)
+        sec_tok = count_tokens(body)
+        if sec_tok > max_section_tokens:
+            max_section_tokens = sec_tok
+            longest_section = (sec_id, sec_title)
+
         groups = paragraph_groups(body)
         par_chunks = paragraph_chunks_from_groups(groups, max_tokens, overlap)
         for chunk_text, tok in par_chunks:
@@ -129,7 +147,11 @@ def main():
     print(f"Total paragraph-level chunks (no word-window fallback): {total_par_chunks}")
     print(f"Max tokens in a paragraph-level chunk: {max_par_chunk}")
     if max_info:
-        print(f"Section: {max_info[0]} — {max_info[1]}")
+        print(f"Section containing largest paragraph-chunk: {max_info[0]} — {max_info[1]}")
+
+    print(f"Max tokens in a whole section: {max_section_tokens}")
+    if longest_section:
+        print(f"Longest section: {longest_section[0]} — {longest_section[1]}")
 
 if __name__ == '__main__':
     main()

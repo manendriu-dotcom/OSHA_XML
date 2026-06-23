@@ -1,0 +1,11 @@
+§ 1910.1025 Lead.
+5. Lead pigment manufacturing 200 200 200 100 50 50
+6. All other industries 200 50 50 50 50 50
+Table 2
+-------
+Effective date Mar. 1, 1979 Mar. 1, 1980 Mar. 1, 1981 Mar. 1, 1982 Mar. 1, 1983 (final)
+--------------------------------------------------------------------------------
+A. Blood lead level requiring employee medical removal. (Level must be confirmed with second follow-up blood lead level within two weeks of first report.) >=80 µg/100 g >=70µg/100 g >=60 µg/100 g >=60 µg/100 g >=60µg/100 g or average of last three blood samples or all blood samples over previous 6 months (whichever is over a longer time period) is 50 µg/100 g or greater unless last blood sample is 40 µg/100 g or less.
+B. Frequency which employees exposed to action level of lead (30 µg/m 3 TWA) must have blood lead level checked (ZPP is also required in each occasion that a blood lead is obtained.):
+1. Last blood lead level less than 40 µg/100 g Every 6 months Every 6 months Every 6 months Every 6 months Every 6 months.
+2. Last blood lead level between 40 µg/100 g and level requiring medical removal (see A above) Every 2 months Every 2 months Every 2 months Every 2 months Every 2 months.

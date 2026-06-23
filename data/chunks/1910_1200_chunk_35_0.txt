@@ -1,0 +1,8 @@
+§ 1910.1200 Hazard communication.
+(a) Positive result(s) from in vivo heritable germ cell mutagenicity tests in mammals; or
+(b) Positive result(s) from in vivo somatic cell mutagenicity tests in mammals, in combination with some evidence that the substance has potential to cause mutations to germ cells. This supporting evidence may, for example, be derived from mutagenicity/genotoxicity tests in germ cells in vivo, or by demonstrating the ability of the substance or its metabolite(s) to interact with the genetic material of germ cells; or
+(c) Positive results from tests showing mutagenic effects in the germ cells of humans, without demonstration of transmission to progeny; for example, an increase in the frequency of aneuploidy in sperm cells of exposed people.
+CATEGORY 2: Substances which cause concern for humans owing to the possibility that they may induce heritable mutations in the germ cells of humans.
+Positive evidence obtained from experiments in mammals and/or in some cases from in vitro experiments, obtained from:
+(a) Somatic cell mutagenicity tests in vivo, in mammals; or
+(b) Other in vivo somatic cell genotoxicity tests which are supported by positive results from in vitro mutagenicity assays.

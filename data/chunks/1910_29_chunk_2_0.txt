@@ -1,0 +1,17 @@
+§ 1910.29 Fall protection systems and falling object protection—criteria and practices.
+(ii) When materials are not being passed through the hole, the hole must be guarded by a guardrail system along all unprotected sides or edges or closed over with a cover.
+(13) When guardrail systems are used around holes that serve as points of access (such as ladderways), the guardrail system opening:
+(i) Has a self-closing gate that slides or swings away from the hole, and is equipped with a top rail and midrail or equivalent intermediate member that meets the requirements in paragraph (b) of this section; or
+(ii) Is offset to prevent an employee from walking or falling into the hole;
+(14) Guardrail systems on ramps and runways are installed along each unprotected side or edge.
+(15) Manila or synthetic rope used for top rails or midrails are inspected as necessary to ensure that the rope continues to meet the strength requirements in paragraphs (b)(3) and (5) of this section.
+Note: Note to paragraph ( b ) of this section: The criteria and practices requirements for guardrail systems on scaffolds are contained in 29 CFR part 1926, subpart L.
+ER17DE19.019
+(c) Safety net systems. The employer must ensure each safety net system meets the requirements in 29 CFR part 1926, subpart M.
+(d) Designated areas. (1) When the employer uses a designated area, the employer must ensure:
+(i) Employees remain within the designated area while work operations are underway; and
+(ii) The perimeter of the designated area is delineated with a warning line consisting of a rope, wire, tape, or chain that meets the requirements of paragraphs (d)(2) and (3) of this section.
+(2) The employer must ensure each warning line:
+(i) Has a minimum breaking strength of 200 pounds (0.89 kN);
+(ii) Is installed so its lowest point, including sag, is not less than 34 inches (86 cm) and not more than 39 inches (99 cm) above the walking-working surface;
+(iii) Is supported in such a manner that pulling on one section of the line will not result in slack being taken up in adjacent sections causing the line to fall below the limits specified in paragraph (d)(2)(ii) of this section;

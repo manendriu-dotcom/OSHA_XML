@@ -1,0 +1,14 @@
+§ 1910.178 Powered industrial trucks.
+(5) A load engaging means shall be placed under the load as far as possible; the mast shall be carefully tilted backward to stabilize the load.
+(6) Extreme care shall be used when tilting the load forward or backward, particularly when high tiering. Tilting forward with load engaging means elevated shall be prohibited except to pick up a load. An elevated load shall not be tilted forward except when the load is in a deposit position over a rack or stack. When stacking or tiering, only enough backward tilt to stabilize the load shall be used.
+(p) Operation of the truck. (1) If at any time a powered industrial truck is found to be in need of repair, defective, or in any way unsafe, the truck shall be taken out of service until it has been restored to safe operating condition.
+(2) Fuel tanks shall not be filled while the engine is running. Spillage shall be avoided.
+(3) Spillage of oil or fuel shall be carefully washed away or completely evaporated and the fuel tank cap replaced before restarting engine.
+(4) No truck shall be operated with a leak in the fuel system until the leak has been corrected.
+(5) Open flames shall not be used for checking electrolyte level in storage batteries or gasoline level in fuel tanks.
+(q) Maintenance of industrial trucks. (1) Any power-operated industrial truck not in safe operating condition shall be removed from service. All repairs shall be made by authorized personnel.
+(2) No repairs shall be made in Class I, II, and III locations.
+(3) Those repairs to the fuel and ignition systems of industrial trucks which involve fire hazards shall be conducted only in locations designated for such repairs.
+(4) Trucks in need of repairs to the electrical system shall have the battery disconnected prior to such repairs.
+(5) All parts of any such industrial truck requiring replacement shall be replaced only by parts equivalent as to safety with those used in the original design.
+(6) Industrial trucks shall not be altered so that the relative positions of the various parts are different from what they were when originally received from the manufacturer, nor shall they be altered either by the addition of extra parts not provided by the manufacturer or by the elimination of any parts, except as provided in paragraph (q)(12) of this section. Additional counterweighting of fork trucks shall not be done unless approved by the truck manufacturer.

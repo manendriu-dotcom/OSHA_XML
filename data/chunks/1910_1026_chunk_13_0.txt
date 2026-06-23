@@ -1,0 +1,21 @@
+§ 1910.1026 Chromium (VI).
+(B) The processes and work practices that were in use when the historical monitoring data were obtained are essentially the same as those to be used during the job for which exposure is being determined;
+(C) The characteristics of the chromium (VI) containing material being handled when the historical monitoring data were obtained are the same as those on the job for which exposure is being determined;
+(D) Environmental conditions prevailing when the historical monitoring data were obtained are the same as those on the job for which exposure is being determined; and
+(E) Other data relevant to the operations, materials, processing, or employee exposures covered by the exception.
+(iii) The employer shall ensure that historical exposure records are maintained and made available in accordance with 29 CFR 1910.1020.
+(3) Objective data. (i) The employer shall maintain an accurate record of all objective data relied upon to comply with the requirements of this section.
+(ii) This record shall include at least the following information:
+(A) The chromium containing material in question;
+(B) The source of the objective data;
+(C) The testing protocol and results of testing, or analysis of the material for the release of chromium (VI);
+(D) A description of the process, operation, or activity and how the data support the determination; and
+(E) Other data relevant to the process, operation, activity, material, or employee exposures.
+(iii) The employer shall ensure that objective data are maintained and made available in accordance with 29 CFR 1910.1020.
+(4) Medical surveillance. (i) The employer shall establish and maintain an accurate record for each employee covered by medical surveillance under paragraph (k) of this section.
+(ii) The record shall include the following information about the employee:
+(A) Name;
+(B) A copy of the PLHCP's written opinions;
+(C) A copy of the information provided to the PLHCP as required by paragraph (k)(4) of this section.
+(iii) The employer shall ensure that medical records are maintained and made available in accordance with 29 CFR 1910.1020.
+(n) Dates. (1) For employers with 20 or more employees, all obligations of this section, except engineering controls required by paragraph (f) of this section, commence November 27, 2006.

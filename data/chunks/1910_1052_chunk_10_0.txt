@@ -1,0 +1,14 @@
+§ 1910.1052 Methylene chloride.
+(ii) Periods necessary to install or implement feasible engineering and work-practice controls.
+(iii) A few work operations, such as some maintenance operations and repair activities, for which the employer demonstrates that engineering and work-practice controls are infeasible.
+(iv) Work operations for which feasible engineering and work-practice controls are not sufficient to reduce employee exposures to or below the PELs.
+(v) Emergencies.
+(2) Respirator program. (i) The employer must implement a respiratory protection program in accordance with § 1910.13(b) through (m) (except (d)(1)(iii)), which covers each employee required by this section to use a respirator.
+(ii) Employers who provide employees with gas masks with organic-vapor canisters for the purpose of emergency escape must replace the canisters after any emergency use and before the gas masks are returned to service.
+(3) Respirator selection. Employers must:
+(i) Select, and provide to employees, the appropriate atmosphere-supplying respirator specified in paragraph (d)(3)(i)(A) of 29 CFR 1910.134; however, employers must not select or use half masks of any type because MC may cause eye irritation or damage.
+(ii) For emergency escape, provide employees with one of the following respirator options: A self-contained breathing apparatus operated in the continuous-flow or pressure-demand mode; or a gas mask with an organic vapor canister.
+(4) Medical evaluation. Before having an employee use a supplied-air respirator in the negative-pressure mode, or a gas mask with an organic-vapor canister for emergency escape, the employer must:
+(i) Have a physician or other licensed health-care professional (PLHCP) evaluate the employee's ability to use such respiratory protection.
+(ii) Ensure that the PLHCP provides their findings in a written opinion to the employee and the employer.
+(h) Protective Work Clothing and Equipment. (1) Where needed to prevent MC-induced skin or eye irritation, the employer shall provide clean protective clothing and equipment which is resistant to MC, at no cost to the employee, and shall ensure that each affected employee uses it. Eye and face protection shall meet the requirements of 29 CFR 1910.133 or 29 CFR 1915.153, as applicable.

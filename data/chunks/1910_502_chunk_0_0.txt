@@ -1,0 +1,12 @@
+§ 1910.502 Healthcare.
+(a) Scope and application. (1) Except as otherwise provided in this paragraph, this section applies to all settings where any employee provides healthcare services or healthcare support services.
+(2) This section does not apply to the following:
+(i) The provision of first aid by an employee who is not a licensed healthcare provider;
+(ii) The dispensing of prescriptions by pharmacists in retail settings;
+(iii) Non-hospital ambulatory care settings where all non-employees are screened prior to entry and people with suspected or confirmed COVID-19 are not permitted to enter those settings;
+(iv) Well-defined hospital ambulatory care settings where all employees are fully vaccinated and all non-employees are screened prior to entry and people with suspected or confirmed COVID-19 are not permitted to enter those settings;
+(v) Home healthcare settings where all employees are fully vaccinated and all non-employees are screened prior to entry and people with suspected or confirmed COVID-19 are not present;
+(vi) Healthcare support services not performed in a healthcare setting ( e.g., off-site laundry, off-site medical billing); or
+(vii) Telehealth services performed outside of a setting where direct patient care occurs.
+Note: Note to paragraph ( a )(2): OSHA does not intend to preclude the employers of employees who are unable to be vaccinated from the scope exemption in paragraphs (a)(2)(iv) and (v) of this section. Under various anti-discrimination laws, workers who cannot be vaccinated because of medical conditions, such as allergies to vaccine ingredients, or certain religious beliefs may ask for a reasonable accommodation from their employer. Accordingly, where an employer reasonably accommodates an employee who is unable to be vaccinated in a manner that does not expose the employee to COVID-19 hazards ( e.g., telework, working in isolation), that employer may be within the scope exemption in paragraphs (a)(2)(iv) and (v) of this section.
+(3)(i) Where a healthcare setting is embedded within a non-healthcare setting ( e.g., medical clinic in a manufacturing facility, walk-in clinic in a retail setting), this section applies only to the embedded healthcare setting and not to the remainder of the physical location.

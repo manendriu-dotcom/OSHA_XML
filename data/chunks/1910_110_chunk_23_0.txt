@@ -1,0 +1,14 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+( h ) Gas-fired heating systems supplying heat exclusively for vaporization purposes shall be equipped with automatic safety devices to shut off the flow of gas to main burners, if the pilot light should fail.
+( i ) Vaporizers may be an integral part of a fuel storage container directly connected to the liquid section or gas section or both.
+( j ) Vaporizers shall not be equipped with fusible plugs.
+( k ) Vaporizer houses shall not have unprotected drains to sewers or sump pits.
+(ii) Atmospheric vaporizers employing heat from the ground or surrounding air shall be installed as follows:
+( a ) Buried underground, or
+( b ) Located inside the building close to a point at which pipe enters the building provided the capacity of the unit does not exceed 1 quart.
+( c ) Vaporizers of less than 1 quart capacity heated by the ground or surrounding air, need not be equipped with safety relief valves provided that adequate tests demonstrate that the assembly is safe without safety relief valves.
+(iii) Direct gas-fired vaporizers shall be constructed, marked, and installed as follows:
+( a )( 1 ) In accordance with the requirements of the American Society of Mechanical Engineers Boiler and Pressure Vessel Code—1968 that are applicable to the maximum working conditions for which the vaporizer is designed.
+( 2 ) With the name of the manufacturer; rated BTU input to the burner; the area of the heat exchange surface in square feet; the outside surface of the vaporizer in square feet; and the maximum vaporizing capacity in gallons per hour.
+( b )( 1 ) Vaporizers may be connected to the liquid section or the gas section of the storage container, or both; but in any case there shall be at the container a manually operated valve in each connection to permit completely shutting off when desired, of all flow of gas or liquid from container to vaporizer.
+( 2 ) Vaporizers with capacity not exceeding 35 gallons per hour shall be located at least 5 feet from container shutoff valves. Vaporizers having capacity of more than 35 gallons but not exceeding 100 gallons per hour shall be located at least 10 feet from the container shutoff valves. Vaporizers having a capacity greater than 100 gallons per hour shall be located at least 15 feet from container shutoff valves.

@@ -1,0 +1,15 @@
+§ 1910.109 Explosives and blasting agents.
+( e ) Heating units that do not depend on combustion processes, when properly designed and located, may be used in the building. All direct sources of heat shall be provided exclusively from units located outside of the mixing building.
+( f ) All internal-combustion engines used for electric power generation shall be located outside the mixing plant building, or shall be properly ventilated and isolated by a firewall. The exhaust systems on all such engines shall be located so any spark emission cannot be a hazard to any materials in or adjacent to the plant.
+(iii) Ingredients of water gels shall conform to the requirements of this subdivision.
+( a ) Ingredients in themselves classified as Class A or Class B explosives shall be stored in conformity with paragraph (c) of this section.
+( b ) Nitrate-water solutions may be stored in tank cars, tank trucks, or fixed tanks without quantity or distance limitations. Spills or leaks which may contaminate combustible materials shall be cleaned up immediately.
+( c ) Metal powders such as aluminum shall be kept dry and shall be stored in containers or bins which are moisture-resistant or weathertight. Solid fuels shall be used in such manner as to minimize dust explosion hazards.
+( d ) Ingredients shall not be stored with incompatible materials.
+( e ) Peroxides and chlorates shall not be used.
+(iv) Mixing equipment shall comply with the requirements of this subdivision.
+( a ) The design of the processing equipment, including mixing and conveying equipment, shall be compatible with the relative sensitivity of the materials being handled. Equipment shall be designed to minimize the possibility of frictional heating, compaction, overloading, and confinement.
+( b ) Both equipment and handling procedures shall be designed to prevent the introduction of foreign objects or materials.
+( c ) Mixers, pumps, valves, and related equipment shall be designed to permit regular and periodic flushing, cleaning, dismantling, and inspection.
+( d ) All electrical equipment including wiring, switches, controls, motors, and lights, shall conform to the requirements of subpart S of this part.
+( e ) All electric motors and generators shall be provided with suitable overload protection devices. Electrical generators, motors, proportioning devices, and all other electrical enclosures shall be electrically bonded. The grounding conductor to all such electrical equipment shall be effectively bonded to the service-entrance ground connection and to all equipment ground connections in a manner so as to provide a continuous path to ground.

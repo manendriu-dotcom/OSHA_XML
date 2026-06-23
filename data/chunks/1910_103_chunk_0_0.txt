@@ -1,0 +1,13 @@
+§ 1910.103 Hydrogen.
+(a) General —(1) Definitions. As used in this section
+(i) Gaseous hydrogen system is one in which the hydrogen is delivered, stored and discharged in the gaseous form to consumer's piping. The system includes stationary or movable containers, pressure regulators, safety relief devices, manifolds, interconnecting piping and controls. The system terminates at the point where hydrogen at service pressure first enters the consumer's distribution piping.
+(ii) Approved—Means, unless otherwise indicated, listed or approved by a nationally recognized testing laboratory. Refer to § 1910.7 for definition of nationally recognized testing laboratory.
+(iii) Listed—See "approved".
+(iv) ASME—American Society of Mechanical Engineers.
+(v) DOT Specifications—Regulations of the Department of Transportation published in 49 CFR Chapter I.
+(vi) DOT regulations—See § 1910.103 (a)(1)(v).
+(2) Scope —(i) Gaseous hydrogen systems. ( a ) Paragraph (b) of this section applies to the installation of gaseous hydrogen systems on consumer premises where the hydrogen supply to the consumer premises originates outside the consumer premises and is delivered by mobile equipment.
+( b ) Paragraph (b) of this section does not apply to gaseous hydrogen systems having a total hydrogen content of less than 400 cubic feet, nor to hydrogen manufacturing plants or other establishments operated by the hydrogen supplier or his agent for the purpose of storing hydrogen and refilling portable containers, trailers, mobile supply trucks, or tank cars.
+(ii) Liquefied hydrogen systems. ( a ) Paragraph (c) of this section applies to the installation of liquefied hydrogen systems on consumer premises.
+( b ) Paragraph (c) of this section does not apply to liquefied hydrogen portable containers of less than 150 liters (39.63 gallons) capacity; nor to liquefied hydrogen manufacturing plants or other establishments operated by the hydrogen supplier or his agent for the sole purpose of storing liquefied hydrogen and refilling portable containers, trailers, mobile supply trucks, or tank cars.
+(b) Gaseous hydrogen systems —(1) Design —(i) Containers. ( a ) Hydrogen containers shall comply with one of the following:

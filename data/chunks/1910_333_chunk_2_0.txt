@@ -1,0 +1,9 @@
+§ 1910.333 Selection and use of work practices.
+Note: Note 2: Lockout and tagging procedures that comply with paragraphs (c) through (f) of § 1910.147 will also be deemed to comply with paragraph (b)(2) of this section provided that: (1) The procedures address the electrical safety hazards covered by this Subpart; and (2) The procedures also incorporate the requirements of paragraphs (b)(2)(iii)(D) and (b)(2)(iv)(B) of this section.
+(i) Procedures. The employer shall maintain a written copy of the procedures outlined in paragraph (b)(2) and shall make it available for inspection by employees and by the Assistant Secretary of Labor and his or her authorized representatives.
+Note: Note: The written procedures may be in the form of a copy of paragraph (b) of this section.
+(ii) Deenergizing equipment. (A) Safe procedures for deenergizing circuits and equipment shall be determined before circuits or equipment are deenergized.
+(B) The circuits and equipment to be worked on shall be disconnected from all electric energy sources. Control circuit devices, such as push buttons, selector switches, and interlocks, may not be used as the sole means for deenergizing circuits or equipment. Interlocks for electric equipment may not be used as a substitute for lockout and tagging procedures.
+(C) Stored electric energy which might endanger personnel shall be released. Capacitors shall be discharged and high capacitance elements shall be short-circuited and grounded, if the stored electric energy might endanger personnel.
+Note: Note: If the capacitors or associated equipment are handled in meeting this requirement, they shall be treated as energized.
+(D) Stored non-electrical energy in devices that could reenergize electric circuit parts shall be blocked or relieved to the extent that the circuit parts could not be accidentally energized by the device.

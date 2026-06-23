@@ -1,0 +1,17 @@
+§ 1910.7 Definition and requirements for a nationally recognized testing laboratory.
+(a) Application. This section shall apply only when the term nationally recognized testing laboratory is used in other sections of this part.
+(b) Laboratory requirements. The term nationally recognized testing laboratory (NRTL) means an organization which is recognized by OSHA in accordance with appendix A of this section and which tests for safety, and lists or labels or accepts, equipment or materials and which meets all of the following criteria:
+(1) For each specified item of equipment or material to be listed, labeled or accepted, the NRTL has the capability (including proper testing equipment and facilities, trained staff, written testing procedures, and calibration and quality control programs) to perform:
+(i) Testing and examining of equipment and materials for workplace safety purposes to determine conformance with appropriate test standards; or
+(ii) Experimental testing and examining of equipment and materials for workplace safety purposes to determine conformance with appropriate test standards or performance in a specified manner.
+(2) The NRTL shall provide, to the extent needed for the particular equipment or materials listed, labeled, or accepted, the following controls or services:
+(i) Implements control procedures for identifying the listed and labeled equipment or materials;
+(ii) Inspects the run of production of such items at factories for product evaluation purposes to assure conformance with the test standards; and
+(iii) Conducts field inspections to monitor and to assure the proper use of its identifying mark or labels on products;
+(3) The NRTL is completely independent of employers subject to the tested equipment requirements, and of any manufacturers or vendors of equipment or materials being tested for these purposes; and,
+(4) The NRTL maintains effective procedures for:
+(i) Producing creditable findings or reports that are objective and without bias; and
+(ii) Handling complaints and disputes under a fair and reasonable system.
+(c) Test standards. An appropriate test standard referred to in § 1910.7(b)(1) (i) and (ii) is a document which specifies the safety requirements for specific equipment or class of equipment and is:
+(1) Recognized in the United States as a safety standard providing an adequate level of safety, and
+(2) Compatible with and maintained current with periodic revisions of applicable national codes and installation standards, and

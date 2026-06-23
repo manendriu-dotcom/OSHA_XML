@@ -1,0 +1,13 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+(J) Copper, steel, or equivalent liners shall be used around the bars of D rings to prevent wear between these members and the leather or fabric enclosing them.
+(K) Snaphooks shall be of the locking type meeting the following requirements:
+( 1 ) The locking mechanism shall first be released, or a destructive force shall be placed on the keeper, before the keeper will open.
+( 2 ) A force in the range of 6.7 N (1.5 lbf) to 17.8 N (4 lbf) shall be required to release the locking mechanism.
+( 3 ) With the locking mechanism released and with a force applied on the keeper against the face of the nose, the keeper may not begin to open with a force of 11.2 N (2.5 lbf) or less and shall begin to open with a maximum force of 17.8 N (4 lbf).
+(L) Body belts and positioning straps shall be capable of withstanding a drop test as follows:
+( 1 ) The test mass shall be rigidly constructed of steel or equivalent material with a mass of 100 kg (220.5 lbm). For work-positioning equipment used by employees weighing more than 140 kg (310 lbm) fully equipped, the test mass shall be increased proportionately (that is, the test mass must equal the mass of the equipped worker divided by 1.4).
+( 2 ) For body belts, the body belt shall be fitted snugly around the test mass and shall be attached to the test-structure anchorage point by means of a wire rope.
+( 3 ) For positioning straps, the strap shall be adjusted to its shortest length possible to accommodate the test and connected to the test-structure anchorage point at one end and to the test mass on the other end.
+( 4 ) The test mass shall be dropped an unobstructed distance of 1 meter (39.4 inches) from a supporting structure that will sustain minimal deflection during the test.
+( 5 ) Body belts shall successfully arrest the fall of the test mass and shall be capable of supporting the mass after the test.
+( 6 ) Positioning straps shall successfully arrest the fall of the test mass without breaking, and the arrest force may not exceed 17.8 kilonewtons (4,000 pounds-force). Additionally, snaphooks on positioning straps may not distort to such an extent that the keeper would release.

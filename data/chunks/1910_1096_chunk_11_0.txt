@@ -1,0 +1,12 @@
+§ 1910.1096 Ionizing radiation.
+( e ) Function of entire system including operation without power where required.
+( f ) Complete operational tests including sounding of the signal and determination that sound levels are adequate.
+(vii) Periodic tests shall be scheduled on the basis of need, experience, difficulty, and disruption of operations. The entire system should be operationally tested at least quarterly.
+(viii) All employees whose work may necessitate their presence in an area covered by the signal shall be made familiar with the actual sound of the signal—preferably as it sounds at their work location. Before placing the system into operation, all employees normally working in the area shall be made acquainted with the signal by actual demonstration at their work locations.
+(g) Exceptions from posting requirements. Notwithstanding the provisions of paragraph (e) of this section:
+(1) A room or area is not required to be posted with a caution sign because of the presence of a sealed source, provided the radiation level 12 inches from the surface of the source container or housing does not exceed 5 millirem per hour.
+(2) Rooms or other areas in onsite medical facilities are not required to be posted with caution signs because of the presence of patients containing radioactive material, provided that there are personnel in attendance who shall take the precautions necessary to prevent the exposure of any individual to radiation or radioactive material in excess of the limits established in the provisions of this section.
+(3) Caution signs are not required to be posted at areas or rooms containing radioactive materials for periods of less than 8 hours: Provided, That
+(i) The materials are constantly attended during such periods by an individual who shall take the precautions necessary to prevent the exposure of any individual to radiation or radioactive materials in excess of the limits established in the provisions of this section; and
+(ii) Such area or room is subject to the employer's control.
+(h) Exemptions for radioactive materials packaged for shipment. Radioactive materials packaged and labeled in accordance with regulations of the Department of Transportation published in 49 CFR Chapter I, are exempt from the labeling and posting requirements of this subpart during shipment, provided that the inside containers are labeled in accordance with the provisions of paragraph (e) of this section.

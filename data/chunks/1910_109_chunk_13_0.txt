@@ -1,0 +1,12 @@
+§ 1910.109 Explosives and blasting agents.
+( b ) [Reserved]
+( c ) Such markings or placards shall be displayed at the front, rear, and on each side of the motor vehicle or trailer, or other cargo carrying body while it contains explosives or other dangerous articles of such type and in such quantity as specified in paragraph (d)(1)(ii)( a ) of this subdivision. The front marking or placard may be displayed on the front of either the truck, truck body, truck tractor or the trailer.
+( d ) Any motor vehicle, trailer, or other cargo-carrying body containing more than one kind of explosive as well as an oxidizing material requiring a placard under the provisions of paragraph (d)(2)(ii)( a ), the aggregate gross weight of which totals 1,000 pounds or more, shall be marked or placarded "Dangerous" as well as "Explosive A" or "Explosive B" as appropriate. If explosives Class A and explosives Class B are loaded on the same vehicle, the "Explosives B" marking need not be displayed.
+( e ) In any combination of two or more vehicles containing explosives or other dangerous articles each vehicle shall be marked or placarded as to its contents and in accordance with paragraphs (d)(2)(ii) ( a ) and ( c ) of this subdivision.
+(iii) Each motor vehicle used for transporting explosives shall be equipped with a minimum of two extinguishers, each having a rating of at least 10-BC.
+( a ) Only extinguishers listed or approved by a nationally recognized testing laboratory shall be deemed suitable for use on explosives-carrying vehicles. Refer to § 1910.155(c)(3)(iv)(A) for definition of listed, and § 1910.7 for nationally recognized testing laboratory.
+( b ) Extinguishers shall be filled and ready for immediate use and located near the driver's seat. Extinguishers shall be examined periodically by a competent person.
+(iv) A motor vehicle used for transporting explosives shall be given the following inspection to determine that it is in proper condition for safe transportation of explosives:
+( a ) Fire extinguishers shall be filled and in working order.
+( b ) All electrical wiring shall be completely protected and securely fastened to prevent short-circuiting.
+( c ) Chassis, motor, pan, and underside of body shall be reasonably clean and free of excess oil and grease.

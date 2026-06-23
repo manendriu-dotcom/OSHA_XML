@@ -1,0 +1,18 @@
+§ 1910.1200 Hazard communication.
+ (2) Present a health risk below the cut-off/concentration limits.
+ (b) The concentration (exact percentage) shall be specified unless a trade secret claim is made in accordance with paragraph (i) of § 1910.1200, when there is batch-to-batch variability in the production of a mixture, or for a group of substantially similar mixtures ( See A.0.5.1.2) with similar chemical composition. In these cases, concentration ranges may be used.
+ For All Chemicals Where a Trade Secret is Claimed
+ Where a trade secret is claimed in accordance with paragraph (i) of § 1910.1200, a statement that the specific chemical identity and/or exact percentage (concentration) of composition has been withheld as a trade secret is required.
+4. First-aid measures (a) Description of necessary measures, subdivided according to the different routes of exposure, i.e., inhalation, skin and eye contact, and ingestion; (b) Most important symptoms/effects, acute and delayed. (c) Indication of immediate medical attention and special treatment needed, if necessary.
+5. Fire-fighting measures (a) Suitable (and unsuitable) extinguishing media. (b) Specific hazards arising from the chemical (e.g., nature of any hazardous combustion products). (c) Special protective equipment and precautions for fire-fighters.
+6. Accidental release measures (a) Personal precautions, protective equipment, and emergency procedures. (b) Methods and materials for containment and cleaning up.
+7. Handling and storage (a) Precautions for safe handling. (b) Conditions for safe storage, including any incompatibilities.
+8. Exposure controls/personal protection (a) OSHA permissible exposure limit (PEL), American Conference of Governmental Industrial Hygienists (ACGIH) Threshold Limit Value (TLV), and any other exposure limit used or recommended by the chemical manufacturer, importer, or employer preparing the safety data sheet, where available. (b) Appropriate engineering controls. (c) Individual protection measures, such as personal protective equipment.
+9. Physical and chemical properties (a) Appearance (physical state, color, etc.);
+ (b) Odor;
+ (c) Odor threshold;
+ (d) pH;
+ (e) Melting point/freezing point;
+ (f) Initial boiling point and boiling range;
+ (g) Flash point;
+ (h) Evaporation rate;

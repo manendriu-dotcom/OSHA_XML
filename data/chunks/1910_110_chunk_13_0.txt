@@ -1,0 +1,11 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+(viii) All materials such as valve seats, packing, gaskets, diaphragms, etc., shall be of such quality as to be resistant to the action of liquefied petroleum gas under the service conditions to which they are subjected.
+(ix) All piping, tubing, or hose shall be tested after assembly and proved free from leaks at not less than normal operating pressures. After installation, piping and tubing of all domestic and commercial systems shall be tested and proved free of leaks using a manometer or equivalent device that will indicate a drop in pressure. Test shall not be made with a flame.
+(x) Provision shall be made to compensate for expansion, contraction, jarring, and vibration, and for settling. This may be accomplished by flexible connections.
+(xi) Piping outside buildings may be buried, above ground, or both, but shall be well supported and protected against physical damage. Where soil conditions warrant, all piping shall be protected against corrosion. Where condensation may occur, the piping shall be pitched back to the container, or suitable means shall be provided for revaporization of the condensate.
+(9) Hose specifications. (i) Hose shall be fabricated of materials that are resistant to the action of LP-Gas in the liquid and vapor phases. If wire braid is used for reinforcing the hose, it shall be of corrosion-resistant material such as stainless steel.
+(ii) Hose subject to container pressure shall be marked "LP-Gas" or "LPG" at not greater than 10-foot intervals.
+(iii) Hose subject to container pressure shall be designed for a bursting pressure of not less than 1,250 p.s.i.g.
+(iv) Hose subject to container pressure shall have its correctness as to design construction and performance determined by being listed (see § 1910.110(a)(15)).
+(v) Hose connections subject to container pressure shall be capable of withstanding, without leakage, a test pressure of not less than 500 p.s.i.g.
+(vi) Hose and hose connections on the low-pressure side of the regulator or reducing valve shall be designed for a bursting pressure of not less than 125 p.s.i.g. or five times the set pressure of the relief devices protecting that portion of the system, whichever is higher.

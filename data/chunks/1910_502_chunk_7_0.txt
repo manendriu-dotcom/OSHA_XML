@@ -1,0 +1,11 @@
+§ 1910.502 Healthcare.
+(c) COVID-19 plan. (1) The employer must develop and implement a COVID-19 plan for each workplace. If the employer has multiple workplaces that are substantially similar, its COVID-19 plan may be developed by workplace type rather than by individual workplace so long as all required site-specific information is included in the plan.
+Note: Note to paragraph ( c )(1): For those employers who do not already have a COVID-19 plan in place, OSHA's website contains significant compliance assistance materials, including a model plan.
+(2) If the employer has more than 10 employees, the COVID-19 plan must be written.
+(3) The employer must designate one or more workplace COVID-19 safety coordinators to implement and monitor the COVID-19 plan developed under this section. The COVID-19 safety coordinator(s) must be knowledgeable in infection control principles and practices as they apply to the workplace and employee job operations. The identity of the safety coordinator(s) must be documented in any written COVID-19 plan. The safety coordinator(s) must have the authority to ensure compliance with all aspects of the COVID-19 plan.
+(4)(i) The employer must conduct a workplace-specific hazard assessment to identify potential workplace hazards related to COVID-19.
+(ii) In order for an employer to be exempt from providing controls in a well-defined area under paragraph (a)(4) of this section based on employees' fully vaccinated status, the COVID-19 plan must include policies and procedures to determine employees' vaccination status.
+(5) The employer must seek the input and involvement of non-managerial employees and their representatives, if any, in the hazard assessment and the development and implementation of the COVID-19 plan.
+(6) The employer must monitor each workplace to ensure the ongoing effectiveness of the COVID-19 plan and update it as needed.
+(7) The COVID-19 plan must address the hazards identified by the assessment required by paragraph (c)(4) of this section, and include policies and procedures to:
+(i) Minimize the risk of transmission of COVID-19 for each employee, as required by paragraphs (d) through (n) of this section;

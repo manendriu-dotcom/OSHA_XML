@@ -1,0 +1,13 @@
+§ 1910.1047 Ethylene oxide.
+(iv) The employer shall not implement a schedule of employee rotation as a means of compliance with the TWA or excursion limit.
+(g) Respiratory protection and personal protective equipment —(1) General. For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(i) Periods necessary to install or implement feasible engineering and work-practice controls.
+(ii) Work operations, such as maintenance and repair activities and vessel cleaning, for which engineering and work-practice controls are not feasible.
+(iii) Work operations for which feasible engineering and work-practice controls are not yet sufficient to reduce employee exposure to or below the TWA.
+(iv) Emergencies.
+(2) Respirator program. The employer must implement a respiratory protection program in accordance with § 1910.134(b) through (d) (except (d)(i)(iii)), and (f) through (m), which covers each employee required by this section to use a respirator.
+(3) Respirator selection. Employers must:
+(i) Select, and provide to employees, the appropriate respirators specified in paragraph (d)(3)(i)(A) of 29 CFR 1910.134; however, employers must not select or use half masks of any type because EtO may cause eye irritation or injury.
+(ii) Equip each air-purifying, full facepiece respirator with a front-or back-mounted canister approved for protection against ethylene oxide.
+(iii) For escape, provide employees with any respirator permitted for use under paragraphs (g)(3)(i) and (ii) of this standard.
+(4) Protective clothing and equipment. When employees could have eye or skin contact with EtO or EtO solutions, the employer must select and provide, at no cost to the employee, appropriate protective clothing or other equipment in accordance with 29 CFR 1910.132 and 1910.133 to protect any area of the employee's body that may come in contact with the EtO or EtO solution, and must ensure that the employee wears the protective clothing and equipment provided.

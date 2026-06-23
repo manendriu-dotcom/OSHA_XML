@@ -1,0 +1,21 @@
+§ 1910.1200 Hazard communication.
+(10) The employer shall ensure that workplace labels or other forms of warning are legible, in English, and prominently displayed on the container, or readily available in the work area throughout each work shift. Employers having employees who speak other languages may add the information in their language to the material presented, as long as the information is presented in English as well.
+(11) Chemical manufacturers, importers, distributors, or employers who become newly aware of any significant information regarding the hazards of a chemical shall revise the labels for the chemical within six months of becoming aware of the new information, and shall ensure that labels on containers of hazardous chemicals shipped after that time contain the new information. If the chemical is not currently produced or imported, the chemical manufacturer, importer, distributor, or employer shall add the information to the label before the chemical is shipped or introduced into the workplace again.
+(g) Safety data sheets. (1) Chemical manufacturers and importers shall obtain or develop a safety data sheet for each hazardous chemical they produce or import. Employers shall have a safety data sheet in the workplace for each hazardous chemical which they use.
+(2) The chemical manufacturer or importer preparing the safety data sheet shall ensure that it is in English (although the employer may maintain copies in other languages as well), and includes at least the following section numbers and headings, and associated information under each heading, in the order listed ( See Appendix D to § 1910.1200—Safety Data Sheets, for the specific content of each section of the safety data sheet):
+(i) Section 1, Identification;
+(ii) Section 2, Hazard(s) identification;
+(iii) Section 3, Composition/information on ingredients;
+(iv) Section 4, First-aid measures;
+(v) Section 5, Fire-fighting measures;
+(vi) Section 6, Accidental release measures;
+(vii) Section 7, Handling and storage;
+(viii) Section 8, Exposure controls/personal protection;
+(ix) Section 9, Physical and chemical properties;
+(x) Section 10, Stability and reactivity;
+(xi) Section 11, Toxicological information;
+(xii) Section 12, Ecological information;
+(xiii) Section 13, Disposal considerations;
+(xiv) Section 14, Transport information;
+(xv) Section 15, Regulatory information; and
+(xvi) Section 16, Other information, including date of preparation or last revision.

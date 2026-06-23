@@ -191,19 +191,42 @@ def extract_section(section_el) -> list[str]:
 
 def extract_osha_xml(xml_path: Path, output_path: Path) -> None:
     ET, using_lxml = _get_etree()
-
     log.info("Parsing XML: %s", xml_path)
-    try:
-        if using_lxml:
-            parser = ET.XMLParser(recover=True, encoding="utf-8")
-            tree = ET.parse(str(xml_path), parser=parser)
-            root = tree.getroot()
-        else:
-            tree = ET.parse(str(xml_path))
-            root = tree.getroot()
-    except Exception as exc:
-        log.error("Failed to parse XML: %s", exc)
-        sys.exit(1)
+
+    # Read raw text first so we can detect concatenated XML documents
+    raw = xml_path.read_text(encoding="utf-8")
+    # If the file contains multiple XML prologs it was created by
+    # concatenating several XML files. Wrap contents in a fake root
+    # after stripping extra prologs so we can parse as a single tree.
+    if raw.count("<?xml") > 1:
+        log.warning("Multiple XML prologs detected — normalising before parse.")
+        # Remove XML declarations and stylesheet PIs
+        cleaned = re.sub(r"<\?xml[^>]*\?>\s*", "", raw)
+        cleaned = re.sub(r"<\?xml-stylesheet[^>]*\?>\s*", "", cleaned)
+        # Strip non-printable/control characters that can break parsers
+        cleaned = re.sub(r"[\x00-\x08\x0B\x0C\x0E-\x1F]", "", cleaned)
+        wrapped = "<ROOT>\n" + cleaned + "\n</ROOT>"
+        try:
+            if using_lxml:
+                parser = ET.XMLParser(recover=True, encoding="utf-8")
+                root = ET.fromstring(wrapped.encode("utf-8"), parser=parser)
+            else:
+                root = ET.fromstring(wrapped)
+        except Exception as exc:
+            log.error("Failed to parse wrapped XML: %s", exc)
+            sys.exit(1)
+    else:
+        try:
+            if using_lxml:
+                parser = ET.XMLParser(recover=True, encoding="utf-8")
+                tree = ET.parse(str(xml_path), parser=parser)
+                root = tree.getroot()
+            else:
+                tree = ET.parse(str(xml_path))
+                root = tree.getroot()
+        except Exception as exc:
+            log.error("Failed to parse XML: %s", exc)
+            sys.exit(1)
 
     output_lines: list[str] = []
     sections_found = 0

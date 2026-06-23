@@ -1,0 +1,9 @@
+§ 1910.502 Healthcare.
+(i) Cleared or approved by the U.S. Food and Drug Administration (FDA) or is authorized by an Emergency Use Authorization (EUA) from the FDA to diagnose current infection with the SARS-CoV-2 virus; and
+(ii) Administered in accordance with the FDA clearance or approval or the FDA EUA as applicable.
+Direct patient care means hands-on, face-to-face contact with patients for the purpose of diagnosis, treatment, and monitoring.
+Disinfect/disinfection means using an EPA-registered, hospital-grade disinfectant on EPA's "List N" (incorporated by reference, § 1910.509), in accordance with manufacturers' instructions to kill germs on surfaces.
+Elastomeric respirator means a tight-fitting respirator with a facepiece that is made of synthetic or rubber material that permits it to be disinfected, cleaned, and reused according to manufacturer's instructions. It is equipped with a replaceable cartridge(s), canister(s), or filter(s).
+Facemask means a surgical, medical procedure, dental, or isolation mask that is FDA-cleared, authorized by an FDA EUA, or offered or distributed as described in an FDA enforcement policy. Facemasks may also be referred to as "medical procedure masks."
+Face shield means a device, typically made of clear plastic, that:
+(i) Is certified to ANSI/ISEA Z87.1 (incorporated by reference, § 1910.509); or

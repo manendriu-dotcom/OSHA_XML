@@ -1,0 +1,13 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+( 2 ) After the examination if repair or refinishing is not performed, unless the tool is made of FRP rod or foam-filled FRP tube and the employer can demonstrate that the tool has no defects that could cause it to fail during use.
+(D) The test method used shall be designed to verify the tool's integrity along its entire working length and, if the tool is made of fiberglass-reinforced plastic, its integrity under wet conditions.
+(E) The voltage applied during the tests shall be as follows:
+( 1 ) 246,100 volts per meter (75,000 volts per foot) of length for 1 minute if the tool is made of fiberglass, or
+( 2 ) 164,000 volts per meter (50,000 volts per foot) of length for 1 minute if the tool is made of wood, or
+( 3 ) Other tests that the employer can demonstrate are equivalent.
+Note: Note to paragraph ( j )(2): Guidelines for the examination, cleaning, repairing, and in-service testing of live-line tools are specified in the Institute of Electrical and Electronics Engineers' IEEE Guide for Maintenance Methods on Energized Power Lines, IEEE Std 516-2009.
+(k) Materials handling and storage —(1) General. Materials handling and storage shall comply with applicable material-handling and material-storage requirements in this part, including those in subpart N of this part.
+(2) Materials storage near energized lines or equipment. (i) In areas to which access is not restricted to qualified persons only, materials or equipment may not be stored closer to energized lines or exposed energized parts of equipment than the following distances, plus a distance that provides for the maximum sag and side swing of all conductors and for the height and movement of material-handling equipment:
+(A) For lines and equipment energized at 50 kilovolts or less, the distance is 3.05 meters (10 feet).
+(B) For lines and equipment energized at more than 50 kilovolts, the distance is 3.05 meters (10 feet) plus 0.10 meter (4 inches) for every 10 kilovolts over 50 kilovolts.
+(ii) In areas restricted to qualified employees, materials may not be stored within the working space about energized lines or equipment.

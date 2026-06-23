@@ -1,0 +1,17 @@
+§ 1910.124 General requirements for dipping and coating operations.
+(a) What construction requirements apply to dip tanks? Any container that you use as a dip tank must be strong enough to withstand any expected load.
+(b) What ventilation requirements apply to vapor areas? (1) The ventilation that you provide to a vapor area must keep the airborne concentration of any substance below 25% of its LFL.
+(2) When a liquid in a dip tank creates an exposure hazard covered by a standard listed in subpart Z of this part, you must control worker exposure as required by that standard.
+(3) You may use a tank cover or material that floats on the surface of the liquid in a dip tank to replace or supplement ventilation. The method or combination of methods you choose must maintain the airborne concentration of the hazardous material and the worker's exposure within the limits specified in paragraphs (b)(1) and (b)(2) of this section.
+(4) When you use mechanical ventilation, it must conform to the following standards that are incorporated by reference as specified in § 1910.6:
+(i) ANSI Z9.2-1979, Fundamentals Governing the Design and Operation of Local Exhaust Systems;
+(ii) NFPA 34-1995, Standard for Dip Tanks Containing Flammable or Combustible Liquids;
+(iii) ACGIH's "Industrial Ventilation: A Manual of Recommended Practice" (22nd ed., 1995); or
+(iv) ANSI Z9.1-1971, Practices for Ventilation and Operation of Open-Surface Tanks, and NFPA 34-1966, Standard for Dip Tanks Containing Flammable or Combustible Liquids.
+(5) When you use mechanical ventilation, it must draw the flow of air into a hood or exhaust duct.
+(6) When you use mechanical ventilation, each dip tank must have an independent exhaust system unless the combination of substances being removed will not cause a:
+(i) Fire;
+(ii) Explosion; or
+(iii) Chemical reaction.
+(c) What requirements must I follow to recirculate exhaust air into the workplace? (1) You may not recirculate exhaust air when any substance in that air poses a health hazard to employees or exceeds 25% of its LFL.
+(2) You must ensure that any exhaust air re-circulated from a dipping or coating operation using flammable liquids or liquids with flashpoints greater than 199.4 degrees F (93 degrees C) is:

@@ -1,0 +1,16 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+( a ) Combination back-pressure check valve and excess flow valve.
+( b ) One double or two single back-pressure check valves.
+( c ) A positive shutoff valve, in conjunction with either:
+( 1 ) An internal back-pressure valve, or
+( 2 ) An internal excess flow valve.
+(iii) All openings in a container shall be equipped with approved automatic excess flow valves except in the following: Filling connections as provided in paragraph (d)(3)(ii) of this section; safety relief connections, liquid-level gaging devices as provided in paragraphs (b)(7)(iv), (19)(iii), and (19)(viii) of this section; pressure gage connections as provided in paragraph (b)(7)(v) of this section, as provided in paragraphs (d) (iv), (vi), and (vii) of this section.
+(iv) An excess flow valve is not required in the withdrawal service line providing the following are complied with:
+( a ) Such systems' total water capacity does not exceed 2,000 U.S. gallons.
+( b ) The discharge from the service outlet is controlled by a suitable manually operated shutoff valve which is:
+( 1 ) Threaded directly into the service outlet of the container; or
+( 2 ) Is an integral part of a substantial fitting threaded into or on the service outlet of the container; or
+( 3 ) Threaded directly into a substantial fitting threaded into or on the service outlet of the container.
+( c ) The shutoff valve is equipped with an attached handwheel or the equivalent.
+( d ) The controlling orifice between the contents of the container and the outlet of the shutoff valve does not exceed five-sixteenths inch in diameter for vapor withdrawal systems and one- eighth inch in diameter for liquid withdrawal systems.
+( e ) An approved pressure-reducing regulator is directly attached to the outlet of the shutoff valve and is rigidly supported, or that an approved pressure-reducing regulator is attached to the outlet of the shutoff valve by means of a suitable flexible connection, provided the regulator is adequately supported and properly protected on or at the tank.

@@ -1,0 +1,15 @@
+§ 1910.181 Derricks.
+(d) Inspection —(1) Inspection classification. (i) Prior to initial use all new and altered derricks shall be inspected to insure compliance with the provisions of this section.
+(ii) Inspection procedure for derricks in regular service is divided into two general classifications based upon the intervals at which inspection should be performed. The intervals in turn are dependent upon the nature of the critical components of the derrick and the degree of their exposure to wear, deterioration, or malfunction. The two general classifications are herein designated as frequent and periodic with respective intervals between inspections as defined below:
+( a ) Frequent inspection—Daily to monthly intervals.
+( b ) Periodic inspection—1- to 12-month intervals, or as specified by the manufacturer.
+(2) Frequent inspection. Items such as the following shall be inspected for defects at intervals as defined in paragraph (d)(1)(ii)( a ) of this section or as specifically indicated, including observation during operation for any defects which might appear between regular inspections. Deficiencies shall be carefully examined for any safety hazard:
+(i) All control mechanisms: Inspect daily for adjustment, wear, and lubrication.
+(ii) All chords and lacing: Inspect daily, visually.
+(iii) Tension in guys: Daily.
+(iv) Plumb of the mast.
+(v) Deterioration or leakage in air or hydraulic systems: Daily.
+(vi) Derrick hooks for deformations or cracks; for hooks with cracks or having more than 15 percent in excess of normal throat opening or more than 10 degrees twist from the plane of the unbent hook, refer to paragraph (e)(3)(iii) of this section.
+(vii) Rope reeving; visual inspection for noncompliance with derrick manufacturer's recommendations.
+(viii) Hoist brakes, clutches, and operating levers: check daily for proper functioning before beginning operations.
+(ix) Electrical apparatus for malfunctioning, signs of excessive deterioration, dirt, and moisture accumulation.

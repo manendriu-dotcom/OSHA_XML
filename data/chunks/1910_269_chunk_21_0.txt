@@ -1,0 +1,11 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+(13) Air supply. The air supply for the continuous forced-air ventilation shall be from a clean source and may not increase the hazards in the enclosed space.
+(14) Open flames. If open flames are used in enclosed spaces, a test for flammable gases and vapors shall be made immediately before the open flame device is used and at least once per hour while the device is used in the space. Testing shall be conducted more frequently if conditions present in the enclosed space indicate that once per hour is insufficient to detect hazardous accumulations of flammable gases or vapors.
+Note: Note to paragraph ( e )(14): See the definition of "hazardous atmosphere" for guidance in determining whether a specific concentration of a substance is hazardous.
+Note: Note to paragraph ( e ): Entries into enclosed spaces conducted in accordance with the permit-space entry requirements of paragraphs (d) through (k) of § 1910.146 are considered as complying with paragraph (e) of this section.
+(f) Excavations. Excavation operations shall comply with subpart P of part 1926 of this chapter.
+(g) Personal protective equipment —(1) General. Personal protective equipment shall meet the requirements of subpart I of this part.
+Note: Note to paragraph ( g )(1) of this section: Paragraph (h) of § 1910.132 sets employer payment obligations for the personal protective equipment required by this section, including, but not limited to, the fall protection equipment required by paragraph (g)(2) of this section, the electrical protective equipment required by paragraph (l)(3) of this section, and the flame-resistant and arc-rated clothing and other protective equipment required by paragraph (l)(8) of this section.
+(2) Fall protection. (i) Personal fall arrest systems shall meet the requirements of subpart I of this part.
+(ii) Personal fall arrest equipment used by employees who are exposed to hazards from flames or electric arcs, as determined by the employer under paragraph (l)(8)(i) of this section, shall be capable of passing a drop test equivalent to that required by paragraph (g)(2)(iii)(L) of this section after exposure to an electric arc with a heat energy of 40+/-5 cal/cm 2 .
+(iii) Body belts and positioning straps for work-positioning equipment shall meet the following requirements:

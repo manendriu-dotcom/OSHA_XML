@@ -1,0 +1,20 @@
+§ 1910.1027 Cadmium.
+(f) Methods of compliance —(1) Compliance hierarchy. (i) Except as specified in paragraphs (f)(1) (ii), (iii) and (iv) of this section the employer shall implement engineering and work practice controls to reduce and maintain employee exposure to cadmium at or below the PEL, except to the extent that the employer can demonstrate that such controls are not feasible.
+(ii) Except as specified in paragraphs (f)(1) (iii) and (iv) of this section, in industries where a separate engineering control air limit (SECAL) has been specified for particular processes (See Table 1 in this paragraph (f)(1)(ii)), the employer shall implement engineering and work practice controls to reduce and maintain employee exposure at or below the SECAL, except to the extent that the employer can demonstrate that such controls are not feasible.
+
+Table I—Separate Engineering Control Airborne Limits (SECALs) for Processes in Selected Industries
+--------------------------------------------------------------------------------
+Industry Process SECAL (µg/m 3 )
+--------------------------------
+Nickel cadmium battery Plate making, plate preparation 50
+ All other processes 15
+Zinc/Cadmium refining* Cadmium refining, casting, melting, oxide production, sinter plant 50
+Pigment manufacture Calcine, crushing, milling, blending 50
+ All other processes 15
+Stabilizers* Cadmium oxide charging, crushing, drying, blending 50
+Lead smelting* Sinter plant, blast furnace, baghouse, yard area 50
+Plating* Mechanical plating 15
+
+(iii) The requirement to implement engineering and work practice controls to achieve the PEL or, where applicable, the SECAL does not apply where the employer demonstrates the following:
+(A) The employee is only intermittently exposed; and
+(B) The employee is not exposed above the PEL on 30 or more days per year (12 consecutive months).

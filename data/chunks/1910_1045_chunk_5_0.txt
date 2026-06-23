@@ -1,0 +1,15 @@
+§ 1910.1045 Acrylonitrile.
+(i) Periods necessary to install or implement feasible engineering and work-practice controls.
+(ii) Work operations, such as maintenance and repair activities or reactor cleaning, for which the employer establishes that engineering and work-practice controls are not feasible.
+(iii) Work operations for which feasible engineering and work-practice controls are not yet sufficient to reduce employee exposure to or below the permissible exposure limits.
+(iv) Emergencies.
+(2) Respirator program. (i) The employer must implement a respiratory protection program in accordance with § 1910.134(b) through (d) (except (d)(1)(iii), (d)(3)(iii)(b)(1), and (2)), and (f) through (m), which covers each employee required by this section to use a respirator.
+(ii) If air-purifying respirators (chemical-cartridge or chemical-canister types) are used:
+(A) The air-purifying canister or cartridge must be replaced prior to the expiration of its service life or at the completion of each shift, whichever occurs first.
+(B) A label must be attached to the cartridge or canister to indicate the date and time at which it is first installed on the respirator.
+(3) Respirator selection. Employers must:
+(i) Select, and provide to employees, the appropriate respirators specified in paragraph (d)(3)(i)(A) of 29 CFR 1910.134.
+(ii) For escape, provide employees with any organic vapor respirator or any self-contained breathing apparatus permitted for use under paragraph (h)(3)(i) of this standard.
+(i) Emergency situations —(1) Written plans. (i) A written plan for emergency situations shall be developed for each workplace where liquid AN is present. Appropriate portions of the plan shall be implemented in the event of an emergency.
+(ii) The plan shall specifically provide that employees engaged in correcting emergency conditions shall be equipped as required in paragraph (h) of this section until the emergency is abated.
+(iii) Employees not engaged in correcting the emergency shall be evacuated from the area and shall not be permitted to return until the emergency is abated.

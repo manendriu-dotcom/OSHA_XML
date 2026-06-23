@@ -1,0 +1,10 @@
+§ 1910.145 Specifications for accident prevention signs and tags.
+(a) Scope. (1) These specifications apply to the design, application, and use of signs or symbols (as included in paragraphs (c) through (e) of this section) intended to indicate and, insofar as possible, to define specific hazards of a nature such that failure to designate them may lead to accidental injury to workers or the public, or both, or to property damage. These specifications are intended to cover all safety signs except those designed for streets, highways, and railroads. These specifications do not apply to plant bulletin boards or to safety posters.
+(2) All new signs and replacements of old signs shall be in accordance with these specifications.
+(b) Definitions. As used in this section, the word sign refers to a surface on prepared for the warning of, or safety instructions of, industrial workers or members of the public who may be exposed to hazards. Excluded from this definition, however, are news releases, displays commonly known as safety posters, and bulletins used for employee education.
+(c) Classification of signs according to use —(1) Danger signs. (i) There shall be no variation in the type of design of signs posted to warn of specific dangers and radiation hazards.
+(ii) All employees shall be instructed that danger signs indicate immediate danger and that special precautions are necessary.
+(2) Caution signs. (i) Caution signs shall be used only to warn against potential hazards or to caution against unsafe practices.
+(ii) All employees shall be instructed that caution signs indicate a possible hazard against which proper precaution should be taken.
+(3) Safety instruction signs. Safety instruction signs shall be used where there is a need for general instructions and suggestions relative to safety measures.
+(d) Sign design —(1) Design features. All signs shall be furnished with rounded or blunt corners and shall be free from sharp edges, burrs, splinters, or other sharp projections. The ends or heads of bolts or other fastening devices shall be located in such a way that they do not constitute a hazard.

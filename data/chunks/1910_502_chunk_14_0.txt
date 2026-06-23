@@ -1,0 +1,12 @@
+§ 1910.502 Healthcare.
+Note: Note to paragraph ( i ): Physical barriers are not required in direct patient care areas or resident rooms.
+(j) Cleaning and disinfection. (1) In patient care areas, resident rooms, and for medical devices and equipment, the employer must follow standard practices for cleaning and disinfection of surfaces and equipment in accordance with CDC's "COVID-19 Infection Prevention and Control Recommendations" and CDC's "Guidelines for Environmental Infection Control," pp. 86-103, 147-149 (both incorporated by reference, § 1910.509).
+(2) In all other areas, the employer must:
+(i) Clean high-touch surfaces and equipment at least once a day, following manufacturers' instructions for application of cleaners; and
+(ii) When the employer is aware that a person who is COVID-19 positive has been in the workplace within the last 24 hours, clean and disinfect, in accordance with CDC's "Cleaning and Disinfecting Guidance" (incorporated by reference, § 1910.509), any areas, materials, and equipment under the employer's control that have likely been contaminated by the person who is COVID-19 positive ( e.g., rooms they occupied, items they touched).
+(3) The employer must provide alcohol-based hand rub that is at least 60% alcohol or provide readily accessible hand washing facilities.
+(k) Ventilation. (1) Employers who own or control buildings or structures with an existing heating, ventilation, and air conditioning (HVAC) system(s) must ensure that:
+(i) The HVAC system(s) is used in accordance with the HVAC manufacturer's instructions and the design specifications of the HVAC system(s);
+(ii) The amount of outside air circulated through its HVAC system(s) and the number of air changes per hour are maximized to the extent appropriate;
+(iii) All air filters are rated Minimum Efficiency Reporting Value (MERV) 13 or higher, if compatible with the HVAC system(s). If MERV-13 or higher filters are not compatible with the HVAC system(s), employers must use filters with the highest compatible filtering efficiency for the HVAC system(s);
+(iv) All air filters are maintained and replaced as necessary to ensure the proper function and performance of the HVAC system(s); and

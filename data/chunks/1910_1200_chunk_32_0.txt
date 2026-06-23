@@ -1,0 +1,11 @@
+§ 1910.1200 Hazard communication.
+ (a) if there is evidence in humans that the substance can lead to specific respiratory hypersensitivity and/or
+ (b) if there are positive results from an appropriate animal test. 1
+Sub-category 1A Substances showing a high frequency of occurrence in humans; or a probability of occurrence of a high sensitization rate in humans based on animal or other tests. 1 Severity of reaction may also be considered.
+Sub-category 1B Substances showing a low to moderate frequency of occurrence in humans; or a probability of occurrence of a low to moderate sensitization rate in humans based on animal or other tests. 1 Severity of reaction may also be considered.
+Table A.4.2—Hazard Category and Sub-Categories for Skin Sensitizers
+-------------------------------------------------------------------
+Category 1 Skin sensitizer
+--------------------------
+ A substance is classified as a skin sensitizer.
+ (a) if there is evidence in humans that the substance can lead to sensitization by skin contact in a substantial number of persons, or

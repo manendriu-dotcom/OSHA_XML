@@ -1,0 +1,15 @@
+§ 1910.1029 Coke oven emissions.
+(iv) Written plans for such programs shall be submitted, upon request, to the Secretary and the Director, and shall be available at the worksite for examination and copying by the Secretary, the Director, and the authorized employee representative. The plans required under paragraph (f)(6) of this section shall be revised and updated at least annually to reflect the current status of the program.
+(7) Training in compliance procedures. The employer shall incorporate all written procedures and schedules required under this paragraph (f) in the information and training program required under paragraph (k) of this section and, where appropriate, post in the regulated area.
+(g) Respiratory protection —(1) General. For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(i) Periods necessary to install or implement feasible engineering and work-practice controls.
+(ii) Work operations, such as maintenance and repair activity, for which engineering and work-practice controls are technologically not feasible.
+(iii) Work operations for which feasible engineering and work-practice controls are not yet sufficient to reduce employee exposure to or below the permissible exposure limit.
+(iv) Emergencies.
+(2) Respirator program. The employer must implement a respiratory protection program in accordance with § 1910.134(b) through (d) (except (d)(1)(iii)), and (f) through (m), which covers each employee required by this section to use a respirator.
+(3) Respirator selection. Employers must select, and provide to employees, the appropriate respirators specified in paragraph (d)(3)(i)(A) of 29 CFR 1910.134; however, employers may use a filtering facepiece respirator only when it functions as a filter respirator for coke oven emissions particulates.
+(h) Protective clothing and equipment —(1) Provision and use. The employer shall provide and assure the use of appropriate protective clothing and equipment, such as but not limited to:
+(i) Flame resistant jacket and pants;
+(ii) Flame resistant gloves;
+(iii) Face shields or vented goggles which comply with § 1910.133(a)(2) of this part;
+(iv) Footwear providing insulation from hot surfaces for footwear;

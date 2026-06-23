@@ -1,0 +1,11 @@
+§ 1910.1200 Hazard communication.
+(3) Training. Employee training shall include at least:
+(i) Methods and observations that may be used to detect the presence or release of a hazardous chemical in the work area (such as monitoring conducted by the employer, continuous monitoring devices, visual appearance or odor of hazardous chemicals when being released, etc.);
+(ii) The physical, health, simple asphyxiation, combustible dust, and pyrophoric gas hazards, as well as hazards not otherwise classified, of the chemicals in the work area;
+(iii) The measures employees can take to protect themselves from these hazards, including specific procedures the employer has implemented to protect employees from exposure to hazardous chemicals, such as appropriate work practices, emergency procedures, and personal protective equipment to be used; and,
+(iv) The details of the hazard communication program developed by the employer, including an explanation of the labels received on shipped containers and the workplace labeling system used by their employer; the safety data sheet, including the order of information and how employees can obtain and use the appropriate hazard information.
+(i) Trade secrets. (1) The chemical manufacturer, importer, or employer may withhold the specific chemical identity, including the chemical name, other specific identification of a hazardous chemical, or the exact percentage (concentration) of the substance in a mixture, from the safety data sheet, provided that:
+(i) The claim that the information withheld is a trade secret can be supported;
+(ii) Information contained in the safety data sheet concerning the properties and effects of the hazardous chemical is disclosed;
+(iii) The safety data sheet indicates that the specific chemical identity and/or percentage of composition is being withheld as a trade secret; and,
+(iv) The specific chemical identity and percentage is made available to health professionals, employees, and designated representatives in accordance with the applicable provisions of this paragraph (i).

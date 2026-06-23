@@ -1,0 +1,10 @@
+§ 1910.1024 Beryllium.
+(1) During any of the operations listed in Appendix A of this standard; or
+(2) Where employees are, or can reasonably be expected to be, exposed to airborne beryllium at or above the action level.
+CBD diagnostic center means a medical diagnostic center that has a pulmonologist or pulmonary specialist on staff and on-site facilities to perform a clinical evaluation for the presence of chronic beryllium disease (CBD). The CBD diagnostic center must have the capacity to perform pulmonary function testing (as outlined by the American Thoracic Society criteria), bronchoalveolar lavage (BAL), and transbronchial biopsy. The CBD diagnostic center must also have the capacity to transfer BAL samples to a laboratory for appropriate diagnostic testing within 24 hours. The pulmonologist or pulmonary specialist must be able to interpret the biopsy pathology and the BAL diagnostic test results.
+Chronic beryllium disease (CBD) means a chronic granulomatous lung disease caused by inhalation of airborne beryllium by an individual who is beryllium sensitized.
+Confirmed positive means the person tested has had two abnormal BeLPT test results, an abnormal and a borderline test result, or three borderline test results, obtained from tests conducted within a three-year period. It also means the result of a more reliable and accurate test indicating a person has been identified as having beryllium sensitization.
+Contaminated with beryllium and beryllium-contaminated mean contaminated with dust, fumes, mists, or solutions containing beryllium in concentrations greater than or equal to 0.1 percent by weight.
+Dermal contact with beryllium means skin exposure to:
+(1) Soluble beryllium compounds containing beryllium in concentrations greater than or equal to 0.1 percent by weight;
+(2) Solutions containing beryllium in concentrations greater than or equal to 0.1 percent by weight; or

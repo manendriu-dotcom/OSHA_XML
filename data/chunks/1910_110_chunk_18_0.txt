@@ -1,0 +1,18 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+(iii) Minimum Required Rate of Discharge for Safety Relief Valves for Liquefied Petroleum Gas Vaporizers (Steam Heated, Water Heated, and Direct Fired).
+The minimum required rate of discharge for safety relief valves shall be determined as follows:
+( a ) Obtain the total surface area by adding the surface area of vaporizer shell in square feet directly in contact with LP-Gas and the heat exchanged surface area in square feet directly in contact with LP-Gas.
+( b ) Obtain the minimum required rate of discharge in cubic feet of air per minute, at 60 degrees F. and 14.7 p.s.i.a. from paragraph (b)(10)(ii) of this section, for this total surface area.
+(iv) Container and vaporizer safety relief valves shall be set to start-to-discharge, with relation to the design pressure of the container, in accordance with Table H-26.
+(v) Safety relief devices used with systems employing containers other than those constructed according to DOT specifications shall be so constructed as to discharge at not less than the rates shown in paragraph (b)(10)(ii) of this section, before the pressure is in excess of 120 percent of the maximum (not including the 10 percent referred to in paragraph (b)(10)(iv) of this section) permitted start to discharge pressure setting of the device.
+
+Table H-26
+----------
+Containers Minimum (percent) Maximum (percent)
+----------------------------------------------
+ASME Code; Par. U-68, U-69—1949 and earlier editions 110 1 25
+ASME Code; Par. U-200, U-201—1949 edition 88 1 100
+ASME Code—1950, 1952, 1956, 1959, 1962, 1965 and 1968 (Division I) editions 88 1 100
+API—ASME Code—all editions 88 1 100
+DOT—As prescribed in 49 CFR Chapter I
+

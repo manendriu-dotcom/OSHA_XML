@@ -1,0 +1,11 @@
+§ 1910.268 Telecommunications.
+(5) Test requirements for cable suspension strand. (i) Before attaching a splicing platform to a cable suspension strand, the strand shall be tested and determined to have strength sufficient to support the weight of the platform and the employee. Where the strand crosses above power wires or railroad tracks it may not be tested but shall be inspected in accordance with paragraph (n)(6) of this section.
+(ii) The following method or an equivalent method shall be used for testing the strength of the strand: A rope, at least three-eighths inch in diameter, shall be thrown over the strand. On joint lines, the rope shall be passed over the strand using tree pruner handles or a wire raising tool. If two employees are present, both shall grip the double rope and slowly transfer their entire weight to the rope and attempt to raise themselves off the ground. If only one employee is present, one end of the rope which has been passed over the strand shall be tied to the bumper of the truck, or other equally secure anchorage. The employee then shall grasp the other end of the rope and attempt to raise himself off the ground.
+(6) Inspection of strand. Where strand passes over electric power wires or railroad tracks, it shall be inspected from an elevated working position at each pole supporting the span in question. The strand may not be used to support any splicing platform, scaffold or cable car, if any of the following conditions exist:
+(i) Corrosion so that no galvanizing can be detected,
+(ii) One or more wires of the strand are broken,
+(iii) Worn spots, or
+(iv) Burn marks such as those caused by contact with electric power wires.
+(7) Outside work platforms. Unless adequate railings are provided, safety straps and body belts shall be used while working on elevated work platforms such as aerial splicing platforms, pole platforms, ladder platforms and terminal balconies.
+(8) Other elevated locations. Safety straps and body belts shall be worn when working at elevated positions on poles, towers or similar structures, which do not have adequately guarded work areas.
+(9) Installing and removing wire and cable. Before installing or removing wire or cable, the pole or structure shall be guyed, braced, or otherwise supported, as necessary, to prevent failure of the pole or structure.

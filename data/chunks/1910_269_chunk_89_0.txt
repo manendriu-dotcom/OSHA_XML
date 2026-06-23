@@ -1,0 +1,10 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+Note: Note to the definition of "guarded": Wires that are insulated, but not otherwise protected, are not guarded.
+Hazardous atmosphere. An atmosphere that may expose employees to the risk of death, incapacitation, impairment of ability to self-rescue (that is, escape unaided from an enclosed space), injury, or acute illness from one or more of the following causes:
+(1) Flammable gas, vapor, or mist in excess of 10 percent of its lower flammable limit (LFL);
+(2) Airborne combustible dust at a concentration that meets or exceeds its LFL;
+Note: Note to the definition of "hazardous atmosphere" (2): This concentration may be approximated as a condition in which the dust obscures vision at a distance of 1.52 meters (5 feet) or less.
+(3) Atmospheric oxygen concentration below 19.5 percent or above 23.5 percent;
+(4) Atmospheric concentration of any substance for which a dose or a permissible exposure limit is published in subpart G, Occupational Health and Environmental Control, or in Subpart Z, Toxic and Hazardous Substances, of this part and which could result in employee exposure in excess of its dose or permissible exposure limit;
+Note: Note to the definition of "hazardous atmosphere" (4): An atmospheric concentration of any substance that is not capable of causing death, incapacitation, impairment of ability to self-rescue, injury, or acute illness due to its health effects is not covered by this provision.
+(5) Any other atmospheric condition that is immediately dangerous to life or health.

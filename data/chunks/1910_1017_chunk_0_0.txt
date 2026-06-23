@@ -1,0 +1,14 @@
+§ 1910.1017 Vinyl chloride.
+(a) Scope and application. (1) This section includes requirements for the control of employee exposure to vinyl chloride (chloroethene), Chemical Abstracts Service Registry No. 75014.
+(2) This section applies to the manufacture, reaction, packaging, repackaging, storage, handling or use of vinyl chloride or polyvinyl chloride, but does not apply to the handling or use of fabricated products made of polyvinyl chloride.
+(3) This section applies to the transportation of vinyl chloride or polyvinyl chloride except to the extent that the Department of Transportation may regulate the hazards covered by this section.
+(b) Definitions —(1) Action level means a concentration of vinyl chloride of 0.5 ppm averaged over an 8-hour work day.
+(2) Assistant Secretary means the Assistant Secretary of Labor for Occupational Safety and Health, U.S. Department of Labor, or his designee.
+(3) Authorized person means any person specifically authorized by the employer whose duties require him to enter a regulated area or any person entering such an area as a designated representative of employees for the purpose of exercising an opportunity to observe monitoring and measuring procedures.
+(4) Director means the Director, National Institute for Occupational Safety and Health, U.S. Department of Health and Human Services, or his designee.
+(5) Emergency means any occurrence such as, but not limited to, equipment failure, or operation of a relief device which is likely to, or does, result in massive release of vinyl chloride.
+(6) Fabricated product means a product made wholly or partly from polyvinyl chloride, and which does not require further processing at temperatures, and for times, sufficient to cause mass melting of the polyvinyl chloride resulting in the release of vinyl chloride.
+(7) Hazardous operation means any operation, procedure, or activity where a release of either vinyl chloride liquid or gas might be expected as a consequence of the operation or because of an accident in the operation, which would result in an employee exposure in excess of the permissible exposure limit.
+(8) OSHA Area Director means the Director for the Occupational Safety and Health Administration Area Office having jurisdiction over the geographic area in which the employer's establishment is located.
+(9) Polyvinyl chloride means polyvinyl chloride homopolymer or copolymer before such is converted to a fabricated product.
+(10) Vinyl chloride means vinyl chloride monomer.

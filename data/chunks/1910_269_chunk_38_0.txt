@@ -1,0 +1,11 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+Note: Note to paragraph ( l )(8)( iii ) of this section: This paragraph prohibits clothing made from acetate, nylon, polyester, rayon and polypropylene, either alone or in blends, unless the employer demonstrates that the fabric has been treated to withstand the conditions that may be encountered by the employee or that the employee wears the clothing in such a manner as to eliminate the hazard involved.
+(iv) The employer shall ensure that the outer layer of clothing worn by an employee, except for clothing not required to be arc rated under paragraphs (l)(8)(v)(A) through (l)(8)(v)(E) of this section, is flame resistant under any of the following conditions:
+(A) The employee is exposed to contact with energized circuit parts operating at more than 600 volts,
+(B) An electric arc could ignite flammable material in the work area that, in turn, could ignite the employee's clothing,
+(C) Molten metal or electric arcs from faulted conductors in the work area could ignite the employee's clothing, or
+Note: Note to paragraph ( l )(8)( iv )(C): This paragraph does not apply to conductors that are capable of carrying, without failure, the maximum available fault current for the time the circuit protective devices take to interrupt the fault.
+(D) The incident heat energy estimated under paragraph (l)(8)(ii) of this section exceeds 2.0 cal/cm 2 .
+(v) The employer shall ensure that each employee exposed to hazards from electric arcs wears protective clothing and other protective equipment with an arc rating greater than or equal to the heat energy estimated under paragraph (l)(8)(ii) of this section whenever that estimate exceeds 2.0 cal/cm 2 . This protective equipment shall cover the employee's entire body, except as follows:
+(A) Arc-rated protection is not necessary for the employee's hands when the employee is wearing rubber insulating gloves with protectors or, if the estimated incident energy is no more than 14 cal/cm 2 , heavy-duty leather work gloves with a weight of at least 407 gm/m 2 (12 oz/yd 2 ),
+(B) Arc-rated protection is not necessary for the employee's feet when the employee is wearing heavy-duty work shoes or boots,

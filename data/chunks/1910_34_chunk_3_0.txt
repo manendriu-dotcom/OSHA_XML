@@ -1,0 +1,4 @@
+§ 1910.34 Coverage and definitions.
+(1) A space along an exit route that is protected from the effects of fire by separation from other spaces within the building by a barrier with at least a one-hour fire resistance-rating; or
+(2) A floor with at least two spaces, separated from each other by smoke- resistant partitions, in a building protected throughout by an automatic sprinkler system that complies with § 1910.159 of this part.
+Self-luminous means a light source that is illuminated by a self-contained power source ( e.g., tritium) and that operates independently from external power sources. Batteries are not acceptable self-contained power sources. The light source is typically contained inside the device.

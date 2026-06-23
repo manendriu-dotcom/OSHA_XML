@@ -1,0 +1,10 @@
+§ 1910.1000 Air contaminants.
+(3) Example. During an 8-hour work shift, an employee may be exposed to a concentration of Substance A (with a 10 ppm TWA, 25 ppm ceiling and 50 ppm peak) above 25 ppm (but never above 50 ppm) only for a maximum period of 10 minutes. Such exposure must be compensated by exposures to concentrations less than 10 ppm so that the cumulative exposure for the entire 8-hour work shift does not exceed a weighted average of 10 ppm.
+(c) Table Z-3. An employee's exposure to any substance listed in Table Z-3, in any 8-hour work shift of a 40-hour work week, shall not exceed the 8-hour time weighted average limit given for that substance in the table.
+(d) Computation formulae. The computation formula which shall apply to employee exposure to more than one substance for which 8-hour time weighted averages are listed in subpart Z of 29 CFR part 1910 in order to determine whether an employee is exposed over the regulatory limit is as follows:
+(1)(i) The cumulative exposure for an 8-hour work shift shall be computed as follows:
+E = (C a T a + C b T b + . . .C n T n ) ÷ 8
+(ii) To illustrate the formula prescribed in paragraph (d)(1)(i) of this section, assume that Substance A has an 8-hour time weighted average limit of 100 ppm noted in Table Z-1. Assume that an employee is subject to the following exposure:
+(2 x 150 + 2 x 75 + 4 x 50) ÷ 8 = 81.25 ppm
+(2)(i) In case of a mixture of air contaminants an employer shall compute the equivalent exposure as follows:
+E m = (C 1 ÷ L 1 + C 2 ÷ L 2 ) + . . .(C n ÷ L n )

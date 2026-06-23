@@ -1,0 +1,11 @@
+§ 1910.1050 Methylenedianiline.
+(ii) Which has end use function(s) dependent in whole or part upon its shape or design during end use; and
+(iii) Where applicable, is an item which is fully cured by virtue of having been subjected to the conditions (temperature, time) necessary to complete the desired chemical reaction.
+4,4′ Methylenedianiline or MDA means the chemical, 4,4′-diaminodiphenylmethane, Chemical Abstract Service Registry number 101-77-9, in the form of a vapor, liquid, or solid. The definition also includes the salts of MDA.
+Regulated areas means areas where airborne concentrations of MDA exceed or can reasonably be expected to exceed, the permissible exposure limits, or where dermal exposure to MDA can occur.
+STEL means short term exposure limit as determined by any 15 minute sample period.
+(c) Permissible exposure limits (PEL). The employer shall assure that no employee is exposed to an airborne concentration of MDA in excess of ten parts per billion (10 ppb) as an 8-hour time-weighted average or a STEL of 100 ppb.
+(d) Emergency situations —(1) Written plan. (i) A written plan for emergency situations shall be developed for each workplace where there is a possibility of an emergency. Appropriate portions of the plan shall be implemented in the event of an emergency.
+(ii) The plan shall specifically provide that employees engaged in correcting emergency conditions shall be equipped with the appropriate personal protective equipment and clothing as required in paragraphs (h) and (i) of this section until the emergency is abated.
+(iii) The plan shall specifically include provisions for alerting and evacuating affected employees as well as the elements prescribed in 29 CFR 1910.38 and 29 CFR 1910.39, "Emergency action plans" and "Fire prevention plans," respectively.
+(2) Alerting employees. Where there is the possibility of employee exposure to MDA due to an emergency, means shall be developed to alert promptly those employees who have the potential to be directly exposed. Affected employees not engaged in correcting emergency conditions shall be evacuated immediately in the event that an emergency occurs. Means shall also be developed and implemented for alerting other employees who may be exposed as a result of the emergency.

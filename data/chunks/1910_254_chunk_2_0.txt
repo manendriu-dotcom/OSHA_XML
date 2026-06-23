@@ -1,0 +1,10 @@
+§ 1910.254 Arc welding and cutting.
+(vi) Auto transformers or a.c. reactors shall not be used to draw welding current directly from any a.c. power source having a voltage exceeding 80 volts.
+(c) Installation of arc welding equipment —(1) General. Installation including power supply shall be in accordance with the requirements of subpart S of this part.
+(2) Grounding. (i) The frame or case of the welding machine (except engine-driven machines) shall be grounded under the conditions and according to the methods prescribed in subpart S of this part.
+(ii) Conduits containing electrical conductors shall not be used for completing a work-lead circuit. Pipelines shall not be used as a permanent part of a work-lead circuit, but may be used during construction, extension or repair providing current is not carried through threaded joints, flanged bolted joints, or caulked joints and that special precautions are used to avoid sparking at connection of the work-lead cable.
+(iii) Chains, wire ropes, cranes, hoists, and elevators shall not be used to carry welding current.
+(iv) Where a structure, conveyor, or fixture is regularly employed as a welding current return circuit, joints shall be bonded or provided with adequate current collecting devices.
+(v) All ground connections shall be checked to determine that they are mechanically strong and electrically adequate for the required current.
+(3) Supply connections and conductors. (i) A disconnecting switch or controller shall be provided at or near each welding machine which is not equipped with such a switch or controller mounted as an integral part of the machine. The switch shall be in accordance with subpart S of this part. Overcurrent protection shall be provided as specified in subpart S of this part. A disconnect switch with overload protection or equivalent disconnect and protection means, permitted by subpart S of this part, shall be provided for each outlet intended for connection to a portable welding machine.
+(ii) For individual welding machines, the rated current-carrying capacity of the supply conductors shall be not less than the rated primary current of the welding machines.

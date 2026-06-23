@@ -1,0 +1,11 @@
+§ 1910.502 Healthcare.
+(3) Implement other applicable patient management strategies in accordance with CDC's "COVID-19 Infection Prevention and Control Recommendations" (incorporated by reference, § 1910.509).
+Note: Note to paragraph ( d ): The employer is encouraged to use telehealth services where available and appropriate in order to limit the number of people entering the workplace.
+(e) Standard and Transmission-Based Precautions. Employers must develop and implement policies and procedures to adhere to Standard and Transmission-Based Precautions in accordance with CDC's "Guidelines for Isolation Precautions" (incorporated by reference, § 1910.509).
+(f) Personal protective equipment (PPE) —(1) Facemasks. (i) Employers must provide, and ensure that employees wear, facemasks that meet the definition in paragraph (b) of this section; and
+(ii) The employer must ensure a facemask is worn by each employee over the nose and mouth when indoors and when occupying a vehicle with other people for work purposes. The employer must provide a sufficient number of facemasks to each employee to comply with this paragraph and must ensure that each employee changes them at least once per day, whenever they are soiled or damaged, and more frequently as necessary ( e.g., patient care reasons).
+(iii) The following are exceptions to the requirements for facemasks in paragraph (f)(1)(ii) of this section:
+(A) When an employee is alone in a room.
+(B) While an employee is eating and drinking at the workplace, provided each employee is at least 6 feet away from any other person, or separated from other people by a physical barrier.
+(C) When employees are wearing respiratory protection in accordance with § 1910.134 or paragraph (f) of this section.
+(D) When it is important to see a person's mouth ( e.g., communicating with an individual who is deaf or hard of hearing) and the conditions do not permit a facemask that is constructed of clear plastic (or includes a clear plastic window). In such situations, the employer must ensure that each employee wears an alternative to protect the employee, such as a face shield, if the conditions permit it.

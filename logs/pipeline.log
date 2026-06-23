@@ -771,3 +771,825 @@ ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
 2026-06-18 18:03:17,704 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen3-Embedding-0.6B "HTTP/1.1 200 OK"
 2026-06-18 18:03:17,741 [INFO] sentence_transformers.base.model — Loaded 1 prompt with these keys: ['query']
 2026-06-18 18:03:17,744 [INFO] embed_chunks — Encoding 230 chunks in batches of 64 …
+2026-06-18 18:29:54,232 [INFO] chunk_osha — Selected embedding model: Qwen3-Embedding-0.6B
+2026-06-18 18:29:54,253 [INFO] chunk_osha — Using max_tokens_per_chunk=8000 based on model
+2026-06-18 18:29:54,253 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-18 18:29:54,357 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-18 18:29:54,412 [INFO] chunk_osha — Found 198 sections
+2026-06-18 18:39:10,690 [INFO] chunk_osha — Selected embedding model: Qwen3-Embedding-0.6B
+2026-06-18 18:39:10,711 [INFO] chunk_osha — Using max_tokens_per_chunk=8000 based on model
+2026-06-18 18:39:10,712 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-18 18:39:10,745 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-18 18:39:10,791 [INFO] chunk_osha — Found 198 sections
+2026-06-18 18:42:33,182 [INFO] chunk_osha — Selected embedding model: Qwen3-Embedding-0.6B
+2026-06-18 18:42:33,183 [INFO] chunk_osha — Using max_tokens_per_chunk=8000 based on model
+2026-06-18 18:42:33,184 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-18 18:42:33,194 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-18 18:42:33,246 [INFO] chunk_osha — Found 198 sections
+2026-06-18 18:45:27,186 [INFO] chunk_osha — Selected embedding model: Qwen3-Embedding-0.6B
+2026-06-18 18:45:27,225 [INFO] chunk_osha — Using max_tokens_per_chunk=8000 based on model
+2026-06-18 18:45:27,226 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-18 18:45:27,235 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-18 18:45:27,290 [INFO] chunk_osha — Found 198 sections
+2026-06-18 18:45:31,304 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/agent-harnesses "HTTP/1.1 200 OK"
+2026-06-18 18:45:31,363 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-18 18:45:31,416 [INFO] httpx — HTTP Request: GET https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-18 18:45:31,416 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-18 18:45:31,796 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-18 18:45:31,842 [INFO] httpx — HTTP Request: GET https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-18 18:45:31,915 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 18:45:31,953 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-18 18:45:32,015 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 18:45:32,073 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-18 18:45:32,135 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/vocab.txt "HTTP/1.1 200 OK"
+2026-06-18 18:45:32,206 [INFO] httpx — HTTP Request: GET https://huggingface.co/bert-base-uncased/resolve/main/vocab.txt "HTTP/1.1 200 OK"
+2026-06-18 18:45:32,321 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer.json "HTTP/1.1 200 OK"
+2026-06-18 18:45:32,390 [INFO] httpx — HTTP Request: GET https://huggingface.co/bert-base-uncased/resolve/main/tokenizer.json "HTTP/1.1 200 OK"
+2026-06-18 18:45:32,478 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/added_tokens.json "HTTP/1.1 404 Not Found"
+2026-06-18 18:45:32,554 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/special_tokens_map.json "HTTP/1.1 404 Not Found"
+2026-06-18 18:45:32,608 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-06-18 18:45:39,476 [INFO] chunk_osha — Generated 230 chunks  (avg 2368 tokens)
+2026-06-18 18:47:11,461 [INFO] embed_chunks — Using embedding model: Qwen/Qwen3-Embedding-0.6B
+2026-06-18 18:47:14,478 [INFO] embed_chunks — Loaded 230 chunks from manifest
+2026-06-18 18:47:14,480 [ERROR] embed_chunks — sentence-transformers not installed. Run: pip install sentence-transformers
+2026-06-18 18:51:43,996 [INFO] embed_chunks — Using embedding model: Qwen/Qwen3-Embedding-0.6B
+2026-06-18 18:51:44,075 [INFO] embed_chunks — Loaded 230 chunks from manifest
+2026-06-18 18:56:06,797 [INFO] embed_chunks — Using embedding model: Qwen/Qwen3-Embedding-0.6B
+2026-06-18 18:56:06,798 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_1.txt
+2026-06-18 18:56:06,799 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_2.txt
+2026-06-18 18:56:06,799 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_3.txt
+2026-06-18 18:56:06,799 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_4.txt
+2026-06-18 18:56:06,800 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_5.txt
+2026-06-18 18:56:06,800 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_6_chunk_0_0.txt
+2026-06-18 18:56:06,800 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_6_chunk_1_0.txt
+2026-06-18 18:56:06,801 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_7.txt
+2026-06-18 18:56:06,801 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_8.txt
+2026-06-18 18:56:06,801 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_9.txt
+2026-06-18 18:56:06,802 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_11.txt
+2026-06-18 18:56:06,802 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_12.txt
+2026-06-18 18:56:06,802 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_15.txt
+2026-06-18 18:56:06,803 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_16.txt
+2026-06-18 18:56:06,803 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_17.txt
+2026-06-18 18:56:06,804 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_18.txt
+2026-06-18 18:56:06,804 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_19.txt
+2026-06-18 18:56:06,804 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_21.txt
+2026-06-18 18:56:06,805 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_22.txt
+2026-06-18 18:56:06,805 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_23.txt
+2026-06-18 18:56:06,806 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_24.txt
+2026-06-18 18:56:06,806 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_25.txt
+2026-06-18 18:56:06,807 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_26.txt
+2026-06-18 18:56:06,807 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_27.txt
+2026-06-18 18:56:06,807 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_28.txt
+2026-06-18 18:56:06,808 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_29.txt
+2026-06-18 18:56:06,808 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_30.txt
+2026-06-18 18:56:06,808 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_33.txt
+2026-06-18 18:56:06,809 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_34.txt
+2026-06-18 18:56:06,809 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_35.txt
+2026-06-18 18:56:06,809 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_36.txt
+2026-06-18 18:56:06,809 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_37.txt
+2026-06-18 18:56:06,810 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_38.txt
+2026-06-18 18:56:06,810 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_39.txt
+2026-06-18 18:56:06,810 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_66_chunk_0_0.txt
+2026-06-18 18:56:06,811 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_66_chunk_1_0.txt
+2026-06-18 18:56:06,811 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_67.txt
+2026-06-18 18:56:06,812 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_68.txt
+2026-06-18 18:56:06,812 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_94_chunk_0_0.txt
+2026-06-18 18:56:06,813 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_94_chunk_1_0.txt
+2026-06-18 18:56:06,813 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_95.txt
+2026-06-18 18:56:06,814 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_95(k)(2),.txt
+2026-06-18 18:56:06,814 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_97.txt
+2026-06-18 18:56:06,814 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_98.txt
+2026-06-18 18:56:06,815 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_101.txt
+2026-06-18 18:56:06,815 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_102.txt
+2026-06-18 18:56:06,815 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_103.txt
+2026-06-18 18:56:06,816 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_104.txt
+2026-06-18 18:56:06,816 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_105.txt
+2026-06-18 18:56:06,816 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_106_chunk_0_0.txt
+2026-06-18 18:56:06,817 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_106_chunk_1_0.txt
+2026-06-18 18:56:06,817 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_106_chunk_2_0.txt
+2026-06-18 18:56:06,817 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_106_chunk_3_0.txt
+2026-06-18 18:56:06,818 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_107.txt
+2026-06-18 18:56:06,818 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_108.txt
+2026-06-18 18:56:06,819 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_109_chunk_0_0.txt
+2026-06-18 18:56:06,819 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_109_chunk_1_0.txt
+2026-06-18 18:56:06,819 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_110_chunk_0_0.txt
+2026-06-18 18:56:06,820 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_110_chunk_1_0.txt
+2026-06-18 18:56:06,820 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_110_chunk_2_0.txt
+2026-06-18 18:56:06,820 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_110_chunk_3_0.txt
+2026-06-18 18:56:06,821 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_111_chunk_0_0.txt
+2026-06-18 18:56:06,821 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_111_chunk_1_0.txt
+2026-06-18 18:56:06,821 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_119.txt
+2026-06-18 18:56:06,822 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_120_chunk_0_0.txt
+2026-06-18 18:56:06,822 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_120_chunk_1_0.txt
+2026-06-18 18:56:06,822 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_120_chunk_2_0.txt
+2026-06-18 18:56:06,823 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_121.txt
+2026-06-18 18:56:06,823 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_122.txt
+2026-06-18 18:56:06,823 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_123.txt
+2026-06-18 18:56:06,823 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_124.txt
+2026-06-18 18:56:06,824 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_125.txt
+2026-06-18 18:56:06,824 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_126.txt
+2026-06-18 18:56:06,824 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_132.txt
+2026-06-18 18:56:06,825 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_133.txt
+2026-06-18 18:56:06,825 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_134_chunk_0_0.txt
+2026-06-18 18:56:06,825 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_134_chunk_1_0.txt
+2026-06-18 18:56:06,826 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_135.txt
+2026-06-18 18:56:06,827 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_136.txt
+2026-06-18 18:56:06,827 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_137.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_138.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_139.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_140.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_141.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_142.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_143.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_144.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_145.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_146_chunk_0_0.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_146_chunk_1_0.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_147.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_151.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_152.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_155.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_156.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_157.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_158.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_159.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_160.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_161.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_162.txt
+2026-06-18 18:56:06,828 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_163.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_164.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_165.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_169.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_176.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_177.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_178.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_179_chunk_0_0.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_179_chunk_1_0.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_180.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_181.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_183.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_184.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_211.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_212.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_213.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_214.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_215_chunk_0_0.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_215_chunk_1_0.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_216.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_217_chunk_0_0.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_217_chunk_1_0.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_218.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_219.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_241.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_242.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_243.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_244.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_251.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_252.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_253_chunk_0_0.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_253_chunk_1_0.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_254.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_255.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_261_chunk_0_0.txt
+2026-06-18 18:56:06,844 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_261_chunk_1_0.txt
+2026-06-18 18:56:06,858 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_262.txt
+2026-06-18 18:56:06,858 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_263.txt
+2026-06-18 18:56:06,858 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_264.txt
+2026-06-18 18:56:06,859 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_265_chunk_0_0.txt
+2026-06-18 18:56:06,859 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_265_chunk_1_0.txt
+2026-06-18 18:56:06,860 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_266_chunk_0_0.txt
+2026-06-18 18:56:06,860 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_266_chunk_1_0.txt
+2026-06-18 18:56:06,860 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_268_chunk_0_0.txt
+2026-06-18 18:56:06,861 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_268_chunk_1_0.txt
+2026-06-18 18:56:06,861 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_269_chunk_0_0.txt
+2026-06-18 18:56:06,862 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_269_chunk_1_0.txt
+2026-06-18 18:56:06,862 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_269_chunk_2_0.txt
+2026-06-18 18:56:06,863 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_269_chunk_3_0.txt
+2026-06-18 18:56:06,863 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_269_chunk_4_0.txt
+2026-06-18 18:56:06,863 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_269_chunk_5_0.txt
+2026-06-18 18:56:06,864 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_269_chunk_6_0.txt
+2026-06-18 18:56:06,864 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_269_chunk_7_0.txt
+2026-06-18 18:56:06,865 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_272.txt
+2026-06-18 18:56:06,865 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_301.txt
+2026-06-18 18:56:06,865 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_302.txt
+2026-06-18 18:56:06,866 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_303(b)—Examination,.txt
+2026-06-18 18:56:06,866 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_303(c)(3)—Electrical.txt
+2026-06-18 18:56:06,866 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_303(d)—Arcing.txt
+2026-06-18 18:56:06,867 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_303(e)—Marking.txt
+2026-06-18 18:56:06,867 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_303(g)(2)—600.txt
+2026-06-18 18:56:06,867 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_304(a)(3)—Use.txt
+2026-06-18 18:56:06,868 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_304(f)(1)(i),.txt
+2026-06-18 18:56:06,868 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_304(g)(1)(ii),.txt
+2026-06-18 18:56:06,869 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_304(g)(4)—Grounding—Grounding.txt
+2026-06-18 18:56:06,869 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_304(g)(5)—Grounding—Grounding.txt
+2026-06-18 18:56:06,869 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_304(g)(6)(iv)(A).txt
+2026-06-18 18:56:06,870 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_304(g)(7)—Grounding—Nonelectrical.txt
+2026-06-18 18:56:06,870 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_304(g)(8)(i)—Grounding—Methods.txt
+2026-06-18 18:56:06,870 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_305(g)(1)—Flexible.txt
+2026-06-18 18:56:06,871 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_305(g)(2)(ii).txt
+2026-06-18 18:56:06,871 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_307,.txt
+2026-06-18 18:56:06,872 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_303(h)(4)—Over.txt
+2026-06-18 18:56:06,872 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_304(f)(1)(vii).txt
+2026-06-18 18:56:06,873 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_304(g)(9)(i)—Grounding—Grounding.txt
+2026-06-18 18:56:06,873 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_305(j)(6)(ii)(D)—Equipment.txt
+2026-06-18 18:56:06,873 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_306(c)(9)—Elevators,.txt
+2026-06-18 18:56:06,878 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_306(i)—Electrically.txt
+2026-06-18 18:56:06,880 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_306(j)(5)—Swimming.txt
+2026-06-18 18:56:06,882 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_308(a)(1)(ii)—Systems.txt
+2026-06-18 18:56:06,882 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_308(c)(2)—Class.txt
+2026-06-18 18:56:06,883 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_308(d)—Fire.txt
+2026-06-18 18:56:06,883 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_303(f)(4)—Disconnecting.txt
+2026-06-18 18:56:06,883 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_303(f)(5)—Disconnecting.txt
+2026-06-18 18:56:06,884 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_303(g)(1)(iv).txt
+2026-06-18 18:56:06,884 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_303(h)(5)(vi)—Over.txt
+2026-06-18 18:56:06,885 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_304(b)(1)—Branch.txt
+2026-06-18 18:56:06,885 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_304(b)(3)(i)—Branch.txt
+2026-06-18 18:56:06,885 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_304(f)(2)(i)(A),.txt
+2026-06-18 18:56:06,885 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_305(c)(3)(ii)—Switches—Connection.txt
+2026-06-18 18:56:06,886 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_305(c)(5)—Switches—Grounding.txt
+2026-06-18 18:56:06,886 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_306(c)(4)—Elevators,.txt
+2026-06-18 18:56:06,886 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_306(c)(5)—Elevators,.txt
+2026-06-18 18:56:06,887 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_306(c)(6)—Elevators,.txt
+2026-06-18 18:56:06,887 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_306(c)(7)—Elevators,.txt
+2026-06-18 18:56:06,887 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_306(j)(1)(iii)—Swimming.txt
+2026-06-18 18:56:06,887 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_306(k)—Carnivals,.txt
+2026-06-18 18:56:06,888 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_308(a)(5)(v).txt
+2026-06-18 18:56:06,888 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_308(a)(7)(vi)—Systems.txt
+2026-06-18 18:56:06,888 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_308(b)(3)—Emergency.txt
+2026-06-18 18:56:06,889 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_308(c)(3)—Class.txt
+2026-06-18 18:56:06,889 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_308(f)—Solar.txt
+2026-06-18 18:56:06,890 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_303.txt
+2026-06-18 18:56:06,890 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_304_chunk_0_0.txt
+2026-06-18 18:56:06,890 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_304_chunk_1_0.txt
+2026-06-18 18:56:06,891 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_305.txt
+2026-06-18 18:56:06,891 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_306.txt
+2026-06-18 18:56:06,892 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_307.txt
+2026-06-18 18:56:06,892 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_308.txt
+2026-06-18 18:56:06,893 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_331.txt
+2026-06-18 18:56:06,893 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_332.txt
+2026-06-18 18:56:06,893 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_333.txt
+2026-06-18 18:56:06,894 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_334.txt
+2026-06-18 18:56:06,894 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_335.txt
+2026-06-18 18:56:06,894 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_399_chunk_0_0.txt
+2026-06-18 18:56:06,895 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_399_chunk_1_0.txt
+2026-06-18 18:56:06,895 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_401.txt
+2026-06-18 18:56:06,895 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_402.txt
+2026-06-18 18:56:06,896 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_410.txt
+2026-06-18 18:56:06,897 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_420.txt
+2026-06-18 18:56:06,897 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_421.txt
+2026-06-18 18:56:06,898 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_422.txt
+2026-06-18 18:56:06,898 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_423.txt
+2026-06-18 18:56:06,898 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_424.txt
+2026-06-18 18:56:06,899 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_425.txt
+2026-06-18 18:56:06,899 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_426.txt
+2026-06-18 18:56:06,899 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_427.txt
+2026-06-18 18:56:06,900 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_430.txt
+2026-06-18 18:56:06,900 [WARNING] embed_chunks — Chunk file missing, skipping: c:\Users\manendriu\OneDrive - Texas A&M University\Desktop\github_clones\OSHA_XML\data\chunks\1910_440.txt
+2026-06-18 18:56:06,901 [INFO] embed_chunks — Loaded 0 chunks from manifest
+2026-06-18 18:56:06,902 [ERROR] embed_chunks — No chunks found in manifest.
+2026-06-18 18:56:51,499 [INFO] chunk_osha — Selected embedding model: Qwen3-Embedding-0.6B
+2026-06-18 18:56:51,499 [INFO] chunk_osha — Using max_tokens_per_chunk=8000 based on model
+2026-06-18 18:56:51,499 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-18 18:56:51,499 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-18 18:56:51,568 [INFO] chunk_osha — Found 198 sections
+2026-06-18 19:31:05,178 [INFO] chunk_osha — Selected embedding model: Qwen3-Embedding-0.6B
+2026-06-18 19:31:05,183 [INFO] chunk_osha — Using max_tokens_per_chunk=8000 based on model
+2026-06-18 19:31:05,183 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-18 19:31:05,233 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-18 19:31:05,285 [INFO] chunk_osha — Found 198 sections
+2026-06-18 19:33:17,474 [INFO] chunk_osha — Selected embedding model: Qwen3-Embedding-0.6B
+2026-06-18 19:33:17,475 [INFO] chunk_osha — Using max_tokens_per_chunk=8000 based on model
+2026-06-18 19:33:17,475 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-18 19:33:17,484 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-18 19:33:17,540 [INFO] chunk_osha — Found 198 sections
+2026-06-18 19:33:22,305 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-18 19:33:22,305 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-18 19:33:22,399 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-18 19:33:22,460 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 19:33:22,526 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-18 19:33:22,577 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 19:33:22,690 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-18 19:33:30,163 [INFO] chunk_osha — Generated 230 chunks  (avg 2368 tokens)
+2026-06-18 19:35:17,271 [INFO] embed_chunks — Using embedding model: Qwen/Qwen3-Embedding-0.6B
+2026-06-18 19:35:19,367 [INFO] embed_chunks — Loaded 230 chunks from manifest
+2026-06-18 19:35:19,367 [ERROR] embed_chunks — sentence-transformers not installed. Run: pip install sentence-transformers
+2026-06-18 19:38:39,416 [INFO] embed_chunks — Using embedding model: Qwen/Qwen3-Embedding-0.6B
+2026-06-18 19:38:39,493 [INFO] embed_chunks — Loaded 230 chunks from manifest
+2026-06-18 19:39:45,221 [INFO] embed_chunks — Using embedding model: all-MiniLM-L6-v2
+2026-06-18 19:39:45,282 [INFO] embed_chunks — Loaded 230 chunks from manifest
+2026-06-18 19:45:47,998 [INFO] embed_chunks — Using embedding model: Qwen/Qwen3-Embedding-0.6B
+2026-06-18 19:45:48,062 [INFO] embed_chunks — Loaded 230 chunks from manifest
+2026-06-18 19:45:57,077 [INFO] embed_chunks — Loading model: Qwen/Qwen3-Embedding-0.6B  (device=auto)
+2026-06-18 19:45:57,077 [INFO] sentence_transformers.base.model — No device provided, using cpu
+2026-06-18 19:45:57,484 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 19:45:57,484 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-18 19:45:57,500 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/modules.json "HTTP/1.1 200 OK"
+2026-06-18 19:45:57,520 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/modules.json "HTTP/1.1 200 OK"
+2026-06-18 19:45:57,592 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 19:45:57,604 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-06-18 19:45:57,634 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-06-18 19:45:57,644 [INFO] sentence_transformers.base.model — Loading SentenceTransformer model from Qwen/Qwen3-Embedding-0.6B.
+2026-06-18 19:45:57,706 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 19:45:57,717 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-06-18 19:45:57,766 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 19:45:57,766 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/README.md "HTTP/1.1 200 OK"
+2026-06-18 19:45:57,787 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/README.md "HTTP/1.1 200 OK"
+2026-06-18 19:45:57,860 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 19:45:57,875 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/modules.json "HTTP/1.1 200 OK"
+2026-06-18 19:45:57,937 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_bert_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 19:45:58,001 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_roberta_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 19:45:58,049 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_distilbert_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 19:45:58,113 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_camembert_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 19:45:58,156 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_albert_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 19:45:58,205 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_xlm-roberta_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 19:45:58,268 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_xlnet_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 19:45:58,368 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 19:45:58,424 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 19:45:58,434 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config.json "HTTP/1.1 200 OK"
+2026-06-18 19:45:58,441 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config.json "HTTP/1.1 200 OK"
+2026-06-18 19:45:58,558 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/model.safetensors "HTTP/1.1 302 Found"
+2026-06-18 19:46:13,157 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 19:46:13,221 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 19:46:13,266 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 19:46:13,329 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-18 19:46:13,383 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 19:46:13,393 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-18 19:46:13,398 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-18 19:46:13,468 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 19:46:13,485 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config.json "HTTP/1.1 200 OK"
+2026-06-18 19:46:13,548 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 19:46:13,559 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config.json "HTTP/1.1 200 OK"
+2026-06-18 19:46:13,626 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 19:46:13,644 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-18 19:46:13,704 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen3-Embedding-0.6B/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-18 19:46:13,752 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen3-Embedding-0.6B/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-18 19:46:13,799 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/vocab.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 19:46:13,815 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/vocab.json "HTTP/1.1 200 OK"
+2026-06-18 19:46:13,832 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/vocab.json "HTTP/1.1 200 OK"
+2026-06-18 19:46:13,923 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/merges.txt "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 19:46:13,941 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/merges.txt "HTTP/1.1 200 OK"
+2026-06-18 19:46:13,956 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/merges.txt "HTTP/1.1 200 OK"
+2026-06-18 19:46:14,021 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/tokenizer.json "HTTP/1.1 302 Found"
+2026-06-18 19:46:14,878 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/added_tokens.json "HTTP/1.1 404 Not Found"
+2026-06-18 19:46:14,924 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/special_tokens_map.json "HTTP/1.1 404 Not Found"
+2026-06-18 19:46:14,988 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-06-18 19:46:15,719 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen3-Embedding-0.6B "HTTP/1.1 200 OK"
+2026-06-18 19:46:15,799 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 19:46:15,811 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-06-18 19:46:15,826 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-06-18 19:46:15,926 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen3-Embedding-0.6B "HTTP/1.1 200 OK"
+2026-06-18 19:46:15,930 [INFO] sentence_transformers.base.model — Loaded 1 prompt with these keys: ['query']
+2026-06-18 19:46:15,931 [INFO] embed_chunks — Encoding 230 chunks in batches of 64 …
+2026-06-20 12:29:25,961 [INFO] chunk_osha — Selected embedding model: Qwen3-Embedding-0.6B
+2026-06-20 12:29:25,985 [INFO] chunk_osha — Using max_tokens_per_chunk=1024 based on model
+2026-06-20 12:29:25,986 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-20 12:29:26,032 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-20 12:29:26,083 [INFO] chunk_osha — Found 198 sections
+2026-06-20 12:30:43,563 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/agent-harnesses "HTTP/1.1 200 OK"
+2026-06-20 12:30:43,618 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-20 12:30:43,786 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:30:43,866 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:30:43,919 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-20 12:30:43,968 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:30:44,020 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-20 12:31:14,956 [INFO] chunk_osha — Generated 731 chunks  (avg 793 tokens)
+2026-06-20 12:33:28,432 [INFO] chunk_osha — Selected embedding model: Qwen3-Embedding-0.6B
+2026-06-20 12:33:28,433 [INFO] chunk_osha — Using max_tokens_per_chunk=1024 based on model
+2026-06-20 12:33:28,434 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-20 12:33:28,443 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-20 12:33:28,496 [INFO] chunk_osha — Found 198 sections
+2026-06-20 12:33:35,969 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-20 12:33:35,969 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-20 12:33:36,030 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:33:36,084 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:33:36,135 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-20 12:33:36,183 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:33:36,235 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-20 12:34:07,611 [INFO] chunk_osha — Generated 731 chunks  (avg 793 tokens)
+2026-06-20 12:34:45,526 [INFO] embed_chunks — Using embedding model: Qwen/Qwen3-Embedding-0.6B
+2026-06-20 12:34:51,861 [INFO] embed_chunks — Loaded 731 chunks from manifest
+2026-06-20 12:35:13,920 [INFO] embed_chunks — Loading model: Qwen/Qwen3-Embedding-0.6B  (device=auto)
+2026-06-20 12:35:13,922 [INFO] sentence_transformers.base.model — No device provided, using cpu
+2026-06-20 12:35:14,316 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:35:14,317 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-20 12:35:14,326 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/modules.json "HTTP/1.1 200 OK"
+2026-06-20 12:35:14,442 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:35:14,453 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-06-20 12:35:14,463 [INFO] sentence_transformers.base.model — Loading SentenceTransformer model from Qwen/Qwen3-Embedding-0.6B.
+2026-06-20 12:35:14,512 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:35:14,521 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-06-20 12:35:14,574 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:35:14,585 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/README.md "HTTP/1.1 200 OK"
+2026-06-20 12:35:14,677 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:35:14,686 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/modules.json "HTTP/1.1 200 OK"
+2026-06-20 12:35:14,748 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_bert_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:35:14,820 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_roberta_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:35:14,872 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_distilbert_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:35:14,924 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_camembert_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:35:14,978 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_albert_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:35:15,029 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_xlm-roberta_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:35:15,083 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/sentence_xlnet_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:35:15,138 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:35:15,219 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:35:15,230 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config.json "HTTP/1.1 200 OK"
+2026-06-20 12:35:17,608 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:35:17,668 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:35:17,721 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:35:17,775 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:35:17,828 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:35:17,838 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:35:17,928 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:35:17,941 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config.json "HTTP/1.1 200 OK"
+2026-06-20 12:35:17,995 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:35:18,006 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/config.json "HTTP/1.1 200 OK"
+2026-06-20 12:35:18,061 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:35:18,070 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:35:18,151 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen3-Embedding-0.6B/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-20 12:35:18,204 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen3-Embedding-0.6B/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-20 12:35:18,978 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen3-Embedding-0.6B "HTTP/1.1 200 OK"
+2026-06-20 12:35:19,041 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/Qwen/Qwen3-Embedding-0.6B/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:35:19,053 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen3-Embedding-0.6B/97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-06-20 12:35:19,140 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen3-Embedding-0.6B "HTTP/1.1 200 OK"
+2026-06-20 12:35:19,215 [INFO] sentence_transformers.base.model — Loaded 1 prompt with these keys: ['query']
+2026-06-20 12:35:19,216 [INFO] embed_chunks — Encoding 731 chunks in batches of 64 …
+2026-06-20 12:54:38,786 [INFO] chunk_osha — Selected embedding model: ibm-granite/granite-embedding-small-english-r2
+2026-06-20 12:54:38,787 [INFO] chunk_osha — Using max_tokens_per_chunk=8192 based on model
+2026-06-20 12:54:38,787 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-20 12:54:38,797 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-20 12:54:38,857 [INFO] chunk_osha — Found 198 sections
+2026-06-20 12:54:46,544 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-20 12:54:46,605 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:54:46,660 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:54:46,711 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-20 12:54:46,761 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:54:46,813 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-20 12:54:53,111 [INFO] chunk_osha — Generated 228 chunks  (avg 2388 tokens)
+2026-06-20 12:57:09,285 [INFO] embed_chunks — Using embedding model: ibm-granite/granite-embedding-small-english-r2
+2026-06-20 12:57:10,418 [INFO] embed_chunks — Loaded 228 chunks from manifest
+2026-06-20 12:57:19,069 [INFO] embed_chunks — Loading model: ibm-granite/granite-embedding-small-english-r2  (device=auto)
+2026-06-20 12:57:19,071 [INFO] sentence_transformers.base.model — No device provided, using cpu
+2026-06-20 12:57:19,500 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:57:19,512 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/modules.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:19,528 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/modules.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:19,645 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/config_sentence_transformers.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:57:19,654 [INFO] sentence_transformers.base.model — Loading SentenceTransformer model from ibm-granite/granite-embedding-small-english-r2.
+2026-06-20 12:57:19,713 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/config_sentence_transformers.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:57:19,714 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-20 12:57:19,773 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:57:19,785 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/README.md "HTTP/1.1 200 OK"
+2026-06-20 12:57:19,800 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/README.md "HTTP/1.1 200 OK"
+2026-06-20 12:57:19,871 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:57:19,882 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/modules.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:19,942 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:57:19,953 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:19,967 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:20,039 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:57:20,092 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:57:20,103 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/config.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:20,118 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/config.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:20,270 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/model.safetensors "HTTP/1.1 302 Found"
+2026-06-20 12:57:23,344 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:57:23,403 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:57:23,456 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:57:23,512 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:57:23,590 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:57:23,601 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:23,614 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:23,677 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:57:23,689 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/config.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:23,745 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:57:23,755 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/config.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:23,810 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:57:23,822 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:23,905 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:57:23,916 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:23,970 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/ibm-granite/granite-embedding-small-english-r2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-20 12:57:24,026 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/ibm-granite/granite-embedding-small-english-r2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-20 12:57:24,078 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/tokenizer.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:57:24,089 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/tokenizer.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:24,104 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/tokenizer.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:24,187 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/tokenizer.model "HTTP/1.1 404 Not Found"
+2026-06-20 12:57:24,244 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/added_tokens.json "HTTP/1.1 404 Not Found"
+2026-06-20 12:57:24,301 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/special_tokens_map.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:57:24,313 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/special_tokens_map.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:24,328 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/special_tokens_map.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:24,383 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-06-20 12:57:24,877 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 12:57:24,888 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:24,903 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-06-20 12:57:24,970 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/ibm-granite/granite-embedding-small-english-r2 "HTTP/1.1 200 OK"
+2026-06-20 12:57:24,975 [INFO] embed_chunks — Encoding 228 chunks in batches of 64 …
+2026-06-22 11:24:36,993 [INFO] chunk_osha — Selected model 'all-mpnet-base-v2' with max_tokens=512
+2026-06-22 11:24:36,999 [INFO] chunk_osha — Selected embedding model: all-mpnet-base-v2
+2026-06-22 11:24:37,000 [INFO] chunk_osha — Using max_tokens_per_chunk=512 based on model
+2026-06-22 11:24:37,000 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-22 11:24:37,045 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-22 11:24:37,094 [INFO] chunk_osha — Found 198 sections
+2026-06-22 11:25:44,117 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/agent-harnesses "HTTP/1.1 200 OK"
+2026-06-22 11:25:44,179 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-22 11:25:44,179 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-22 11:25:44,422 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 11:25:44,478 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 11:25:44,546 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-22 11:25:44,597 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 11:25:44,653 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-22 11:26:14,348 [INFO] chunk_osha — Generated 1459 chunks  (avg 425 tokens)
+2026-06-22 11:37:06,327 [INFO] chunk_osha — Selected embedding model : all-MiniLM-L6-v2
+2026-06-22 11:37:06,327 [INFO] chunk_osha — max_tokens_per_chunk     : 256  (from config)
+2026-06-22 11:37:06,327 [INFO] chunk_osha — overlap_tokens           : 25  (from config)
+2026-06-22 11:37:06,327 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-22 11:37:06,349 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-22 11:37:06,392 [INFO] chunk_osha — Found 198 sections
+2026-06-22 11:37:13,492 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-22 11:37:13,492 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-22 11:37:13,552 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 11:37:13,606 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 11:37:13,663 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-22 11:37:13,709 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 11:37:13,759 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-22 11:37:48,806 [INFO] chunk_osha — Generated 3464 chunks  (avg 211 tokens)
+2026-06-22 11:51:30,005 [INFO] chunk_osha — Selected embedding model : Qwen3-Embedding
+2026-06-22 11:51:31,244 [INFO] chunk_osha — max_tokens_per_chunk     : 7502  (from config)
+2026-06-22 11:51:31,244 [INFO] chunk_osha — overlap_tokens           : 128  (from config)
+2026-06-22 11:51:31,244 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-22 11:51:31,267 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-22 11:51:31,335 [INFO] chunk_osha — Found 198 sections
+2026-06-22 11:52:02,298 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-22 11:52:02,384 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 11:52:02,385 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-22 11:52:02,448 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 11:52:02,511 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-22 11:52:02,562 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 11:52:02,614 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-22 11:52:19,797 [INFO] chunk_osha — Generated 235 chunks  (avg 2320 tokens)
+2026-06-22 12:11:25,282 [INFO] chunk_osha — Selected embedding model : Qwen3-Embedding
+2026-06-22 12:11:25,297 [INFO] chunk_osha — max_tokens_per_chunk     : 8000  (from config)
+2026-06-22 12:11:25,297 [INFO] chunk_osha — overlap_tokens           : 128  (from config)
+2026-06-22 12:11:25,297 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-22 12:11:25,311 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-22 12:11:25,362 [INFO] chunk_osha — Found 198 sections
+2026-06-22 12:11:32,184 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-22 12:11:32,184 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-22 12:11:32,254 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 12:11:32,316 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:11:32,368 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-22 12:11:32,420 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:11:32,475 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-22 12:11:38,704 [INFO] chunk_osha — Generated 230 chunks  (avg 2368 tokens)
+2026-06-22 12:15:41,139 [INFO] chunk_osha — Selected embedding model : all-mpnet-base-v2
+2026-06-22 12:15:41,139 [INFO] chunk_osha — max_tokens_per_chunk     : 512  (from config)
+2026-06-22 12:15:41,139 [INFO] chunk_osha — overlap_tokens           : 51  (from config)
+2026-06-22 12:15:41,140 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-22 12:15:41,149 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-22 12:15:41,202 [INFO] chunk_osha — Found 198 sections
+2026-06-22 12:15:48,114 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-22 12:15:48,178 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 12:15:48,179 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-22 12:15:48,233 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:15:48,278 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-22 12:15:48,328 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:15:48,390 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-22 12:16:16,927 [INFO] chunk_osha — Generated 1457 chunks  (avg 425 tokens)
+2026-06-22 12:29:23,937 [INFO] embed_chunks — Using embedding model: all-mpnet-base-v2
+2026-06-22 12:29:35,056 [INFO] embed_chunks — Loaded 1457 chunks from manifest
+2026-06-22 12:29:54,918 [INFO] embed_chunks — Loading model: all-mpnet-base-v2  (device=auto)
+2026-06-22 12:29:54,939 [INFO] sentence_transformers.base.model — No device provided, using cpu
+2026-06-22 12:29:55,337 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:29:55,337 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-22 12:29:55,357 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/modules.json "HTTP/1.1 200 OK"
+2026-06-22 12:29:55,374 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/modules.json "HTTP/1.1 200 OK"
+2026-06-22 12:29:55,565 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:29:55,576 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-06-22 12:29:55,603 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-06-22 12:29:55,622 [INFO] sentence_transformers.base.model — Loading SentenceTransformer model from sentence-transformers/all-mpnet-base-v2.
+2026-06-22 12:29:55,672 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:29:55,683 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-06-22 12:29:55,733 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:29:55,744 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/README.md "HTTP/1.1 200 OK"
+2026-06-22 12:29:55,758 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/README.md "HTTP/1.1 200 OK"
+2026-06-22 12:29:55,854 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:29:55,870 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/modules.json "HTTP/1.1 200 OK"
+2026-06-22 12:29:55,934 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:29:55,944 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-06-22 12:29:55,956 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-06-22 12:29:56,021 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-06-22 12:29:56,081 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:29:56,091 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/config.json "HTTP/1.1 200 OK"
+2026-06-22 12:29:56,109 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/config.json "HTTP/1.1 200 OK"
+2026-06-22 12:29:56,558 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/model.safetensors "HTTP/1.1 302 Found"
+2026-06-22 12:30:07,586 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-22 12:30:07,641 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-22 12:30:07,711 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-22 12:30:07,755 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-22 12:30:07,824 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:30:07,835 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 12:30:07,847 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 12:30:07,904 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:30:07,923 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/config.json "HTTP/1.1 200 OK"
+2026-06-22 12:30:08,099 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:30:08,099 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/config.json "HTTP/1.1 200 OK"
+2026-06-22 12:30:08,192 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:30:08,202 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 12:30:08,301 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-mpnet-base-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-22 12:30:08,357 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-mpnet-base-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-22 12:30:08,412 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/vocab.txt "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:30:08,432 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/vocab.txt "HTTP/1.1 200 OK"
+2026-06-22 12:30:08,448 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/vocab.txt "HTTP/1.1 200 OK"
+2026-06-22 12:30:08,504 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:30:08,520 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/tokenizer.json "HTTP/1.1 200 OK"
+2026-06-22 12:30:08,526 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/tokenizer.json "HTTP/1.1 200 OK"
+2026-06-22 12:30:08,588 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/added_tokens.json "HTTP/1.1 404 Not Found"
+2026-06-22 12:30:08,639 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/special_tokens_map.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:30:08,655 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/special_tokens_map.json "HTTP/1.1 200 OK"
+2026-06-22 12:30:08,674 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/special_tokens_map.json "HTTP/1.1 200 OK"
+2026-06-22 12:30:08,734 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-06-22 12:30:08,916 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-mpnet-base-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:30:08,931 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-06-22 12:30:08,945 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-mpnet-base-v2/e8c3b32edf5434bc2275fc9bab85f82640a19130/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-06-22 12:30:09,052 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-mpnet-base-v2 "HTTP/1.1 200 OK"
+2026-06-22 12:30:09,129 [INFO] embed_chunks — Encoding 1457 chunks in batches of 64 …
+2026-06-22 12:40:17,945 [INFO] embed_chunks — Embedding shape: (1457, 768)  dtype: float32
+2026-06-22 12:40:17,948 [ERROR] embed_chunks — faiss-cpu not installed. Run: pip install faiss-cpu
+2026-06-22 12:50:41,717 [INFO] chunk_osha — Selected embedding model : granite-embedding-small-english-r2
+2026-06-22 12:50:41,717 [INFO] chunk_osha — max_tokens_per_chunk     : 8192  (from config)
+2026-06-22 12:50:41,717 [INFO] chunk_osha — overlap_tokens           : 128  (from config)
+2026-06-22 12:50:41,718 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-22 12:50:41,727 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-22 12:50:41,843 [INFO] chunk_osha — Found 198 sections
+2026-06-22 12:50:48,785 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-22 12:50:48,864 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 12:50:48,865 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-22 12:50:48,931 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:50:48,985 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-22 12:50:49,026 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:50:49,125 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-22 12:50:55,139 [INFO] chunk_osha — Generated 228 chunks  (avg 2388 tokens)
+2026-06-22 12:51:44,044 [INFO] embed_chunks — Using embedding model: ibm-granite/granite-embedding-small-english-r2
+2026-06-22 12:51:45,426 [INFO] embed_chunks — Loaded 228 chunks from manifest
+2026-06-22 12:51:53,963 [INFO] embed_chunks — Loading model: ibm-granite/granite-embedding-small-english-r2  (device=auto)
+2026-06-22 12:51:53,963 [INFO] sentence_transformers.base.model — No device provided, using cpu
+2026-06-22 12:51:54,352 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:51:54,352 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-22 12:51:54,372 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/modules.json "HTTP/1.1 200 OK"
+2026-06-22 12:51:54,463 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/config_sentence_transformers.json "HTTP/1.1 404 Not Found"
+2026-06-22 12:51:54,476 [INFO] sentence_transformers.base.model — Loading SentenceTransformer model from ibm-granite/granite-embedding-small-english-r2.
+2026-06-22 12:51:54,608 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/config_sentence_transformers.json "HTTP/1.1 404 Not Found"
+2026-06-22 12:51:54,676 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:51:54,687 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/README.md "HTTP/1.1 200 OK"
+2026-06-22 12:51:54,785 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:51:54,785 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/modules.json "HTTP/1.1 200 OK"
+2026-06-22 12:51:54,860 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:51:54,860 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-06-22 12:51:54,934 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-06-22 12:51:54,987 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:51:54,998 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/config.json "HTTP/1.1 200 OK"
+2026-06-22 12:51:55,795 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-22 12:51:55,849 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-22 12:51:55,913 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-22 12:51:55,966 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-06-22 12:51:56,017 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:51:56,027 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 12:51:56,105 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:51:56,114 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/config.json "HTTP/1.1 200 OK"
+2026-06-22 12:51:56,170 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:51:56,180 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/config.json "HTTP/1.1 200 OK"
+2026-06-22 12:51:56,260 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:51:56,276 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 12:51:56,329 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:51:56,340 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 12:51:56,396 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/ibm-granite/granite-embedding-small-english-r2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-22 12:51:56,455 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/ibm-granite/granite-embedding-small-english-r2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-22 12:51:56,874 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/ibm-granite/granite-embedding-small-english-r2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 12:51:56,876 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ibm-granite/granite-embedding-small-english-r2/2ab6fa8ea2d674564defd37171ae19079b864b33/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-06-22 12:51:56,953 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/ibm-granite/granite-embedding-small-english-r2 "HTTP/1.1 200 OK"
+2026-06-22 12:51:56,958 [INFO] embed_chunks — Encoding 228 chunks in batches of 64 …
+2026-06-22 12:58:19,932 [INFO] chunk_osha — Selected embedding model : mini-gte
+2026-06-22 12:58:19,945 [INFO] chunk_osha — max_tokens_per_chunk     : 512  (from config)
+2026-06-22 12:58:19,945 [INFO] chunk_osha — overlap_tokens           : 51  (from config)
+2026-06-22 12:58:19,946 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-22 12:58:19,984 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-22 12:58:20,051 [INFO] chunk_osha — Found 198 sections
+2026-06-22 13:00:34,585 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-22 13:00:34,586 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-22 13:00:34,738 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 13:00:34,822 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 13:00:34,873 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-22 13:00:34,920 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 13:00:34,981 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-22 13:01:06,747 [INFO] chunk_osha — Generated 1457 chunks  (avg 425 tokens)
+2026-06-22 13:16:47,446 [INFO] embed_chunks — Using embedding model: thenlper/gte-small
+2026-06-22 13:16:53,015 [INFO] embed_chunks — Loaded 1457 chunks from manifest
+2026-06-22 18:39:30,273 [INFO] chunk_osha — Selected embedding model : all-MiniLM-L6-v2
+2026-06-22 18:39:30,473 [INFO] chunk_osha — max_tokens_per_chunk     : 256  (from config)
+2026-06-22 18:39:30,473 [INFO] chunk_osha — overlap_tokens           : 25  (from config)
+2026-06-22 18:39:30,473 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-22 18:39:31,073 [INFO] chunk_osha — Text length: 2438731 chars
+2026-06-22 18:39:31,141 [INFO] chunk_osha — Found 198 sections
+2026-06-22 18:40:29,631 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-22 18:40:29,791 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 18:40:29,928 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 18:40:29,976 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-22 18:40:30,050 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 18:40:30,111 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-22 18:41:07,370 [INFO] chunk_osha — Generated 3464 chunks  (avg 211 tokens)
+2026-06-22 18:55:58,916 [INFO] extract_text — lxml not found — using stdlib xml.etree (install lxml for speed).
+2026-06-22 18:55:58,932 [INFO] extract_text — Parsing XML: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\raw\1910.xml
+2026-06-22 18:55:59,233 [ERROR] extract_text — Failed to parse XML: junk after document element: line 66537, column 0
+2026-06-22 18:56:54,642 [INFO] extract_text — lxml not found — using stdlib xml.etree (install lxml for speed).
+2026-06-22 18:56:54,642 [INFO] extract_text — Parsing XML: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\raw\1910.xml
+2026-06-22 18:56:54,752 [ERROR] extract_text — Failed to parse XML: junk after document element: line 66537, column 0
+2026-06-22 18:58:29,918 [INFO] extract_text — lxml not found — using stdlib xml.etree (install lxml for speed).
+2026-06-22 18:58:29,918 [INFO] extract_text — Parsing XML: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\raw\1910.xml
+2026-06-22 18:58:30,123 [ERROR] extract_text — Failed to parse XML: junk after document element: line 66538, column 0
+2026-06-22 18:59:07,502 [INFO] extract_text — lxml not found — using stdlib xml.etree (install lxml for speed).
+2026-06-22 18:59:07,502 [INFO] extract_text — Parsing XML: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\raw\1910.xml
+2026-06-22 18:59:07,730 [ERROR] extract_text — Failed to parse XML: not well-formed (invalid token): line 103674, column 0
+2026-06-22 19:03:31,771 [INFO] extract_text — lxml not found — using stdlib xml.etree (install lxml for speed).
+2026-06-22 19:03:31,771 [INFO] extract_text — Parsing XML: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\raw\1910.xml
+2026-06-22 19:03:31,895 [WARNING] extract_text — Multiple XML prologs detected — normalising before parse.
+2026-06-22 19:03:32,090 [ERROR] extract_text — Failed to parse wrapped XML: not well-formed (invalid token): line 103657, column 0
+2026-06-22 19:03:42,987 [INFO] extract_text — lxml not found — using stdlib xml.etree (install lxml for speed).
+2026-06-22 19:03:42,988 [INFO] extract_text — Parsing XML: C:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\raw\1910.xml
+2026-06-22 19:03:43,005 [WARNING] extract_text — Multiple XML prologs detected — normalising before parse.
+2026-06-22 19:03:43,225 [ERROR] extract_text — Failed to parse wrapped XML: not well-formed (invalid token): line 103657, column 0
+2026-06-22 19:03:58,473 [INFO] extract_text — lxml not found — using stdlib xml.etree (install lxml for speed).
+2026-06-22 19:03:58,473 [INFO] extract_text — Parsing XML: C:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\raw\1910.xml
+2026-06-22 19:03:58,488 [WARNING] extract_text — Multiple XML prologs detected — normalising before parse.
+2026-06-22 19:03:59,119 [INFO] extract_text — Extracted 42 subparts, 204 sections
+2026-06-22 19:04:28,843 [INFO] extract_text — lxml not found — using stdlib xml.etree (install lxml for speed).
+2026-06-22 19:04:28,843 [INFO] extract_text — Parsing XML: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\raw\1910.xml
+2026-06-22 19:04:28,957 [WARNING] extract_text — Multiple XML prologs detected — normalising before parse.
+2026-06-22 19:04:29,553 [INFO] extract_text — Extracted 42 subparts, 204 sections
+2026-06-22 19:05:56,975 [INFO] clean_text — Reading extracted text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\extracted\osha_1910_raw_text.txt
+2026-06-22 19:05:57,013 [INFO] clean_text — Input length: 3483542 chars
+2026-06-22 19:10:21,837 [INFO] chunk_osha — Selected embedding model : all-MiniLM-L6-v2
+2026-06-22 19:10:21,837 [INFO] chunk_osha — max_tokens_per_chunk     : 256  (from config)
+2026-06-22 19:10:21,838 [INFO] chunk_osha — overlap_tokens           : 25  (from config)
+2026-06-22 19:10:21,838 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-22 19:10:21,852 [INFO] chunk_osha — Text length: 3484707 chars
+2026-06-22 19:10:21,924 [INFO] chunk_osha — Found 244 sections
+2026-06-22 19:10:28,747 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-22 19:10:28,747 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-22 19:10:28,813 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 19:10:28,879 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 19:10:28,927 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-22 19:10:28,987 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 19:10:29,043 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-22 19:11:22,970 [INFO] chunk_osha — Generated 4882 chunks  (avg 213 tokens)
+2026-06-22 19:32:00,591 [INFO] chunk_osha — Selected embedding model : Qwen3-Embedding
+2026-06-22 19:32:00,591 [INFO] chunk_osha — max_tokens_per_chunk     : 10100  (from config)
+2026-06-22 19:32:00,591 [INFO] chunk_osha — overlap_tokens           : 128  (from config)
+2026-06-22 19:32:00,591 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-22 19:32:00,609 [INFO] chunk_osha — Text length: 3484707 chars
+2026-06-22 19:32:00,690 [INFO] chunk_osha — Found 244 sections
+2026-06-22 19:32:07,853 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-22 19:32:07,853 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-22 19:32:07,906 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 19:32:07,972 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 19:32:08,024 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-22 19:32:08,077 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 19:32:08,129 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-22 19:32:15,410 [INFO] chunk_osha — Generated 275 chunks  (avg 2833 tokens)
+2026-06-22 19:35:30,213 [INFO] chunk_osha — Selected embedding model : all-mpnet-base-v2
+2026-06-22 19:35:30,213 [INFO] chunk_osha — max_tokens_per_chunk     : 512  (from config)
+2026-06-22 19:35:30,213 [INFO] chunk_osha — overlap_tokens           : 51  (from config)
+2026-06-22 19:35:30,213 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-22 19:35:30,234 [INFO] chunk_osha — Text length: 3484707 chars
+2026-06-22 19:35:30,307 [INFO] chunk_osha — Found 244 sections
+2026-06-22 19:35:37,483 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-22 19:35:37,498 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-22 19:35:37,557 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 19:35:37,612 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 19:35:37,658 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-22 19:35:37,713 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 19:35:37,757 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-22 19:35:58,173 [ERROR] analyze_chunks — Manifest not found: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\chunks\manifest.jsonl
+2026-06-22 19:36:31,440 [INFO] chunk_osha — Generated 2081 chunks  (avg 427 tokens)
+2026-06-22 19:44:01,202 [INFO] chunk_osha — Selected embedding model : granite-embedding-small-english-r2
+2026-06-22 19:44:01,202 [INFO] chunk_osha — max_tokens_per_chunk     : 8192  (from config)
+2026-06-22 19:44:01,202 [INFO] chunk_osha — overlap_tokens           : 128  (from config)
+2026-06-22 19:44:01,202 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-22 19:44:01,222 [INFO] chunk_osha — Text length: 3484707 chars
+2026-06-22 19:44:01,298 [INFO] chunk_osha — Found 244 sections
+2026-06-22 19:44:14,419 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-22 19:44:14,486 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 19:44:14,487 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-22 19:44:14,581 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 19:44:14,636 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-22 19:44:14,690 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 19:44:14,744 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-22 19:44:43,215 [INFO] chunk_osha — Generated 290 chunks  (avg 2690 tokens)
+2026-06-22 19:48:47,410 [INFO] chunk_osha — Selected embedding model : mini-gte
+2026-06-22 19:48:47,410 [INFO] chunk_osha — max_tokens_per_chunk     : 512  (from config)
+2026-06-22 19:48:47,410 [INFO] chunk_osha — overlap_tokens           : 51  (from config)
+2026-06-22 19:48:47,410 [INFO] chunk_osha — Reading cleaned text: c:\Users\manendriu\Downloads\github_clones\OSHA_XML\data\cleaned\osha_1910_cleaned.txt
+2026-06-22 19:48:47,433 [INFO] chunk_osha — Text length: 3484707 chars
+2026-06-22 19:48:47,506 [INFO] chunk_osha — Found 244 sections
+2026-06-22 19:48:54,595 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-22 19:48:54,595 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-22 19:48:54,666 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/bert-base-uncased/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-22 19:48:54,715 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 19:48:54,782 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-22 19:48:54,834 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 19:48:54,888 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/google-bert/bert-base-uncased/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-22 19:49:44,971 [INFO] chunk_osha — Generated 2081 chunks  (avg 427 tokens)

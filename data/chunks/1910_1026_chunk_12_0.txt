@@ -1,0 +1,20 @@
+§ 1910.1026 Chromium (VI).
+(ii) In classifying the hazards of chromium (VI) at least the following hazards are to be addressed: Cancer, eye irritation, and skin sensitization.
+(iii) Employers shall include chromium (VI) in the hazard communication program established to comply with the HCS (§ 1910.1200). Employers shall ensure that each employee has access to labels on containers of chromium (VI) and to safety data sheets, and is trained in accordance with the requirements of HCS and paragraph (l)(2) of this section.
+(2) Employee information and training. (i) The employer shall ensure that each employee can demonstrate knowledge of at least the following:
+(A) The contents of this section; and
+(B) The purpose and a description of the medical surveillance program required by paragraph (k) of this section.
+(ii) The employer shall make a copy of this section readily available without cost to all affected employees.
+(m) Recordkeeping —(1) Air monitoring data. (i) The employer shall maintain an accurate record of all air monitoring conducted to comply with the requirements of this section.
+(ii) This record shall include at least the following information:
+(A) The date of measurement for each sample taken;
+(B) The operation involving exposure to chromium (VI) that is being monitored;
+(C) Sampling and analytical methods used and evidence of their accuracy;
+(D) Number, duration, and the results of samples taken;
+(E) Type of personal protective equipment, such as respirators worn; and
+(F) Name and job classification of all employees represented by the monitoring, indicating which employees were actually monitored.
+(iii) The employer shall ensure that exposure records are maintained and made available in accordance with 29 CFR 1910.1020.
+(2) Historical monitoring data. (i) Where the employer has relied on historical monitoring data to determine exposure to chromium (VI), the employer shall establish and maintain an accurate record of the historical monitoring data relied upon.
+(ii) The record shall include information that reflects the following conditions:
+(A) The data were collected using methods that meet the accuracy requirements of paragraph (d)(5) of this section;
+(B) The processes and work practices that were in use when the historical monitoring data were obtained are essentially the same as those to be used during the job for which exposure is being determined;

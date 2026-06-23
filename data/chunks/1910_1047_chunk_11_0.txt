@@ -1,0 +1,20 @@
+§ 1910.1047 Ethylene oxide.
+(C) The location and availability of the written EtO final rule; and
+(D) The medical surveillance program required by paragraph (i) of this section with an explanation of the information in appendix C.
+(iii) Employee training shall include at least:
+(A) Methods and observations that may be used to detect the presence or release of EtO in the work area (such as monitoring conducted by the employer, continuous monitoring devices, etc.);
+(B) The physical and health hazards of EtO;
+(C) The measures employees can take to protect themselves from hazards associated with EtO exposure, including specific procedures the employer has implemented to protect employees from exposure to EtO, such as work practices, emergency procedures, and personal protective equipment to be used; and
+(D) The details of the hazard communication program developed by the employer, including an explanation of the labeling system and how employees can obtain and use the appropriate hazard information.
+(k) Recordkeeping —(1) Objective data for exempted operations. (i) Where the processing, use, or handling of products made from or containing EtO are exempted from other requirements of this section under paragraph (a)(2) of this section, or where objective data have been relied on in lieu of initial monitoring under paragraph (d)(2)(ii) of this section, the employer shall establish and maintain an accurate record of objective data reasonably relied upon in support of the exemption.
+(ii) This record shall include at least the following information:
+(A) The product qualifying for exemption;
+(B) The source of the objective data;
+(C) The testing protocol, results of testing, and/or analysis of the material for the release of EtO;
+(D) A description of the operation exempted and how the data support the exemption; and
+(E) Other data relevant to the operations, materials, processing, or employee exposures covered by the exemption.
+(iii) The employer shall maintain this record for the duration of the employer's reliance upon such objective data.
+(2) Exposure measurements. (i) The employer shall keep an accurate record of all measurements taken to monitor employee exposure to EtO as prescribed in paragraph (d) of this section.
+(ii) This record shall include at least the following information:
+(A) The date of measurement;
+(B) The operation involving exposure to EtO which is being monitored;

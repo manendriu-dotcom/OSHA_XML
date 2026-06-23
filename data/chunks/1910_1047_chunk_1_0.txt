@@ -1,0 +1,12 @@
+§ 1910.1047 Ethylene oxide.
+(b) Definitions: For the purpose of this section, the following definitions shall apply:
+Action level means a concentration of airborne EtO of 0.5 ppm calculated as an eight (8)-hour time-weighted average.
+Assistant Secretary means the Assistant Secretary of Labor for Occupational Safety and Health, U.S. Department of Labor, or designee.
+Authorized person means any person specifically authorized by the employer whose duties require the person to enter a regulated area, or any person entering such an area as a designated representative of employees for the purpose of exercising the right to observe monitoring and measuring procedures under paragraph (l) of this section, or any other person authorized by the Act or regulations issued under the Act.
+Director means the Director of the National Institute for Occupational Safety and Health, U.S. Department of Health and Human Services, or designee.
+Emergency means any occurrence such as, but not limited to, equipment failure, rupture of containers, or failure of control equipment that is likely to or does result in an unexpected significant release of EtO.
+Employee exposure means exposure to airborne EtO which would occur if the employee were not using respiratory protective equipment.
+Ethylene oxide or EtO means the three-membered ring organic compound with chemical formula C 2 H 4 O.
+(c) Permissible exposure limits —(1) 8-hour time weighted average (TWA). The employer shall ensure that no employee is exposed to an airborne concentration of EtO in excess of one (1) part EtO per million parts of air (1 ppm) as an 8-hour time-weighted average (8-hour TWA).
+(2) Excursion limit. The employer shall ensure that no employee is exposed to an airborne concentration of EtO in excess of 5 parts of EtO per million parts of air (5 ppm) as averaged over a sampling period of fifteen (15) minutes.
+(d) Exposure monitoring —(1) General. (i) Determinations of employee exposure shall be made from breathing zone air samples that are representative of the 8-hour TWA and 15-minute short-term exposures of each employee.

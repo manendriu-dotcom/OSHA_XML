@@ -1,0 +1,10 @@
+§ 1910.241 Definitions.
+As used in this subpart:
+(a) Explosive-actuated fastening tool terms —(1) Hammer-operated piston tool — low-velocity type. A tool which, by means of a heavy mass hammer supplemented by a load, moves a piston designed to be captive to drive a stud, pin, or fastener into a work surface, always starting the fastener at rest and in contact with the work surface. It shall be so designed that when used with any load that accurately chambers in it and that is commercially available at the time the tool is submitted for approval, it will not cause such stud, pin, or fastener to have a mean velocity in excess of 300 feet per second when measured 6.5 feet from the muzzle end of the barrel.
+(2) High-velocity tool. A tool or machine which, when used with a load, propels or discharges a stud, pin, or fastener, at velocities in excess of 300 feet per second when measured 6.5 feet from the muzzle end of the barrel, for the purpose of impinging it upon, affixing it to, or penetrating another object or material.
+(3) Low-velocity piston tool. A tool that utilizes a piston designed to be captive to drive a stud, pin, or fastener into a work surface. It shall be so designed that when used with any load that accurately chambers in it and that is commercially available at the time the tool is submitted for approval, it will not cause such stud, pin, or fastener to have a mean velocity in excess of 300 feet per second when measured 6.5 feet from the muzzle end of the barrel.
+(4) Stud, pin, or fastener. A fastening device specifically designed and manufactured for use in explosive-actuated fastening tools.
+(5) To chamber. To fit properly without the use of excess force, the case being duly supported.
+(6) Explosive powerload, also known as load. Any substance in any form capable of producing a propellant force.
+(7) Tool. An explosive-actuated fastening tool, unless otherwise indicated, and all accessories pertaining thereto.
+(8) Protective shield or guard. A device or guard attached to the muzzle end of the tool, which is designed to confine flying particles.

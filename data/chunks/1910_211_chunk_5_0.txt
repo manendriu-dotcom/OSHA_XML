@@ -1,0 +1,15 @@
+§ 1910.211 Definitions.
+(10) Counterbalance means the mechanism that is used to balance or support the weight of the connecting rods, slide, and slide attachments.
+(11) Device means a press control or attachment that:
+(i) Restrains the operator from inadvertently reaching into the point of operation, or
+(ii) Prevents normal press operation if the operator's hands are inadvertently within the point of operation, or
+(iii) Automatically withdraws the operator's hands if the operator's hands are inadvertently within the point of operation as the dies close, or
+(iv) Prevents the initiation of a stroke, or stops of stroke in progress, when there is an intrusion through the sensing field by any part of the operator's body or by any other object.
+(12) Presence sensing device means a device designed, constructed and arranged to create a sensing field or area that signals the clutch/brake control to deactivate the clutch and activate the brake of the press when any part of the operator's body or a hand tool is within such field or area.
+(13) Gate or movable barrier device means a movable barrier arranged to enclose the point of operation before the press stroke can be started.
+(14) Holdout or restraint device means a mechanism, including attachments for operator's hands, that when anchored and adjusted prevent the operator's hands from entering the point of operation.
+(15) Pull-out device means a mechanism attached to the operator's hands and connected to the upper die or slide of the press, that is designed, when properly adjusted, to withdraw the operator's hands as the dies close, if the operator's hands are inadvertently within the point of operation.
+(16) Sweep device means a single or double arm (rod) attached to the upper die or slide of the press and designed to move the operator's hands to a safe position as the dies close, if the operator's hands are inadvertently within the point of operation.
+(17) Two hand control device means a two hand trip that further requires concurrent pressure from both hands of the operator during a substantial part of the die-closing portion of the stroke of the press.
+(18) Die means the tooling used in a press for cutting or forming material. An upper and a lower die make a complete set.
+(19) Die builder means any person who builds dies for power presses.

@@ -1,0 +1,12 @@
+§ 1910.6 Incorporation by reference.
+(3) ISO 10156:1996 (E), Gases and Gas Mixtures—Determination of Fire Potential and Oxidizing Ability for the Selection of Cylinder Valve Outlets, Second Edition, Feb. 15, 1996, IBR approved for appendix B to § 1910.1200.
+(4) ISO 10156-2:2005 (E), Gas cylinders—Gases and Gas Mixtures—Part 2: Determination of Oxidizing Ability of Toxic and Corrosive Gases and Gas Mixtures, First Edition, Aug. 1, 2005, IBR approved for Appendix B to § 1910.1200.
+(5) ISO 13943:2000 (E/F), Fire Safety—Vocabulary, First Edition, April, 15, 2000, IBR approved for appendix B to § 1910.1200.
+(s) The following material is available for purchase from the National Electrical Manufacturer's Association (NEMA):
+(1) NEMA EW-1 (1962) Requirements for Electric Arc Welding Apparatus, IBR approved for §§ 1910.254(b)(1).
+(2) [Reserved]
+(t) The following material is available for purchase from the National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02269; Telephone: 800-344-3555 or 617-770-3000; Fax: 1-800-593-6372 or 1-508-895-8301; Email: custserv@nfpa.org; Web site: http://www.nfpa.org.
+(1) NFPA 30 (1969) Flammable and Combustible Liquids Code, IBR approved for § 1910.178(f)(1).
+(2) NFPA 32-1970 Standard for Dry Cleaning Plants, IBR approved for § 1910.106(j)(6)(i).
+(3) NFPA 33-1969 Standard for Spray Finishing Using Flammable and Combustible Material, IBR approved for § 1910.94(c)(2).
+(4) NFPA 34-1966 Standard for Dip Tanks Containing Flammable or Combustible Liquids, IBR approved for § 1910.124(b)(4)(iv).

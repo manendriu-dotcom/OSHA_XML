@@ -1,0 +1,16 @@
+§ 1910.1050 Methylenedianiline.
+(8) Where products containing MDA are exempted under paragraphs (a)(2) through (a)(7) of this section, the employer shall maintain records of the initial monitoring results or objective data supporting that exemption and the basis for the employer's reliance on the data, as provided in the recordkeeping provision of paragraph (n) of this section.
+(b) Definitions. For the purpose of this section, the following definitions shall apply:
+Action level means a concentration of airborne MDA of 5 ppb as an eight (8)-hour time-weighted average.
+Assistant Secretary means the Assistant Secretary of Labor for Occupational Safety and Health, U.S. Department of Labor, or designee.
+Authorized person means any person specifically authorized by the employer whose duties require the person to enter a regulated area, or any person entering such an area as a designated representative of employees, for the purpose of exercising the right to observe monitoring and measuring procedures under paragraph (o) of this section, or any other person authorized by the Act or regulations issued under the Act.
+Container means any barrel, bottle, can, cylinder, drum, reaction vessel, storage tank, commercial packaging or the like, but does not include piping systems.
+Dermal exposure to MDA occurs where employees are engaged in the handling, application or use of mixtures or materials containing MDA, with any of the following non-airborne forms of MDA:
+(i) Liquid, powdered, granular, or flaked mixtures containing MDA in concentrations greater than 0.1% by weight or volume; and
+(ii) Materials other than "finished articles" containing MDA in concentrations greater than 0.1% by weight or volume.
+Director means the Director of the National Institute for Occupational Safety and Health, U.S. Department of Health and Human Services, or designee.
+Emergency means any occurrence such as, but not limited to, equipment failure, rupture of containers, or failure of control equipment which results in an unexpected and potentially hazardous release of MDA.
+Employee exposure means exposure to MDA which would occur if the employee were not using respirators or protective work clothing and equipment.
+Finished article containing MDA is defined as a manufactured item:
+(i) Which is formed to a specific shape or design during manufacture;
+(ii) Which has end use function(s) dependent in whole or part upon its shape or design during end use; and

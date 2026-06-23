@@ -1,0 +1,13 @@
+§ 1910.181 Derricks.
+(32) A standby derrick is a derrick not in regular service which is used occasionally or intermittently as required.
+(33) Stiffleg means a rigid member supporting the mast at the head.
+(34) Swing means rotation of the mast and/or boom for movements of loads in a horizontal direction about the axis of rotation.
+(b) General requirements —(1) Application. This section applies to guy, stiffleg, basket, breast, gin pole, Chicago boom and A-frame derricks of the stationary type, capable of handling loads at variable reaches and powered by hoists through systems of rope reeving, used to perform lifting hook work, single or multiple line bucket work, grab, grapple, and magnet work. Derricks may be permanently installed for temporary use as in construction work. The requirements of this section also apply to any modification of these types which retain their fundamental features, except for floating derricks.
+(2) New and existing equipment. All new derricks constructed and installed on or after August 31, 1971, shall meet the design specifications of the American National Standard Safety Code for Derricks, ANSI B30.6-1969, which is incorporated by reference as specified in § 1910.6.
+(3) Designated personnel. Only designated personnel shall be permitted to operate a derrick covered by this section.
+(c) Load ratings —(1) Rated load marking. For permanently installed derricks with fixed lengths of boom, guy, and mast, a substantial, durable, and clearly legible rating chart shall be provided with each derrick and securely affixed where it is visible to personnel responsible for the safe operation of the equipment. The chart shall include the following data:
+(i) Manufacturer's approved load ratings at corresponding ranges of boom angle or operating radii.
+(ii) Specific lengths of components on which the load ratings are based.
+(iii) Required parts for hoist reeving. Size and construction of rope may be shown either on the rating chart or in the operating manual.
+(2) Nonpermanent installations. For nonpermanent installations, the manufacturer shall provide sufficient information from which capacity charts can be prepared for the particular installation. The capacity charts shall be located at the derricks or the jobsite office.
+(d) Inspection —(1) Inspection classification. (i) Prior to initial use all new and altered derricks shall be inspected to insure compliance with the provisions of this section.

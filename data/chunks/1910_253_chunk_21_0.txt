@@ -1,0 +1,11 @@
+§ 1910.253 Oxygen-fuel gas welding and cutting.
+(E) When the gas holder is connected to only one generator, the gas capacity of the holder shall be not less than one-third of the hourly rating of the generator.
+(F) If acetylene is used from the gas holder without increase in pressure at some points but with increase in pressure by a compressor or booster pump at other points, approved piping protective devices shall be installed in each supply line. The low-pressure protective device shall be located between the gas holder and the shop piping, and the medium-pressure protective device shall be located between the compressor or booster pump and the shop piping (see Figure Q-4). Approved protective equipment (designated P F ) is used to prevent: Backflow of oxygen into the fuel-gas supply system; passage of a flashback into the fuel-gas supply system; and excessive back pressure of oxygen in the fuel-gas supply system. The three functions of the protective equipment may be combined in one device or may be provided by separate devices.
+EC27OC91.085
+(iv)(A) The compressor or booster system shall be of an approved type.
+(B) Wiring and electric equipment in compressor or booster pump rooms or enclosures shall conform to the provisions of subpart S of this part for Class I, Division 2 locations.
+(C) Compressors and booster pump equipment shall be located in well-ventilated areas away from open flames, electrical or mechanical sparks, or other ignition sources.
+(D) Compressor or booster pumps shall be provided with pressure relief valves which will relieve pressure exceeding 15 psig (103 kPa gauge pressure) to a safe outdoor location as provided in paragraph (f)(4)(ii) of this section, or by returning the gas to the inlet side or to the gas supply source.
+(E) Compressor or booster pump discharge outlets shall be provided with approved protective equipment. (See paragraph (e) of this section.)
+(5) Portable acetylene generators. (i)(A) All portable generators shall be of a type approved for portable use.
+(B) Portable generators shall not be used within 10 feet (3 m) of combustible material other than the floor.

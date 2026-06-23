@@ -1,0 +1,12 @@
+§ 1910.1047 Ethylene oxide.
+(a) Scope and application. (1) This section applies to all occupational exposures to ethylene oxide (EtO), Chemical Abstracts Service Registry No. 75-21-8, except as provided in paragraph (a)(2) of this section.
+(2) This section does not apply to the processing, use, or handling of products containing EtO where objective data are reasonably relied upon that demonstrate that the product is not capable of releasing EtO in airborne concentrations at or above the action level, and may not reasonably be foreseen to release EtO in excess of the excursion limit, under the expected conditions of processing, use, or handling that will cause the greatest possible release.
+(3) Where products containing EtO are exempted under paragraph (a)(2) of this section, the employer shall maintain records of the objective data supporting that exemption and the basis for the employer's reliance on the data, as provided in paragraph (k)(1) of this section.
+(b) Definitions: For the purpose of this section, the following definitions shall apply:
+Action level means a concentration of airborne EtO of 0.5 ppm calculated as an eight (8)-hour time-weighted average.
+Assistant Secretary means the Assistant Secretary of Labor for Occupational Safety and Health, U.S. Department of Labor, or designee.
+Authorized person means any person specifically authorized by the employer whose duties require the person to enter a regulated area, or any person entering such an area as a designated representative of employees for the purpose of exercising the right to observe monitoring and measuring procedures under paragraph (l) of this section, or any other person authorized by the Act or regulations issued under the Act.
+Director means the Director of the National Institute for Occupational Safety and Health, U.S. Department of Health and Human Services, or designee.
+Emergency means any occurrence such as, but not limited to, equipment failure, rupture of containers, or failure of control equipment that is likely to or does result in an unexpected significant release of EtO.
+Employee exposure means exposure to airborne EtO which would occur if the employee were not using respiratory protective equipment.
+Ethylene oxide or EtO means the three-membered ring organic compound with chemical formula C 2 H 4 O.

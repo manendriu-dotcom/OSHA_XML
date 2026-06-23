@@ -1,0 +1,13 @@
+§ 1910.1096 Ionizing radiation.
+(iv) Where containers are used for storage, the labels required in this subparagraph shall state also the quantities and kinds of radioactive materials in the containers and the date of measurement of the quantities.
+(f) Immediate evacuation warning signal —(1) Signal characteristics. (i) The signal shall be a midfrequency complex sound wave amplitude modulated at a subsonic frequency. The complex sound wave in free space shall have a fundamental frequency (f 1 ) between 450 and 500 hertz (Hz) modulated at a subsonic rate between 4 and 5 hertz.
+(ii) The signal generator shall not be less than 75 decibels at every location where an individual may be present whose immediate, rapid, and complete evacuation is essential.
+(iii) A sufficient number of signal units shall be installed such that the requirements of paragraph (f)(1)(ii) of this section are met at every location where an individual may be present whose immediate, rapid, and complete evacuation is essential.
+(iv) The signal shall be unique in the plant or facility in which it is installed.
+(v) The minimum duration of the signal shall be sufficient to insure that all affected persons hear the signal.
+(vi) The signal-generating system shall respond automatically to an initiating event without requiring any human action to sound the signal.
+(2) Design objectives. (i) The signal-generating system shall be designed to incorporate components which enable the system to produce the desired signal each time it is activated within one-half second of activation.
+(ii) The signal-generating system shall be provided with an automatically activated secondary power supply which is adequate to simultaneously power all emergency equipment to which it is connected, if operation during power failure is necessary, except in those systems using batteries as the primary source of power.
+(iii) All components of the signal-generating system shall be located to provide maximum practicable protection against damage in case of fire, explosion, corrosive atmosphere, or other environmental extremes consistent with adequate system performance.
+(iv) The signal-generating system shall be designed with the minimum number of components necessary to make it function as intended, and should utilize components which do not require frequent servicing such as lubrication or cleaning.
+(v) Where several activating devices feed activating information to a central signal generator, failure of any activating device shall not render the signal-generator system inoperable to activating information from the remaining devices.

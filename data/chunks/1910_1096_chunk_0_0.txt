@@ -1,0 +1,11 @@
+§ 1910.1096 Ionizing radiation.
+(a) Definitions applicable to this section —(1) Radiation includes alpha rays, beta rays, gamma rays, X-rays, neutrons, high-speed electrons, high-speed protons, and other atomic particles; but such term does not include sound or radio waves, or visible light, or infrared or ultraviolet light.
+(2) Radioactive material means any material which emits, by spontaneous nuclear disintegration, corpuscular or electromagnetic emanations.
+(3) Restricted area means any area access to which is controlled by the employer for purposes of protection of individuals from exposure to radiation or radioactive materials.
+(4) Unrestricted area means any area access to which is not controlled by the employer for purposes of protection of individuals from exposure to radiation or radioactive materials.
+(5) Dose means the quantity of ionizing radiation absorbed, per unit of mass, by the body or by any portion of the body. When the provisions in this section specify a dose during a period of time, the dose is the total quantity of radiation absorbed, per unit of mass, by the body or by any portion of the body during such period of time. Several different units of dose are in current use. Definitions of units used in this section are set forth in paragraphs (a) (6) and (7) of this section.
+(6) Rad means a measure of the dose of any ionizing radiation to body tissues in terms of the energy absorbed per unit of mass of the tissue. One rad is the dose corresponding to the absorption of 100 ergs per gram of tissue (1 millirad (mrad) = 0.001 rad).
+(7) Rem means a measure of the dose of any ionizing radiation to body tissue in terms of its estimated biological effect relative to a dose of 1 roentgen (r) of X-rays (1 millirem (mrem) = 0.001 rem). The relation of the rem to other dose units depends upon the biological effect under consideration and upon the conditions for irradiation. Each of the following is considered to be equivalent to a dose of 1 rem:
+(i) A dose of 1 roentgen due to X- or gamma radiation;
+(ii) A dose of 1 rad due to X-, gamma, or beta radiation;
+(iii) A dose of 0.1 rad due to neutrons or high energy protons;

@@ -1,0 +1,12 @@
+§ 1910.502 Healthcare.
+(i) Minimize the risk of transmission of COVID-19 for each employee, as required by paragraphs (d) through (n) of this section;
+Note: Note to paragraph ( c )(7)( i ): Although the employer's COVID-19 plan must account for the potential COVID-19 exposures to each employee, the plan can do so generally and need not address each employee individually.
+(ii) Effectively communicate and coordinate with other employers:
+(A) When employees of different employers share the same physical location, each employer must effectively communicate its COVID-19 plan to all other employers, coordinate to ensure that each of its employees is protected as required by this section, and adjust its COVID-19 plan to address any particular COVID-19 hazards presented by the other employees. This requirement does not apply to delivery people, messengers, and other employees who only enter a workplace briefly to drop off or pick up items.
+(B) An employer with one or more employees working in a physical location controlled by another employer must notify the controlling employer when those employees are exposed to conditions at that location that do not meet the requirements of this section; and
+(iii) Protect employees who in the course of their employment enter into private residences or other physical locations controlled by a person not covered by the OSH Act ( e.g., homeowners, sole proprietors). This must include procedures for employee withdrawal from that location if those protections are inadequate.
+Note: Note to paragraph ( c ): The employer may include other policies, procedures, or information necessary to comply with any applicable federal, state, or local public health laws, standards, and guidelines in their COVID-19 plan.
+(d) Patient screening and management. In settings where direct patient care is provided, the employer must:
+(1) Limit and monitor points of entry to the setting. This provision does not apply where emergency responders or other licensed healthcare providers enter a non-healthcare setting to provide healthcare services.
+(2) Screen and triage all clients, patients, residents, delivery people and other visitors, and other non-employees entering the setting.
+(3) Implement other applicable patient management strategies in accordance with CDC's "COVID-19 Infection Prevention and Control Recommendations" (incorporated by reference, § 1910.509).

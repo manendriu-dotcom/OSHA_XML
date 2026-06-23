@@ -1,0 +1,15 @@
+§ 1910.1044 1,2-dibromo-3-chloropropane.
+(ii) Maintenance and repair activities for which engineering and work-practice controls are not feasible.
+(iii) Work operations for which feasible engineering and work-practice controls are not yet sufficient to reduce employee exposure to or below the permissible exposure limit.
+(iv) Emergencies.
+(2) Respirator program. The employer must implement a respiratory protection program in accordance with § 1910.134(b) through (d) (except (d)(1)(iii)), and (f) through (m), which covers each employee required by this section to use a respirator.
+(3) Respirator selection. Employers must:
+(i) Select, and provide to employees, the appropriate atmosphere-supplying respirator specified in paragraph (d)(3)(i)(A) of 29 CFR 1910.134.
+(ii) Provide employees with one of the following respirator options to use for entry into, or escape from, unknown DBCP concentrations:
+(A) A combination respirator that includes a supplied-air respirator with a full facepiece operated in a pressure-demand or other positive-pressure or continuous-flow mode, as well as an auxiliary self-contained breathing apparatus (SCBA) operated in a pressure-demand or positive-pressure mode.
+(B) An SCBA with a full facepiece operated in a pressure-demand or other positive-pressure mode.
+(i) Emergency situations —(1) Written plans. (i) A written plan for emergency situations shall be developed for each workplace in which DBCP is present.
+(ii) Appropriate portions of the plan shall be implemented in the event of an emergency.
+(2) Employees engaged in correcting emergency conditions shall be equipped as required in paragraphs (h) and (j) of this section until the emergency is abated.
+(3) Evacuation. Employees not engaged in correcting the emergency shall be removed and restricted from the area and normal operations in the affected area shall not be resumed until the emergency is abated.
+(4) Alerting employees. Where there is a possibility of employee exposure to DBCP due to the occurrence of an emergency, a general alarm shall be installed and maintained to promptly alert employees of such occurrences.

@@ -1,0 +1,13 @@
+§ 1910.217 Mechanical power presses.
+( b ) The device may not be used as a tripping means to initiate slide motion, except when used in total conformance with paragraph (h) of this section.
+( c ) The device shall be constructed so that a failure within the system does not prevent the normal stopping action from being applied to the press when required, but does prevent the initiation of a successive stroke until the failure is corrected. The failure shall be indicated by the system.
+( d ) Muting (bypassing of the protective function) of such device, during the upstroke of the press slide, is permitted for the purpose of parts ejection, circuit checking, and feeding.
+( e ) The safety distance (D s ) from the sensing field to the point of operation shall be greater than the distance determined by the following formula:
+D s = 63 inches/second x T s
+( f ) Guards shall be used to protect all areas of entry to the point of operation not protected by the presence sensing device.
+(iv) The pull-out device shall protect the operator as specified in paragraph (c)(3)(i)( b ) of this section, and shall include attachments for each of the operator's hands.
+( a ) Attachments shall be connected to and operated only by the press slide or upper die.
+( b ) Attachments shall be adjusted to prevent the operator from reaching into the point of operation or to withdraw the operator's hands from the point of operation before the dies close.
+( c ) A separate pull-out device shall be provided for each operator if more than one operator is used on a press.
+( d ) Each pull-out device in use shall be visually inspected and checked for proper adjustment at the start of each operator shift, following a new die set-up, and when operators are changed. Necessary maintenance or repair or both shall be performed and completed before the press is operated. Records of inspections and maintenance shall be kept in accordance with paragraph (e) of this section.
+(v) The sweep device may not be used for point of operation safeguarding.

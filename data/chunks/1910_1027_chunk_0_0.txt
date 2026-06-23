@@ -1,0 +1,12 @@
+§ 1910.1027 Cadmium.
+(a) Scope. This standard applies to all occupational exposures to cadmium and cadmium compounds, in all forms, and in all industries covered by the Occupational Safety and Health Act, except the construction-related industries, which are covered under 29 CFR 1926.63.
+(b) Definitions. Action level (AL) is defined as an airborne concentration of cadmium of 2.5 micrograms per cubic meter of air (2.5 µg/m 3 ), calculated as an 8-hour time-weighted average (TWA).
+Assistant Secretary means the Assistant Secretary of Labor for Occupational Safety and Health, U.S. Department of Labor, or designee.
+Authorized person means any person authorized by the employer and required by work duties to be present in regulated areas or any person authorized by the OSH Act or regulations issued under it to be in regulated areas.
+Director means the Director of the National Institute for Occupational Safety and Health (NIOSH), U.S. Department of Health and Human Services, or designee.
+Employee exposure and similar language referring to the air cadmium level to which an employee is exposed means the exposure to airborne cadmium that would occur if the employee were not using respiratory protective equipment.
+Final medical determination is the written medical opinion of the employee's health status by the examining physician under paragraphs (l)(3)-(12) of this section or, if multiple physician review under paragraph (l)(13) of this section or the alternative physician determination under paragraph (l)(14) of this section is invoked, it is the final, written medical finding, recommendation or determination that emerges from that process.
+High-efficiency particulate air (HEPA) filter means a filter capable of trapping and retaining at least 99.97 percent of mono-dispersed particles of 0.3 micrometers in diameter.
+Regulated area means an area demarcated by the employer where an employee's exposure to airborne concentrations of cadmium exceeds, or can reasonably be expected to exceed the permissible exposure limit (PEL).
+This section means this cadmium standard.
+(c) Permissible Exposure Limit (PEL). The employer shall assure that no employee is exposed to an airborne concentration of cadmium in excess of five micrograms per cubic meter of air (5 µg/m 3 ), calculated as an eight-hour time-weighted average exposure (TWA).

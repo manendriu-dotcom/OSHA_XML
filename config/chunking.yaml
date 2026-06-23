@@ -1,29 +1,38 @@
-# chunking.yaml — OSHA 1910 XML pipeline
-#
-# XML source notes:
-#   - Section markers are normalised to "§ 1910.XXX Title" by clean_text.py.
-#   - Subpart headers use an em-dash: "Subpart J—General Environmental Controls".
-#   - No fixed-window fallback needed: XML paragraphs are already clean units.
-#   - max_tokens_per_chunk can be safely raised to 600-700 for XML because
-#     chunks don't contain page-break noise; start at 512 and tune up.
-
 strategy: section
 
 # ── section-based chunking ──────────────────────────────────────────────────
 section:
-  # Regex patterns (informational — the actual patterns are compiled in chunk_osha.py)
   section_pattern: "^§\\s*(1910\\.\\S+)\\s+(.*)"
   subpart_pattern: "^Subpart\\s+([A-Z]+)—(.+)"   # em-dash required (clean_text.py enforces this)
 
-  # Maximum words per chunk before sub-splitting.
-  # XML produces clean paragraphs, so 512 is conservative — raise to 600 if
-  # you want fewer chunks without losing context.
-  max_tokens_per_chunk: 8000
+# ── per-model chunking parameters ───────────────────────────────────────────
+# Keys must match _EMBEDDING_MODELS keys in chunk_osha.py exactly.
+# max_tokens_per_chunk: hard ceiling for any single chunk (tokens).
+# overlap_tokens:       tokens of trailing context carried into the next chunk.
+#
+# Overlap sizing rationale:
+#   Small windows (512)  → 10 % overlap keeps context without wasting capacity.
+#   Large windows (7502+)→ flat 128 t is ample; percentage overlap wastes space.
+models:
+  all-minilm-l6-v2:
+    max_tokens_per_chunk: 256
+    overlap_tokens: 25
 
-  # Overlap in words when a section must be sub-split.
-  # XML paragraph-aware splitting (chunk_osha.py) uses this as a fallback;
-  # most sections will split cleanly on paragraph boundaries instead.
-  overlap_tokens: 64
+  qwen3-embedding:
+    max_tokens_per_chunk: 10100
+    overlap_tokens: 128
+
+  all-mpnet-base-v2:
+    max_tokens_per_chunk: 512
+    overlap_tokens: 51
+
+  granite-embedding-small-english-r2:
+    max_tokens_per_chunk: 8192
+    overlap_tokens: 128
+
+  mini-gte:
+    max_tokens_per_chunk: 512
+    overlap_tokens: 51
 
 # ── output ──────────────────────────────────────────────────────────────────
 output:

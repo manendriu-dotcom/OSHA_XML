@@ -1,0 +1,15 @@
+§ 1910.107 Spray finishing using flammable and combustible materials.
+(6) Belts. Belts shall not enter the duct or booth unless the belt and pulley within the duct or booth are thoroughly enclosed.
+(7) Exhaust ducts. Exhaust ducts shall be constructed of steel and shall be substantially supported. Exhaust ducts without dampers are preferred; however, if dampers are installed, they shall be maintained so that they will be in a full open position at all times the ventilating system is in operation.
+(i) Exhaust ducts shall be protected against mechanical damage and have a clearance from unprotected combustible construction or other combustible material of not less than 18 inches.
+(ii) If combustible construction is provided with the following protection applied to all surfaces within 18 inches, clearances may be reduced to the distances indicated:
+
+( a ) 28-gage sheet metal on 1/4 -inch asbestos mill board 12 inches.
+( b ) 28-gage sheet metal on 1/8 -inch asbestos mill board spaced out 1 inch on noncombustible spacers 9 inches.
+( c ) 22-gage sheet metal on 1-inch rockwool batts reinforced with wire mesh or the equivalent 3 inches.
+( d ) Where ducts are protected with an approved automatic sprinkler system, properly maintained, the clearance required in subdivision (i) of this subparagraph may be reduced to 6 inches
+
+(8) Discharge clearance. Unless the spray booth exhaust duct terminal is from a water-wash spray booth, the terminal discharge point shall be not less than 6 feet from any combustible exterior wall or roof nor discharge in the direction of any combustible construction or unprotected opening in any noncombustible exterior wall within 25 feet.
+(9) Air exhaust. Air exhaust from spray operations shall not be directed so that it will contaminate makeup air being introduced into the spraying area or other ventilating intakes, nor directed so as to create a nuisance. Air exhausted from spray operations shall not be recirculated.
+(10) Access doors. When necessary to facilitate cleaning, exhaust ducts shall be provided with an ample number of access doors.
+(11) Room intakes. Air intake openings to rooms containing spray finishing operations shall be adequate for the efficient operation of exhaust fans and shall be so located as to minimize the creation of dead air pockets.

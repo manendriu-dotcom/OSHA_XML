@@ -1,0 +1,11 @@
+§ 1910.1030 Bloodborne pathogens.
+(2) Hepatitis B Vaccination. (i) Hepatitis B vaccination shall be made available after the employee has received the training required in paragraph (g)(2)(vii)(I) and within 10 working days of initial assignment to all employees who have occupational exposure unless the employee has previously received the complete hepatitis B vaccination series, antibody testing has revealed that the employee is immune, or the vaccine is contraindicated for medical reasons.
+(ii) The employer shall not make participation in a prescreening program a prerequisite for receiving hepatitis B vaccination.
+(iii) If the employee initially declines hepatitis B vaccination but at a later date while still covered under the standard decides to accept the vaccination, the employer shall make available hepatitis B vaccination at that time.
+(iv) The employer shall assure that employees who decline to accept hepatitis B vaccination offered by the employer sign the statement in appendix A.
+(v) If a routine booster dose(s) of hepatitis B vaccine is recommended by the U.S. Public Health Service at a future date, such booster dose(s) shall be made available in accordance with section (f)(1)(ii).
+(3) Post-exposure Evaluation and Follow-up. Following a report of an exposure incident, the employer shall make immediately available to the exposed employee a confidential medical evaluation and follow-up, including at least the following elements:
+(i) Documentation of the route(s) of exposure, and the circumstances under which the exposure incident occurred;
+(ii) Identification and documentation of the source individual, unless the employer can establish that identification is infeasible or prohibited by state or local law;
+(A) The source individual's blood shall be tested as soon as feasible and after consent is obtained in order to determine HBV and HIV infectivity. If consent is not obtained, the employer shall establish that legally required consent cannot be obtained. When the source individual's consent is not required by law, the source individual's blood, if available, shall be tested and the results documented.
+(B) When the source individual is already known to be infected with HBV or HIV, testing for the source individual's known HBV or HIV status need not be repeated.

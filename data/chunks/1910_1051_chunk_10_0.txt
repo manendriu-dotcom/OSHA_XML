@@ -1,0 +1,12 @@
+§ 1910.1051 1,3-Butadiene.
+(vi) Regardless of the air-purifying element used, if an employee detects the odor of BD, the employer must replace the air-purifying element immediately.
+(3) Respirator selection. (i) The employer must select appropriate respirators from Table 1 of this section.
+
+Table 1—Minimum Requirements for Respiratory Protection for Airborne BD
+-----------------------------------------------------------------------
+Concentration of airborne BD (ppm) or condition of use Minimum required respirator
+--------------------------------------------------------------------------------
+Less than or equal to 5 ppm (5 times PEL) (a) Air-purifying half mask or full facepiece respirator equipped with approved BD or organic vapor cartridges or canisters. Cartridges or canisters shall be replaced every 4 hours.
+Less than or equal to 10 ppm (10 times PEL) (a) Air-purifying half mask or full facepiece respirator equipped with approved BD or organic vapor cartridges or canisters. Cartridges or canisters shall be replaced every 3 hours.
+Less than or equal to 25 ppm (25 times PEL) (a) Air-purifying full facepiece respirator equipped with approved BD or organic vapor cartridges or canisters. Cartridges or canisters shall be replaced every 2 hours.
+ (b) Any powered air-purifying respirator equipped with approved BD or organic vapor cartridges. PAPR cartridges shall be replaced every 2 hours.

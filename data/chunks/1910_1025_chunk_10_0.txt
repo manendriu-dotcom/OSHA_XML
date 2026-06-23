@@ -1,0 +1,11 @@
+§ 1910.1025 Lead.
+(A) At least every 6 months to each employee covered under paragraph (j)(1)(i) of this section;
+(B) At least every two months for each employee whose last blood sampling and analysis indicated a blood lead level at or above 40 µg/100 g of whole blood. This frequency shall continue until two consecutive blood samples and analyses indicate a blood lead level below 40 µg/100 g of whole blood; and
+(C) At least monthly during the removal period of each employee removed from exposure to lead due to an elevated blood lead level.
+(ii) Follow-up blood sampling tests. Whenever the results of a blood lead level test indicate that an employee's blood lead level is at or above the numerical criterion for medical removal under paragraph (k)(1)(i)(A) of this section, the employer shall provide a second (follow-up) blood sampling test within two weeks after the employer receives the results of the first blood sampling test.
+(iii) Accuracy of blood lead level sampling and analysis. Blood lead level sampling and analysis provided pursuant to this section shall have an accuracy (to a confidence level of 95 percent) within plus or minus 15 percent or 6 µg/100ml, whichever is greater, and shall be conducted by a laboratory licensed by the Center for Disease Control, United States Department of Health, Education and Welfare (CDC) or which has received a satisfactory grade in blood lead proficiency testing from CDC in the prior twelve months.
+(iv) Employee notification. Within five working days after the receipt of biological monitoring results, the employer shall notify in writing each employee whose blood lead level is at or above 40 µg/100 g:
+(A) Of that employee's blood lead level; and
+(B) That the standard requires temporary medical removal with Medical Removal Protection benefits when an employee's blood lead level is at or above the numerical criterion for medical removal under paragraph (k)(1)(i) of this section.
+(3) Medical examinations and consultations —(i) Frequency. The employer shall make available medical examinations and consultations to each employee covered under paragraph (j)(1)(i) of this section on the following schedule:
+(A) At least annually for each employee for whom a blood sampling test conducted at any time during the preceding 12 months indicated a blood lead level at or above 40 µg/100 g;

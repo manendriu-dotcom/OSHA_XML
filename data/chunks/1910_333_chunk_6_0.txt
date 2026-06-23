@@ -1,0 +1,7 @@
+§ 1910.333 Selection and use of work practices.
+( 2 ) For voltages to ground over 50kV—10 ft. (305 cm) plus 4 in. (10 cm) for every 10kV over 50kV.
+(B) When an unqualified person is working on the ground in the vicinity of overhead lines, the person may not bring any conductive object closer to unguarded, energized overhead lines than the distances given in paragraph (c)(3)(i)(A) of this section.
+Note: Note: For voltages normally encountered with overhead power lines, objects which do not have an insulating rating for the voltage involved are considered to be conductive.
+(ii) Qualified persons. When a qualified person is working in the vicinity of overhead lines, whether in an elevated position or on the ground, the person may not approach or take any conductive object without an approved insulating handle closer to exposed energized parts than shown in Table S-5 unless:
+(A) The person is insulated from the energized part (gloves, with sleeves if necessary, rated for the voltage involved are considered to be insulation of the person from the energized part on which work is performed), or
+(B) The energized part is insulated both from all other conductive objects at a different potential and from the person, or

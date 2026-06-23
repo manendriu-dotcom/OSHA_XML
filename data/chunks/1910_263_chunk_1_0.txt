@@ -1,0 +1,15 @@
+§ 1910.263 Bakery equipment.
+(2) Bag chutes and bag lifts (bag-arm elevators). (i) Bag chutes (gravity chutes for handling flour bags) shall be so designed so as to keep to a minimum the speed of flour bags. If the chute inclines more than 30 degrees from the horizontal, there shall be an upturn at the lower end of the chute to slow down the bags.
+(ii) Bag-arm elevators with manual takeoff shall be designed to operate at a capacity not exceeding seven bags per minute. The arms on the conveyor chain shall be so spaced as to obtain the full capacity of the elevator with the lowest possible chain speed. There shall be an electric limit switch at the unloading end of the bag-arm elevator so installed as to automatically stop the conveyor chain if any bag fails to clear the conveyor arms.
+(iii) [Reserved]
+(iv) Man lifts shall be prohibited in bakeries. Bag or barrel lifts shall not be used as man lifts.
+(3) Dumpbin and blender.
+(i)-(iv) [Reserved]
+(v) All dumpbin and blender hoods shall be of sufficient capacity to prevent circulation of flour dust outside the hoods.
+(vi) All dumpbins shall be of a suitable height from floor to enable the operator to dump flour from bags, without causing undue strain or fatigue. Where the edge of any bin is more than 24 inches above the flour, a bag rest step shall be provided.
+(vii) A control device for stopping the dumpbin and blender shall be provided close to the normal location of the operator.
+(4)-(5) [Reserved]
+(6) Storage bins.
+(i) [Reserved]
+(ii) Storage bins shall be provided with gaskets and locks or latches to keep the cover closed, or other equivalent devices in order to insure the dust tightness of the cover. Covers at openings where an employee may enter the bin shall also be provided with a hasp and a lock, so located that the employee may lock the cover in the open position whenever it is necessary to enter the bin.
+(iii) Storage bins where the side is more than 5 feet in depth shall be provided with standard stationary safety ladders, both inside and outside, to reach from floor level to top of bin and from top of bin to inside bottom, keeping the ladder end away from the moving screw conveyor.

@@ -1,0 +1,21 @@
+§ 1910.1050 Methylenedianiline.
+(4) Surfaces contaminated with MDA may not be cleaned by the use of compressed air.
+(5) Shoveling, dry sweeping, and other methods of dry clean-up of MDA may be used where HEPA-filtered vacuuming and/or wet cleaning are not feasible or practical.
+(6) Waste, scrap, debris, bags, containers, equipment, and clothing contaminated with MDA shall be collected and disposed of in a manner to prevent the re-entry of MDA into the workplace.
+(m) Medical surveillance —(1) General. (i) The employer shall make available a medical surveillance program for employees exposed to MDA:
+(A) Employees exposed at or above the action level for 30 or more days per year;
+(B) Employees who are subject to dermal exposure to MDA for 15 or more days per year;
+(C) Employees who have been exposed in an emergency situation;
+(D) Employees whom the employer, based on results from compliance with paragraph (e)(8) of this section, has reason to believe are being dermally exposed; and
+(E) Employees who show signs or symptoms of MDA exposure.
+(ii) The employer shall ensure that all medical examinations and procedures are performed by, or under the supervision of, a licensed physician, at a reasonable time and place, and provided without cost to the employee.
+(2) Initial examinations. (i) Within 150 days of the effective date of this standard, or before the time of initial assignment, the employer shall provide each employee covered by paragraph (m)(1)(i) of this section with a medical examination including the following elements:
+(A) A detailed history which includes:
+( 1 ) Past work exposure to MDA or any other toxic substances;
+( 2 ) A history of drugs, alcohol, tobacco, and medication routinely taken (duration and quantity); and
+( 3 ) A history of dermatitis, chemical skin sensitization, or previous hepatic disease.
+(B) A physical examination which includes all routine physical examination parameters, skin examination, and signs of liver disease.
+(C) Laboratory tests including:
+( 1 ) Liver function tests and
+( 2 ) Urinalysis.
+(D) Additional tests as necessary in the opinion of the physician.

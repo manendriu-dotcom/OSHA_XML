@@ -1,0 +1,11 @@
+§ 1910.1053 Respirable crystalline silica.
+(2) Respiratory protection program. Where respirator use is required by this section, the employer shall institute a respiratory protection program in accordance with 29 CFR 1910.134.
+(h) Housekeeping. (1) The employer shall not allow dry sweeping or dry brushing where such activity could contribute to employee exposure to respirable crystalline silica unless wet sweeping, HEPA-filtered vacuuming or other methods that minimize the likelihood of exposure are not feasible.
+(2) The employer shall not allow compressed air to be used to clean clothing or surfaces where such activity could contribute to employee exposure to respirable crystalline silica unless:
+(i) The compressed air is used in conjunction with a ventilation system that effectively captures the dust cloud created by the compressed air; or
+(ii) No alternative method is feasible.
+(i) Medical surveillance —(1) General. (i) The employer shall make medical surveillance available at no cost to the employee, and at a reasonable time and place, for each employee who will be occupationally exposed to respirable crystalline silica at or above the action level for 30 or more days per year.
+(ii) The employer shall ensure that all medical examinations and procedures required by this section are performed by a PLHCP as defined in paragraph (b) of this section.
+(2) Initial examination . The employer shall make available an initial (baseline) medical examination within 30 days after initial assignment, unless the employee has received a medical examination that meets the requirements of this section within the last three years. The examination shall consist of:
+(i) A medical and work history, with emphasis on: Past, present, and anticipated exposure to respirable crystalline silica, dust, and other agents affecting the respiratory system; any history of respiratory system dysfunction, including signs and symptoms of respiratory disease (e.g., shortness of breath, cough, wheezing); history of tuberculosis; and smoking status and history;
+(ii) A physical examination with special emphasis on the respiratory system;

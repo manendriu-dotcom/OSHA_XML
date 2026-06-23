@@ -1,0 +1,12 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+(ii) A designated employee other than the equipment operator shall observe the approach distance to exposed lines and equipment and provide timely warnings before the minimum approach distance required by paragraph (p)(4)(i) of this section is reached, unless the employer can demonstrate that the operator can accurately determine that the minimum approach distance is being maintained.
+(iii) If, during operation of the mechanical equipment, that equipment could become energized, the operation also shall comply with at least one of paragraphs (p)(4)(iii)(A) through (p)(4)(iii)(C) of this section.
+(A) The energized lines or equipment exposed to contact shall be covered with insulating protective material that will withstand the type of contact that could be made during the operation.
+(B) The mechanical equipment shall be insulated for the voltage involved. The mechanical equipment shall be positioned so that its uninsulated portions cannot approach the energized lines or equipment any closer than the minimum approach distances, established by the employer under paragraph (l)(3)(i) of this section.
+(C) Each employee shall be protected from hazards that could arise from mechanical equipment contact with energized lines or equipment. The measures used shall ensure that employees will not be exposed to hazardous differences in electric potential. Unless the employer can demonstrate that the methods in use protect each employee from the hazards that could arise if the mechanical equipment contacts the energized line or equipment, the measures used shall include all of the following techniques:
+( 1 ) Using the best available ground to minimize the time the lines or electric equipment remain energized,
+( 2 ) Bonding mechanical equipment together to minimize potential differences,
+( 3 ) Providing ground mats to extend areas of equipotential, and
+( 4 ) Employing insulating protective equipment or barricades to guard against any remaining hazardous electrical potential differences.
+Note: Note to paragraph ( p )(4)( iii )(C): Appendix C to this section contains information on hazardous step and touch potentials and on methods of protecting employees from hazards resulting from such potentials.
+(q) Overhead lines and live-line barehand work. This paragraph provides additional requirements for work performed on or near overhead lines and equipment and for live-line barehand work.

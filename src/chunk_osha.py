@@ -224,34 +224,61 @@ def split_on_paragraphs(text: str, max_tokens: int, overlap: int) -> list[tuple[
 
 # ── model selection ───────────────────────────────────────────────────────────
 
-_EMBEDDING_MODELS = {
-    "all-minilm-l6-v2": ("all-MiniLM-L6-v2", 512),
-    "qwen3-embedding-0.6b": ("Qwen3-Embedding-0.6B", 8000),
+# Maps CLI-friendly keys → canonical display name.
+# Chunking parameters (max_tokens_per_chunk, overlap_tokens) live in
+# chunking.yaml under the 'models' block — the yaml is the single source
+# of truth so both files stay in sync without touching Python code.
+_EMBEDDING_MODELS: dict[str, str] = {
+    "all-minilm-l6-v2":                  "all-MiniLM-L6-v2",
+    "qwen3-embedding":                    "Qwen3-Embedding",
+    "all-mpnet-base-v2":                  "all-mpnet-base-v2",
+    "granite-embedding-small-english-r2": "granite-embedding-small-english-r2",
+    "mini-gte":                           "mini-gte",
 }
 
+# Ordered list for the interactive menu: (cli_key, display_name)
+_MODEL_MENU: list[tuple[str, str]] = [
+    ("all-minilm-l6-v2",                  "all-MiniLM-L6-v2"),
+    ("qwen3-embedding",                   "Qwen3-Embedding"),
+    ("all-mpnet-base-v2",                 "all-mpnet-base-v2"),
+    ("granite-embedding-small-english-r2","granite-embedding-small-english-r2"),
+    ("mini-gte",                          "mini-gte"),
+]
 
-def choose_embedding_model(model_name: str | None = None) -> tuple[str, int]:
-    """Return an embedding model and recommended max token limit."""
+
+def choose_embedding_model(model_name: str | None = None) -> tuple[str, str]:
+    """Return (cli_key, display_name) for the chosen embedding model.
+
+    If *model_name* is provided (from --model CLI flag) it is matched
+    case-insensitively against the keys in ``_EMBEDDING_MODELS``.
+    Otherwise an interactive numbered menu is shown.
+    Chunking parameters are resolved later from chunking.yaml.
+    """
     normalized = model_name.strip() if model_name else ""
     if normalized:
         key = normalized.lower()
         if key in _EMBEDDING_MODELS:
-            return _EMBEDDING_MODELS[key]
-        if normalized in ("all-MiniLM-L6-v2", "Qwen3-Embedding-0.6B"):
-            return _EMBEDDING_MODELS[normalized.lower()]
-        log.error("Unsupported model '%s'. Valid choices: %s", normalized, ", ".join(_EMBEDDING_MODELS.keys()))
+            display_name = _EMBEDDING_MODELS[key]
+            return key, display_name
+        log.error(
+            "Unsupported model '%s'. Valid --model choices: %s",
+            normalized,
+            ", ".join(_EMBEDDING_MODELS.keys()),
+        )
         sys.exit(1)
 
-    choices = ["all-MiniLM-L6-v2", "Qwen3-Embedding-0.6B"]
-    print("Select embedding model:")
-    for idx, name in enumerate(choices, start=1):
-        print(f"  {idx}. {name}")
+    # ── interactive menu ──────────────────────────────────────────────────────
+    print("\nSelect embedding model:")
+    for idx, (_, display) in enumerate(_MODEL_MENU, start=1):
+        print(f"  {idx}. {display}")
+
+    valid = {str(i) for i in range(1, len(_MODEL_MENU) + 1)}
     while True:
-        choice = input("Enter 1 or 2: ").strip()
-        if choice in {"1", "2"}:
-            selected = choices[int(choice) - 1]
-            return choose_embedding_model(selected)
-        print("Please enter 1 or 2.")
+        choice = input(f"Enter 1–{len(_MODEL_MENU)}: ").strip()
+        if choice in valid:
+            key, display = _MODEL_MENU[int(choice) - 1]
+            return key, display
+        print(f"Please enter a number between 1 and {len(_MODEL_MENU)}.")
 
 
 # ── section parsing ───────────────────────────────────────────────────────────
@@ -317,7 +344,7 @@ def make_chunks(
         section_text = sec["body"]
         header = f"§ {sec['section_id']} {sec['section_title']}\n"
         if section_text.startswith(header):
-            section_body = section_text[len(header) :]
+            section_body = section_text[len(header):]
         else:
             _, _, section_body = section_text.partition("\n")
 
@@ -398,7 +425,7 @@ def save_chunks(
 
 # ── main ──────────────────────────────────────────────────────────────────────
 
-def main():
+def main() -> None:
     base = Path(__file__).parent.parent
     parser = argparse.ArgumentParser(description="Chunk cleaned OSHA 1910 text.")
     parser.add_argument("--config", default=str(base / "config" / "chunking.yaml"))
@@ -408,8 +435,13 @@ def main():
     )
     parser.add_argument(
         "--model",
-        choices=["all-MiniLM-L6-v2", "Qwen3-Embedding-0.6B"],
-        help="Embedding model choice for token limit and later embedding.",
+        choices=list(_EMBEDDING_MODELS.keys()),
+        metavar="MODEL",
+        help=(
+            "Embedding model key. Choices: "
+            + ", ".join(_EMBEDDING_MODELS.keys())
+            + ". Omit to select interactively."
+        ),
     )
     args = parser.parse_args()
 
@@ -419,18 +451,33 @@ def main():
         sys.exit(1)
 
     cfg = yaml.safe_load(cfg_path.read_text(encoding="utf-8"))
-    if not cfg or "section" not in cfg or "output" not in cfg:
-        log.error("Config missing 'section' or 'output' keys: %s", cfg_path)
+    if not cfg or "section" not in cfg or "output" not in cfg or "models" not in cfg:
+        log.error("Config missing 'section', 'output', or 'models' keys: %s", cfg_path)
         sys.exit(1)
 
-    sec_cfg = cfg["section"]
     out_cfg = cfg["output"]
 
-    model_name, model_max_tokens = choose_embedding_model(args.model)
-    max_tokens: int = model_max_tokens
-    overlap: int = sec_cfg["overlap_tokens"]
-    log.info("Selected embedding model: %s", model_name)
-    log.info("Using max_tokens_per_chunk=%d based on model", max_tokens)
+    # Model selection: interactive or via --model flag.
+    # Returns (cli_key, display_name); cli_key matches yaml 'models' keys directly.
+    model_key, model_name = choose_embedding_model(args.model)
+
+    # Look up chunking parameters for the selected model from the yaml
+    models_cfg: dict = cfg["models"]
+    if model_key not in models_cfg:
+        log.error(
+            "No 'models' entry in %s for model key '%s'. "
+            "Add a block with max_tokens_per_chunk and overlap_tokens.",
+            cfg_path, model_key,
+        )
+        sys.exit(1)
+
+    model_params: dict = models_cfg[model_key]
+    max_tokens: int = model_params["max_tokens_per_chunk"]
+    overlap: int = model_params["overlap_tokens"]
+    log.info("Selected embedding model : %s", model_name)
+    log.info("max_tokens_per_chunk     : %d  (from config)", max_tokens)
+    log.info("overlap_tokens           : %d  (from config)", overlap)
+
     tmpl: str = out_cfg["filename_template"]
     chunks_dir = base / out_cfg["chunks_dir"]
     manifest = base / out_cfg["manifest_file"]

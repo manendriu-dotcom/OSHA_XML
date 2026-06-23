@@ -1,0 +1,13 @@
+§ 1910.243 Guarding of portable powered tools.
+(v) This subparagraph does not apply to concrete vibrators, concrete breakers, powered tampers, jack hammers, rock drills, garden appliances, household and kitchen appliances, personal care appliances, medical or dental equipment, or to fixed machinery.
+(3) Portable belt sanding machines. Belt sanding machines shall be provided with guards at each nip point where the sanding belt runs onto a pulley. These guards shall effectively prevent the hands or fingers of the operator from coming in contact with the nip points. The unused run of the sanding belt shall be guarded against accidental contact.
+(4) Cracked saws. All cracked saws shall be removed from service.
+(5) Grounding. Portable electric powered tools shall meet the electrical requirements of subpart S of this part.
+(b) Pneumatic powered tools and hose —(1) Tool retainer. A tool retainer shall be installed on each piece of utilization equipment which, without such a retainer, may eject the tool.
+(2) Airhose. Hose and hose connections used for conducting compressed air to utilization equipment shall be designed for the pressure and service to which they are subjected.
+(c) Portable abrasive wheels —(1) General requirements. Abrasive wheels shall be used only on machine provided with safety guards as defined in paragraph (c) (1) through (4) of this section.
+(i) Exceptions. The requirements of this paragraph (c)(1) shall not apply to the following classes of wheels and conditions.
+( a ) Wheels used for internal work while within the work being ground;
+( b ) Mounted wheels used in portable operations 2 inches and smaller in diameter; (see definition § 1910.241(b)(1)); and
+( c ) Types 16, 17, 18, 18R, and 19 cones, and plugs, and threaded hole pot balls where the work offers protection.
+(ii)( a ) A safety guard shall cover the spindle end, nut and flange projections. The safety guard shall be mounted so as to maintain proper alignment with the wheel, and the strength of the fastenings shall exceed the strength of the guard.

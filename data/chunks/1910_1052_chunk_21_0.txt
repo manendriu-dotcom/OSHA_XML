@@ -1,0 +1,25 @@
+§ 1910.1052 Methylene chloride.
+(B) The source of the objective data;
+(C) The testing protocol, results of testing, and/or analysis of the material for the release of MC;
+(D) A description of the operation exempted under paragraph (d)(2)(i) of this section and how the data support the exemption; and
+(E) Other data relevant to the operations, materials, processing, or employee exposures covered by the exemption.
+(iii) The employer shall maintain this record for the duration of the employer's reliance upon such objective data.
+(2) Exposure measurements. (i) The employer shall establish and keep an accurate record of all measurements taken to monitor employee exposure to MC as prescribed in paragraph (d) of this section.
+(ii) Where the employer has 20 or more employees, this record shall include at least the following information:
+(A) The date of measurement for each sample taken;
+(B) The operation involving exposure to MC which is being monitored;
+(C) Sampling and analytical methods used and evidence of their accuracy;
+(D) Number, duration, and results of samples taken;
+(E) Type of personal protective equipment, such as respiratory protective devices, worn, if any; and
+(F) Name, job classification and exposure of all of the employees represented by monitoring, indicating which employees were actually monitored.
+(iii) Where the employer has fewer than 20 employees, the record shall include at least the following information:
+(A) The date of measurement for each sample taken;
+(B) Number, duration, and results of samples taken; and
+(C) Name, job classification and exposure of all of the employees represented by monitoring, indicating which employees were actually monitored.
+(iv) The employer shall maintain this record for at least thirty (30) years, in accordance with 29 CFR 1910.1020.
+(3) Medical surveillance. (i) The employer shall establish and maintain an accurate record for each employee subject to medical surveillance under paragraph (j) of this section.
+(ii) The record shall include at least the following information:
+(A) The name and description of the duties of the employee;
+(B) Written medical opinions; and
+(C) Any employee medical conditions related to exposure to MC.
+(iii) The employer shall ensure that this record is maintained for the duration of employment plus thirty (30) years, in accordance with 29 CFR 1910.1020.

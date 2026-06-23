@@ -1,0 +1,26 @@
+§ 1910.1029 Coke oven emissions.
+(c) Permissible exposure limit. The employer shall assure that no employee in the regulated area is exposed to coke oven emissions at concentrations greater than 150 micrograms per cubic meter of air (150 µg/m 3 ), averaged over any 8-hour period.
+(d) Regulated areas. (1) The employer shall establish regulated areas and shall limit access to them to authorized persons.
+(2) The employer shall establish the following as regulated areas:
+(i) The coke oven battery including topside and its machinery, pushside and its machinery, coke side and its machinery, and the battery ends; the wharf; and the screening station;
+(ii) The beehive oven and its machinery.
+(e) Exposure monitoring and measurement —(1) Monitoring program. (i) Each employer who has a place of employment where coke oven emissions are present shall monitor employees employed in the regulated area to measure their exposure to coke oven emissions.
+(ii) The employer shall obtain measurements which are representative of each employee's exposure to coke oven emissions over an eight-hour period. All measurements shall determine exposure without regard to the use of respiratory protection.
+(iii) The employer shall collect fullshift (for at least seven continuous hours) personal samples, including at least one sample during each shift for each battery and each job classification within the regulated areas including at least the following job classifications:
+( a ) Lidman;
+( b ) Tar chaser;
+( c ) Larry car operator;
+( d ) Luterman;
+( e ) Machine operator, coke side;
+( f ) Benchman, coke side;
+( g ) Benchman, pusher side;
+( h ) Heater;
+( i ) Quenching car operator;
+( j ) Pusher machine operator;
+( k ) Screening station operator;
+( l ) Wharfman;
+( m ) Oven patcher;
+( n ) Oven repairman;
+( o ) Spellman; and
+( p ) Maintenance personnel.
+(iv) The employer shall repeat the monitoring and measurements required by this paragraph (e)(1) at least every three months.

@@ -1,0 +1,12 @@
+§ 1910.1047 Ethylene oxide.
+(iii) Employers shall include EtO in the hazard communication program established to comply with the HCS (§ 1910.1200). Employers shall ensure that each employee has access to labels on containers of EtO and to safety data sheets, and is trained in accordance with the requirements of HCS and paragraph (j)(3) of this section.
+(2) Signs and labels —(i) Signs. (A) The employer shall post and maintain legible signs demarcating regulated areas and entrances or access ways to regulated areas that bear the following legend:
+(B) Prior to June 1, 2016, employers may use the following legend in lieu of that specified in paragraph (j)(2)(i)(A) of this section:
+(ii) Labels. (A) The employer shall ensure that labels are affixed to all containers of EtO whose contents are capable of causing employee exposure at or above the action level or whose contents may reasonably be foreseen to cause employee exposure above the excursion limit, and that the labels remain affixed when the containers of EtO leave the workplace. For the purposes of this paragraph (j)(2)(ii), reaction vessels, storage tanks, and pipes or piping systems are not considered to be containers.
+(B) Prior to June 1, 2015, employers may include the following information on containers of EtO in lieu of the labeling requirements in paragraph (j)(1)(i) of this section:
+(C) The labeling requirements under this section do not apply where EtO is used as a pesticide, as such term is defined in the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq. ), when it is labeled pursuant to that Act and regulations issued under that Act by the Environmental Protection Agency.
+(3) Information and training. (i) The employer shall provide employees who are potentially exposed to EtO at or above the action level or above the excursion limit with information and training on EtO at the time of initial assignment and at least annually thereafter.
+(ii) Employees shall be informed of the following:
+(A) The requirements of this section with an explanation of its contents, including Appendices A and B;
+(B) Any operations in their work area where EtO is present;
+(C) The location and availability of the written EtO final rule; and

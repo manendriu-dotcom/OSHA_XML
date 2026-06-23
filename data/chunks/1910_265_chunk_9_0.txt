@@ -1,0 +1,12 @@
+§ 1910.265 Sawmills.
+( 5 ) When marked corrosion appears.
+( 6 ) Wire rope of a type not described herein shall be removed from service when 4 percent of the total number of wires composing such rope are found to be broken in one lay.
+( b ) Wire rope removed from service due to defects shall be plainly marked or identified as being unfit for further use on cranes, hoists, and other load-carrying devices.
+( c ) The ratio between the rope diameter and the drum, block, sheave, or pulley tread diameter shall be such that the rope will adjust itself to the bend without excessive wear, deformation, or injury. In no case shall the safe value of drums, blocks, sheaves, or pulleys be reduced when replacing such items unless compensating changes are made for rope used and for safe loading limits.
+(vi) Drums, sheaves, and pulleys. Drums, sheaves, and pulleys shall be smooth and free from surface defects liable to injure rope. Drums, sheaves, or pulleys having eccentric bores or cracked hubs, spokes, or flanges shall be removed from service.
+(vii) Connections. Connections, fittings, fastenings, and other parts used in connection with ropes and cables shall be of good quality and of proper size and strength, and shall be installed in accordance with the manufacturer's recommendations.
+(viii) Socketing, splicing, and seizing. ( a ) Socketing, splicing, and seizing of cables shall be performed only by qualified persons.
+( b ) All eye splices shall be made in an approved manner and wire rope thimbles of proper size shall be fitted in the eye, except that in slings the use of thimbles shall be optional.
+( c ) Wire rope clips attached with U-bolts shall have these bolts on the dead or short end of the rope. The U-bolt nuts shall be retightened immediately after initial load carrying use and at frequent intervals thereafter.
+( d ) When a wedge socket-type fastening is used, the dead or short end of the cable shall be clipped with a U-bolt or otherwise made secure against loosening.
+( e ) Fittings. Hooks, shackles, rings, pad eyes, and other fittings that show excessive wear or that have been bent, twisted, or otherwise damaged shall be removed from service.

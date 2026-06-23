@@ -1,0 +1,19 @@
+§ 1910.306 Specific purpose equipment and installations.
+(iv) Where single-pole connectors are used, they shall comply with the following:
+(A) Where ac single-pole portable cable connectors are used, they shall be listed and of the locking type. Where paralleled sets of current-carrying single-pole separable connectors are provided as input devices, they shall be prominently labeled with a warning indicating the presence of internal parallel connections. The use of single-pole separable connectors shall comply with at least one of the following conditions:
+( 1 ) Connection and disconnection of connectors are only possible where the supply connectors are interlocked to the source and it is not possible to connect or disconnect connectors when the supply is energized; or
+( 2 ) Line connectors are of the listed sequential-interlocking type so that load connectors are connected in the following sequence:
+( i ) Equipment grounding conductor connection;
+( ii ) Grounded circuit-conductor connection, if provided; and
+( iii ) Ungrounded conductor connection; and so that disconnection is in the reverse order; or
+( 3 ) A caution notice is provided adjacent to the line connectors indicating that plug connection must be in the following sequence:
+( i ) Equipment grounding conductor connection;
+( ii ) Grounded circuit-conductor connection, if provided; and
+( iii ) Ungrounded conductor connection; and indicating that disconnection is in the reverse order; and
+(B) Single-pole separable connectors used in portable professional motion picture and television equipment may be interchangeable for ac or dc use or for different current ratings on the same premises only if they are listed for ac/dc use and marked to identify the system to which they are connected;
+(v) Overcurrent protection of equipment and conductors shall be provided; and
+(vi) The following equipment connected to the same source shall be bonded:
+(A) Metal raceways and metal sheathed cable;
+(B) Metal enclosures of electrical equipment; and
+(C) Metal frames and metal parts of rides, concessions, trailers, trucks, or other equipment that contain or support electrical equipment.
+(5) Disconnecting means. (i) Each ride and concession shall be provided with a fused disconnect switch or circuit breaker located within sight and within 1.83 m (6 ft) of the operator's station.

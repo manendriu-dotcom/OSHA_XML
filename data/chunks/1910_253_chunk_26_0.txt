@@ -1,0 +1,12 @@
+§ 1910.253 Oxygen-fuel gas welding and cutting.
+(iv) Whenever repairs are to be made or the generator is to be charged or carbide is to be removed, the water chamber shall be filled to the proper level.
+(v) Previous to making repairs involving welding, soldering, or other hot work or other operations which produce a source of ignition, the carbide charge and feed mechanism shall be completely removed. All acetylene shall be expelled by completely flooding the generator shell with water and the generator shall be disconnected from the piping system. The generator shall be kept filled with water, if possible, or positioned to hold as much water as possible.
+(vi) Hot repairs shall not be made in a room where there are other generators unless all the generators and piping have been purged of acetylene.
+(g) Calcium carbide storage —(1) Packaging. (i) Calcium carbide shall be contained in metal packages of sufficient strength to prevent rupture. The packages shall be provided with a screw top or equivalent. These packages shall be constructed water- and air-tight. Solder shall not be used in such a manner that the package would fail if exposed to fire.
+(ii) Packages containing calcium carbide shall be conspicuously marked "Calcium Carbide—Dangerous If Not Kept Dry" or with equivalent warning.
+(iii) Caution: Metal tools, even the so-called spark resistant type may cause ignition of an acetylene and air mixture when opening carbide containers.
+(iv) Sprinkler systems shall not be installed in carbide storage rooms.
+(2) Storage indoors. (i) Calcium carbide in quantities not to exceed 600 pounds (272.2 kg) may be stored indoors in dry, waterproof, and well-ventilated locations.
+(A) Calcium carbide not exceeding 600 pounds (272.2 kg) may be stored indoors in the same room with fuel-gas cylinders.
+(B) Packages of calcium carbide, except for one of each size, shall be kept sealed. The seals shall not be broken when there is carbide in excess of 1 pound (0.5 kg) in any other unsealed package of the same size of carbide in the room.
+(ii) Calcium carbide exceeding 600 pounds (272.2 kg) but not exceeding 5,000 pounds (2,268 kg) shall be stored:

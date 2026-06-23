@@ -1,0 +1,11 @@
+§ 1910.333 Selection and use of work practices.
+(A) A qualified person shall operate the equipment operating controls or otherwise verify that the equipment cannot be restarted.
+(B) A qualified person shall use test equipment to test the circuit elements and electrical parts of equipment to which employees will be exposed and shall verify that the circuit elements and equipment parts are deenergized. The test shall also determine if any energized condition exists as a result of inadvertently induced voltage or unrelated voltage backfeed even though specific parts of the circuit have been deenergized and presumed to be safe. If the circuit to be tested is over 600 volts, nominal, the test equipment shall be checked for proper operation immediately before and immediately after this test.
+(v) Reenergizing equipment. These requirements shall be met, in the order given, before circuits or equipment are reenergized, even temporarily.
+(A) A qualified person shall conduct tests and visual inspections, as necessary, to verify that all tools, electrical jumpers, shorts, grounds, and other such devices have been removed, so that the circuits and equipment can be safely energized.
+(B) Employees exposed to the hazards associated with reenergizing the circuit or equipment shall be warned to stay clear of circuits and equipment.
+(C) Each lock and tag shall be removed by the employee who applied it or under his or her direct supervision. However, if this employee is absent from the workplace, then the lock or tag may be removed by a qualified person designated to perform this task provided that:
+( 1 ) The employer ensures that the employee who applied the lock or tag is not available at the workplace, and
+( 2 ) The employer ensures that the employee is aware that the lock or tag has been removed before he or she resumes work at that workplace.
+(D) There shall be a visual determination that all employees are clear of the circuits and equipment.
+(c) Working on or near exposed energized parts —(1) Application. This paragraph applies to work performed on exposed live parts (involving either direct contact or contact by means of tools or materials) or near enough to them for employees to be exposed to any hazard they present.

@@ -1,0 +1,11 @@
+§ 1910.1003 13 Carcinogens (4-Nitrobiphenyl, etc.).
+(ii) Any equipment, material, or other item taken into or removed from a regulated area shall be done so in a manner that does not cause contamination in nonregulated areas or the external environment.
+(iii) Decontamination procedures shall be established and implemented to remove carcinogens addressed by this section from the surfaces of materials, equipment, and the decontamination facility.
+(iv) Dry sweeping and dry mopping are prohibited for 4-Nitrobiphenyl; alpha-Naphthylamine; 3,′-Dichlorobenzidine (and its salts); beta-Naphthylamine; Benzidine; 4-Aminodiphenyl; 2-Acetylaminofluorene; 4-Dimethylaminoazo-benzene and N-Nitrosodimethylamine.
+(e) Communication of hazards —(1) Hazard communication. (i) Chemical manufacturers, importers, distributors and employers shall comply with all requirements of the Hazard Communication Standard (HCS) (§ 1910.1200) for each carcinogen listed in paragraph (e)(1)(iv) of this section.
+(ii) In classifying the hazards of carcinogens listed in paragraph (e)(1)(iv) of this section, at least the hazards listed in paragraph (e)(1)(iv) are to be addressed.
+(iii) Employers shall include the carcinogens listed in paragraph (e)(1)(iv) of this section in the hazard communication program established to comply with the HCS (§ 1910.1200). Employers shall ensure that each employee has access to labels on containers of the carcinogens listed in paragraph (e)(1)(iv) and to safety data sheets, and is trained in accordance with the requirements of HCS and paragraph (e)(4) of this section.
+(iv) List of Carcinogens:
+(A) 4-Nitrobiphenyl: Cancer.
+(B) alpha-Naphthylamine: Cancer; skin irritation; and acute toxicity effects.
+(C) Methyl chloromethyl ether: Cancer; skin, eye and respiratory effects; acute toxicity effects; and flammability.

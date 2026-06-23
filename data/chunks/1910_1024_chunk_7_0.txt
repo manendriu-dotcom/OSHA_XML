@@ -1,0 +1,19 @@
+§ 1910.1024 Beryllium.
+(2) Demarcation. (i) The employer must identify each beryllium work area through signs or any other methods that adequately establish and inform each employee of the boundaries of each beryllium work area.
+(ii) The employer must identify each regulated area in accordance with paragraph (m)(2) of this standard.
+(3) Access. The employer must limit access to regulated areas to:
+(i) Persons the employer authorizes or requires to be in a regulated area to perform work duties;
+(ii) Persons entering a regulated area as designated representatives of employees for the purpose of exercising the right to observe exposure monitoring procedures under paragraph (d)(7) of this standard; and
+(iii) Persons authorized by law to be in a regulated area.
+(4) Provision of personal protective clothing and equipment, including respirators. The employer must provide and ensure that each employee entering a regulated area uses:
+(i) Respiratory protection in accordance with paragraph (g) of this standard; and
+(ii) Personal protective clothing and equipment in accordance with paragraph (h) of this standard.
+(f) Methods of compliance —(1) Written exposure control plan. (i) The employer must establish, implement, and maintain a written exposure control plan, which must contain:
+(A) A list of operations and job titles reasonably expected to involve airborne exposure to or dermal contact with beryllium;
+(B) A list of operations and job titles reasonably expected to involve airborne exposure at or above the action level;
+(C) A list of operations and job titles reasonably expected to involve airborne exposure above the TWA PEL or STEL;
+(D) Procedures for minimizing cross-contamination, including the transfer of beryllium between surfaces, equipment, clothing, materials, and articles within beryllium work areas;
+(E) Procedures for keeping surfaces as free as practicable of beryllium;
+(F) Procedures for minimizing the migration of beryllium from beryllium work areas to other locations within or outside the workplace;
+(G) A list of engineering controls, work practices, and respiratory protection required by paragraph (f)(2) of this standard;
+(H) A list of personal protective clothing and equipment required by paragraph (h) of this standard; and

@@ -1,0 +1,18 @@
+§ 1910.179 Overhead and gantry cranes.
+(ix) [Reserved]
+(x) Electrical apparatus, for signs of pitting or any deterioration of controller contactors, limit switches and pushbutton stations.
+(4) Cranes not in regular use. (i) A crane which has been idle for a period of 1 month or more, but less than 6 months, shall be given an inspection conforming with requirements of paragraph (j)(2) of this section and paragraph (m)(2) of this section before placing in service.
+(ii) A crane which has been idle for a period of over 6 months shall be given a complete inspection conforming with requirements of paragraphs (j) (2) and (3) of this section and paragraph (m)(2) of this section before placing in service.
+(iii) Standby cranes shall be inspected at least semi-annually in accordance with requirements of paragraph (j)(2) of this section and paragraph (m)(2) of this section.
+(k) Testing —(1) Operational tests. (i) Prior to initial use all new and altered cranes shall be tested to insure compliance with this section including the following functions:
+( a ) Hoisting and lowering.
+( b ) Trolley travel.
+( c ) Bridge travel.
+( d ) Limit switches, locking and safety devices.
+(ii) The trip setting of hoist limit switches shall be determined by tests with an empty hook traveling in increasing speeds up to the maximum speed. The actuating mechanism of the limit switch shall be located so that it will trip the switch, under all conditions, in sufficient time to prevent contact of the hook or hook block with any part of the trolley.
+(2) Rated load test. Test loads shall not be more than 125 percent of the rated load unless otherwise recommended by the manufacturer. The test reports shall be placed on file where readily available to appointed personnel.
+(l) Maintenance —(1) Preventive maintenance. A preventive maintenance program based on the crane manufacturer's recommendations shall be established.
+(2) Maintenance procedure. (i) Before adjustments and repairs are started on a crane the following precautions shall be taken:
+( a ) The crane to be repaired shall be run to a location where it will cause the least interference with other cranes and operations in the area.
+( b ) All controllers shall be at the off position.
+( c ) The main or emergency switch shall be open and locked in the open position.

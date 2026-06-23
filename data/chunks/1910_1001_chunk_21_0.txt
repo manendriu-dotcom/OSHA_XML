@@ -1,0 +1,16 @@
+§ 1910.1001 Asbestos.
+(3) Periodic examinations. (i) Periodic medical examinations shall be made available annually.
+(ii) The scope of the medical examination shall be in conformance with the protocol established in paragraph (l)(2)(ii) of this section, except that the frequency of chest X-rays shall be conducted in accordance with Table 1 to this section, and the abbreviated standardized questionnaire contained in part 2 of appendix D to this section shall be administered to the employee.
+
+Table 1 to § 1910.1001—Frequency of Chest X-ray
+-----------------------------------------------
+Years since first exposure Age of employee 15 to 35 35 + to 45 45 +
+-------------------------------------------------------------------
+0 to 10 Every 5 years Every 5 years Every 5 years.
+10 + Every 5 years Every 2 years Every 1 year.
+
+(4) Termination of employment examinations. (i) The employer shall provide, or make available, a termination of employment medical examination for any employee who has been exposed to airborne concentrations of fibers of asbestos at or above the TWA and/or excursion limit.
+(ii) The medical examination shall be in accordance with the requirements of the periodic examinations stipulated in paragraph (l)(3) of this section, and shall be given within 30 calendar days before or after the date of termination of employment.
+(5) Recent examinations. No medical examination is required of any employee, if adequate records show that the employee has been examined in accordance with any of paragraphs ((l)(2) through (l)(4)) of this section within the past 1 year period. A pre- employment medical examination which was required as a condition of employment by the employer, may not be used by that employer to meet the requirements of this paragraph, unless the cost of such examination is borne by the employer.
+(6) Information provided to the physician. The employer shall provide the following information to the examining physician:
+(i) A copy of this standard and Appendices D and E.

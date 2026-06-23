@@ -1,0 +1,12 @@
+§ 1910.29 Fall protection systems and falling object protection—criteria and practices.
+(a) General requirements. The employer must:
+(1) Ensure each fall protection system and falling object protection, other than personal fall protection systems, that this part requires meets the requirements in this section. The employer must ensure each personal fall protection system meets the requirements in subpart I of this part; and
+(2) Provide and install all fall protection systems and falling object protection this subpart requires, and comply with the other requirements in this subpart before any employee begins work that necessitates fall or falling object protection.
+(b) Guardrail systems. The employer must ensure guardrail systems meet the following requirements:
+(1) The top edge height of top rails, or equivalent guardrail system members, are 42 inches (107 cm), plus or minus 3 inches (8 cm), above the walking-working surface. The top edge height may exceed 45 inches (114 cm), provided the guardrail system meets all other criteria of paragraph (b) of this section (see Figure D-11 of this section).
+(2) Midrails, screens, mesh, intermediate vertical members, solid panels, or equivalent intermediate members are installed between the walking-working surface and the top edge of the guardrail system as follows when there is not a wall or parapet that is at least 21 inches (53 cm) high:
+(i) Midrails are installed at a height midway between the top edge of the guardrail system and the walking-working surface;
+(ii) Screens and mesh extend from the walking-working surface to the top rail and along the entire opening between top rail supports;
+(iii) Intermediate vertical members (such as balusters) are installed no more than 19 inches (48 cm) apart; and
+(iv) Other equivalent intermediate members (such as additional midrails and architectural panels) are installed so that the openings are not more than 19 inches (48 cm) wide.
+(3) Guardrail systems are capable of withstanding, without failure, a force of at least 200 pounds (890 N) applied in a downward or outward direction within 2 inches (5 cm) of the top edge, at any point along the top rail.

@@ -1,0 +1,10 @@
+§ 1910.137 Electrical protective equipment.
+(A) If the ac proof test is made at a frequency other than 60 hertz, the permissible proof-test current shall be computed from the direct ratio of the frequencies.
+(B) For the test, gloves (right side out) shall be filled with tap water and immersed in water to a depth that is in accordance with Table I-3. Water shall be added to or removed from the glove, as necessary, so that the water level is the same inside and outside the glove.
+(C) After the 16-hour water soak specified in paragraph (a)(2)(i)(C) of this section, the 60-hertz proof-test current may not exceed the values given in Table I-1 by more than 2 milliamperes.
+(iii) Equipment that has been subjected to a minimum breakdown voltage test may not be used for electrical protection. (See the note following paragraph (a)(3)(ii)(B) of this section.)
+(iv) Material used for Type II insulating equipment shall be capable of withstanding an ozone test, with no visible effects. The ozone test shall reliably indicate that the material will resist ozone exposure in actual use. Any visible signs of ozone deterioration of the material, such as checking, cracking, breaks, or pitting, is evidence of failure to meet the requirements for ozone-resistant material. (See the note following paragraph (a)(3)(ii)(B) of this section.)
+(3) Workmanship and finish. (i) Equipment shall be free of physical irregularities that can adversely affect the insulating properties of the equipment and that can be detected by the tests or inspections required under this section.
+(ii) Surface irregularities that may be present on all rubber goods (because of imperfections on forms or molds or because of inherent difficulties in the manufacturing process) and that may appear as indentations, protuberances, or imbedded foreign material are acceptable under the following conditions:
+(A) The indentation or protuberance blends into a smooth slope when the material is stretched.
+(B) Foreign material remains in place when the insulating material is folded and stretches with the insulating material surrounding it.

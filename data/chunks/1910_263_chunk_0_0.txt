@@ -1,0 +1,18 @@
+§ 1910.263 Bakery equipment.
+(a) General requirements —(1) Application. The requirements of this section shall apply to the design, installation, operation and maintenance of machinery and equipment used within a bakery.
+(2) [Reserved]
+(b) [Reserved]
+(c) General machine guarding. (1) [Reserved]
+(2) Gears. All gears shall be completely enclosed regardless of location.
+(3) Sprockets and V-belt drives. Sprockets and V-belt drives located within reach from platforms or pasageways or located within 8 feet 6 inches from the floor shall be completely enclosed.
+(4) [Reserved]
+(5) Lubrication. Where machinery must be lubricated while in motion, stationary lubrication fittings inside a machine shall be provided with extension piping to a point of safety so that the employee will not have to reach into any dangerous part of the machine when lubricating.
+(6)-(7) [Reserved]
+(8) Hot pipes. Exposed hot water and steam pipes shall be covered with insulating material wherever necessary to protect employee from contact.
+(d) Flour-handling equipment —(1) General requirements for flour handling. (i) Wherever any of the various pieces of apparatus comprising a flour-handling system are run in electrical unity with one another the following safeguards shall apply:
+( a ) [Reserved]
+( b ) Wherever a flour-handling system is of such size that the beginning of its operation is far remote from its final delivery end, all electric motors operating each apparatus comprising this system shall be controlled at each of two points, one located at each remote end, either of which will stop all motors.
+( c ) [Reserved]
+( d ) Control circuits for magnetic controllers shall be so arranged that the opening of any one of several limit switches, which may be on an individual unit, will serve to de-energize all of the motors of that unit.
+(ii) [Reserved]
+(2) Bag chutes and bag lifts (bag-arm elevators). (i) Bag chutes (gravity chutes for handling flour bags) shall be so designed so as to keep to a minimum the speed of flour bags. If the chute inclines more than 30 degrees from the horizontal, there shall be an upturn at the lower end of the chute to slow down the bags.

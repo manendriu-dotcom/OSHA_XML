@@ -1,0 +1,14 @@
+§ 1910.305 Wiring methods, components, and equipment for general use.
+(vi) An individual disconnecting means shall be provided for each motor, but a single disconnecting means may be used for a group of motors under any one of the following conditions:
+(A) If a number of motors drive several parts of a single machine or piece of apparatus, such as a metal or woodworking machine, crane, or hoist;
+(B) If a group of motors is under the protection of one set of branch-circuit protective devices; or
+(C) If a group of motors is in a single room within sight of the location of the disconnecting means.
+(vii) Motors, motor-control apparatus, and motor branch-circuit conductors shall be protected against overheating due to motor overloads or failure to start, and against short-circuits or ground faults. These provisions do not require overload protection that will stop a motor where a shutdown is likely to introduce additional or increased hazards, as in the case of fire pumps, or where continued operation of a motor is necessary for a safe shutdown of equipment or process and motor overload sensing devices are connected to a supervised alarm.
+(viii) Where live parts of motors or controllers operating at over 150 volts to ground are guarded against accidental contact only by location, and where adjustment or other attendance may be necessary during the operation of the apparatus, suitable insulating mats or platforms shall be provided so that the attendant cannot readily touch live parts unless standing on the mats or platforms.
+(5) Transformers. (i) Paragraph (j)(5) of this section covers the installation of all transformers except the following:
+(A) Current transformers;
+(B) Dry-type transformers installed as a component part of other apparatus;
+(C) Transformers that are an integral part of an X-ray, high frequency, or electrostatic-coating apparatus;
+(D) Transformers used with Class 2 and Class 3 circuits, sign and outline lighting, electric discharge lighting, and power-limited fire-alarm circuits; and
+(E) Liquid-filled or dry-type transformers used for research, development, or testing, where effective safeguard arrangements are provided.
+(ii) The operating voltage of exposed live parts of transformer installations shall be indicated by signs or visible markings on the equipment or structure.

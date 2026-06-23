@@ -1,0 +1,16 @@
+§ 1910.1200 Hazard communication.
+ (e) Environmental hazards (e.g., Marine pollutant (Yes/No));
+ (f) Transport in bulk (according to Annex II of MARPOL 73/78 and the IBC Code);
+ (g) Special precautions which a user needs to be aware of, or needs to comply with, in connection with transport or conveyance either within or outside their premises.
+15. Regulatory information (Non-mandatory) Safety, health and environmental regulations specific for the product in question.
+16. Other information, including date of preparation or last revision The date of preparation of the SDS or the last change to it.
+
+Approximate Equivalences Among Carcinogen Classification Schemes
+----------------------------------------------------------------
+IARC GHS NTP RoC
+----------------
+Group 1 Category 1A Known.
+Group 2A Category 1B Reasonably Anticipated (See Note 1).
+Group 2B Category 2 Reasonably Anticipated (See Note 1).
+
+Effective Date Note: Amendments to § 1910.1200 were published at 89 FR 44356, May 20, 2024, effective July 19, 2024.

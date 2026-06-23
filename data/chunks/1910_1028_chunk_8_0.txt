@@ -1,0 +1,13 @@
+§ 1910.1028 Benzene.
+(iii) Written compliance programs shall be furnished upon request for examination and copying to the Assistant Secretary, the Director, affected employees and designated employee representatives.
+(g) Respiratory protection —(1) General. For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(i) Periods necessary to install or implement feasible engineering and work-practice controls.
+(ii) Work operations for which the employer establishes that compliance with either the TWA or STEL through the use of engineering and work-practice controls is not feasible; for example, some maintenance and repair activities, vessel cleaning, or other operations for which engineering and work-practice controls are infeasible because exposures are intermittent and limited in duration.
+(iii) Work operations for which feasible engineering and work-practice controls are not yet sufficient, or are not required under paragraph (f)(1)(iii) of this section, to reduce employee exposure to or below the PELs.
+(iv) Emergencies.
+(2) Respirator program. (i) The employer must implement a respiratory protection program in accordance with § 1910.134(b) through (d) (except (d)(1)(iii), (d)(3)(iii)(b)(1) and (2)), and (f) through (m), which covers each employee required by this section to use a respirator.
+(ii) For air-purifying respirators, the employer must replace the air-purifying element at the expiration of its service life or at the beginning of each shift in which such elements are used, whichever comes first.
+(iii) If NIOSH approves an air-purifying element with an end-of-service-life indicator for benzene, such an element may be used until the indicator shows no further useful life.
+(3) Respirator selection. (i) Employers must:
+(A) Select, and provide to employees, the appropriate respirators specified in paragraph (d)(3)(i)(A) of 29 CFR 1910.134.
+(B) Provide employees with any organic vapor gas mask or any self-contained breathing apparatus with a full facepiece to use for escape.

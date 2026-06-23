@@ -1,0 +1,22 @@
+§ 1910.1200 Hazard communication.
+ (a) Wetted zone stops the fire for at least 4 min; and
+ (b) Burning time 2.2 mm/s.
+ Metal powders: Burning time >5 min and <=10 min.
+Table B.9.1—Criteria for Pyrophoric Liquids
+-------------------------------------------
+Category Criteria
+-----------------
+1 The liquid ignites within 5 min when added to an inert carrier and exposed to air, or it ignites or chars a filter paper on contact with air within 5 min.
+Table B.10.1—Criteria for Pyrophoric Solids
+-------------------------------------------
+Category Criteria
+-----------------
+1 The solid ignites within 5 min of coming into contact with air.
+Table B.11.1—Criteria for Self-Heating Chemicals
+------------------------------------------------
+Category Criteria
+-----------------
+1 A positive result is obtained in a test using a 25 mm sample cube at 140 degrees C (284 degrees F).
+2 A negative result is obtained in a test using a 25 mm cube sample at 140 degrees C (284 degrees F), a positive result is obtained in a test using a 100 mm sample cube at 140 degrees C (284 degrees F), and:
+ (a) The unit volume of the chemical is more than 3 m 3 ; or
+ (b) A positive result is obtained in a test using a 100 mm cube sample at 120 degrees C (248 degrees F) and the unit volume of the chemical is more than 450 liters; or

@@ -1,0 +1,9 @@
+§ 1910.303 General.
+(A) By location in a room, vault, or similar enclosure that is accessible only to qualified persons;
+(B) By suitable permanent, substantial partitions or screens so arranged so that only qualified persons will have access to the space within reach of the live parts. Any openings in such partitions or screens shall be so sized and located that persons are not likely to come into accidental contact with the live parts or to bring conducting objects into contact with them;
+(C) By placement on a suitable balcony, gallery, or platform so elevated and otherwise located as to prevent access by unqualified persons; or
+(D) By elevation of 2.44 m (8.0 ft) or more above the floor or other working surface.
+(ii) In locations where electric equipment is likely to be exposed to physical damage, enclosures or guards shall be so arranged and of such strength as to prevent such damage.
+(iii) Entrances to rooms and other guarded locations containing exposed live parts shall be marked with conspicuous warning signs forbidding unqualified persons to enter.
+(h) Over 600 volts, nominal —(1) General. Conductors and equipment used on circuits exceeding 600 volts, nominal, shall comply with all applicable provisions of the paragraphs (a) through (g) of this section and with the following provisions, which supplement or modify the preceding requirements. However, paragraphs (h)(2), (h)(3), and (h)(4) of this section do not apply to the equipment on the supply side of the service point.
+(2) Enclosure for electrical installations. (i) Electrical installations in a vault, room, or closet or in an area surrounded by a wall, screen, or fence, access to which is controlled by lock and key or other approved means, are considered to be accessible to qualified persons only. The type of enclosure used in a given case shall be designed and constructed according to the hazards associated with the installation.

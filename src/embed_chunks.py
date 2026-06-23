@@ -39,31 +39,44 @@ log = logging.getLogger("embed_chunks")
 
 
 def choose_embedding_model(model_name: str | None = None) -> str:
-    """Return a selected embedding model name."""
-    models = ["all-MiniLM-L6-v2", "Qwen/Qwen3-Embedding-0.6B"]
-    lookup = {
-        "1": models[0],
-        "2": models[1]
+    """Return the actual embedding model name for the selected option."""
+    model_options = {
+        "all-minilm-l6-v2": "all-MiniLM-L6-v2",
+        "qwen3-embedding": "Qwen/Qwen3-Embedding-0.6B",
+        "all-mpnet-base-v2": "all-mpnet-base-v2",
+        "granite-embedding-small-english-r2": "ibm-granite/granite-embedding-small-english-r2",
+        "mini-gte": "thenlper/gte-small",
     }
 
     if model_name:
-        normalized = model_name.strip()
-        canonical = lookup.get(normalized.lower())
-        if canonical:
-            return canonical
-        log.error("Unsupported model '%s'. Valid choices: %s", normalized, ", ".join(models))
+        normalized = model_name.strip().lower()
+        if normalized in model_options:
+            return model_options[normalized]
+        if normalized in model_options.values():
+            return normalized
+        log.error(
+            "Unsupported model '%s'. Valid choices: %s",
+            model_name,
+            ", ".join(model_options.keys()),
+        )
         sys.exit(1)
 
     print("Select embedding model:")
-    for idx, name in enumerate(models, start=1):
+    for idx, name in enumerate(model_options.keys(), start=1):
         print(f"  {idx}. {name}")
+
     while True:
-        choice = input("Enter 1 or 2: ").strip()
-        if choice in {"1", "2"}:
-            return models[int(choice) - 1]
-        if choice.lower() in lookup:
-            return lookup[choice.lower()]
-        print("Please enter 1 or 2.")
+        choice = input(
+            f"Enter 1-{len(model_options)} or one of {', '.join(model_options.keys())}: "
+        ).strip()
+        if choice.isdigit() and 1 <= int(choice) <= len(model_options):
+            selected_key = list(model_options.keys())[int(choice) - 1]
+            return model_options[selected_key]
+        if choice.lower() in model_options:
+            return model_options[choice.lower()]
+        print(
+            "Please enter a valid option (for example: 1, all-minilm-l6-v2, or qwen3-embedding)."
+        )
 
 
 def load_chunks(manifest_path: Path) -> tuple[list[str], list[dict]]:
@@ -181,8 +194,25 @@ def main():
     )
     parser.add_argument(
         "--model",
-        choices=["1", "2", "all-MiniLM-L6-v2", "Qwen/Qwen3-Embedding-0.6B"],
-        help="Embedding model choice (1 or 2 for shorthand, or full model name).",
+        choices=[
+            "all-minilm-l6-v2",
+            "qwen3-embedding",
+            "all-mpnet-base-v2",
+            "granite-embedding-small-english-r2",
+            "mini-gte",
+        ],
+        help=(
+            "Embedding model choice. Options: "
+            + ", ".join(
+                [
+                    "all-minilm-l6-v2",
+                    "qwen3-embedding",
+                    "all-mpnet-base-v2",
+                    "granite-embedding-small-english-r2",
+                    "mini-gte",
+                ]
+            )
+        ),
     )
     args = parser.parse_args()
 

@@ -1,0 +1,22 @@
+§ 1910.1096 Ionizing radiation.
+(v) Where several activating devices feed activating information to a central signal generator, failure of any activating device shall not render the signal-generator system inoperable to activating information from the remaining devices.
+(vi) The signal-generating system shall be designed to enhance the probability that alarm occurs only when immediate evacuation is warranted. The number of false alarms shall not be so great that the signal will come to be disregarded and shall be low enough to minimize personal injuries or excessive property damage that might result from such evacuation.
+(3) Testing. (i) Initial tests, inspections, and checks of the signal-generating system shall be made to verify that the fabrication and installation were made in accordance with design plans and specifications and to develop a thorough knowledge of the performance of the system and all components under normal and hostile conditions.
+(ii) Once the system has been placed in service, periodic tests, inspections, and checks shall be made to minimize the possibility of malfunction.
+(iii) Following significant alterations or revisions to the system, tests and checks similar to the initial installation tests shall be made.
+(iv) Tests shall be designed to minimize hazards while conducting the tests.
+(v) Prior to normal operation the signal-generating system shall be checked physically and functionally to assure reliability and to demonstrate accuracy and performance. Specific tests shall include:
+( a ) All power sources.
+( b ) Calibration and calibration stability.
+( c ) Trip levels and stability.
+( d ) Continuity of function with loss and return of required services such as AC or DC power, air pressure, etc.
+( e ) All indicators.
+( f ) Trouble indicator circuits and signals, where used.
+( g ) Air pressure (if used)
+( h ) Determine that sound level of the signal is within the limit of paragraph (f)(1)(ii) of this section at all points that require immediate evacuation.
+(vi) In addition to the initial startup and operating tests, periodic scheduled performance tests and status checks must be made to insure that the system is at all times operating within design limits and capable of the required response. Specific periodic tests or checks or both shall include:
+( a ) Adequacy of signal activation device.
+( b ) All power sources.
+( c ) Function of all alarm circuits and trouble indicator circuits including trip levels.
+( d ) Air pressure (if used).
+( e ) Function of entire system including operation without power where required.

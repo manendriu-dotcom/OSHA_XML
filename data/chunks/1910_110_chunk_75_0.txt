@@ -1,0 +1,22 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+( 2 ) On internal excess flow valve.
+In lieu of an excess flow valve, filling connections may be fitted with a quick-closing internal valve, which shall remain closed except during operating periods. The mechanism for such valves may be provided with a secondary control which will cause it to close automatically in case of fire. When a fusible plug is used its melting point shall not exceed 220 degrees F.
+(ii) A filling pipe inlet terminal not on the container shall be fitted with a positive shutoff valve in conjunction with either;
+( a ) A black pressure check valve, or
+( b ) An excess flow check valve.
+(iii) All openings in the container except those listed below shall be equipped with approved excess flow check valves:
+( a ) Filling connections as provided in subdivision (i) of this subparagraph.
+( b ) Safety relief connections as provided in paragraph (b)(7)(ii) of this section.
+( c ) Liquid-level gaging devices as provided in paragraphs (b)(7)(iv) and (19)(iv) of this section.
+( d ) Pressure gage connections as provided in paragraph (b)(7)(v) of this section.
+(iv) All container inlets and outlets except those listed below shall be labeled to designate whether they connect with vapor or liquid (labels may be on valves):
+( a ) Safety relief valves.
+( b ) Liquid-level gaging devices.
+( c ) Pressure gages.
+(v) Each storage container shall be provided with a suitable pressure gage.
+(4) Safety-relief valves. (i) All safety-relief devices shall be installed as follows:
+( a ) On the container and directly connected with the vapor space.
+( b ) Safety-relief valves and discharge piping shall be protected against physical damage. The outlet shall be provided with loose-fitting rain caps. There shall be no return bends or restrictions in the discharge piping.
+( c ) The discharge from two or more safety relief valves having the same pressure settings may be run into a common discharge header. The cross-sectional area of such header shall be at least equal to the sum of the cross-sectional areas of the individual discharges.
+( d ) Discharge from any safety relief device shall not terminate in any building nor beneath any building.
+(ii) Aboveground containers shall be provided with safety relief valves as follows:

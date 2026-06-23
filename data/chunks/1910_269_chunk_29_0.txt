@@ -1,0 +1,12 @@
+§ 1910.269 Electric power generation, transmission, and distribution.
+(i) Hand and portable power equipment —(1) General. Paragraph (i)(2) of this section applies to electric equipment connected by cord and plug. Paragraph (i)(3) of this section applies to portable and vehicle-mounted generators used to supply cord- and plug-connected equipment. Paragraph (i)(4) of this section applies to hydraulic and pneumatic tools.
+(2) Cord- and plug-connected equipment. Cord- and plug-connected equipment not covered by subpart S of this part shall comply with one of the following instead of § 1910.243(a)(5):
+(i) The equipment shall be equipped with a cord containing an equipment grounding conductor connected to the equipment frame and to a means for grounding the other end of the conductor (however, this option may not be used where the introduction of the ground into the work environment increases the hazard to an employee); or
+(ii) The equipment shall be of the double-insulated type conforming to subpart S of this part; or
+(iii) The equipment shall be connected to the power supply through an isolating transformer with an ungrounded secondary of not more than 50 volts.
+(3) Portable and vehicle-mounted generators. Portable and vehicle-mounted generators used to supply cord- and plug-connected equipment covered by paragraph (i)(2) of this section shall meet the following requirements:
+(i) The generator may only supply equipment located on the generator or the vehicle and cord- and plug-connected equipment through receptacles mounted on the generator or the vehicle.
+(ii) The non-current-carrying metal parts of equipment and the equipment grounding conductor terminals of the receptacles shall be bonded to the generator frame.
+(iii) For vehicle-mounted generators, the frame of the generator shall be bonded to the vehicle frame.
+(iv) Any neutral conductor shall be bonded to the generator frame.
+(4) Hydraulic and pneumatic tools. (i) Safe operating pressures for hydraulic and pneumatic tools, hoses, valves, pipes, filters, and fittings may not be exceeded.

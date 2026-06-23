@@ -1,0 +1,14 @@
+§ 1910.1200 Hazard communication.
+1. Identification (a) Product identifier used on the label; (b) Other means of identification; (c) Recommended use of the chemical and restrictions on use; (d) Name, address, and telephone number of the chemical manufacturer, importer, or other responsible party; (e) Emergency phone number.
+2. Hazard(s) identification (a) Classification of the chemical in accordance with paragraph (d) of § 1910.1200; (b) Signal word, hazard statement(s), symbol(s) and precautionary statement(s) in accordance with paragraph (f) of § 1910.1200. (Hazard symbols may be provided as graphical reproductions in black and white or the name of the symbol, e.g., flame, skull and crossbones); (c) Describe any hazards not otherwise classified that have been identified during the classification process; (d) Where an ingredient with unknown acute toxicity is used in a mixture at a concentration >=1% and the mixture is not classified based on testing of the mixture as a whole, a statement that X% of the mixture consists of ingredient(s) of unknown acute toxicity is required.
+3. Composition/information on ingredients Except as provided for in paragraph (i) of § 1910.1200 on trade secrets:
+ For Substances
+ (a) Chemical name;
+ (b) Common name and synonyms;
+ (c) CAS number and other unique identifiers;
+ (d) Impurities and stabilizing additives which are themselves classified and which contribute to the classification of the substance.
+ For Mixtures
+ In addition to the information required for substances:
+ (a) The chemical name and concentration (exact percentage) or concentration ranges of all ingredients which are classified as health hazards in accordance with paragraph (d) of § 1910.1200 and
+ (1) Are present above their cut-off/concentration limits; or
+ (2) Present a health risk below the cut-off/concentration limits.

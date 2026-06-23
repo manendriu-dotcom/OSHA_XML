@@ -1,0 +1,12 @@
+§ 1910.110 Storage and handling of liquefied petroleum gases.
+(5) Reinstallation of containers. Containers may be reinstalled if they do not show any evidence of harmful external corrosion or other damage. Where containers are reinstalled underground, the corrosion resistant coating shall be put in good condition (see paragraph (c)(7)(vi) of this section). Where containers are reinstalled above ground, the safety devices and gaging devices shall comply with paragraph (c)(4) of this section and paragraph (b)(19) of this section respectively for aboveground containers.
+(6) Capacity of containers. A storage container shall not exceed 90,000 gallons water capacity.
+(7) Installation of storage containers. (i) Containers installed above ground, except as provided in paragraph (c)(7)(vii) of this section, shall be provided with substantial masonry or noncombustible structural supports on firm masonry foundation.
+(ii) Aboveground containers shall be supported as follows:
+( a ) Horizontal containers shall be mounted on saddles in such a manner as to permit expansion and contraction. Structural metal supports may be employed when they are protected against fire in an approved manner. Suitable means of preventing corrosion shall be provided on that portion of the container in contact with the foundations or saddles.
+( b ) Containers of 2,000 gallons water capacity or less may be installed with nonfireproofed ferrous metal supports if mounted on concrete pads or footings, and if the distance from the outside bottom of the container shell to the concrete pad, footing, or the ground does not exceed 24 inches.
+(iii) Any container may be installed with nonfireproofed ferrous metal supports if mounted on concrete pads or footings, and if the distance from the outside bottom of the container to the ground does not exceed 5 feet, provided the container is in an isolated location.
+(iv) Containers may be partially buried providing the following requirements are met:
+( a ) The portion of the container below the surface and for a vertical distance not less than 3 inches above the surface of the ground is protected to resist corrosion, and the container is protected against settling and corrosion as required for fully buried containers.
+( b ) Spacing requirements shall be as specified for underground tanks in paragraph (b)(6)(ii) of this section.
+( c ) Relief valve capacity shall be as required for aboveground containers.

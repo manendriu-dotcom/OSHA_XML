@@ -1,0 +1,12 @@
+§ 1910.181 Derricks.
+(6) A gin pole derrick is a derrick without a boom. Its guys are so arranged from its top as to permit leaning the mast in any direction. The load is raised and lowered by ropes reeved through sheaves or blocks at the top of the mast.
+EC27OC91.041
+(7) Guy derrick means a fixed derrick consisting of a mast capable of being rotated, supported in a vertical position by guys, and a boom whose bottom end is hinged or pivoted to move in a vertical plane with a reeved rope between the head of the mast and the boom point for raising and lowering the boom, and a reeved rope from the boom point for raising and lowering the load.
+EC27OC91.042
+(8) Shearleg derrick means a derrick without a boom and similar to a breast derrick. The mast, wide at the bottom and narrow at the top, is hinged at the bottom and has its top secured by a multiple reeved guy to permit handling loads at various radii by means of load tackle suspended from the mast top.
+(9) A stiffleg derrick is a derrick similar to a guy derrick except that the mast is supported or held in place by two or more stiff members, called stifflegs, which are capable of resisting either tensile or compressive forces. Sills are generally provided to connect the lower ends of the stifflegs to the foot of the mast.
+EC27OC91.043
+(10) Appointed means assigned specific responsibilities by the employer or the employer's representative.
+(11) ANSI means the American National Standards Institute.
+(12) A boom is a timber or metal section or strut, pivoted or hinged at the heel (lower end) at a location fixed in height on a frame or mast or vertical member, and with its point (upper end) supported by chains, ropes, or rods to the upper end of the frame, mast, or vertical member. A rope for raising and lowering the load is reeved through sheaves or a block at the boom point. The length of the boom shall be taken as the straight line distance between the axis of the foot pin and the axis of the boom point sheave pin, or where used, the axis of the upper load block attachment pin.
+(13) Boom harness means the block and sheave arrangement on the boom point to which the topping lift cable is reeved for lowering and raising the boom.

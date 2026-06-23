@@ -1,0 +1,15 @@
+§ 1910.120 Hazardous waste operations and emergency response.
+(iv) Unlabelled drums and containers shall be considered to contain hazardous substances and handled accordingly until the contents are positively identified and labeled.
+(v) Site operations shall be organized to minimize the amount of drum or container movement.
+(vi) Prior to movement of drums or containers, all employees exposed to the transfer operation shall be warned of the potential hazards associated with the contents of the drums or containers.
+(vii) U.S. Department of Transportation specified salvage drums or containers and suitable quantities of proper absorbent shall be kept available and used in areas where spills, leaks, or ruptures may occur.
+(viii) Where major spills may occur, a spill containment program, which is part of the employer's safety and health program required in paragraph (b) of this section, shall be implemented to contain and isolate the entire volume of the hazardous substance being transferred.
+(ix) Drums and containers that cannot be moved without rupture, leakage, or spillage shall be emptied into a sound container using a device classified for the material being transferred.
+(x) A ground-penetrating system or other type of detection system or device shall be used to estimate the location and depth of buried drums or containers.
+(xi) Soil or covering material shall be removed with caution to prevent drum or container rupture.
+(xii) Fire extinguishing equipment meeting the requirements of 29 CFR part 1910, subpart L, shall be on hand and ready for use to control incipient fires.
+(2) Opening drums and containers. The following procedures shall be followed in areas where drums or containers are being opened:
+(i) Where an airline respirator system is used, connections to the source of air supply shall be protected from contamination and the entire system shall be protected from physical damage.
+(ii) Employees not actually involved in opening drums or containers shall be kept a safe distance from the drums or containers being opened.
+(iii) If employees must work near or adjacent to drums or containers being opened, a suitable shield that does not interfere with the work operation shall be placed between the employee and the drums or containers being opened to protect the employee in case of accidental explosion.
+(iv) Controls for drum or container opening equipment, monitoring equipment, and fire suppression equipment shall be located behind the explosion-resistant barrier.

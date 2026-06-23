@@ -1,0 +1,14 @@
+§ 1910.1050 Methylenedianiline.
+(B) Provide HEPA filters for powered and non-powered air-purifying respirators.
+(C) For escape, provide employees with one of the following respirator options: Any self-contained breathing apparatus with a full facepiece or hood operated in the positive-pressure or continuous-flow mode; or a full facepiece air-purifying respirator.
+(D) Provide a combination HEPA filter and organic vapor canister or cartridge with powered or non-powered air-purifying respirators when MDA is in liquid form or used as part of a process requiring heat.
+(ii) Any employee who cannot use a negative-pressure respirator must be given the option of using a positive-pressure respirator, or a supplied-air respirator operated in the continuous-flow or pressure-demand mode.
+(i) Protective work clothing and equipment —(1) Provision and use. Where employees are subject to dermal exposure to MDA, where liquids containing MDA can be splashed into the eyes, or where airborne concentrations of MDA are in excess of the PEL, the employer shall provide, at no cost to the employee, and ensure that the employee uses, appropriate protective work clothing and equipment which prevent contact with MDA such as, but not limited to:
+(i) Aprons, coveralls or other full-body work clothing;
+(ii) Gloves, head coverings, and foot coverings; and
+(iii) Face shields, chemical goggles; or
+(iv) Other appropriate protective equipment which comply with § 1910.133.
+(2) Removal and storage. (i) The employer shall ensure that, at the end of their work shift, employees remove MDA-contaminated protective work clothing and equipment that is not routinely removed throughout the day in change rooms provided in accordance with the provisions established for change rooms.
+(ii) The employer shall ensure that, during their work shift, employees remove all other MDA-contaminated protective work clothing or equipment before leaving a regulated area.
+(iii) The employer shall ensure that no employee takes MDA-contaminated work clothing or equipment out of the change room, except those employees authorized to do so for the purpose of laundering, maintenance, or disposal.
+(iv) MDA-contaminated work clothing or equipment shall be placed and stored in closed containers which prevent dispersion of the MDA outside the container.

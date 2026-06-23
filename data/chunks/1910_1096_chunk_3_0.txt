@@ -1,0 +1,17 @@
+§ 1910.1096 Ionizing radiation.
+(8) For determining exposures to X- or gamma rays up to 3 Mev., the dose limits specified in this section may be assumed to be equivalent to the "air dose". For the purpose of this section air dose means that the dose is measured by a properly calibrated appropriate instrument in air at or near the body surface in the region of the highest dosage rate.
+(b) Exposure of individuals to radiation in restricted areas. (1) Except as provided in paragraph (b)(2) of this section, no employer shall possess, use, or transfer sources of ionizing radiation in such a manner as to cause any individual in a restricted area to receive in any period of one calendar quarter from sources in the employer's possession or control a dose in excess of the limits specified in Table G-18:
+
+Table G-18
+----------
+Rems per calendar quarter
+-------------------------
+Whole body: Head and trunk; active blood-forming organs; lens of eyes; or gonads 1 1/4
+Hands and forearms; feet and ankles 18 3/4
+Skin of whole body 7 1/2
+
+(2) An employer may permit an individual in a restricted area to receive doses to the whole body greater than those permitted under subparagraph (1) of this paragraph, so long as:
+(i) During any calendar quarter the dose to the whole body shall not exceed 3 rems; and
+(ii) The dose to the whole body, when added to the accumulated occupational dose to the whole body, shall not exceed 5 (N-18) rems, where "N" equals the individual's age in years at his last birthday; and
+(iii) The employer maintains adequate past and current exposure records which show that the addition of such a dose will not cause the individual to exceed the amount authorized in this subparagraph. As used in this subparagraph Dose to the whole body shall be deemed to include any dose to the whole body, gonad, active bloodforming organs, head and trunk, or lens of the eye.
+(3) No employer shall permit any employee who is under 18 years of age to receive in any period of one calendar quarter a dose in excess of 10 percent of the limits specified in Table G-18.

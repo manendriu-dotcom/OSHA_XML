@@ -1,0 +1,18 @@
+§ 1910.146 Permit-required confined spaces.
+(ii) A condition that is not allowed under the entry permit arises in or near the permit space.
+(6) The employer shall retain each canceled entry permit for at least 1 year to facilitate the review of the permit-required confined space program required by paragraph (d)(14) of this section. Any problems encountered during an entry operation shall be noted on the pertinent permit so that appropriate revisions to the permit space program can be made.
+(f) Entry permit. The entry permit that documents compliance with this section and authorizes entry to a permit space shall identify:
+(1) The permit space to be entered;
+(2) The purpose of the entry;
+(3) The date and the authorized duration of the entry permit;
+(4) The authorized entrants within the permit space, by name or by such other means (for example, through the use of rosters or tracking systems) as will enable the attendant to determine quickly and accurately, for the duration of the permit, which authorized entrants are inside the permit space;
+Note: Note: This requirement may be met by inserting a reference on the entry permit as to the means used, such as a roster or tracking system, to keep track of the authorized entrants within the permit space.
+(5) The personnel, by name, currently serving as attendants;
+(6) The individual, by name, currently serving as entry supervisor, with a space for the signature or initials of the entry supervisor who originally authorized entry;
+(7) The hazards of the permit space to be entered;
+(8) The measures used to isolate the permit space and to eliminate or control permit space hazards before entry;
+Note: Note: Those measures can include the lockout or tagging of equipment and procedures for purging, inerting, ventilating, and flushing permit spaces.
+(9) The acceptable entry conditions;
+(10) The results of initial and periodic tests performed under paragraph (d)(5) of this section, accompanied by the names or initials of the testers and by an indication of when the tests were performed;
+(11) The rescue and emergency services that can be summoned and the means (such as the equipment to use and the numbers to call) for summoning those services;
+(12) The communication procedures used by authorized entrants and attendants to maintain contact during the entry;

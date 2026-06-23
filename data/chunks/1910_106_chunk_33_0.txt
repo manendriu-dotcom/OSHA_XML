@@ -1,0 +1,15 @@
+§ 1910.106 Flammable liquids.
+( 2 ) The user's process either would require more than 1 pint of a Category 1 flammable liquid or more than 1 quart of a Category 2 flammable liquid of a single assay lot to be used at one time, or would require the maintenance of an analytical standard liquid of a quality which is not met by the specified standards of liquids available, and the quantity of the analytical standard liquid required to be used in any one control process exceeds one-sixteenth the capacity of the container allowed under Table H-12 for the category of liquid; or
+( b ) The containers are intended for direct export outside the United States.
+
+Table H-12—Maximum Allowable Size of Containers and Portable Tanks for Flammable Liquids
+--------------------------------------------------------------------------------
+Container type Category 1 Category 2 Category 3 Category 4
+----------------------------------------------------------
+Glass or approved plastic 1 pt 1 qt 1 gal 1 gal.
+Metal (other than DOT drums) 1 gal 5 gal 5 gal 5 gal.
+Safety cans 2 gal 5 gal 5 gal 5 gal.
+Metal drums (DOT specifications) 60 gal 60 gal 60 gal 60 gal.
+Approved portable tanks 660 gal 660 gal 660 gal 660 gal.
+
+(3) Design, construction, and capacity of storage cabinets —(i) Maximum capacity. Not more than 60 gallons of Category 1, 2, or 3 flammable liquids, nor more than 120 gallons of Category 4 flammable liquids may be stored in a storage cabinet.
